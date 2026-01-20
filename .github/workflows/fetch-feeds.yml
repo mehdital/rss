@@ -1,0 +1,35 @@
+name: Fetch RSS feeds
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 6 * * *" # tous les jours 06:00 UTC
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install deps
+        run: npm install
+
+      - name: Fetch feeds
+        run: node scripts/fetch-feeds.mjs
+
+      - name: Commit updated JSON
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/data/entries.json docs/data/feeds.json
+          git commit -m "chore: update veille feeds" || echo "No changes"
+          git push

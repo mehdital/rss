@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Dashboard de veille — Angular & Java</title>
+  <link rel="stylesheet" href="assets/styles.css" />
+</head>
+<body>
+  <header class="header">
+    <div class="container header__row">
+      <div>
+        <h1>Dashboard de veille</h1>
+        <p class="muted">Sources RSS/Atom — analyse orientée Angular & Java</p>
+      </div>
+      <div class="header__actions">
+        <button id="btnReload" class="btn">Recharger (JSON)</button>
+        <button id="btnLive" class="btn btn--secondary" title="Passe par un proxy CORS (peut être instable)">Live (proxy)</button>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="cards">
+      <div class="card">
+        <div class="card__label">Total items</div>
+        <div id="statTotal" class="card__value">—</div>
+      </div>
+      <div class="card">
+        <div class="card__label">Angular</div>
+        <div id="statAngular" class="card__value">—</div>
+      </div>
+      <div class="card">
+        <div class="card__label">Java</div>
+        <div id="statJava" class="card__value">—</div>
+      </div>
+      <div class="card">
+        <div class="card__label">Nouveaux (7 jours)</div>
+        <div id="statNew7" class="card__value">—</div>
+      </div>
+    </section>
+
+    <section class="panel">
+      <div class="panel__row">
+        <input id="q" class="input" placeholder="Recherche (titre, résumé, tags)..." />
+        <select id="tech" class="select">
+          <option value="ALL">Tech : Toutes</option>
+          <option value="Angular">Angular</option>
+          <option value="Java">Java</option>
+          <option value="Autre">Autre</option>
+        </select>
+        <select id="source" class="select">
+          <option value="ALL">Source : Toutes</option>
+        </select>
+        <select id="age" class="select">
+          <option value="ALL">Période : Toutes</option>
+          <option value="7">7 jours</option>
+          <option value="30">30 jours</option>
+          <option value="90">90 jours</option>
+          <option value="365">12 mois</option>
+        </select>
+        <label class="checkbox">
+          <input type="checkbox" id="onlyFav" />
+          <span>Favoris</span>
+        </label>
+      </div>
+
+      <div class="panel__meta">
+        <span id="metaInfo" class="muted">—</span>
+      </div>
+    </section>
+
+    <section id="list" class="list"></section>
+  </main>
+
+  <footer class="footer">
+    <div class="container muted">
+      Astuce : le mode recommandé est via GitHub Actions (évite les problèmes CORS).
+    </div>
+  </footer>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>

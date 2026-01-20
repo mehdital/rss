@@ -1,0 +1,32 @@
+[
+    {
+        "id": "angular-blog",
+        "name": "Angular Blog",
+        "url": "https://blog.angular.io/feed",
+        "defaultTech": "Angular"
+    },
+    {
+        "id": "angular-releases",
+        "name": "Angular (GitHub Releases)",
+        "url": "https://github.com/angular/angular/releases.atom",
+        "defaultTech": "Angular"
+    },
+    {
+        "id": "angular-cli-releases",
+        "name": "Angular CLI (GitHub Releases)",
+        "url": "https://github.com/angular/angular-cli/releases.atom",
+        "defaultTech": "Angular"
+    },
+    {
+        "id": "spring-releases",
+        "name": "Spring Blog (Releases)",
+        "url": "https://spring.io/blog/category/releases.atom",
+        "defaultTech": "Java"
+    },
+    {
+        "id": "foojay-release-notes",
+        "name": "Foojay (Release Notes)",
+        "url": "https://foojay.io/today/category/release-notes/feed/",
+        "defaultTech": "Java"
+    }
+]

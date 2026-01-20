@@ -1,0 +1,567 @@
+{
+  "generatedAt": "2026-01-20T14:39:20.780Z",
+  "items": [
+    {
+      "id": "https://spring.io/blog/2026/01/19/spring-security-7-1-0-M1-available-now",
+      "title": "Spring Security 7.1.0-M1 available now",
+      "url": "https://spring.io/blog/2026/01/19/spring-security-7-1-0-M1-available-now",
+      "publishedAt": "2026-01-19T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "https://spring.io/blog/2026/01/16/spring-data-2025-1-2-and-2025-0-8-released",
+      "title": "Spring Data 2025.1.2 & 2025.0.8 released",
+      "url": "https://spring.io/blog/2026/01/16/spring-data-2025-1-2-and-2025-0-8-released",
+      "publishedAt": "2026-01-16T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "https://spring.io/blog/2026/01/15/spring-framework-7-0-3-available-now",
+      "title": "Spring Framework 7.0.3 Available Now",
+      "url": "https://spring.io/blog/2026/01/15/spring-framework-7-0-3-available-now",
+      "publishedAt": "2026-01-15T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v21.1.0",
+      "title": "21.1.0",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v21.1.0",
+      "publishedAt": "2026-01-14T21:24:44.000Z",
+      "summary": "@schematics/angular Commit Description add browserMode option to jasmine-vitest schematic generate detailed migration report for refactor-jasmine-vitest add MCP configuration file to new workspaces @angular/cli Commit Description add 'test' and 'e2e' MCP tools Add \"all\" as an experimental tool group Add MCP tools for b",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v21.1.0",
+      "title": "21.1.0",
+      "url": "https://github.com/angular/angular/releases/tag/v21.1.0",
+      "publishedAt": "2026-01-14T19:44:36.000Z",
+      "summary": "common Commit Description Add custom transformations for Cloudflare and Cloudinary image loaders support custom transformations in ImageKit and Imgix loaders compiler Commit Description Add support for multiple swich cases matching Support empty cases core Commit Description Add stability debugging utility support rest",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v21.0.9",
+      "title": "21.0.9",
+      "url": "https://github.com/angular/angular/releases/tag/v21.0.9",
+      "publishedAt": "2026-01-14T19:30:21.000Z",
+      "summary": "forms Commit Description Ensure the control instruction comes after the other bindings Rename signal form [field] to [formField] migrations Commit Description prevent duplicate imports in common-to-standalone migration",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v21.0.6",
+      "title": "21.0.6",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v21.0.6",
+      "publishedAt": "2026-01-14T18:16:39.000Z",
+      "summary": "@angular/ssr Commit Description handle platform destruction during rendering",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/vsix-21.1.0",
+      "title": "VSCode Extension: 21.1.0",
+      "url": "https://github.com/angular/angular/releases/tag/vsix-21.1.0",
+      "publishedAt": "2026-01-13T00:53:22.000Z",
+      "summary": "21.1.0 (2026-01-12) fix(vscode-extension): convert enum member kind in completions correctly (50674f8c28)",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v21.1.0-rc.0",
+      "title": "21.1.0-rc.0",
+      "url": "https://github.com/angular/angular/releases/tag/v21.1.0-rc.0",
+      "publishedAt": "2026-01-08T20:50:42.000Z",
+      "summary": "common Commit Description Add custom transformations for Cloudflare and Cloudinary image loaders support custom transformations in ImageKit and Imgix loaders compiler Commit Description Add support for multiple swich cases matching better types for a few expression AST nodes produce accurate span for typeof and void ex",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v21.0.8",
+      "title": "21.0.8",
+      "url": "https://github.com/angular/angular/releases/tag/v21.0.8",
+      "publishedAt": "2026-01-08T20:42:46.000Z",
+      "summary": "core Commit Description fix memory leak with event replay handle cancelled traversals in fake navigation",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v21.1.0-rc.0",
+      "title": "21.1.0-rc.0",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v21.1.0-rc.0",
+      "publishedAt": "2026-01-08T20:06:51.000Z",
+      "summary": "@schematics/angular Commit Description move 'provideZoneChangeDetection' to the root module update application schematics for module-based apps to use 'provideZoneChangeDetection' update default app component message update default app component welcome message @angular/cli Commit Description add 'test' and 'e2e' MCP t",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v20.3.16",
+      "title": "20.3.16",
+      "url": "https://github.com/angular/angular/releases/tag/v20.3.16",
+      "publishedAt": "2026-01-07T22:18:34.000Z",
+      "summary": "core Commit Description sanitize sensitive attributes on SVG script elements",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v19.2.18",
+      "title": "19.2.18",
+      "url": "https://github.com/angular/angular/releases/tag/v19.2.18",
+      "publishedAt": "2026-01-07T22:12:11.000Z",
+      "summary": "core Commit Description sanitize sensitive attributes on SVG script elements",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v21.0.7",
+      "title": "21.0.7",
+      "url": "https://github.com/angular/angular/releases/tag/v21.0.7",
+      "publishedAt": "2026-01-07T21:45:53.000Z",
+      "summary": "compiler Commit Description better types for a few expression AST nodes produce accurate span for typeof and void expressions provide location information for literal map keys stop ThisReceiver inheritance from ImplicitReceiver compiler-cli Commit Description ensure component import diagnostics are reported within the ",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v21.0.5",
+      "title": "21.0.5",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v21.0.5",
+      "publishedAt": "2026-01-07T21:37:15.000Z",
+      "summary": "@schematics/angular Commit Description move 'provideZoneChangeDetection' to the root module update application schematics for module-based apps to use 'provideZoneChangeDetection' update default app component message update default app component welcome message @angular/cli Commit Description use narrower types for new",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v20.3.14",
+      "title": "20.3.14",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v20.3.14",
+      "publishedAt": "2026-01-07T21:27:44.000Z",
+      "summary": "@angular/cli Commit Description update dependency @modelcontextprotocol/sdk to v1.25.2",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "https://spring.io/blog/2026/01/07/spring-grpc-1",
+      "title": "Spring gRPC 1.0.1 Available Now",
+      "url": "https://spring.io/blog/2026/01/07/spring-grpc-1",
+      "publishedAt": "2026-01-07T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v21.1.0-next.3",
+      "title": "21.1.0-next.3",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v21.1.0-next.3",
+      "publishedAt": "2025-12-18T21:33:08.000Z",
+      "summary": "@schematics/angular Commit Description improve VS Code background compilation start/end detection remove inlineSources from library tsconfig template @angular/cli Commit Description enhance list_projects MCP tool file system traversal and symlink handling improve signal forms lesson examples in AI tutor rename mcp devs",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v21.0.4",
+      "title": "21.0.4",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v21.0.4",
+      "publishedAt": "2025-12-18T20:44:04.000Z",
+      "summary": "@schematics/angular Commit Description improve VS Code background compilation start/end detection remove inlineSources from library tsconfig template @angular/build Commit Description add browser condition to resolver for vitest allow non-prefixed requests when using SSR and base href conditionally manage Vitest UI opt",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/vsix-21.0.1",
+      "title": "VSCode Extension: 21.0.1",
+      "url": "https://github.com/angular/angular/releases/tag/vsix-21.0.1",
+      "publishedAt": "2025-12-18T08:40:44.000Z",
+      "summary": "fix(language-service): Prevent language service from crashing on suggestion diagnostic errors (5047be4bc1) fix(language-service): avoid interpolation highlighting inside @let (e0694df3ec) fix(vscode-extension): Show warning if multiple versions of Angular are detected in workspace (a41b0ce025)",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v21.1.0-next.4",
+      "title": "21.1.0-next.4",
+      "url": "https://github.com/angular/angular/releases/tag/v21.1.0-next.4",
+      "publishedAt": "2025-12-17T21:19:24.000Z",
+      "summary": "core Commit Description Microtask scheduling should be used after any application synchronization return StaticProvider for providePlatformInitializer throw better errors for potential circular references use mutable ResponseInit type for RESPONSE_INIT token forms Commit Description pass field directive to class config",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v21.1.0-next.2",
+      "title": "21.1.0-next.2",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v21.1.0-next.2",
+      "publishedAt": "2025-12-10T18:56:03.000Z",
+      "summary": "@angular/cli Commit Description correctly handle yarn classic tag manifest fetching correctly spawn package managers on Windows in new abstraction optimize ng add version discovery @angular-devkit/build-angular Commit Description conditionally provide Zone.js change detection in the built-in test main file @angular/bui",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "https://foojay.io/?p=122004",
+      "title": "More Java From Azul!",
+      "url": "https://foojay.io/today/more-java-from-azul/",
+      "publishedAt": "2025-12-10T17:14:23.000Z",
+      "summary": "Table of Contents A Little Java HistoryPayara and Azul Azul is a company focused purely on Java through builds of OpenJDK, in the form of Platform Core, and our high-performance Java platform (including JVM), Platform Prime. We build on these with Intelligence Cloud to deliver precise information about security ... The",
+      "sourceId": "foojay-release-notes",
+      "sourceName": "Foojay (Release Notes)",
+      "tech": "Java",
+      "tags": [
+        "Performance",
+        "Press",
+        "Release Notes"
+      ]
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v21.0.3",
+      "title": "21.0.3",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v21.0.3",
+      "publishedAt": "2025-12-10T16:44:57.000Z",
+      "summary": "@angular-devkit/build-angular Commit Description conditionally provide Zone.js change detection in the built-in test main file @angular/build Commit Description Add custom middleware for to present an Angular-tailored message Ensure disposal of close-javascript-transformer ensure locale base href retains leading slash ",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/21.1.0-next.1",
+      "title": "21.1.0-next.1",
+      "url": "https://github.com/angular/angular-cli/releases/tag/21.1.0-next.1",
+      "publishedAt": "2025-12-03T14:20:28.000Z",
+      "summary": "@schematics/angular Commit Description generate detailed migration report for refactor-jasmine-vitest @angular/cli Commit Description add signal forms lessons @angular-devkit/schematics Commit Description remove lazy imports in node tasks @angular/build Commit Description add filename truncation to test discovery allow",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "https://foojay.io/?p=121633",
+      "title": "Java 25: What’s New?",
+      "url": "https://foojay.io/today/java-25-whats-new/",
+      "publishedAt": "2025-12-03T09:02:49.000Z",
+      "summary": "Table of Contents JEP 470: PEM Encodings of Cryptographic Objects (Preview)JEP 502: Stable Values (Preview)JEP 503: Remove the 32-bit x86 Port509: JFR CPU-Time Profiling (Experimental)514: Ahead-of-Time Command-Line Ergonomics515: Ahead-of-Time Method Profiling518: JFR Cooperative Sampling520: JFR Method Timing & Traci",
+      "sourceId": "foojay-release-notes",
+      "sourceName": "Foojay (Release Notes)",
+      "tech": "Java",
+      "tags": [
+        "Java",
+        "JEPs",
+        "Release Notes"
+      ]
+    },
+    {
+      "id": "https://foojay.io/?p=121832",
+      "title": "BoxLang RSS : Full-Featured RSS/Atom Feed Module for BoxLang",
+      "url": "https://foojay.io/today/boxlang-rss-full-featured-rss-atom-feed-module-for-boxlang/",
+      "publishedAt": "2025-12-02T11:19:11.000Z",
+      "summary": "Table of Contents Thanks To Ray CamdenWhy bx-rss?✨ Key Features at a Glance🚀 Installation💡 Quick Start Examples🎙️ Podcast Power: iTunes Extension Support📹 Media RSS: Video & Image Feeds🔄 Feed Aggregation: Read Multiple Sources✍️ Creating Feeds: Share Your Content🎙️ Create Your ... The post BoxLang RSS : Full-Feat",
+      "sourceId": "foojay-release-notes",
+      "sourceName": "Foojay (Release Notes)",
+      "tech": "Java",
+      "tags": [
+        "BoxLang",
+        "Developer Tools",
+        "Java",
+        "Release Notes",
+        "Tools",
+        "Tutorials",
+        "Use Cases"
+      ]
+    },
+    {
+      "id": "https://foojay.io/?p=121830",
+      "title": "BoxLang Redis Has Landed: Enterprise-Grade Caching, Pub/Sub, and Distributed Locking",
+      "url": "https://foojay.io/today/boxlang-redis-has-landed-enterprise-grade-caching-pub-sub-and-distributed-locking/",
+      "publishedAt": "2025-11-25T09:33:34.000Z",
+      "summary": "Table of Contents 🎯 What is the Redis Module?⚡ Key Features📦 Getting Started🔧 Quick Configuration💾 Powerful Caching Made Simple📢 Publish/Subscribe: Real-Time Messaging🔒 Distributed Locking: Coordinate Across Servers🎯 Deployment Modes📚 Comprehensive Documentation💡 Use Cases🎁 Get Access We're thrilled to announ",
+      "sourceId": "foojay-release-notes",
+      "sourceName": "Foojay (Release Notes)",
+      "tech": "Java",
+      "tags": [
+        "BoxLang",
+        "Redis",
+        "Release Notes"
+      ]
+    },
+    {
+      "id": "https://medium.com/p/57946c34f14b",
+      "title": "Announcing Angular v21",
+      "url": "https://blog.angular.dev/announcing-angular-v21-57946c34f14b?source=rss----447683c3d9a3---4",
+      "publishedAt": "2025-11-19T22:35:29.000Z",
+      "summary": "",
+      "sourceId": "angular-blog",
+      "sourceName": "Angular Blog",
+      "tech": "Angular",
+      "tags": [
+        "angular-mcp",
+        "angular",
+        "angular-v21",
+        "aiangular"
+      ]
+    },
+    {
+      "id": "https://foojay.io/?p=121721",
+      "title": "BoxLang 1.7.0 Delivers Streaming, Distributed Caching, and Enhanced JVM Performance",
+      "url": "https://foojay.io/today/boxlang-1-7-0-delivers-streaming-distributed-caching-and-enhanced-jvm-performance/",
+      "publishedAt": "2025-11-11T12:59:50.000Z",
+      "summary": "Table of Contents Real-Time Streaming with Server-Sent EventsEnterprise-Ready Distributed CachingAdvanced Code Analysis with BoxAST()Bytecode Compatibility VersioningPerformance & Stability EnhancementsOpen and Professional EcosystemAvailability & ResourcesAbout BoxLangAbout Ortus Solutions Dynamic JVM Language Adds Se",
+      "sourceId": "foojay-release-notes",
+      "sourceName": "Foojay (Release Notes)",
+      "tech": "Java",
+      "tags": [
+        "BoxLang",
+        "Press",
+        "Release Notes"
+      ]
+    },
+    {
+      "id": "https://medium.com/p/5a393b32dd30",
+      "title": "Handling Time and Mock Clocks in Tests",
+      "url": "https://blog.angular.dev/handling-time-and-mock-clocks-in-tests-5a393b32dd30?source=rss----447683c3d9a3---4",
+      "publishedAt": "2025-11-07T01:01:25.000Z",
+      "summary": "",
+      "sourceId": "angular-blog",
+      "sourceName": "Angular Blog",
+      "tech": "Angular",
+      "tags": [
+        "angular",
+        "software-testing"
+      ]
+    },
+    {
+      "id": "https://foojay.io/?p=121536",
+      "title": "BoxLang v1.6.0 – Performance, AI-Powered Docs, and Advanced Async Monitoring",
+      "url": "https://foojay.io/today/boxlang-v1-6-0-performance-ai-powered-docs-and-advanced-async-monitoring-2/",
+      "publishedAt": "2025-10-29T06:48:07.000Z",
+      "summary": "Table of Contents 🚀 What's New in 1.6.0? 🤖 BoxLang Documentation Meets AI: MCP Server Integration Connect to the MCP Server: ⚡ Extreme Performance Optimizations: Up to 65% Faster Key Performance Enhancements: Real-World Performance Stats: 📊 Advanced Async Monitoring with ... The post BoxLang v1.6.0 – Performance, AI",
+      "sourceId": "foojay-release-notes",
+      "sourceName": "Foojay (Release Notes)",
+      "tech": "Java",
+      "tags": [
+        "BoxLang",
+        "Release Notes"
+      ]
+    },
+    {
+      "id": "https://foojay.io/?p=121446",
+      "title": "BoxLang v1.6.0 – Performance, AI-Powered Docs, and Advanced Async Monitoring",
+      "url": "https://foojay.io/today/boxlang-v1-6-0-performance-ai-powered-docs-and-advanced-async-monitoring/",
+      "publishedAt": "2025-10-13T06:42:52.000Z",
+      "summary": "Table of Contents 🚀 What's New in 1.6.0? We're thrilled to announce BoxLang 1.6.0, a release that delivers massive performance improvements, intelligent developer tooling, and enhanced async capabilities. This release focuses on making BoxLang faster, smarter, and more observable than ... The post BoxLang v1.6.0 – Per",
+      "sourceId": "foojay-release-notes",
+      "sourceName": "Foojay (Release Notes)",
+      "tech": "Java",
+      "tags": [
+        "BoxLang",
+        "Release Notes"
+      ]
+    },
+    {
+      "id": "https://medium.com/p/3a3afde38f58",
+      "title": "Angular support for generating apps in Google AI Studio is now available",
+      "url": "https://blog.angular.dev/angular-support-for-generating-apps-in-google-ai-studio-is-now-available-3a3afde38f58?source=rss----447683c3d9a3---4",
+      "publishedAt": "2025-10-02T17:43:53.000Z",
+      "summary": "",
+      "sourceId": "angular-blog",
+      "sourceName": "Angular Blog",
+      "tech": "Angular",
+      "tags": [
+        "gen-ai-tools",
+        "angular",
+        "gen-ai-for-business"
+      ]
+    },
+    {
+      "id": "https://foojay.io/?p=121256",
+      "title": "Azul’s High-Performance Java Platform Achieves Historic First with 10,000 Customer JVMs Collaborating and Sharing Performance Optimizations, Cutting Cloud Costs by 20%+",
+      "url": "https://foojay.io/today/azuls-high-performance-java-platform-achieves-historic-first-with-10000-customer-jvms-collaborating-and-sharing-performance-optimizations-cutting-cloud-costs-by-20/",
+      "publishedAt": "2025-09-17T16:49:56.000Z",
+      "summary": "Azul Platform Prime Achieves Historic First with 10,000+ JVMs Collaborating and Sharing Performance Optimizations, Cutting Cloud Costs by More than 20% Fleet-level advantages achieved for cloud-native Java applications with faster warm-up, smoother scaling and reduced cost SUNNYVALE, Calif. — September ... The post Azu",
+      "sourceId": "foojay-release-notes",
+      "sourceName": "Foojay (Release Notes)",
+      "tech": "Java",
+      "tags": [
+        "Performance",
+        "Release Notes"
+      ]
+    },
+    {
+      "id": "https://medium.com/p/7a7ed706e1a3",
+      "title": "Beyond the Horizon: How Angular is Embracing AI for Next-Gen Apps",
+      "url": "https://blog.angular.dev/beyond-the-horizon-how-angular-is-embracing-ai-for-next-gen-apps-7a7ed706e1a3?source=rss----447683c3d9a3---4",
+      "publishedAt": "2025-09-16T16:01:49.000Z",
+      "summary": "",
+      "sourceId": "angular-blog",
+      "sourceName": "Angular Blog",
+      "tech": "Angular",
+      "tags": [
+        "angular",
+        "codegen",
+        "ai",
+        "llm"
+      ]
+    },
+    {
+      "id": "https://medium.com/p/1987592a0b42",
+      "title": "Angular Summer Update 2025",
+      "url": "https://blog.angular.dev/angular-summer-update-2025-1987592a0b42?source=rss----447683c3d9a3---4",
+      "publishedAt": "2025-08-29T20:51:40.000Z",
+      "summary": "",
+      "sourceId": "angular-blog",
+      "sourceName": "Angular Blog",
+      "tech": "Angular",
+      "tags": [
+        "angular-summer-update",
+        "angular-v20",
+        "angular"
+      ]
+    },
+    {
+      "id": "https://medium.com/p/0f9d8d36218a",
+      "title": "The Angular Custom Profiling Track is now available",
+      "url": "https://blog.angular.dev/the-angular-custom-profiling-track-is-now-available-0f9d8d36218a?source=rss----447683c3d9a3---4",
+      "publishedAt": "2025-07-02T19:38:06.000Z",
+      "summary": "",
+      "sourceId": "angular-blog",
+      "sourceName": "Angular Blog",
+      "tech": "Angular",
+      "tags": [
+        "profiling",
+        "angular"
+      ]
+    },
+    {
+      "id": "https://medium.com/p/b5c9c06cf301",
+      "title": "Announcing Angular v20",
+      "url": "https://blog.angular.dev/announcing-angular-v20-b5c9c06cf301?source=rss----447683c3d9a3---4",
+      "publishedAt": "2025-05-28T18:33:28.000Z",
+      "summary": "",
+      "sourceId": "angular-blog",
+      "sourceName": "Angular Blog",
+      "tech": "Angular",
+      "tags": [
+        "programming",
+        "typescript",
+        "web-development",
+        "javascript",
+        "angular"
+      ]
+    },
+    {
+      "id": "https://foojay.io/?p=116344",
+      "title": "Azul and JetBrains Collaborate to Enhance Runtime Performance for Kotlin Workloads",
+      "url": "https://foojay.io/today/azul-and-jetbrains-collaborate-to-enhance-runtime-performance-for-kotlin-workloads/",
+      "publishedAt": "2025-05-26T08:23:56.000Z",
+      "summary": "SUNNYVALE, Calif., — May 20, 2025 — Azul, the only company 100% focused on Java, and JetBrains, the leading provider of professional software development tools and creator of the Kotlin programming language, today announced a strategic technical collaboration to enhance the runtime performance ... The post Azul and Jet",
+      "sourceId": "foojay-release-notes",
+      "sourceName": "Foojay (Release Notes)",
+      "tech": "Java",
+      "tags": [
+        "Press",
+        "Release Notes"
+      ]
+    },
+    {
+      "id": "https://foojay.io/?p=115735",
+      "title": "Java 24 Rolls Out Today! Find Out Why It’s Aptly Named",
+      "url": "https://foojay.io/today/java-24-rolls-out-today-find-out-why-its-aptly-named/",
+      "publishedAt": "2025-03-18T07:36:39.000Z",
+      "summary": "Java 24 rolls out today, and it brings a diverse set of features. For example, compact object headers bring better performance, and various security features have been added. Or how about the eagerly-awaited solution to virtual thread pinning? This post has all the info! The post Java 24 Rolls Out Today! Find Out Why I",
+      "sourceId": "foojay-release-notes",
+      "sourceName": "Foojay (Release Notes)",
+      "tech": "Java",
+      "tags": [
+        "Java",
+        "Release Notes",
+        "java 24"
+      ]
+    },
+    {
+      "id": "https://medium.com/p/707db8918c3a",
+      "title": "Build AI-Powered Apps With Genkit and Angular",
+      "url": "https://blog.angular.dev/build-ai-powered-apps-with-genkit-and-angular-707db8918c3a?source=rss----447683c3d9a3---4",
+      "publishedAt": "2025-03-18T03:15:07.000Z",
+      "summary": "",
+      "sourceId": "angular-blog",
+      "sourceName": "Angular Blog",
+      "tech": "Angular",
+      "tags": [
+        "genkit",
+        "firebase-genkit",
+        "angular"
+      ]
+    },
+    {
+      "id": "https://medium.com/p/71ba7c4169b9",
+      "title": "Seamless data fetching with httpResource",
+      "url": "https://blog.angular.dev/seamless-data-fetching-with-httpresource-71ba7c4169b9?source=rss----447683c3d9a3---4",
+      "publishedAt": "2025-03-07T15:02:52.000Z",
+      "summary": "",
+      "sourceId": "angular-blog",
+      "sourceName": "Angular Blog",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "https://medium.com/p/673ec70aea12",
+      "title": "Angular 19.2 Is Now Available",
+      "url": "https://blog.angular.dev/angular-19-2-is-now-available-673ec70aea12?source=rss----447683c3d9a3---4",
+      "publishedAt": "2025-03-05T16:55:07.000Z",
+      "summary": "",
+      "sourceId": "angular-blog",
+      "sourceName": "Angular Blog",
+      "tech": "Angular",
+      "tags": [
+        "angular-19-resource",
+        "angular",
+        "angular-19-new-features"
+      ]
+    }
+  ]
+}
