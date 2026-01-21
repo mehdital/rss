@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-01-20T14:39:20.780Z",
+  "generatedAt": "2026-01-21T06:20:01.172Z",
   "items": [
+    {
+      "id": "https://spring.io/blog/2026/01/20/spring-amqp-4-1-0-m1-available",
+      "title": "Spring AMQP 4.1.0 Milestone 1 Available",
+      "url": "https://spring.io/blog/2026/01/20/spring-amqp-4-1-0-m1-available",
+      "publishedAt": "2026-01-20T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "https://spring.io/blog/2026/01/20/spring-for-apache-pulsar-1-2-14-and-2-0-2-are-now-available",
+      "title": "Spring for Apache Pulsar 1.2.14 and 2.0.2 are now available",
+      "url": "https://spring.io/blog/2026/01/20/spring-for-apache-pulsar-1-2-14-and-2-0-2-are-now-available",
+      "publishedAt": "2026-01-20T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
     {
       "id": "https://spring.io/blog/2026/01/19/spring-security-7-1-0-M1-available-now",
       "title": "Spring Security 7.1.0-M1 available now",
@@ -17,17 +39,6 @@
       "title": "Spring Data 2025.1.2 & 2025.0.8 released",
       "url": "https://spring.io/blog/2026/01/16/spring-data-2025-1-2-and-2025-0-8-released",
       "publishedAt": "2026-01-16T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
-      "tags": []
-    },
-    {
-      "id": "https://spring.io/blog/2026/01/15/spring-framework-7-0-3-available-now",
-      "title": "Spring Framework 7.0.3 Available Now",
-      "url": "https://spring.io/blog/2026/01/15/spring-framework-7-0-3-available-now",
-      "publishedAt": "2026-01-15T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
       "sourceName": "Spring Blog (Releases)",
@@ -175,17 +186,6 @@
       "sourceId": "angular-cli-releases",
       "sourceName": "Angular CLI (GitHub Releases)",
       "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "https://spring.io/blog/2026/01/07/spring-grpc-1",
-      "title": "Spring gRPC 1.0.1 Available Now",
-      "url": "https://spring.io/blog/2026/01/07/spring-grpc-1",
-      "publishedAt": "2026-01-07T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
       "tags": []
     },
     {
