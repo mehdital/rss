@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-01-23T06:18:43.454Z",
+  "generatedAt": "2026-01-24T06:16:45.453Z",
   "items": [
+    {
+      "id": "https://medium.com/p/7d0294475610",
+      "title": "Community Stories, Code Samples, and Signal Forms!",
+      "url": "https://blog.angular.dev/community-stories-code-samples-and-signal-forms-7d0294475610?source=rss----447683c3d9a3---4",
+      "publishedAt": "2026-01-23T17:37:39.000Z",
+      "summary": "",
+      "sourceId": "angular-blog",
+      "sourceName": "Angular Blog",
+      "tech": "Angular",
+      "tags": [
+        "angularcommunity",
+        "angular-gde"
+      ]
+    },
+    {
+      "id": "https://spring.io/blog/2026/01/23/spring-ai-2-0-0-M2-available-now",
+      "title": "Spring AI 2.0.0-M2 Available Now",
+      "url": "https://spring.io/blog/2026/01/23/spring-ai-2-0-0-M2-available-now",
+      "publishedAt": "2026-01-23T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "https://spring.io/blog/2026/01/23/spring-modulith-2-1-m-1-2-0-2-and-1-4-7-released",
+      "title": "Spring Modulith 2.1 M1, 2.0.2, and 1.4.7 released",
+      "url": "https://spring.io/blog/2026/01/23/spring-modulith-2-1-m-1-2-0-2-and-1-4-7-released",
+      "publishedAt": "2026-01-23T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
     {
       "id": "tag:github.com,2008:Repository/24195339/vsix-21.1.1",
       "title": "VSCode Extension: 21.1.1",
@@ -21,17 +57,6 @@
       "sourceId": "angular-releases",
       "sourceName": "Angular (GitHub Releases)",
       "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "https://spring.io/blog/2026/01/22/spring-boot-3-5-10-available-now",
-      "title": "Spring Boot 3.5.10 available now",
-      "url": "https://spring.io/blog/2026/01/22/spring-boot-3-5-10-available-now",
-      "publishedAt": "2026-01-22T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
       "tags": []
     },
     {
@@ -87,17 +112,6 @@
       "sourceId": "angular-cli-releases",
       "sourceName": "Angular CLI (GitHub Releases)",
       "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "https://spring.io/blog/2026/01/21/spring-batch-6-0-2-available-now",
-      "title": "Spring Batch 6.0.2 available now",
-      "url": "https://spring.io/blog/2026/01/21/spring-batch-6-0-2-available-now",
-      "publishedAt": "2026-01-21T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
       "tags": []
     },
     {
@@ -405,20 +419,6 @@
       ]
     },
     {
-      "id": "https://foojay.io/?p=121446",
-      "title": "BoxLang v1.6.0 – Performance, AI-Powered Docs, and Advanced Async Monitoring",
-      "url": "https://foojay.io/today/boxlang-v1-6-0-performance-ai-powered-docs-and-advanced-async-monitoring/",
-      "publishedAt": "2025-10-13T06:42:52.000Z",
-      "summary": "Table of Contents 🚀 What's New in 1.6.0? We're thrilled to announce BoxLang 1.6.0, a release that delivers massive performance improvements, intelligent developer tooling, and enhanced async capabilities. This release focuses on making BoxLang faster, smarter, and more observable than ...",
-      "sourceId": "foojay-release-notes",
-      "sourceName": "Foojay (Release Notes)",
-      "tech": "Java",
-      "tags": [
-        "BoxLang",
-        "Release Notes"
-      ]
-    },
-    {
       "id": "https://medium.com/p/3a3afde38f58",
       "title": "Angular support for generating apps in Google AI Studio is now available",
       "url": "https://blog.angular.dev/angular-support-for-generating-apps-in-google-ai-studio-is-now-available-3a3afde38f58?source=rss----447683c3d9a3---4",
@@ -524,6 +524,21 @@
       ]
     },
     {
+      "id": "https://foojay.io/?p=115735",
+      "title": "Java 24 Rolls Out Today! Find Out Why It’s Aptly Named",
+      "url": "https://foojay.io/today/java-24-rolls-out-today-find-out-why-its-aptly-named/",
+      "publishedAt": "2025-03-18T07:36:39.000Z",
+      "summary": "Java 24 rolls out today, and it brings a diverse set of features. For example, compact object headers bring better performance, and various security features have been added. Or how about the eagerly-awaited solution to virtual thread pinning? This post has all the info!",
+      "sourceId": "foojay-release-notes",
+      "sourceName": "Foojay (Release Notes)",
+      "tech": "Java",
+      "tags": [
+        "Java",
+        "Release Notes",
+        "java 24"
+      ]
+    },
+    {
       "id": "https://medium.com/p/707db8918c3a",
       "title": "Build AI-Powered Apps With Genkit and Angular",
       "url": "https://blog.angular.dev/build-ai-powered-apps-with-genkit-and-angular-707db8918c3a?source=rss----447683c3d9a3---4",
@@ -548,21 +563,6 @@
       "sourceName": "Angular Blog",
       "tech": "Angular",
       "tags": []
-    },
-    {
-      "id": "https://medium.com/p/673ec70aea12",
-      "title": "Angular 19.2 Is Now Available",
-      "url": "https://blog.angular.dev/angular-19-2-is-now-available-673ec70aea12?source=rss----447683c3d9a3---4",
-      "publishedAt": "2025-03-05T16:55:07.000Z",
-      "summary": "",
-      "sourceId": "angular-blog",
-      "sourceName": "Angular Blog",
-      "tech": "Angular",
-      "tags": [
-        "angular-19-resource",
-        "angular",
-        "angular-19-new-features"
-      ]
     }
   ]
 }
