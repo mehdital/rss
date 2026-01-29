@@ -1,6 +1,50 @@
 {
-  "generatedAt": "2026-01-28T06:20:43.802Z",
+  "generatedAt": "2026-01-29T06:32:54.774Z",
   "items": [
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v21.2.0-next.1",
+      "title": "21.2.0-next.1",
+      "url": "https://github.com/angular/angular/releases/tag/v21.2.0-next.1",
+      "publishedAt": "2026-01-28T20:50:04.000Z",
+      "summary": "common Commit Description Add Location strategies to manage trailing slash on write forms Commit Description introduce parse errors in signal forms only touch visible, interactive fields on submit sort error summary by DOM order language-server Commit Description Support client-side file watching via onDidChangeWatched",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v21.1.2",
+      "title": "21.1.2",
+      "url": "https://github.com/angular/angular/releases/tag/v21.1.2",
+      "publishedAt": "2026-01-28T20:36:13.000Z",
+      "summary": "forms Commit Description only touch visible, interactive fields on submit language-service Commit Description Detect local project version on creation router Commit Description Do not intercept reload events with Navigation integration",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v21.2.0-next.0",
+      "title": "21.2.0-next.0",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v21.2.0-next.0",
+      "publishedAt": "2026-01-28T14:10:46.000Z",
+      "summary": "@schematics/angular Commit Description add a '.prettierrc' file to generated workspaces and add Prettier as dev dependency add ng-add support for Vitest browser providers @angular/cli Commit Description add markdown files to Prettier's formatting list automatic formatting files modified by schematics standardize MCP to",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v21.1.2",
+      "title": "21.1.2",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v21.1.2",
+      "publishedAt": "2026-01-28T10:12:54.000Z",
+      "summary": "@angular-devkit/schematics-cli Commit Description Add boolean type inference for 'true' and 'false' string values in argument parsing @angular-devkit/architect Commit Description Add boolean type inference for 'true' and 'false' string values in argument parsing @angular/build Commit Description loosen Vitest dependenc",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
     {
       "id": "https://medium.com/p/7d0294475610",
       "title": "Community Stories, Code Samples, and Signal Forms!",
@@ -60,9 +104,9 @@
       "tags": []
     },
     {
-      "id": "https://spring.io/blog/2026/01/22/spring-boot-4-0-2-available-now",
-      "title": "Spring Boot 4.0.2 available now",
-      "url": "https://spring.io/blog/2026/01/22/spring-boot-4-0-2-available-now",
+      "id": "https://spring.io/blog/2026/01/22/spring-boot-3-5-10-available-now",
+      "title": "Spring Boot 3.5.10 available now",
+      "url": "https://spring.io/blog/2026/01/22/spring-boot-3-5-10-available-now",
       "publishedAt": "2026-01-22T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
@@ -71,9 +115,9 @@
       "tags": []
     },
     {
-      "id": "https://spring.io/blog/2026/01/22/spring-boot-4-1-0-M1-available-now",
-      "title": "Spring Boot 4.1.0-M1 available now",
-      "url": "https://spring.io/blog/2026/01/22/spring-boot-4-1-0-M1-available-now",
+      "id": "https://spring.io/blog/2026/01/22/spring-boot-4-0-2-available-now",
+      "title": "Spring Boot 4.0.2 available now",
+      "url": "https://spring.io/blog/2026/01/22/spring-boot-4-0-2-available-now",
       "publishedAt": "2026-01-22T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
@@ -219,28 +263,6 @@
       "tags": []
     },
     {
-      "id": "tag:github.com,2008:Repository/24195339/v20.3.16",
-      "title": "20.3.16",
-      "url": "https://github.com/angular/angular/releases/tag/v20.3.16",
-      "publishedAt": "2026-01-07T22:18:34.000Z",
-      "summary": "core Commit Description sanitize sensitive attributes on SVG script elements",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v21.0.7",
-      "title": "21.0.7",
-      "url": "https://github.com/angular/angular/releases/tag/v21.0.7",
-      "publishedAt": "2026-01-07T21:45:53.000Z",
-      "summary": "compiler Commit Description better types for a few expression AST nodes produce accurate span for typeof and void expressions provide location information for literal map keys stop ThisReceiver inheritance from ImplicitReceiver compiler-cli Commit Description ensure component import diagnostics are reported within the ",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
       "id": "tag:github.com,2008:Repository/36891867/v21.0.5",
       "title": "21.0.5",
       "url": "https://github.com/angular/angular-cli/releases/tag/v21.0.5",
@@ -274,33 +296,11 @@
       "tags": []
     },
     {
-      "id": "tag:github.com,2008:Repository/36891867/v21.0.4",
-      "title": "21.0.4",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v21.0.4",
-      "publishedAt": "2025-12-18T20:44:04.000Z",
-      "summary": "@schematics/angular Commit Description improve VS Code background compilation start/end detection remove inlineSources from library tsconfig template @angular/build Commit Description add browser condition to resolver for vitest allow non-prefixed requests when using SSR and base href conditionally manage Vitest UI opt",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v21.1.0-next.2",
-      "title": "21.1.0-next.2",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v21.1.0-next.2",
-      "publishedAt": "2025-12-10T18:56:03.000Z",
-      "summary": "@angular/cli Commit Description correctly handle yarn classic tag manifest fetching correctly spawn package managers on Windows in new abstraction optimize ng add version discovery @angular-devkit/build-angular Commit Description conditionally provide Zone.js change detection in the built-in test main file @angular/bui",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
       "id": "https://foojay.io/?p=122004",
       "title": "More Java From Azul!",
       "url": "https://foojay.io/today/more-java-from-azul/",
       "publishedAt": "2025-12-10T17:14:23.000Z",
-      "summary": "Table of Contents A Little Java HistoryPayara and Azul Azul is a company focused purely on Java through builds of OpenJDK, in the form of Platform Core, and our high-performance Java platform (including JVM), Platform Prime. We build on these with Intelligence Cloud to deliver precise information about security ...",
+      "summary": "Table of Contents A Little Java HistoryPayara and Azul Azul is a company focused purely on Java through builds of OpenJDK, in the form of Platform Core, and our high-performance Java platform (including JVM), Platform Prime. We build on these with Intelligence Cloud to deliver precise information about security ... The",
       "sourceId": "foojay-release-notes",
       "sourceName": "Foojay (Release Notes)",
       "tech": "Java",
@@ -330,7 +330,7 @@
       "title": "BoxLang RSS : Full-Featured RSS/Atom Feed Module for BoxLang",
       "url": "https://foojay.io/today/boxlang-rss-full-featured-rss-atom-feed-module-for-boxlang/",
       "publishedAt": "2025-12-02T11:19:11.000Z",
-      "summary": "Table of Contents Thanks To Ray CamdenWhy bx-rss?✨ Key Features at a Glance🚀 Installation💡 Quick Start Examples🎙️ Podcast Power: iTunes Extension Support📹 Media RSS: Video & Image Feeds🔄 Feed Aggregation: Read Multiple Sources✍️ Creating Feeds: Share Your Content🎙️ Create Your ...",
+      "summary": "Table of Contents Thanks To Ray CamdenWhy bx-rss?✨ Key Features at a Glance🚀 Installation💡 Quick Start Examples🎙️ Podcast Power: iTunes Extension Support📹 Media RSS: Video & Image Feeds🔄 Feed Aggregation: Read Multiple Sources✍️ Creating Feeds: Share Your Content🎙️ Create Your ... The post BoxLang RSS : Full-Feat",
       "sourceId": "foojay-release-notes",
       "sourceName": "Foojay (Release Notes)",
       "tech": "Java",
@@ -409,7 +409,7 @@
       "title": "BoxLang v1.6.0 – Performance, AI-Powered Docs, and Advanced Async Monitoring",
       "url": "https://foojay.io/today/boxlang-v1-6-0-performance-ai-powered-docs-and-advanced-async-monitoring-2/",
       "publishedAt": "2025-10-29T06:48:07.000Z",
-      "summary": "Table of Contents 🚀 What's New in 1.6.0? 🤖 BoxLang Documentation Meets AI: MCP Server Integration Connect to the MCP Server: ⚡ Extreme Performance Optimizations: Up to 65% Faster Key Performance Enhancements: Real-World Performance Stats: 📊 Advanced Async Monitoring with ...",
+      "summary": "Table of Contents 🚀 What's New in 1.6.0? 🤖 BoxLang Documentation Meets AI: MCP Server Integration Connect to the MCP Server: ⚡ Extreme Performance Optimizations: Up to 65% Faster Key Performance Enhancements: Real-World Performance Stats: 📊 Advanced Async Monitoring with ... The post BoxLang v1.6.0 – Performance, AI",
       "sourceId": "foojay-release-notes",
       "sourceName": "Foojay (Release Notes)",
       "tech": "Java",
@@ -438,7 +438,7 @@
       "title": "Azul’s High-Performance Java Platform Achieves Historic First with 10,000 Customer JVMs Collaborating and Sharing Performance Optimizations, Cutting Cloud Costs by 20%+",
       "url": "https://foojay.io/today/azuls-high-performance-java-platform-achieves-historic-first-with-10000-customer-jvms-collaborating-and-sharing-performance-optimizations-cutting-cloud-costs-by-20/",
       "publishedAt": "2025-09-17T16:49:56.000Z",
-      "summary": "Azul Platform Prime Achieves Historic First with 10,000+ JVMs Collaborating and Sharing Performance Optimizations, Cutting Cloud Costs by More than 20% Fleet-level advantages achieved for cloud-native Java applications with faster warm-up, smoother scaling and reduced cost SUNNYVALE, Calif. — September ...",
+      "summary": "Azul Platform Prime Achieves Historic First with 10,000+ JVMs Collaborating and Sharing Performance Optimizations, Cutting Cloud Costs by More than 20% Fleet-level advantages achieved for cloud-native Java applications with faster warm-up, smoother scaling and reduced cost SUNNYVALE, Calif. — September ... The post Azu",
       "sourceId": "foojay-release-notes",
       "sourceName": "Foojay (Release Notes)",
       "tech": "Java",
@@ -514,7 +514,7 @@
       "title": "Azul and JetBrains Collaborate to Enhance Runtime Performance for Kotlin Workloads",
       "url": "https://foojay.io/today/azul-and-jetbrains-collaborate-to-enhance-runtime-performance-for-kotlin-workloads/",
       "publishedAt": "2025-05-26T08:23:56.000Z",
-      "summary": "SUNNYVALE, Calif., — May 20, 2025 — Azul, the only company 100% focused on Java, and JetBrains, the leading provider of professional software development tools and creator of the Kotlin programming language, today announced a strategic technical collaboration to enhance the runtime performance ...",
+      "summary": "SUNNYVALE, Calif., — May 20, 2025 — Azul, the only company 100% focused on Java, and JetBrains, the leading provider of professional software development tools and creator of the Kotlin programming language, today announced a strategic technical collaboration to enhance the runtime performance ... The post Azul and Jet",
       "sourceId": "foojay-release-notes",
       "sourceName": "Foojay (Release Notes)",
       "tech": "Java",
@@ -528,7 +528,7 @@
       "title": "Java 24 Rolls Out Today! Find Out Why It’s Aptly Named",
       "url": "https://foojay.io/today/java-24-rolls-out-today-find-out-why-its-aptly-named/",
       "publishedAt": "2025-03-18T07:36:39.000Z",
-      "summary": "Java 24 rolls out today, and it brings a diverse set of features. For example, compact object headers bring better performance, and various security features have been added. Or how about the eagerly-awaited solution to virtual thread pinning? This post has all the info!",
+      "summary": "Java 24 rolls out today, and it brings a diverse set of features. For example, compact object headers bring better performance, and various security features have been added. Or how about the eagerly-awaited solution to virtual thread pinning? This post has all the info! The post Java 24 Rolls Out Today! Find Out Why I",
       "sourceId": "foojay-release-notes",
       "sourceName": "Foojay (Release Notes)",
       "tech": "Java",
