@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-01-30T06:34:00.799Z",
+  "generatedAt": "2026-01-31T06:23:45.653Z",
   "items": [
+    {
+      "id": "https://spring.io/blog/2026/01/30/spring-grpc-1",
+      "title": "Spring gRPC 1.0.2 Available Now",
+      "url": "https://spring.io/blog/2026/01/30/spring-grpc-1",
+      "publishedAt": "2026-01-30T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
     {
       "id": "https://spring.io/blog/2026/01/29/spring-cloud-2025-1-1-aka-oakwood-has-been-released",
       "title": "Spring Cloud 2025.1.1 (aka Oakwood) Has Been Released",
@@ -112,17 +123,6 @@
       "sourceId": "angular-releases",
       "sourceName": "Angular (GitHub Releases)",
       "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "https://spring.io/blog/2026/01/22/spring-boot-3-5-10-available-now",
-      "title": "Spring Boot 3.5.10 available now",
-      "url": "https://spring.io/blog/2026/01/22/spring-boot-3-5-10-available-now",
-      "publishedAt": "2026-01-22T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
       "tags": []
     },
     {
