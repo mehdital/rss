@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-01-31T06:23:45.653Z",
+  "generatedAt": "2026-02-01T06:35:42.967Z",
   "items": [
+    {
+      "id": "https://spring.io/blog/2026/01/31/spring-shell-4-0-1-is-out",
+      "title": "Spring Shell 4.0.1 is out!",
+      "url": "https://spring.io/blog/2026/01/31/spring-shell-4-0-1-is-out",
+      "publishedAt": "2026-01-31T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
     {
       "id": "https://spring.io/blog/2026/01/30/spring-grpc-1",
       "title": "Spring gRPC 1.0.2 Available Now",
@@ -85,17 +96,6 @@
       "id": "https://spring.io/blog/2026/01/23/spring-ai-2-0-0-M2-available-now",
       "title": "Spring AI 2.0.0-M2 Available Now",
       "url": "https://spring.io/blog/2026/01/23/spring-ai-2-0-0-M2-available-now",
-      "publishedAt": "2026-01-23T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
-      "tags": []
-    },
-    {
-      "id": "https://spring.io/blog/2026/01/23/spring-modulith-2-1-m-1-2-0-2-and-1-4-7-released",
-      "title": "Spring Modulith 2.1 M1, 2.0.2, and 1.4.7 released",
-      "url": "https://spring.io/blog/2026/01/23/spring-modulith-2-1-m-1-2-0-2-and-1-4-7-released",
       "publishedAt": "2026-01-23T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
