@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-02-04T06:36:16.747Z",
+  "generatedAt": "2026-02-05T06:42:46.908Z",
   "items": [
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v21.2.0-next.2",
+      "title": "21.2.0-next.2",
+      "url": "https://github.com/angular/angular/releases/tag/v21.2.0-next.2",
+      "publishedAt": "2026-02-05T00:15:43.000Z",
+      "summary": "core Commit Description add ChangeDetectionStrategy.Eager alias for Default linkedSignal.update should propagate errors export DirectiveWithBindings hold constructors weakly in DepsTracker cache prevent element duplication with dynamic components forms Commit Description allow setting submit options at form-level intro",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v21.1.3",
+      "title": "21.1.3",
+      "url": "https://github.com/angular/angular/releases/tag/v21.1.3",
+      "publishedAt": "2026-02-05T00:06:27.000Z",
+      "summary": "core Commit Description linkedSignal.update should propagate errors export DirectiveWithBindings hold constructors weakly in DepsTracker cache prevent element duplication with dynamic components forms Commit Description Resolves debounce promise on abort in debounceForDuration localize Commit Description add support fo",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
     {
       "id": "https://spring.io/blog/2026/01/31/spring-shell-4-0-1-is-out",
       "title": "Spring Shell 4.0.1 is out!",
@@ -228,28 +250,6 @@
         "Library",
         "Release Notes"
       ]
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v21.1.0-rc.0",
-      "title": "21.1.0-rc.0",
-      "url": "https://github.com/angular/angular/releases/tag/v21.1.0-rc.0",
-      "publishedAt": "2026-01-08T20:50:42.000Z",
-      "summary": "common Commit Description Add custom transformations for Cloudflare and Cloudinary image loaders support custom transformations in ImageKit and Imgix loaders compiler Commit Description Add support for multiple swich cases matching better types for a few expression AST nodes produce accurate span for typeof and void ex",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v21.0.8",
-      "title": "21.0.8",
-      "url": "https://github.com/angular/angular/releases/tag/v21.0.8",
-      "publishedAt": "2026-01-08T20:42:46.000Z",
-      "summary": "core Commit Description fix memory leak with event replay handle cancelled traversals in fake navigation",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
     },
     {
       "id": "tag:github.com,2008:Repository/36891867/v21.1.0-rc.0",
