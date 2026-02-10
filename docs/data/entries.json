@@ -1,6 +1,33 @@
 {
-  "generatedAt": "2026-02-09T06:53:06.260Z",
+  "generatedAt": "2026-02-10T06:52:56.767Z",
   "items": [
+    {
+      "id": "https://medium.com/p/5fb47e059670",
+      "title": "Global Expertise: AI Blueprints, Resource API Fixes, and Angular v20",
+      "url": "https://blog.angular.dev/global-expertise-ai-blueprints-resource-api-fixes-and-angular-v20-5fb47e059670?source=rss----447683c3d9a3---4",
+      "publishedAt": "2026-02-09T15:47:41.000Z",
+      "summary": "",
+      "sourceId": "angular-blog",
+      "sourceName": "Angular Blog",
+      "tech": "Angular",
+      "tags": [
+        "angularcommunity",
+        "angular-french",
+        "angular-spanish",
+        "angular"
+      ]
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v20.3.16",
+      "title": "20.3.16",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v20.3.16",
+      "publishedAt": "2026-02-09T14:54:50.000Z",
+      "summary": "@angular/cli Commit Description update dependency @modelcontextprotocol/sdk to v1.26.0",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
     {
       "id": "tag:github.com,2008:Repository/36891867/v21.2.0-next.1",
       "title": "21.2.0-next.1",
@@ -285,17 +312,6 @@
       "tags": []
     },
     {
-      "id": "tag:github.com,2008:Repository/36891867/v21.0.5",
-      "title": "21.0.5",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v21.0.5",
-      "publishedAt": "2026-01-07T21:37:15.000Z",
-      "summary": "@schematics/angular Commit Description move 'provideZoneChangeDetection' to the root module update application schematics for module-based apps to use 'provideZoneChangeDetection' update default app component message update default app component welcome message @angular/cli Commit Description use narrower types for new",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
       "id": "https://foojay.io/?p=122004",
       "title": "More Java From Azul!",
       "url": "https://foojay.io/today/more-java-from-azul/",
@@ -552,17 +568,6 @@
         "firebase-genkit",
         "angular"
       ]
-    },
-    {
-      "id": "https://medium.com/p/71ba7c4169b9",
-      "title": "Seamless data fetching with httpResource",
-      "url": "https://blog.angular.dev/seamless-data-fetching-with-httpresource-71ba7c4169b9?source=rss----447683c3d9a3---4",
-      "publishedAt": "2025-03-07T15:02:52.000Z",
-      "summary": "",
-      "sourceId": "angular-blog",
-      "sourceName": "Angular Blog",
-      "tech": "Angular",
-      "tags": []
     }
   ]
 }
