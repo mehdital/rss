@@ -1,6 +1,50 @@
 {
-  "generatedAt": "2026-02-11T06:49:27.322Z",
+  "generatedAt": "2026-02-12T06:48:09.635Z",
   "items": [
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v21.2.0-next.2",
+      "title": "21.2.0-next.2",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v21.2.0-next.2",
+      "publishedAt": "2026-02-11T22:45:00.000Z",
+      "summary": "@angular/build Commit Description run vitest browser with playwright with OS theme correctly resolve absolute setup file paths in Vitest explicitly fail when using Vitest runtime mocking",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v21.1.4",
+      "title": "21.1.4",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v21.1.4",
+      "publishedAt": "2026-02-11T18:38:39.000Z",
+      "summary": "@angular/build Commit Description correctly resolve absolute setup file paths in Vitest",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v21.2.0-next.3",
+      "title": "21.2.0-next.3",
+      "url": "https://github.com/angular/angular/releases/tag/v21.2.0-next.3",
+      "publishedAt": "2026-02-11T17:58:42.000Z",
+      "summary": "common Commit Description add an 'outlet' injector option for ngTemplateOutlet support height in ImageLoaderConfig and built-in loaders compiler Commit Description add geolocation element to schema compiler-cli Commit Description update diagnostic to flag no-op arrow functions in listeners core Commit Description add s",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v21.1.4",
+      "title": "21.1.4",
+      "url": "https://github.com/angular/angular/releases/tag/v21.1.4",
+      "publishedAt": "2026-02-11T17:49:30.000Z",
+      "summary": "compiler Commit Description add geolocation element to schema core Commit Description capture animation dependencies eagerly to avoid destroyed injector Fix flakey test due to document injection forms Commit Description support signal-based schemas in validateStandardSchema http Commit Description correctly parse Array",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
     {
       "id": "https://medium.com/p/5fb47e059670",
       "title": "Global Expertise: AI Blueprints, Resource API Fixes, and Angular v20",
@@ -252,39 +296,6 @@
       "tags": []
     },
     {
-      "id": "tag:github.com,2008:Repository/24195339/v21.0.9",
-      "title": "21.0.9",
-      "url": "https://github.com/angular/angular/releases/tag/v21.0.9",
-      "publishedAt": "2026-01-14T19:30:21.000Z",
-      "summary": "forms Commit Description Ensure the control instruction comes after the other bindings Rename signal form [field] to [formField] migrations Commit Description prevent duplicate imports in common-to-standalone migration",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v21.0.6",
-      "title": "21.0.6",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v21.0.6",
-      "publishedAt": "2026-01-14T18:16:39.000Z",
-      "summary": "@angular/ssr Commit Description handle platform destruction during rendering",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/vsix-21.1.0",
-      "title": "VSCode Extension: 21.1.0",
-      "url": "https://github.com/angular/angular/releases/tag/vsix-21.1.0",
-      "publishedAt": "2026-01-13T00:53:22.000Z",
-      "summary": "21.1.0 (2026-01-12) fix(vscode-extension): convert enum member kind in completions correctly (50674f8c28)",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
       "id": "https://foojay.io/?p=122312",
       "title": "BoxLang 1.9.0 Released: Production-Ready Stability and Enterprise-Grade Reliability",
       "url": "https://foojay.io/today/boxlang-1-9-0-released-production-ready-stability-and-enterprise-grade-reliability/",
@@ -299,17 +310,6 @@
         "Library",
         "Release Notes"
       ]
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v21.1.0-rc.0",
-      "title": "21.1.0-rc.0",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v21.1.0-rc.0",
-      "publishedAt": "2026-01-08T20:06:51.000Z",
-      "summary": "@schematics/angular Commit Description move 'provideZoneChangeDetection' to the root module update application schematics for module-based apps to use 'provideZoneChangeDetection' update default app component message update default app component welcome message @angular/cli Commit Description add 'test' and 'e2e' MCP t",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
     },
     {
       "id": "https://foojay.io/?p=122004",
