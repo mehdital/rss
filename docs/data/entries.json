@@ -1,6 +1,61 @@
 {
-  "generatedAt": "2026-02-13T06:44:36.433Z",
+  "generatedAt": "2026-02-14T06:30:36.566Z",
   "items": [
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v19.2.20",
+      "title": "19.2.20",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v19.2.20",
+      "publishedAt": "2026-02-13T09:43:21.000Z",
+      "summary": "@angular-devkit/build-angular Commit Description update webpack to 5.105.0",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "https://spring.io/blog/2026/02/13/spring-data-2025-1-3-and-2025-0-9-released",
+      "title": "Spring Data 2025.1.3 and 2025.0.9 released",
+      "url": "https://spring.io/blog/2026/02/13/spring-data-2025-1-3-and-2025-0-9-released",
+      "publishedAt": "2026-02-13T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "https://spring.io/blog/2026/02/13/spring-data-2026-0-0-m1-released",
+      "title": "Spring Data 2026.0.0-M1 released",
+      "url": "https://spring.io/blog/2026/02/13/spring-data-2026-0-0-m1-released",
+      "publishedAt": "2026-02-13T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "https://spring.io/blog/2026/02/13/spring-security-6-5-8-and-7-0-3-and-7-1-0-M2-available-now",
+      "title": "Spring Security 6.5.8, 7.0.3 and 7.1.0-M2 available now",
+      "url": "https://spring.io/blog/2026/02/13/spring-security-6-5-8-and-7-0-3-and-7-1-0-M2-available-now",
+      "publishedAt": "2026-02-13T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "https://spring.io/blog/2026/02/12/spring-framework-6-2-16-and-7-0-4-available-now",
+      "title": "Spring Framework 6.2.16 and 7.0.4 Available Now",
+      "url": "https://spring.io/blog/2026/02/12/spring-framework-6-2-16-and-7-0-4-available-now",
+      "publishedAt": "2026-02-12T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
     {
       "id": "tag:github.com,2008:Repository/36891867/v21.2.0-next.2",
       "title": "21.2.0-next.2",
@@ -117,39 +172,6 @@
       "tags": []
     },
     {
-      "id": "https://spring.io/blog/2026/01/31/spring-shell-4-0-1-is-out",
-      "title": "Spring Shell 4.0.1 is out!",
-      "url": "https://spring.io/blog/2026/01/31/spring-shell-4-0-1-is-out",
-      "publishedAt": "2026-01-31T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
-      "tags": []
-    },
-    {
-      "id": "https://spring.io/blog/2026/01/30/spring-grpc-1",
-      "title": "Spring gRPC 1.0.2 Available Now",
-      "url": "https://spring.io/blog/2026/01/30/spring-grpc-1",
-      "publishedAt": "2026-01-30T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
-      "tags": []
-    },
-    {
-      "id": "https://spring.io/blog/2026/01/29/spring-cloud-2025-1-1-aka-oakwood-has-been-released",
-      "title": "Spring Cloud 2025.1.1 (aka Oakwood) Has Been Released",
-      "url": "https://spring.io/blog/2026/01/29/spring-cloud-2025-1-1-aka-oakwood-has-been-released",
-      "publishedAt": "2026-01-29T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
-      "tags": []
-    },
-    {
       "id": "tag:github.com,2008:Repository/24195339/v21.2.0-next.1",
       "title": "21.2.0-next.1",
       "url": "https://github.com/angular/angular/releases/tag/v21.2.0-next.1",
@@ -208,17 +230,6 @@
       ]
     },
     {
-      "id": "https://spring.io/blog/2026/01/23/spring-ai-2-0-0-M2-available-now",
-      "title": "Spring AI 2.0.0-M2 Available Now",
-      "url": "https://spring.io/blog/2026/01/23/spring-ai-2-0-0-M2-available-now",
-      "publishedAt": "2026-01-23T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
-      "tags": []
-    },
-    {
       "id": "tag:github.com,2008:Repository/24195339/vsix-21.1.1",
       "title": "VSCode Extension: 21.1.1",
       "url": "https://github.com/angular/angular/releases/tag/vsix-21.1.1",
@@ -268,17 +279,6 @@
       "url": "https://github.com/angular/angular-cli/releases/tag/v20.3.15",
       "publishedAt": "2026-01-21T16:11:10.000Z",
       "summary": "@angular/cli Commit Description update pacote to v21.0.4 @angular-devkit/build-angular Commit Description update webpack to version 5.104.1",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v21.1.0",
-      "title": "21.1.0",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v21.1.0",
-      "publishedAt": "2026-01-14T21:24:44.000Z",
-      "summary": "@schematics/angular Commit Description add browserMode option to jasmine-vitest schematic generate detailed migration report for refactor-jasmine-vitest add MCP configuration file to new workspaces @angular/cli Commit Description add 'test' and 'e2e' MCP tools Add \"all\" as an experimental tool group Add MCP tools for b",
       "sourceId": "angular-cli-releases",
       "sourceName": "Angular CLI (GitHub Releases)",
       "tech": "Angular",
