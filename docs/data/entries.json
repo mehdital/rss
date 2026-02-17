@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-16T06:50:59.090Z",
+  "generatedAt": "2026-02-17T06:43:27.809Z",
   "items": [
     {
       "id": "tag:github.com,2008:Repository/36891867/v19.2.20",
@@ -13,9 +13,9 @@
       "tags": []
     },
     {
-      "id": "https://spring.io/blog/2026/02/13/spring-data-2025-1-3-and-2025-0-9-released",
-      "title": "Spring Data 2025.1.3 and 2025.0.9 released",
-      "url": "https://spring.io/blog/2026/02/13/spring-data-2025-1-3-and-2025-0-9-released",
+      "id": "https://spring.io/blog/2026/02/13/spring-data-2026-0-0-m1-released",
+      "title": "Spring Data 2026.0.0-M1 released",
+      "url": "https://spring.io/blog/2026/02/13/spring-data-2026-0-0-m1-released",
       "publishedAt": "2026-02-13T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
@@ -24,9 +24,9 @@
       "tags": []
     },
     {
-      "id": "https://spring.io/blog/2026/02/13/spring-data-2026-0-0-m1-released",
-      "title": "Spring Data 2026.0.0-M1 released",
-      "url": "https://spring.io/blog/2026/02/13/spring-data-2026-0-0-m1-released",
+      "id": "https://spring.io/blog/2026/02/13/spring-data-2025-1-3-and-2025-0-9-released",
+      "title": "Spring Data 2025.1.3 and 2025.0.9 released",
+      "url": "https://spring.io/blog/2026/02/13/spring-data-2025-1-3-and-2025-0-9-released",
       "publishedAt": "2026-02-13T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
