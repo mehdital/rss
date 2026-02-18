@@ -1,6 +1,31 @@
 {
-  "generatedAt": "2026-02-17T06:43:27.809Z",
+  "generatedAt": "2026-02-18T06:47:55.032Z",
   "items": [
+    {
+      "id": "https://medium.com/p/eefc4b05ddb6",
+      "title": "Angular 21: Internal Mechanics, ARIA, and AI-Powered Coding!",
+      "url": "https://blog.angular.dev/angular-21-internal-mechanics-aria-and-ai-powered-coding-eefc4b05ddb6?source=rss----447683c3d9a3---4",
+      "publishedAt": "2026-02-17T17:58:47.000Z",
+      "summary": "",
+      "sourceId": "angular-blog",
+      "sourceName": "Angular Blog",
+      "tech": "Angular",
+      "tags": [
+        "angularcommunity",
+        "angular"
+      ]
+    },
+    {
+      "id": "https://spring.io/blog/2026/02/17/spring-for-apache-pulsar-1-2-15-and-2-0-3-are-now-available",
+      "title": "Spring for Apache Pulsar 1.2.15 and 2.0.3 are now available",
+      "url": "https://spring.io/blog/2026/02/17/spring-for-apache-pulsar-1-2-15-and-2-0-3-are-now-available",
+      "publishedAt": "2026-02-17T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
     {
       "id": "tag:github.com,2008:Repository/36891867/v19.2.20",
       "title": "19.2.20",
@@ -10,17 +35,6 @@
       "sourceId": "angular-cli-releases",
       "sourceName": "Angular CLI (GitHub Releases)",
       "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "https://spring.io/blog/2026/02/13/spring-data-2026-0-0-m1-released",
-      "title": "Spring Data 2026.0.0-M1 released",
-      "url": "https://spring.io/blog/2026/02/13/spring-data-2026-0-0-m1-released",
-      "publishedAt": "2026-02-13T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
       "tags": []
     },
     {
@@ -35,9 +49,9 @@
       "tags": []
     },
     {
-      "id": "https://spring.io/blog/2026/02/13/spring-security-6-5-8-and-7-0-3-and-7-1-0-M2-available-now",
-      "title": "Spring Security 6.5.8, 7.0.3 and 7.1.0-M2 available now",
-      "url": "https://spring.io/blog/2026/02/13/spring-security-6-5-8-and-7-0-3-and-7-1-0-M2-available-now",
+      "id": "https://spring.io/blog/2026/02/13/spring-data-2026-0-0-m1-released",
+      "title": "Spring Data 2026.0.0-M1 released",
+      "url": "https://spring.io/blog/2026/02/13/spring-data-2026-0-0-m1-released",
       "publishedAt": "2026-02-13T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
@@ -46,10 +60,10 @@
       "tags": []
     },
     {
-      "id": "https://spring.io/blog/2026/02/12/spring-framework-6-2-16-and-7-0-4-available-now",
-      "title": "Spring Framework 6.2.16 and 7.0.4 Available Now",
-      "url": "https://spring.io/blog/2026/02/12/spring-framework-6-2-16-and-7-0-4-available-now",
-      "publishedAt": "2026-02-12T00:00:00.000Z",
+      "id": "https://spring.io/blog/2026/02/13/spring-security-6-5-8-and-7-0-3-and-7-1-0-M2-available-now",
+      "title": "Spring Security 6.5.8, 7.0.3 and 7.1.0-M2 available now",
+      "url": "https://spring.io/blog/2026/02/13/spring-security-6-5-8-and-7-0-3-and-7-1-0-M2-available-now",
+      "publishedAt": "2026-02-13T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
       "sourceName": "Spring Blog (Releases)",
@@ -552,21 +566,6 @@
         "Java",
         "Release Notes",
         "java 24"
-      ]
-    },
-    {
-      "id": "https://medium.com/p/707db8918c3a",
-      "title": "Build AI-Powered Apps With Genkit and Angular",
-      "url": "https://blog.angular.dev/build-ai-powered-apps-with-genkit-and-angular-707db8918c3a?source=rss----447683c3d9a3---4",
-      "publishedAt": "2025-03-18T03:15:07.000Z",
-      "summary": "",
-      "sourceId": "angular-blog",
-      "sourceName": "Angular Blog",
-      "tech": "Angular",
-      "tags": [
-        "genkit",
-        "firebase-genkit",
-        "angular"
       ]
     }
   ]
