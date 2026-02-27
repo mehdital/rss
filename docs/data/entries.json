@@ -1,6 +1,149 @@
 {
-  "generatedAt": "2026-02-23T06:51:54.004Z",
+  "generatedAt": "2026-02-27T06:37:51.205Z",
   "items": [
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v20.3.18",
+      "title": "20.3.18",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v20.3.18",
+      "publishedAt": "2026-02-26T21:13:09.000Z",
+      "summary": "@angular-devkit/core Commit Description update ajv to 8.18.0 @angular/build Commit Description update rollup to 4.59.0",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v19.2.22",
+      "title": "19.2.22",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v19.2.22",
+      "publishedAt": "2026-02-26T19:46:11.000Z",
+      "summary": "@angular-devkit/core Commit Description update ajv to 8.18.0 @angular/build Commit Description update rollup to 4.59.0",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/vsix-21.2.1",
+      "title": "VSCode Extension: 21.2.1",
+      "url": "https://github.com/angular/angular/releases/tag/vsix-21.2.1",
+      "publishedAt": "2026-02-25T23:35:42.000Z",
+      "summary": "perf(language-service): use lightweight project warmup for Angular analysis (d2137928e8)",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v21.2.0",
+      "title": "21.2.0",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v21.2.0",
+      "publishedAt": "2026-02-25T22:05:44.000Z",
+      "summary": "@schematics/angular Commit Description add a '.prettierrc' file to generated workspaces and add Prettier as dev dependency add ng-add support for Vitest browser providers add actionable feedback to vitest-browser schematic @angular/cli Commit Description add markdown files to Prettier's formatting list automatic format",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v19.2.19",
+      "title": "19.2.19",
+      "url": "https://github.com/angular/angular/releases/tag/v19.2.19",
+      "publishedAt": "2026-02-25T20:43:06.000Z",
+      "summary": "core Commit Description block creation of sensitive URI attributes from ICU messages Breaking Changes core Angular now only applies known attributes from HTML in translated ICU content. Unknown attributes are dropped and not rendered. (cherry picked from commit 03da204)",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v20.3.17",
+      "title": "20.3.17",
+      "url": "https://github.com/angular/angular/releases/tag/v20.3.17",
+      "publishedAt": "2026-02-25T20:05:59.000Z",
+      "summary": "core Commit Description block creation of sensitive URI attributes from ICU messages Breaking Changes core Angular now only applies known attributes from HTML in translated ICU content. Unknown attributes are dropped and not rendered. (cherry picked from commit 03da204)",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v21.2.0",
+      "title": "21.2.0",
+      "url": "https://github.com/angular/angular/releases/tag/v21.2.0",
+      "publishedAt": "2026-02-25T19:29:11.000Z",
+      "summary": "common Commit Description add an 'outlet' injector option for ngTemplateOutlet Add Location strategies to manage trailing slash on write support height in ImageLoaderConfig and built-in loaders compiler Commit Description Add support for the instanceof binary operator Exhaustive checks for switch blocks support AstVisi",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v21.1.6",
+      "title": "21.1.6",
+      "url": "https://github.com/angular/angular/releases/tag/v21.1.6",
+      "publishedAt": "2026-02-25T19:20:42.000Z",
+      "summary": "common Commit Description fix LCP image detection with duplicate URLs compiler-cli Commit Description detect uninvoked functions in defer trigger expressions core Commit Description block creation of sensitive URI attributes from ICU messages Breaking Changes core Angular now only applies known attributes from HTML in ",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v21.2.0-rc.2",
+      "title": "21.2.0-rc.2",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v21.2.0-rc.2",
+      "publishedAt": "2026-02-24T10:43:38.000Z",
+      "summary": "@angular/cli Commit Description simplify Angular version compatibility checks and add special handling for local builds of new major versions",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v21.2.0-rc.1",
+      "title": "21.2.0-rc.1",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v21.2.0-rc.1",
+      "publishedAt": "2026-02-23T17:26:42.000Z",
+      "summary": "@angular/cli Commit Description validate package manager version using semver.valid and throw an error if invalid @angular/ssr Commit Description prevent open redirect via X-Forwarded-Prefix header validate host headers to prevent header-based SSRF",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v21.1.5",
+      "title": "21.1.5",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v21.1.5",
+      "publishedAt": "2026-02-23T17:16:42.000Z",
+      "summary": "@angular/ssr Commit Description prevent open redirect via X-Forwarded-Prefix header validate host headers to prevent header-based SSRF",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v20.3.17",
+      "title": "20.3.17",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v20.3.17",
+      "publishedAt": "2026-02-23T17:12:23.000Z",
+      "summary": "@angular/ssr Commit Description prevent open redirect via X-Forwarded-Prefix header validate host headers to prevent header-based SSRF",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v19.2.21",
+      "title": "19.2.21",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v19.2.21",
+      "publishedAt": "2026-02-23T17:04:58.000Z",
+      "summary": "@angular/ssr Commit Description prevent open redirect via X-Forwarded-Prefix header validate host headers to prevent header-based SSRF",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
     {
       "id": "tag:github.com,2008:Repository/24195339/v21.1.5",
       "title": "21.1.5",
@@ -57,9 +200,9 @@
       "tags": []
     },
     {
-      "id": "https://spring.io/blog/2026/02/19/spring-boot-3-5-11-available-now",
-      "title": "Spring Boot 3.5.11 available now",
-      "url": "https://spring.io/blog/2026/02/19/spring-boot-3-5-11-available-now",
+      "id": "https://spring.io/blog/2026/02/19/spring-amqp-4-1-0-m2-available",
+      "title": "Spring AMQP 4.1.0 Milestone 2 Available",
+      "url": "https://spring.io/blog/2026/02/19/spring-amqp-4-1-0-m2-available",
       "publishedAt": "2026-02-19T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
@@ -101,6 +244,24 @@
       "tags": []
     },
     {
+      "id": "https://foojay.io/?p=122736",
+      "title": "GlassFish 8 is here with Jakarta EE 11, virtual threads, and Jakarta Data",
+      "url": "https://foojay.io/today/glassfish-8-is-here-with-jakarta-ee-11-virtual-threads-and-jakarta-data/",
+      "publishedAt": "2026-02-18T16:06:02.000Z",
+      "summary": "Table of Contents OmniFish - Modern Jakarta EE Runtimes The final version of Eclipse GlassFish 8 is here, released on 5 February 2026. As a GlassFish committer, I'd like to share what it brings for the Java community and some behind-the-scenes ... The post GlassFish 8 is here with Jakarta EE 11, virtual threads, and Ja",
+      "sourceId": "foojay-release-notes",
+      "sourceName": "Foojay (Release Notes)",
+      "tech": "Java",
+      "tags": [
+        "Jakarta EE",
+        "Payara",
+        "Release Notes",
+        "Uncategorized",
+        "GlassFish",
+        "OmniFish"
+      ]
+    },
+    {
       "id": "https://medium.com/p/eefc4b05ddb6",
       "title": "Angular 21: Internal Mechanics, ARIA, and AI-Powered Coding!",
       "url": "https://blog.angular.dev/angular-21-internal-mechanics-aria-and-ai-powered-coding-eefc4b05ddb6?source=rss----447683c3d9a3---4",
@@ -126,44 +287,11 @@
       "tags": []
     },
     {
-      "id": "tag:github.com,2008:Repository/36891867/v21.2.0-next.2",
-      "title": "21.2.0-next.2",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v21.2.0-next.2",
-      "publishedAt": "2026-02-11T22:45:00.000Z",
-      "summary": "@angular/build Commit Description run vitest browser with playwright with OS theme correctly resolve absolute setup file paths in Vitest explicitly fail when using Vitest runtime mocking",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v21.1.4",
-      "title": "21.1.4",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v21.1.4",
-      "publishedAt": "2026-02-11T18:38:39.000Z",
-      "summary": "@angular/build Commit Description correctly resolve absolute setup file paths in Vitest",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
       "id": "tag:github.com,2008:Repository/24195339/v21.2.0-next.3",
       "title": "21.2.0-next.3",
       "url": "https://github.com/angular/angular/releases/tag/v21.2.0-next.3",
       "publishedAt": "2026-02-11T17:58:42.000Z",
       "summary": "common Commit Description add an 'outlet' injector option for ngTemplateOutlet support height in ImageLoaderConfig and built-in loaders compiler Commit Description add geolocation element to schema compiler-cli Commit Description update diagnostic to flag no-op arrow functions in listeners core Commit Description add s",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v21.1.4",
-      "title": "21.1.4",
-      "url": "https://github.com/angular/angular/releases/tag/v21.1.4",
-      "publishedAt": "2026-02-11T17:49:30.000Z",
-      "summary": "compiler Commit Description add geolocation element to schema core Commit Description capture animation dependencies eagerly to avoid destroyed injector Fix flakey test due to document injection forms Commit Description support signal-based schemas in validateStandardSchema http Commit Description correctly parse Array",
       "sourceId": "angular-releases",
       "sourceName": "Angular (GitHub Releases)",
       "tech": "Angular",
@@ -186,105 +314,6 @@
       ]
     },
     {
-      "id": "tag:github.com,2008:Repository/36891867/v20.3.16",
-      "title": "20.3.16",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v20.3.16",
-      "publishedAt": "2026-02-09T14:54:50.000Z",
-      "summary": "@angular/cli Commit Description update dependency @modelcontextprotocol/sdk to v1.26.0",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v21.2.0-next.1",
-      "title": "21.2.0-next.1",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v21.2.0-next.1",
-      "publishedAt": "2026-02-05T23:00:59.000Z",
-      "summary": "@schematics/angular Commit Description add actionable feedback to vitest-browser schematic warn when production configuration is missing for service worker @angular/cli Commit Description integrate file formatting into update migrations renamed files by their new path in the schematic workflow optimize package manager ",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v21.1.3",
-      "title": "21.1.3",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v21.1.3",
-      "publishedAt": "2026-02-05T20:52:09.000Z",
-      "summary": "@schematics/angular Commit Description warn when production configuration is missing for service worker @angular-devkit/build-angular Commit Description address Node.js deprecation DEP0190",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v21.2.0-next.2",
-      "title": "21.2.0-next.2",
-      "url": "https://github.com/angular/angular/releases/tag/v21.2.0-next.2",
-      "publishedAt": "2026-02-05T00:15:43.000Z",
-      "summary": "core Commit Description add ChangeDetectionStrategy.Eager alias for Default linkedSignal.update should propagate errors export DirectiveWithBindings hold constructors weakly in DepsTracker cache prevent element duplication with dynamic components forms Commit Description allow setting submit options at form-level intro",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v21.1.3",
-      "title": "21.1.3",
-      "url": "https://github.com/angular/angular/releases/tag/v21.1.3",
-      "publishedAt": "2026-02-05T00:06:27.000Z",
-      "summary": "core Commit Description linkedSignal.update should propagate errors export DirectiveWithBindings hold constructors weakly in DepsTracker cache prevent element duplication with dynamic components forms Commit Description Resolves debounce promise on abort in debounceForDuration localize Commit Description add support fo",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v21.2.0-next.1",
-      "title": "21.2.0-next.1",
-      "url": "https://github.com/angular/angular/releases/tag/v21.2.0-next.1",
-      "publishedAt": "2026-01-28T20:50:04.000Z",
-      "summary": "common Commit Description Add Location strategies to manage trailing slash on write forms Commit Description introduce parse errors in signal forms only touch visible, interactive fields on submit sort error summary by DOM order language-server Commit Description Support client-side file watching via onDidChangeWatched",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v21.1.2",
-      "title": "21.1.2",
-      "url": "https://github.com/angular/angular/releases/tag/v21.1.2",
-      "publishedAt": "2026-01-28T20:36:13.000Z",
-      "summary": "forms Commit Description only touch visible, interactive fields on submit language-service Commit Description Detect local project version on creation router Commit Description Do not intercept reload events with Navigation integration",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v21.2.0-next.0",
-      "title": "21.2.0-next.0",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v21.2.0-next.0",
-      "publishedAt": "2026-01-28T14:10:46.000Z",
-      "summary": "@schematics/angular Commit Description add a '.prettierrc' file to generated workspaces and add Prettier as dev dependency add ng-add support for Vitest browser providers @angular/cli Commit Description add markdown files to Prettier's formatting list automatic formatting files modified by schematics standardize MCP to",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v21.1.2",
-      "title": "21.1.2",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v21.1.2",
-      "publishedAt": "2026-01-28T10:12:54.000Z",
-      "summary": "@angular-devkit/schematics-cli Commit Description Add boolean type inference for 'true' and 'false' string values in argument parsing @angular-devkit/architect Commit Description Add boolean type inference for 'true' and 'false' string values in argument parsing @angular/build Commit Description loosen Vitest dependenc",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
       "id": "https://medium.com/p/7d0294475610",
       "title": "Community Stories, Code Samples, and Signal Forms!",
       "url": "https://blog.angular.dev/community-stories-code-samples-and-signal-forms-7d0294475610?source=rss----447683c3d9a3---4",
@@ -299,22 +328,11 @@
       ]
     },
     {
-      "id": "tag:github.com,2008:Repository/36891867/v21.1.1",
-      "title": "21.1.1",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v21.1.1",
-      "publishedAt": "2026-01-21T19:11:29.000Z",
-      "summary": "@schematics/angular Commit Description correct vscode MCP configuration for new projects remove special characters from jasmine-vitest report filename @angular/cli Commit Description Remove nonexistent link from MCP response @angular/build Commit Description allow application assets in workspace root prevent incorrect ",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
       "id": "https://foojay.io/?p=122427",
       "title": "OpenJDK January 2026 Critical Patch Update and Patch Set Update Released",
       "url": "https://foojay.io/today/openjdk-january-2026-critical-patch-update-and-patch-set-update-released/",
       "publishedAt": "2026-01-21T08:32:01.000Z",
-      "summary": "Table of Contents The Quarterly Update CycleCritical Patch Updates (CPU)Patch Set Updates (PSU)Difference With the Six-Month Release CycleDistributor AvailabilityIn this January ReleaseNext Steps The January 2026 OpenJDK quarterly updates are now (or will soon be) available from various OpenJDK distributors. ... The po",
+      "summary": "Table of Contents The Quarterly Update Cycle Critical Patch Updates (CPU) Patch Set Updates (PSU) Difference With the Six-Month Release CycleDistributor AvailabilityIn this January ReleaseNext Steps The January 2026 OpenJDK quarterly updates are now (or will soon be) available from ... The post OpenJDK January 2026 Cri",
       "sourceId": "foojay-release-notes",
       "sourceName": "Foojay (Release Notes)",
       "tech": "Java",
@@ -332,7 +350,7 @@
       "title": "BoxLang 1.9.0 Released: Production-Ready Stability and Enterprise-Grade Reliability",
       "url": "https://foojay.io/today/boxlang-1-9-0-released-production-ready-stability-and-enterprise-grade-reliability/",
       "publishedAt": "2026-01-12T11:16:19.000Z",
-      "summary": "Table of Contents Production-Ready EnhancementsKey Features and Code ExamplesArray-Based Form Field ParsingDatasource Lifecycle ManagementOracle Database ImprovementsEnhanced SOAP Client with Fluent APITechnical SpecificationsAvailability and LicensingAbout BoxLangAbout Ortus Solutions Houston, Texas – January 2025 – O",
+      "summary": "Table of Contents Production-Ready EnhancementsKey Features and Code Examples Array-Based Form Field Parsing Datasource Lifecycle Management Oracle Database Improvements Enhanced SOAP Client with Fluent API Technical SpecificationsAvailability and LicensingAbout BoxLangAbout Ortus Solutions Houston, Texas – January 202",
       "sourceId": "foojay-release-notes",
       "sourceName": "Foojay (Release Notes)",
       "tech": "Java",
@@ -555,20 +573,6 @@
         "web-development",
         "javascript",
         "angular"
-      ]
-    },
-    {
-      "id": "https://foojay.io/?p=116344",
-      "title": "Azul and JetBrains Collaborate to Enhance Runtime Performance for Kotlin Workloads",
-      "url": "https://foojay.io/today/azul-and-jetbrains-collaborate-to-enhance-runtime-performance-for-kotlin-workloads/",
-      "publishedAt": "2025-05-26T08:23:56.000Z",
-      "summary": "SUNNYVALE, Calif., — May 20, 2025 — Azul, the only company 100% focused on Java, and JetBrains, the leading provider of professional software development tools and creator of the Kotlin programming language, today announced a strategic technical collaboration to enhance the runtime performance ... The post Azul and Jet",
-      "sourceId": "foojay-release-notes",
-      "sourceName": "Foojay (Release Notes)",
-      "tech": "Java",
-      "tags": [
-        "Press",
-        "Release Notes"
       ]
     }
   ]
