@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-02-27T06:37:51.205Z",
+  "generatedAt": "2026-02-28T06:22:35.172Z",
   "items": [
+    {
+      "id": "https://medium.com/p/c2656249b799",
+      "title": "Security Advisory: Addressing Recent Vulnerabilities in Angular",
+      "url": "https://blog.angular.dev/security-advisory-addressing-recent-vulnerabilities-in-angular-c2656249b799?source=rss----447683c3d9a3---4",
+      "publishedAt": "2026-02-27T20:40:44.000Z",
+      "summary": "",
+      "sourceId": "angular-blog",
+      "sourceName": "Angular Blog",
+      "tech": "Angular",
+      "tags": [
+        "angular",
+        "angular-security-update"
+      ]
+    },
     {
       "id": "tag:github.com,2008:Repository/36891867/v20.3.18",
       "title": "20.3.18",
@@ -200,9 +214,9 @@
       "tags": []
     },
     {
-      "id": "https://spring.io/blog/2026/02/19/spring-amqp-4-1-0-m2-available",
-      "title": "Spring AMQP 4.1.0 Milestone 2 Available",
-      "url": "https://spring.io/blog/2026/02/19/spring-amqp-4-1-0-m2-available",
+      "id": "https://spring.io/blog/2026/02/19/spring-boot-3-5-11-available-now",
+      "title": "Spring Boot 3.5.11 available now",
+      "url": "https://spring.io/blog/2026/02/19/spring-boot-3-5-11-available-now",
       "publishedAt": "2026-02-19T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
@@ -555,23 +569,6 @@
       "tech": "Angular",
       "tags": [
         "profiling",
-        "angular"
-      ]
-    },
-    {
-      "id": "https://medium.com/p/b5c9c06cf301",
-      "title": "Announcing Angular v20",
-      "url": "https://blog.angular.dev/announcing-angular-v20-b5c9c06cf301?source=rss----447683c3d9a3---4",
-      "publishedAt": "2025-05-28T18:33:28.000Z",
-      "summary": "",
-      "sourceId": "angular-blog",
-      "sourceName": "Angular Blog",
-      "tech": "Angular",
-      "tags": [
-        "programming",
-        "typescript",
-        "web-development",
-        "javascript",
         "angular"
       ]
     }
