@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-28T06:22:35.172Z",
+  "generatedAt": "2026-03-03T06:36:09.954Z",
   "items": [
     {
       "id": "https://medium.com/p/c2656249b799",
@@ -214,9 +214,9 @@
       "tags": []
     },
     {
-      "id": "https://spring.io/blog/2026/02/19/spring-boot-3-5-11-available-now",
-      "title": "Spring Boot 3.5.11 available now",
-      "url": "https://spring.io/blog/2026/02/19/spring-boot-3-5-11-available-now",
+      "id": "https://spring.io/blog/2026/02/19/spring-amqp-4-1-0-m2-available",
+      "title": "Spring AMQP 4.1.0 Milestone 2 Available",
+      "url": "https://spring.io/blog/2026/02/19/spring-amqp-4-1-0-m2-available",
       "publishedAt": "2026-02-19T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
