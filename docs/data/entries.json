@@ -1,6 +1,98 @@
 {
-  "generatedAt": "2026-03-03T06:36:09.954Z",
+  "generatedAt": "2026-03-06T06:33:08.230Z",
   "items": [
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v22.0.0-next.0",
+      "title": "22.0.0-next.0",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v22.0.0-next.0",
+      "publishedAt": "2026-03-05T19:29:37.000Z",
+      "summary": "@angular/cli Commit Description reflect new minimum supported Node version in ng.js Commit Description update minimum supported Node.js versions remove @angular-devkit/architect-cli package remove experimental Jest and Web Test Runner builders @angular/build Commit Description support runtime Zone.js detection in Vites",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v22.0.0-next.1",
+      "title": "22.0.0-next.1",
+      "url": "https://github.com/angular/angular/releases/tag/v22.0.0-next.1",
+      "publishedAt": "2026-03-05T18:20:20.000Z",
+      "summary": "compiler Commit Description prevent mutation of children array in RecursiveVisitor compiler-cli Commit Description ignore generated ngDevMode signal branch for code coverage forms Commit Description add 'blur' option to debounce rule migrations Commit Description avoid generating invalid code in ChangeDetectionStrategy",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v21.2.1",
+      "title": "21.2.1",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v21.2.1",
+      "publishedAt": "2026-03-05T11:16:03.000Z",
+      "summary": "@schematics/angular Commit Description prevent adding test dependencies when minimal option is enabled @angular/cli Commit Description correct dev dependency detection logic in ng add disable npm update notifier in package manager host ensure group members are updated to targeted version ignore unknown files when forma",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/vsix-21.2.2",
+      "title": "VSCode Extension: 21.2.2",
+      "url": "https://github.com/angular/angular/releases/tag/vsix-21.2.2",
+      "publishedAt": "2026-03-04T20:41:11.000Z",
+      "summary": "fix(extension): bundle TypeScript 5.9 internally (da57d1af73)",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v22.0.0-next.0",
+      "title": "22.0.0-next.0",
+      "url": "https://github.com/angular/angular/releases/tag/v22.0.0-next.0",
+      "publishedAt": "2026-03-04T19:47:42.000Z",
+      "summary": "Commit Description update minimum supported Node.js versions compiler Commit Description Don't bind inputs/outputs for data- attributes throw on duplicate input/outputs throw on invalid in expressions compiler-cli Commit Description always parenthesize object literals in TCB core Commit Description add IdleRequestOptio",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v21.2.1",
+      "title": "21.2.1",
+      "url": "https://github.com/angular/angular/releases/tag/v21.2.1",
+      "publishedAt": "2026-03-04T19:34:09.000Z",
+      "summary": "core Commit Description adds transfer cache to httpResource to fix hydration prevent child animation elements from being orphaned Prevent removal of elements during drag and drop http Commit Description correctly cache blob responses in transfer cache (#67002)",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v20.3.19",
+      "title": "20.3.19",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v20.3.19",
+      "publishedAt": "2026-03-04T18:52:14.000Z",
+      "summary": "@angular-devkit/build-angular Commit Description update copy-webpack-plugin to v14.0.0",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "https://foojay.io/?p=122791",
+      "title": "Java 26: What’s New?",
+      "url": "https://foojay.io/today/java-26-whats-new/",
+      "publishedAt": "2026-03-03T10:00:28.000Z",
+      "summary": "Table of Contents JEP 500: Prepare to Make Final Mean FinalJEP 504: Remove the Applet APIJEP 516: Ahead-of-Time Object Caching with Any GCJEP 517: HTTP/3 for the HTTP Client APIJEP 522: G1 GC: Improve Throughput by Reducing SynchronizationUUIDv7 supportFeatures coming ... The post Java 26: What’s New? appeared first on",
+      "sourceId": "foojay-release-notes",
+      "sourceName": "Foojay (Release Notes)",
+      "tech": "Java",
+      "tags": [
+        "Java",
+        "JEPs",
+        "Release Notes"
+      ]
+    },
     {
       "id": "https://medium.com/p/c2656249b799",
       "title": "Security Advisory: Addressing Recent Vulnerabilities in Angular",
@@ -148,26 +240,28 @@
       "tags": []
     },
     {
-      "id": "tag:github.com,2008:Repository/36891867/v19.2.21",
-      "title": "19.2.21",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v19.2.21",
-      "publishedAt": "2026-02-23T17:04:58.000Z",
-      "summary": "@angular/ssr Commit Description prevent open redirect via X-Forwarded-Prefix header validate host headers to prevent header-based SSRF",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v21.1.5",
-      "title": "21.1.5",
-      "url": "https://github.com/angular/angular/releases/tag/v21.1.5",
-      "publishedAt": "2026-02-19T18:29:13.000Z",
-      "summary": "No user facing changes in this release",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
+      "id": "https://foojay.io/?p=122813",
+      "title": "Announcing Cloud-Native BoxLang for $5/Month",
+      "url": "https://foojay.io/today/announcing-cloud-native-boxlang-for-5-month/",
+      "publishedAt": "2026-02-23T16:39:44.000Z",
+      "summary": "Table of Contents Cloud-Native BoxLang Has Never Been Easier💰 Production-Ready for $5/Month🎯 Who Is This For?⚡ What You Get Out of the Box🚀 Deploy in 3 Clicks🔧 Grow Beyond the Basics🥊 Why BoxLang + DigitalOcean?📖 Get Started Today🎉 Ready to ... The post Announcing Cloud-Native BoxLang for $5/Month appeared first",
+      "sourceId": "foojay-release-notes",
+      "sourceName": "Foojay (Release Notes)",
+      "tech": "Java",
+      "tags": [
+        "BoxLang",
+        "Cloud",
+        "Press",
+        "Release Notes",
+        "AI Integration",
+        "bx-ai",
+        "Cloud Native",
+        "Enterprise",
+        "JVM",
+        "Microservices",
+        "orchestration",
+        "SaaS"
+      ]
     },
     {
       "id": "tag:github.com,2008:Repository/24195339/zone.js-0.16.1",
@@ -225,39 +319,6 @@
       "tags": []
     },
     {
-      "id": "tag:github.com,2008:Repository/24195339/vsix-21.2.0",
-      "title": "VSCode Extension: 21.2.0",
-      "url": "https://github.com/angular/angular/releases/tag/vsix-21.2.0",
-      "publishedAt": "2026-02-18T23:48:59.000Z",
-      "summary": "fix(vscode-extension): Highlight function calls with optional chaining (4f8d3995f0) feat(language-service): add linked editing ranges for HTML tag synchronization (8c21866f49) fix(vscode-extension): support highlighting for class bindings with brackets (01ed57f297) feat(language-service): add JSON schema for angularCom",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v21.2.0-rc.0",
-      "title": "21.2.0-rc.0",
-      "url": "https://github.com/angular/angular/releases/tag/v21.2.0-rc.0",
-      "publishedAt": "2026-02-18T22:38:32.000Z",
-      "summary": "compiler Commit Description Exhaustive checks for switch blocks core Commit Description add support for TypeScript 6 prevent animated element duplication with dynamic components in zoneless mode forms Commit Description add parsing support to native inputs (#66917) support binding null to number input (#66917) clear pa",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v21.2.0-rc.0",
-      "title": "21.2.0-rc.0",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v21.2.0-rc.0",
-      "publishedAt": "2026-02-18T21:56:49.000Z",
-      "summary": "No content.",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
       "id": "https://foojay.io/?p=122736",
       "title": "GlassFish 8 is here with Jakarta EE 11, virtual threads, and Jakarta Data",
       "url": "https://foojay.io/today/glassfish-8-is-here-with-jakarta-ee-11-virtual-threads-and-jakarta-data/",
@@ -288,28 +349,6 @@
         "angularcommunity",
         "angular"
       ]
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v19.2.20",
-      "title": "19.2.20",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v19.2.20",
-      "publishedAt": "2026-02-13T09:43:21.000Z",
-      "summary": "@angular-devkit/build-angular Commit Description update webpack to 5.105.0",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v21.2.0-next.3",
-      "title": "21.2.0-next.3",
-      "url": "https://github.com/angular/angular/releases/tag/v21.2.0-next.3",
-      "publishedAt": "2026-02-11T17:58:42.000Z",
-      "summary": "common Commit Description add an 'outlet' injector option for ngTemplateOutlet support height in ImageLoaderConfig and built-in loaders compiler Commit Description add geolocation element to schema compiler-cli Commit Description update diagnostic to flag no-op arrow functions in listeners core Commit Description add s",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
     },
     {
       "id": "https://medium.com/p/5fb47e059670",
@@ -485,20 +524,6 @@
       ]
     },
     {
-      "id": "https://foojay.io/?p=121536",
-      "title": "BoxLang v1.6.0 – Performance, AI-Powered Docs, and Advanced Async Monitoring",
-      "url": "https://foojay.io/today/boxlang-v1-6-0-performance-ai-powered-docs-and-advanced-async-monitoring-2/",
-      "publishedAt": "2025-10-29T06:48:07.000Z",
-      "summary": "Table of Contents 🚀 What's New in 1.6.0? 🤖 BoxLang Documentation Meets AI: MCP Server Integration Connect to the MCP Server: ⚡ Extreme Performance Optimizations: Up to 65% Faster Key Performance Enhancements: Real-World Performance Stats: 📊 Advanced Async Monitoring with ... The post BoxLang v1.6.0 – Performance, AI",
-      "sourceId": "foojay-release-notes",
-      "sourceName": "Foojay (Release Notes)",
-      "tech": "Java",
-      "tags": [
-        "BoxLang",
-        "Release Notes"
-      ]
-    },
-    {
       "id": "https://medium.com/p/3a3afde38f58",
       "title": "Angular support for generating apps in Google AI Studio is now available",
       "url": "https://blog.angular.dev/angular-support-for-generating-apps-in-google-ai-studio-is-now-available-3a3afde38f58?source=rss----447683c3d9a3---4",
@@ -511,20 +536,6 @@
         "gen-ai-tools",
         "angular",
         "gen-ai-for-business"
-      ]
-    },
-    {
-      "id": "https://foojay.io/?p=121256",
-      "title": "Azul’s High-Performance Java Platform Achieves Historic First with 10,000 Customer JVMs Collaborating and Sharing Performance Optimizations, Cutting Cloud Costs by 20%+",
-      "url": "https://foojay.io/today/azuls-high-performance-java-platform-achieves-historic-first-with-10000-customer-jvms-collaborating-and-sharing-performance-optimizations-cutting-cloud-costs-by-20/",
-      "publishedAt": "2025-09-17T16:49:56.000Z",
-      "summary": "Azul Platform Prime Achieves Historic First with 10,000+ JVMs Collaborating and Sharing Performance Optimizations, Cutting Cloud Costs by More than 20% Fleet-level advantages achieved for cloud-native Java applications with faster warm-up, smoother scaling and reduced cost SUNNYVALE, Calif. — September ... The post Azu",
-      "sourceId": "foojay-release-notes",
-      "sourceName": "Foojay (Release Notes)",
-      "tech": "Java",
-      "tags": [
-        "Performance",
-        "Release Notes"
       ]
     },
     {
