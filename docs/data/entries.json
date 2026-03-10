@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-03-09T06:46:44.431Z",
+  "generatedAt": "2026-03-10T06:34:27.434Z",
   "items": [
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v21.2.2",
+      "title": "21.2.2",
+      "url": "https://github.com/angular/angular/releases/tag/v21.2.2",
+      "publishedAt": "2026-03-09T18:11:47.000Z",
+      "summary": "compiler Commit Description prevent mutation of children array in RecursiveVisitor compiler-cli Commit Description always parenthesize object literals in TCB ignore generated ngDevMode signal branch for code coverage forms Commit Description add 'blur' option to debounce rule",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
     {
       "id": "tag:github.com,2008:Repository/36891867/v22.0.0-next.0",
       "title": "22.0.0-next.0",
@@ -264,17 +275,6 @@
       ]
     },
     {
-      "id": "tag:github.com,2008:Repository/24195339/zone.js-0.16.1",
-      "title": "zone.js-0.16.1",
-      "url": "https://github.com/angular/angular/releases/tag/zone.js-0.16.1",
-      "publishedAt": "2026-02-19T00:26:30.000Z",
-      "summary": "release: cut the zone.js-0.16.1 release",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
       "id": "https://spring.io/blog/2026/02/19/spring-modulith-2-1-m2-2-0-3-and-1-4-8-released",
       "title": "Spring Modulith 2.1 M2, 2.0.4, and 1.4.8 released",
       "url": "https://spring.io/blog/2026/02/19/spring-modulith-2-1-m2-2-0-3-and-1-4-8-released",
@@ -308,9 +308,9 @@
       "tags": []
     },
     {
-      "id": "https://spring.io/blog/2026/02/19/spring-boot-3-5-11-available-now",
-      "title": "Spring Boot 3.5.11 available now",
-      "url": "https://spring.io/blog/2026/02/19/spring-boot-3-5-11-available-now",
+      "id": "https://spring.io/blog/2026/02/19/spring-amqp-4-1-0-m2-available",
+      "title": "Spring AMQP 4.1.0 Milestone 2 Available",
+      "url": "https://spring.io/blog/2026/02/19/spring-amqp-4-1-0-m2-available",
       "publishedAt": "2026-02-19T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
