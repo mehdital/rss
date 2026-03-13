@@ -1,6 +1,127 @@
 {
-  "generatedAt": "2026-03-11T06:37:26.699Z",
+  "generatedAt": "2026-03-13T06:36:57.005Z",
   "items": [
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v19.2.20",
+      "title": "19.2.20",
+      "url": "https://github.com/angular/angular/releases/tag/v19.2.20",
+      "publishedAt": "2026-03-12T20:42:44.000Z",
+      "summary": "compiler Commit Description disallow translations of iframe src core Commit Description sanitize translated attribute bindings with interpolations sanitize translated form attributes",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v20.3.18",
+      "title": "20.3.18",
+      "url": "https://github.com/angular/angular/releases/tag/v20.3.18",
+      "publishedAt": "2026-03-12T19:22:42.000Z",
+      "summary": "compiler Commit Description disallow translations of iframe src core Commit Description sanitize translated attribute bindings with interpolations sanitize translated form attributes",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v22.0.0-next.3",
+      "title": "22.0.0-next.3",
+      "url": "https://github.com/angular/angular/releases/tag/v22.0.0-next.3",
+      "publishedAt": "2026-03-12T19:12:52.000Z",
+      "summary": "compiler Commit Description disallow translations of iframe src core Commit Description reverts \"feat(core): add support for nested animations\" sanitize translated form attributes",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v21.2.4",
+      "title": "21.2.4",
+      "url": "https://github.com/angular/angular/releases/tag/v21.2.4",
+      "publishedAt": "2026-03-12T18:58:05.000Z",
+      "summary": "compiler Commit Description disallow translations of iframe src core Commit Description reverts \"feat(core): add support for nested animations\" sanitize translated form attributes",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/vsix-21.2.3",
+      "title": "VSCode Extension: 21.2.3",
+      "url": "https://github.com/angular/angular/releases/tag/vsix-21.2.3",
+      "publishedAt": "2026-03-11T21:10:18.000Z",
+      "summary": "This release contains internal refactorings only.",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v22.0.0-next.2",
+      "title": "22.0.0-next.2",
+      "url": "https://github.com/angular/angular/releases/tag/v22.0.0-next.2",
+      "publishedAt": "2026-03-11T20:10:40.000Z",
+      "summary": "core Commit Description allow debouncing signals ensure definitions compile include signal debug names in their toString() representation sanitize translated attribute bindings with interpolations remove createNgModuleRef forms Commit Description restrict SignalFormsConfig to a readonly API language-service Commit Desc",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v21.2.3",
+      "title": "21.2.3",
+      "url": "https://github.com/angular/angular/releases/tag/v21.2.3",
+      "publishedAt": "2026-03-11T19:03:17.000Z",
+      "summary": "core Commit Description ensure definitions compile include signal debug names in their toString() representation sanitize translated attribute bindings with interpolations",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v22.0.0-next.1",
+      "title": "22.0.0-next.1",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v22.0.0-next.1",
+      "publishedAt": "2026-03-11T13:08:48.000Z",
+      "summary": "@angular/cli Commit Description conditionally quote package names when adding dependencies based on host requirements preserve exact version in ng add when requested update zoneless migration tool to handle ChangeDetectionStrategy.Eager avoid redundant package version resolution in ng add cache root manifest and resolv",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v21.2.2",
+      "title": "21.2.2",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v21.2.2",
+      "publishedAt": "2026-03-11T13:03:54.000Z",
+      "summary": "@angular/cli Commit Description conditionally quote package names when adding dependencies based on host requirements preserve exact version in ng add when requested avoid redundant package version resolution in ng add @angular/build Commit Description allow any CHROME_BIN for vitest playwright provider normalize line ",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v20.3.20",
+      "title": "20.3.20",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v20.3.20",
+      "publishedAt": "2026-03-11T12:57:50.000Z",
+      "summary": "@angular/build Commit Description pass process environment variables to prerender workers",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "https://spring.io/blog/2026/03/11/spring-tools-5-1-0-released",
+      "title": "Spring Tools 5.1.0 released",
+      "url": "https://spring.io/blog/2026/03/11/spring-tools-5-1-0-released",
+      "publishedAt": "2026-03-11T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
     {
       "id": "tag:github.com,2008:Repository/24195339/v21.2.2",
       "title": "21.2.2",
@@ -51,28 +172,6 @@
       "url": "https://github.com/angular/angular/releases/tag/vsix-21.2.2",
       "publishedAt": "2026-03-04T20:41:11.000Z",
       "summary": "fix(extension): bundle TypeScript 5.9 internally (da57d1af73)",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v22.0.0-next.0",
-      "title": "22.0.0-next.0",
-      "url": "https://github.com/angular/angular/releases/tag/v22.0.0-next.0",
-      "publishedAt": "2026-03-04T19:47:42.000Z",
-      "summary": "Commit Description update minimum supported Node.js versions compiler Commit Description Don't bind inputs/outputs for data- attributes throw on duplicate input/outputs throw on invalid in expressions compiler-cli Commit Description always parenthesize object literals in TCB core Commit Description add IdleRequestOptio",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v21.2.1",
-      "title": "21.2.1",
-      "url": "https://github.com/angular/angular/releases/tag/v21.2.1",
-      "publishedAt": "2026-03-04T19:34:09.000Z",
-      "summary": "core Commit Description adds transfer cache to httpResource to fix hydration prevent child animation elements from being orphaned Prevent removal of elements during drag and drop http Commit Description correctly cache blob responses in transfer cache (#67002)",
       "sourceId": "angular-releases",
       "sourceName": "Angular (GitHub Releases)",
       "tech": "Angular",
@@ -141,17 +240,6 @@
       "tags": []
     },
     {
-      "id": "tag:github.com,2008:Repository/24195339/vsix-21.2.1",
-      "title": "VSCode Extension: 21.2.1",
-      "url": "https://github.com/angular/angular/releases/tag/vsix-21.2.1",
-      "publishedAt": "2026-02-25T23:35:42.000Z",
-      "summary": "perf(language-service): use lightweight project warmup for Angular analysis (d2137928e8)",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
       "id": "tag:github.com,2008:Repository/36891867/v21.2.0",
       "title": "21.2.0",
       "url": "https://github.com/angular/angular-cli/releases/tag/v21.2.0",
@@ -159,50 +247,6 @@
       "summary": "@schematics/angular Commit Description add a '.prettierrc' file to generated workspaces and add Prettier as dev dependency add ng-add support for Vitest browser providers add actionable feedback to vitest-browser schematic @angular/cli Commit Description add markdown files to Prettier's formatting list automatic format",
       "sourceId": "angular-cli-releases",
       "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v19.2.19",
-      "title": "19.2.19",
-      "url": "https://github.com/angular/angular/releases/tag/v19.2.19",
-      "publishedAt": "2026-02-25T20:43:06.000Z",
-      "summary": "core Commit Description block creation of sensitive URI attributes from ICU messages Breaking Changes core Angular now only applies known attributes from HTML in translated ICU content. Unknown attributes are dropped and not rendered. (cherry picked from commit 03da204)",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v20.3.17",
-      "title": "20.3.17",
-      "url": "https://github.com/angular/angular/releases/tag/v20.3.17",
-      "publishedAt": "2026-02-25T20:05:59.000Z",
-      "summary": "core Commit Description block creation of sensitive URI attributes from ICU messages Breaking Changes core Angular now only applies known attributes from HTML in translated ICU content. Unknown attributes are dropped and not rendered. (cherry picked from commit 03da204)",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v21.2.0",
-      "title": "21.2.0",
-      "url": "https://github.com/angular/angular/releases/tag/v21.2.0",
-      "publishedAt": "2026-02-25T19:29:11.000Z",
-      "summary": "common Commit Description add an 'outlet' injector option for ngTemplateOutlet Add Location strategies to manage trailing slash on write support height in ImageLoaderConfig and built-in loaders compiler Commit Description Add support for the instanceof binary operator Exhaustive checks for switch blocks support AstVisi",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v21.1.6",
-      "title": "21.1.6",
-      "url": "https://github.com/angular/angular/releases/tag/v21.1.6",
-      "publishedAt": "2026-02-25T19:20:42.000Z",
-      "summary": "common Commit Description fix LCP image detection with duplicate URLs compiler-cli Commit Description detect uninvoked functions in defer trigger expressions core Commit Description block creation of sensitive URI attributes from ICU messages Breaking Changes core Angular now only applies known attributes from HTML in ",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
       "tech": "Angular",
       "tags": []
     },
@@ -218,44 +262,11 @@
       "tags": []
     },
     {
-      "id": "tag:github.com,2008:Repository/36891867/v21.2.0-rc.1",
-      "title": "21.2.0-rc.1",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v21.2.0-rc.1",
-      "publishedAt": "2026-02-23T17:26:42.000Z",
-      "summary": "@angular/cli Commit Description validate package manager version using semver.valid and throw an error if invalid @angular/ssr Commit Description prevent open redirect via X-Forwarded-Prefix header validate host headers to prevent header-based SSRF",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v21.1.5",
-      "title": "21.1.5",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v21.1.5",
-      "publishedAt": "2026-02-23T17:16:42.000Z",
-      "summary": "@angular/ssr Commit Description prevent open redirect via X-Forwarded-Prefix header validate host headers to prevent header-based SSRF",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v20.3.17",
-      "title": "20.3.17",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v20.3.17",
-      "publishedAt": "2026-02-23T17:12:23.000Z",
-      "summary": "@angular/ssr Commit Description prevent open redirect via X-Forwarded-Prefix header validate host headers to prevent header-based SSRF",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
       "id": "https://foojay.io/?p=122813",
       "title": "Announcing Cloud-Native BoxLang for $5/Month",
       "url": "https://foojay.io/today/announcing-cloud-native-boxlang-for-5-month/",
       "publishedAt": "2026-02-23T16:39:44.000Z",
-      "summary": "Table of Contents Cloud-Native BoxLang Has Never Been Easier💰 Production-Ready for $5/Month🎯 Who Is This For?⚡ What You Get Out of the Box🚀 Deploy in 3 Clicks🔧 Grow Beyond the Basics🥊 Why BoxLang + DigitalOcean?📖 Get Started Today🎉 Ready to ... The post Announcing Cloud-Native BoxLang for $5/Month appeared first",
+      "summary": "Table of Contents Cloud-Native BoxLang Has Never Been Easier 💰 Production-Ready for $5/Month 🎯 Who Is This For? ⚡ What You Get Out of the Box 🚀 Deploy in 3 Clicks 🔧 Grow Beyond the Basics 🥊 Why BoxLang + ... The post Announcing Cloud-Native BoxLang for $5/Month appeared first on foojay.",
       "sourceId": "foojay-release-notes",
       "sourceName": "Foojay (Release Notes)",
       "tech": "Java",
@@ -300,17 +311,6 @@
       "id": "https://spring.io/blog/2026/02/19/spring-boot-4-0-3-available-now",
       "title": "Spring Boot 4.0.3 available now",
       "url": "https://spring.io/blog/2026/02/19/spring-boot-4-0-3-available-now",
-      "publishedAt": "2026-02-19T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
-      "tags": []
-    },
-    {
-      "id": "https://spring.io/blog/2026/02/19/spring-amqp-4-1-0-m2-available",
-      "title": "Spring AMQP 4.1.0 Milestone 2 Available",
-      "url": "https://spring.io/blog/2026/02/19/spring-amqp-4-1-0-m2-available",
       "publishedAt": "2026-02-19T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
