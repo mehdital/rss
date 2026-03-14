@@ -1,6 +1,54 @@
 {
-  "generatedAt": "2026-03-13T06:36:57.005Z",
+  "generatedAt": "2026-03-14T06:32:56.221Z",
   "items": [
+    {
+      "id": "https://medium.com/p/7aa1c1cf9550",
+      "title": "Modernize Your Workflow: AI Tooling, Deferrable Views, and the Era of Forms! ️",
+      "url": "https://blog.angular.dev/modernize-your-workflow-ai-tooling-deferrable-views-and-the-era-of-forms-%EF%B8%8F-7aa1c1cf9550?source=rss----447683c3d9a3---4",
+      "publishedAt": "2026-03-13T15:16:20.000Z",
+      "summary": "",
+      "sourceId": "angular-blog",
+      "sourceName": "Angular Blog",
+      "tech": "Angular",
+      "tags": [
+        "angular",
+        "angular-weekly-newsleter",
+        "angularcommunity"
+      ]
+    },
+    {
+      "id": "https://spring.io/blog/2026/03/13/spring-data-2026-0-0-M2-released",
+      "title": "Spring Data 2026.0.0-M2 released",
+      "url": "https://spring.io/blog/2026/03/13/spring-data-2026-0-0-M2-released",
+      "publishedAt": "2026-03-13T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "https://spring.io/blog/2026/03/13/spring-data-2024-1-4-and-2024-0-10-released",
+      "title": "Spring Data 2025.1.4 and 2025.0.10 released",
+      "url": "https://spring.io/blog/2026/03/13/spring-data-2024-1-4-and-2024-0-10-released",
+      "publishedAt": "2026-03-13T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "https://spring.io/blog/2026/03/13/spring-framework-6-2-17-and-7-0-6-available-now",
+      "title": "Spring Framework 6.2.17 and 7.0.6 Available Now",
+      "url": "https://spring.io/blog/2026/03/13/spring-framework-6-2-17-and-7-0-6-available-now",
+      "publishedAt": "2026-03-13T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
     {
       "id": "tag:github.com,2008:Repository/24195339/v19.2.20",
       "title": "19.2.20",
@@ -286,39 +334,6 @@
       ]
     },
     {
-      "id": "https://spring.io/blog/2026/02/19/spring-modulith-2-1-m2-2-0-3-and-1-4-8-released",
-      "title": "Spring Modulith 2.1 M2, 2.0.4, and 1.4.8 released",
-      "url": "https://spring.io/blog/2026/02/19/spring-modulith-2-1-m2-2-0-3-and-1-4-8-released",
-      "publishedAt": "2026-02-19T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
-      "tags": []
-    },
-    {
-      "id": "https://spring.io/blog/2026/02/19/spring-boot-4-1-0-M2-available-now",
-      "title": "Spring Boot 4.1.0-M2 available now",
-      "url": "https://spring.io/blog/2026/02/19/spring-boot-4-1-0-M2-available-now",
-      "publishedAt": "2026-02-19T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
-      "tags": []
-    },
-    {
-      "id": "https://spring.io/blog/2026/02/19/spring-boot-4-0-3-available-now",
-      "title": "Spring Boot 4.0.3 available now",
-      "url": "https://spring.io/blog/2026/02/19/spring-boot-4-0-3-available-now",
-      "publishedAt": "2026-02-19T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
-      "tags": []
-    },
-    {
       "id": "https://foojay.io/?p=122736",
       "title": "GlassFish 8 is here with Jakarta EE 11, virtual threads, and Jakarta Data",
       "url": "https://foojay.io/today/glassfish-8-is-here-with-jakarta-ee-11-virtual-threads-and-jakarta-data/",
@@ -566,20 +581,6 @@
       "tags": [
         "angular-summer-update",
         "angular-v20",
-        "angular"
-      ]
-    },
-    {
-      "id": "https://medium.com/p/0f9d8d36218a",
-      "title": "The Angular Custom Profiling Track is now available",
-      "url": "https://blog.angular.dev/the-angular-custom-profiling-track-is-now-available-0f9d8d36218a?source=rss----447683c3d9a3---4",
-      "publishedAt": "2025-07-02T19:38:06.000Z",
-      "summary": "",
-      "sourceId": "angular-blog",
-      "sourceName": "Angular Blog",
-      "tech": "Angular",
-      "tags": [
-        "profiling",
         "angular"
       ]
     }
