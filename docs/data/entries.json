@@ -1,26 +1,11 @@
 {
-  "generatedAt": "2026-03-16T07:03:08.521Z",
+  "generatedAt": "2026-03-18T06:48:44.027Z",
   "items": [
     {
-      "id": "https://medium.com/p/7aa1c1cf9550",
-      "title": "Modernize Your Workflow: AI Tooling, Deferrable Views, and the Era of Forms! ️",
-      "url": "https://blog.angular.dev/modernize-your-workflow-ai-tooling-deferrable-views-and-the-era-of-forms-%EF%B8%8F-7aa1c1cf9550?source=rss----447683c3d9a3---4",
-      "publishedAt": "2026-03-13T15:16:20.000Z",
-      "summary": "",
-      "sourceId": "angular-blog",
-      "sourceName": "Angular Blog",
-      "tech": "Angular",
-      "tags": [
-        "angular",
-        "angular-weekly-newsleter",
-        "angularcommunity"
-      ]
-    },
-    {
-      "id": "https://spring.io/blog/2026/03/13/spring-data-2026-0-0-M2-released",
-      "title": "Spring Data 2026.0.0-M2 released",
-      "url": "https://spring.io/blog/2026/03/13/spring-data-2026-0-0-M2-released",
-      "publishedAt": "2026-03-13T00:00:00.000Z",
+      "id": "https://spring.io/blog/2026/03/17/spring-ai-2-0-0-M3-and-1-1-3-and-1-0-4-available",
+      "title": "Spring AI 2.0.0-M3, 1.1.3 and 1.0.4 Available Now",
+      "url": "https://spring.io/blog/2026/03/17/spring-ai-2-0-0-M3-and-1-1-3-and-1-0-4-available",
+      "publishedAt": "2026-03-17T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
       "sourceName": "Spring Blog (Releases)",
@@ -28,10 +13,10 @@
       "tags": []
     },
     {
-      "id": "https://spring.io/blog/2026/03/13/spring-data-2024-1-4-and-2024-0-10-released",
-      "title": "Spring Data 2025.1.4 and 2025.0.10 released",
-      "url": "https://spring.io/blog/2026/03/13/spring-data-2024-1-4-and-2024-0-10-released",
-      "publishedAt": "2026-03-13T00:00:00.000Z",
+      "id": "https://spring.io/blog/2026/03/17/spring-ws-4-1-3-available-now",
+      "title": "Spring Web Services 4.1.3 available now",
+      "url": "https://spring.io/blog/2026/03/17/spring-ws-4-1-3-available-now",
+      "publishedAt": "2026-03-17T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
       "sourceName": "Spring Blog (Releases)",
@@ -39,10 +24,21 @@
       "tags": []
     },
     {
-      "id": "https://spring.io/blog/2026/03/13/spring-framework-6-2-17-and-7-0-6-available-now",
-      "title": "Spring Framework 6.2.17 and 7.0.6 Available Now",
-      "url": "https://spring.io/blog/2026/03/13/spring-framework-6-2-17-and-7-0-6-available-now",
-      "publishedAt": "2026-03-13T00:00:00.000Z",
+      "id": "https://spring.io/blog/2026/03/17/spring-ws-5-0-1-available-now",
+      "title": "Spring Web Services 5.0.1 available now",
+      "url": "https://spring.io/blog/2026/03/17/spring-ws-5-0-1-available-now",
+      "publishedAt": "2026-03-17T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "https://spring.io/blog/2026/03/17/spring-kafka-4",
+      "title": "Spring for Apache Kafka 4.1.0-M2, 4.0.4, and 3.3.14 Available",
+      "url": "https://spring.io/blog/2026/03/17/spring-kafka-4",
+      "publishedAt": "2026-03-17T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
       "sourceName": "Spring Blog (Releases)",
@@ -160,17 +156,6 @@
       "tags": []
     },
     {
-      "id": "https://spring.io/blog/2026/03/11/spring-tools-5-1-0-released",
-      "title": "Spring Tools 5.1.0 released",
-      "url": "https://spring.io/blog/2026/03/11/spring-tools-5-1-0-released",
-      "publishedAt": "2026-03-11T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
-      "tags": []
-    },
-    {
       "id": "tag:github.com,2008:Repository/24195339/v21.2.2",
       "title": "21.2.2",
       "url": "https://github.com/angular/angular/releases/tag/v21.2.2",
@@ -237,6 +222,23 @@
       "tags": []
     },
     {
+      "id": "https://foojay.io/?p=122884",
+      "title": "BoxLang Homebrew Installer Released",
+      "url": "https://foojay.io/today/boxlang-homebrew-installer-released/",
+      "publishedAt": "2026-03-03T12:34:03.000Z",
+      "summary": "Table of Contents Getting StartedOption 1: BVM — BoxLang Version ManagerOption 2: Quick Installer — Zero Friction SetupAlways Up to DateReady to Try It? We're excited to announce the official BoxLang Homebrew tap — the easiest way to get BoxLang ... The post BoxLang Homebrew Installer Released appeared first on foojay.",
+      "sourceId": "foojay-release-notes",
+      "sourceName": "Foojay (Release Notes)",
+      "tech": "Java",
+      "tags": [
+        "BoxLang",
+        "Developer Tools",
+        "Java",
+        "Release Notes",
+        "Tools"
+      ]
+    },
+    {
       "id": "https://foojay.io/?p=122791",
       "title": "Java 26: What’s New?",
       "url": "https://foojay.io/today/java-26-whats-new/",
@@ -249,20 +251,6 @@
         "Java",
         "JEPs",
         "Release Notes"
-      ]
-    },
-    {
-      "id": "https://medium.com/p/c2656249b799",
-      "title": "Security Advisory: Addressing Recent Vulnerabilities in Angular",
-      "url": "https://blog.angular.dev/security-advisory-addressing-recent-vulnerabilities-in-angular-c2656249b799?source=rss----447683c3d9a3---4",
-      "publishedAt": "2026-02-27T20:40:44.000Z",
-      "summary": "",
-      "sourceId": "angular-blog",
-      "sourceName": "Angular Blog",
-      "tech": "Angular",
-      "tags": [
-        "angular",
-        "angular-security-update"
       ]
     },
     {
@@ -349,50 +337,6 @@
         "Uncategorized",
         "GlassFish",
         "OmniFish"
-      ]
-    },
-    {
-      "id": "https://medium.com/p/eefc4b05ddb6",
-      "title": "Angular 21: Internal Mechanics, ARIA, and AI-Powered Coding!",
-      "url": "https://blog.angular.dev/angular-21-internal-mechanics-aria-and-ai-powered-coding-eefc4b05ddb6?source=rss----447683c3d9a3---4",
-      "publishedAt": "2026-02-17T17:58:47.000Z",
-      "summary": "",
-      "sourceId": "angular-blog",
-      "sourceName": "Angular Blog",
-      "tech": "Angular",
-      "tags": [
-        "angularcommunity",
-        "angular"
-      ]
-    },
-    {
-      "id": "https://medium.com/p/5fb47e059670",
-      "title": "Global Expertise: AI Blueprints, Resource API Fixes, and Angular v20",
-      "url": "https://blog.angular.dev/global-expertise-ai-blueprints-resource-api-fixes-and-angular-v20-5fb47e059670?source=rss----447683c3d9a3---4",
-      "publishedAt": "2026-02-09T15:47:41.000Z",
-      "summary": "",
-      "sourceId": "angular-blog",
-      "sourceName": "Angular Blog",
-      "tech": "Angular",
-      "tags": [
-        "angularcommunity",
-        "angular-french",
-        "angular-spanish",
-        "angular"
-      ]
-    },
-    {
-      "id": "https://medium.com/p/7d0294475610",
-      "title": "Community Stories, Code Samples, and Signal Forms!",
-      "url": "https://blog.angular.dev/community-stories-code-samples-and-signal-forms-7d0294475610?source=rss----447683c3d9a3---4",
-      "publishedAt": "2026-01-23T17:37:39.000Z",
-      "summary": "",
-      "sourceId": "angular-blog",
-      "sourceName": "Angular Blog",
-      "tech": "Angular",
-      "tags": [
-        "angularcommunity",
-        "angular-gde"
       ]
     },
     {
@@ -491,97 +435,6 @@
         "BoxLang",
         "Redis",
         "Release Notes"
-      ]
-    },
-    {
-      "id": "https://medium.com/p/57946c34f14b",
-      "title": "Announcing Angular v21",
-      "url": "https://blog.angular.dev/announcing-angular-v21-57946c34f14b?source=rss----447683c3d9a3---4",
-      "publishedAt": "2025-11-19T22:35:29.000Z",
-      "summary": "",
-      "sourceId": "angular-blog",
-      "sourceName": "Angular Blog",
-      "tech": "Angular",
-      "tags": [
-        "angular-mcp",
-        "angular",
-        "angular-v21",
-        "aiangular"
-      ]
-    },
-    {
-      "id": "https://foojay.io/?p=121721",
-      "title": "BoxLang 1.7.0 Delivers Streaming, Distributed Caching, and Enhanced JVM Performance",
-      "url": "https://foojay.io/today/boxlang-1-7-0-delivers-streaming-distributed-caching-and-enhanced-jvm-performance/",
-      "publishedAt": "2025-11-11T12:59:50.000Z",
-      "summary": "Table of Contents Real-Time Streaming with Server-Sent EventsEnterprise-Ready Distributed CachingAdvanced Code Analysis with BoxAST()Bytecode Compatibility VersioningPerformance & Stability EnhancementsOpen and Professional EcosystemAvailability & ResourcesAbout BoxLangAbout Ortus Solutions Dynamic JVM Language Adds Se",
-      "sourceId": "foojay-release-notes",
-      "sourceName": "Foojay (Release Notes)",
-      "tech": "Java",
-      "tags": [
-        "BoxLang",
-        "Press",
-        "Release Notes"
-      ]
-    },
-    {
-      "id": "https://medium.com/p/5a393b32dd30",
-      "title": "Handling Time and Mock Clocks in Tests",
-      "url": "https://blog.angular.dev/handling-time-and-mock-clocks-in-tests-5a393b32dd30?source=rss----447683c3d9a3---4",
-      "publishedAt": "2025-11-07T01:01:25.000Z",
-      "summary": "",
-      "sourceId": "angular-blog",
-      "sourceName": "Angular Blog",
-      "tech": "Angular",
-      "tags": [
-        "angular",
-        "software-testing"
-      ]
-    },
-    {
-      "id": "https://medium.com/p/3a3afde38f58",
-      "title": "Angular support for generating apps in Google AI Studio is now available",
-      "url": "https://blog.angular.dev/angular-support-for-generating-apps-in-google-ai-studio-is-now-available-3a3afde38f58?source=rss----447683c3d9a3---4",
-      "publishedAt": "2025-10-02T17:43:53.000Z",
-      "summary": "",
-      "sourceId": "angular-blog",
-      "sourceName": "Angular Blog",
-      "tech": "Angular",
-      "tags": [
-        "gen-ai-tools",
-        "angular",
-        "gen-ai-for-business"
-      ]
-    },
-    {
-      "id": "https://medium.com/p/7a7ed706e1a3",
-      "title": "Beyond the Horizon: How Angular is Embracing AI for Next-Gen Apps",
-      "url": "https://blog.angular.dev/beyond-the-horizon-how-angular-is-embracing-ai-for-next-gen-apps-7a7ed706e1a3?source=rss----447683c3d9a3---4",
-      "publishedAt": "2025-09-16T16:01:49.000Z",
-      "summary": "",
-      "sourceId": "angular-blog",
-      "sourceName": "Angular Blog",
-      "tech": "Angular",
-      "tags": [
-        "angular",
-        "codegen",
-        "ai",
-        "llm"
-      ]
-    },
-    {
-      "id": "https://medium.com/p/1987592a0b42",
-      "title": "Angular Summer Update 2025",
-      "url": "https://blog.angular.dev/angular-summer-update-2025-1987592a0b42?source=rss----447683c3d9a3---4",
-      "publishedAt": "2025-08-29T20:51:40.000Z",
-      "summary": "",
-      "sourceId": "angular-blog",
-      "sourceName": "Angular Blog",
-      "tech": "Angular",
-      "tags": [
-        "angular-summer-update",
-        "angular-v20",
-        "angular"
       ]
     }
   ]
