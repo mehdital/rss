@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-03-19T06:43:00.388Z",
+  "generatedAt": "2026-03-20T06:39:43.335Z",
   "items": [
+    {
+      "id": "https://spring.io/blog/2026/03/20/spring-boot-4-1-0-M3-available-now",
+      "title": "Spring Boot 4.1.0-M3 available now",
+      "url": "https://spring.io/blog/2026/03/20/spring-boot-4-1-0-M3-available-now",
+      "publishedAt": "2026-03-20T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v20.3.21",
+      "title": "20.3.21",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v20.3.21",
+      "publishedAt": "2026-03-19T13:35:53.000Z",
+      "summary": "@angular/ssr Commit Description disallow x-forwarded-prefix starting with a backslash ensure unique values in redirect response Vary header support custom headers in redirect responses",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
     {
       "id": "tag:github.com,2008:Repository/24195339/v22.0.0-next.4",
       "title": "22.0.0-next.4",
@@ -10,6 +32,39 @@
       "sourceId": "angular-releases",
       "sourceName": "Angular (GitHub Releases)",
       "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "https://spring.io/blog/2026/03/19/spring-boot-3-5-12-available-now",
+      "title": "Spring Boot 3.5.12 available now",
+      "url": "https://spring.io/blog/2026/03/19/spring-boot-3-5-12-available-now",
+      "publishedAt": "2026-03-19T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "https://spring.io/blog/2026/03/19/spring-security-6-5-9-and-7-0-4-and-7-1-0-M3-available-now",
+      "title": "Spring Security 6.5.9, 7.0.4 and 7.1.0-M3 available now",
+      "url": "https://spring.io/blog/2026/03/19/spring-security-6-5-9-and-7-0-4-and-7-1-0-M3-available-now",
+      "publishedAt": "2026-03-19T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "https://spring.io/blog/2026/03/19/spring-boot-4-0-4-available-now",
+      "title": "Spring Boot 4.0.4 available now",
+      "url": "https://spring.io/blog/2026/03/19/spring-boot-4-0-4-available-now",
+      "publishedAt": "2026-03-19T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
       "tags": []
     },
     {
@@ -43,50 +98,6 @@
       "sourceId": "angular-cli-releases",
       "sourceName": "Angular CLI (GitHub Releases)",
       "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "https://spring.io/blog/2026/03/18/spring-integration-7-1-0-m3-available",
-      "title": "Spring Integration 7.1.0-M3 Available",
-      "url": "https://spring.io/blog/2026/03/18/spring-integration-7-1-0-m3-available",
-      "publishedAt": "2026-03-18T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
-      "tags": []
-    },
-    {
-      "id": "https://spring.io/blog/2026/03/18/spring-amqp-4-1-0-m3-available",
-      "title": "Spring AMQP 4.1.0 Milestone 3 Available",
-      "url": "https://spring.io/blog/2026/03/18/spring-amqp-4-1-0-m3-available",
-      "publishedAt": "2026-03-18T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
-      "tags": []
-    },
-    {
-      "id": "https://spring.io/blog/2026/03/17/spring-ai-2-0-0-M3-and-1-1-3-and-1-0-4-available",
-      "title": "Spring AI 2.0.0-M3, 1.1.3 and 1.0.4 Available Now",
-      "url": "https://spring.io/blog/2026/03/17/spring-ai-2-0-0-M3-and-1-1-3-and-1-0-4-available",
-      "publishedAt": "2026-03-17T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
-      "tags": []
-    },
-    {
-      "id": "https://spring.io/blog/2026/03/17/spring-ws-4-1-3-available-now",
-      "title": "Spring Web Services 4.1.3 available now",
-      "url": "https://spring.io/blog/2026/03/17/spring-ws-4-1-3-available-now",
-      "publishedAt": "2026-03-17T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
       "tags": []
     },
     {
@@ -309,17 +320,6 @@
       "title": "20.3.18",
       "url": "https://github.com/angular/angular-cli/releases/tag/v20.3.18",
       "publishedAt": "2026-02-26T21:13:09.000Z",
-      "summary": "@angular-devkit/core Commit Description update ajv to 8.18.0 @angular/build Commit Description update rollup to 4.59.0",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v19.2.22",
-      "title": "19.2.22",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v19.2.22",
-      "publishedAt": "2026-02-26T19:46:11.000Z",
       "summary": "@angular-devkit/core Commit Description update ajv to 8.18.0 @angular/build Commit Description update rollup to 4.59.0",
       "sourceId": "angular-cli-releases",
       "sourceName": "Angular CLI (GitHub Releases)",
