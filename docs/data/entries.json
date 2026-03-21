@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-20T06:39:43.335Z",
+  "generatedAt": "2026-03-21T06:29:06.953Z",
   "items": [
     {
       "id": "https://spring.io/blog/2026/03/20/spring-boot-4-1-0-M3-available-now",
@@ -46,9 +46,9 @@
       "tags": []
     },
     {
-      "id": "https://spring.io/blog/2026/03/19/spring-security-6-5-9-and-7-0-4-and-7-1-0-M3-available-now",
-      "title": "Spring Security 6.5.9, 7.0.4 and 7.1.0-M3 available now",
-      "url": "https://spring.io/blog/2026/03/19/spring-security-6-5-9-and-7-0-4-and-7-1-0-M3-available-now",
+      "id": "https://spring.io/blog/2026/03/19/spring-boot-4-0-4-available-now",
+      "title": "Spring Boot 4.0.4 available now",
+      "url": "https://spring.io/blog/2026/03/19/spring-boot-4-0-4-available-now",
       "publishedAt": "2026-03-19T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
@@ -57,9 +57,9 @@
       "tags": []
     },
     {
-      "id": "https://spring.io/blog/2026/03/19/spring-boot-4-0-4-available-now",
-      "title": "Spring Boot 4.0.4 available now",
-      "url": "https://spring.io/blog/2026/03/19/spring-boot-4-0-4-available-now",
+      "id": "https://spring.io/blog/2026/03/19/spring-security-6-5-9-and-7-0-4-and-7-1-0-M3-available-now",
+      "title": "Spring Security 6.5.9, 7.0.4 and 7.1.0-M3 available now",
+      "url": "https://spring.io/blog/2026/03/19/spring-security-6-5-9-and-7-0-4-and-7-1-0-M3-available-now",
       "publishedAt": "2026-03-19T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
