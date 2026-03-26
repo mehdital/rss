@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-03-22T06:36:32.508Z",
+  "generatedAt": "2026-03-26T06:55:09.104Z",
   "items": [
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v22.0.0-next.5",
+      "title": "22.0.0-next.5",
+      "url": "https://github.com/angular/angular/releases/tag/v22.0.0-next.5",
+      "publishedAt": "2026-03-25T23:04:35.000Z",
+      "summary": "common Commit Description avoid redundant image fetch on destroy with auto sizes compiler Commit Description Support comments in html element. abstract emitter producing incorrect code for dynamic imports prevent shimCssText from adding extra blank lines per CSS comment compiler-cli Commit Description introduce NG8023 ",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v21.2.6",
+      "title": "21.2.6",
+      "url": "https://github.com/angular/angular/releases/tag/v21.2.6",
+      "publishedAt": "2026-03-25T22:42:12.000Z",
+      "summary": "common Commit Description avoid redundant image fetch on destroy with auto sizes compiler Commit Description prevent shimCssText from adding extra blank lines per CSS comment core Commit Description fixes a regression with animate.leave and reordering migrations Commit Description inject migration not work in multi-pro",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "https://spring.io/blog/2026/03/23/spring-cloud-config-5-0-2-4-3-2-4-2-6-4-1-9-3-1-13-released",
+      "title": "Spring Cloud Config 5.0.2, 4.3.2, 4.2.6, 4.1.9, 3.1.13 Released, includes fix for CVE-2026-22739",
+      "url": "https://spring.io/blog/2026/03/23/spring-cloud-config-5-0-2-4-3-2-4-2-6-4-1-9-3-1-13-released",
+      "publishedAt": "2026-03-23T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
     {
       "id": "https://spring.io/blog/2026/03/20/spring-boot-4-1-0-M3-available-now",
       "title": "Spring Boot 4.1.0-M3 available now",
@@ -35,17 +68,6 @@
       "tags": []
     },
     {
-      "id": "https://spring.io/blog/2026/03/19/spring-boot-3-5-12-available-now",
-      "title": "Spring Boot 3.5.12 available now",
-      "url": "https://spring.io/blog/2026/03/19/spring-boot-3-5-12-available-now",
-      "publishedAt": "2026-03-19T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
-      "tags": []
-    },
-    {
       "id": "https://spring.io/blog/2026/03/19/spring-boot-4-0-4-available-now",
       "title": "Spring Boot 4.0.4 available now",
       "url": "https://spring.io/blog/2026/03/19/spring-boot-4-0-4-available-now",
@@ -57,9 +79,9 @@
       "tags": []
     },
     {
-      "id": "https://spring.io/blog/2026/03/19/spring-security-6-5-9-and-7-0-4-and-7-1-0-M3-available-now",
-      "title": "Spring Security 6.5.9, 7.0.4 and 7.1.0-M3 available now",
-      "url": "https://spring.io/blog/2026/03/19/spring-security-6-5-9-and-7-0-4-and-7-1-0-M3-available-now",
+      "id": "https://spring.io/blog/2026/03/19/spring-boot-3-5-12-available-now",
+      "title": "Spring Boot 3.5.12 available now",
+      "url": "https://spring.io/blog/2026/03/19/spring-boot-3-5-12-available-now",
       "publishedAt": "2026-03-19T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
@@ -182,17 +204,6 @@
       "tags": []
     },
     {
-      "id": "tag:github.com,2008:Repository/24195339/v21.2.3",
-      "title": "21.2.3",
-      "url": "https://github.com/angular/angular/releases/tag/v21.2.3",
-      "publishedAt": "2026-03-11T19:03:17.000Z",
-      "summary": "core Commit Description ensure definitions compile include signal debug names in their toString() representation sanitize translated attribute bindings with interpolations",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
       "id": "tag:github.com,2008:Repository/36891867/v22.0.0-next.1",
       "title": "22.0.0-next.1",
       "url": "https://github.com/angular/angular-cli/releases/tag/v22.0.0-next.1",
@@ -222,17 +233,6 @@
       "summary": "@angular/build Commit Description pass process environment variables to prerender workers",
       "sourceId": "angular-cli-releases",
       "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v21.2.2",
-      "title": "21.2.2",
-      "url": "https://github.com/angular/angular/releases/tag/v21.2.2",
-      "publishedAt": "2026-03-09T18:11:47.000Z",
-      "summary": "compiler Commit Description prevent mutation of children array in RecursiveVisitor compiler-cli Commit Description always parenthesize object literals in TCB ignore generated ngDevMode signal branch for code coverage forms Commit Description add 'blur' option to debounce rule",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
       "tech": "Angular",
       "tags": []
     },
