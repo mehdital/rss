@@ -1,6 +1,119 @@
 {
-  "generatedAt": "2026-03-26T06:55:09.104Z",
+  "generatedAt": "2026-03-30T07:13:24.138Z",
   "items": [
+    {
+      "id": "https://medium.com/p/bdddad0cfa96",
+      "title": "Local AI, Reactive Routing, and the Vitest Migration! ⚡",
+      "url": "https://blog.angular.dev/local-ai-reactive-routing-and-the-vitest-migration-bdddad0cfa96?source=rss----447683c3d9a3---4",
+      "publishedAt": "2026-03-27T13:59:50.000Z",
+      "summary": "",
+      "sourceId": "angular-blog",
+      "sourceName": "Angular Blog",
+      "tech": "Angular",
+      "tags": [
+        "angular-weekly-newsletter",
+        "angular"
+      ]
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v21.2.5",
+      "title": "21.2.5",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v21.2.5",
+      "publishedAt": "2026-03-27T07:53:58.000Z",
+      "summary": "@angular/cli Commit Description support custom port in MCP devserver start tool @angular/ssr Commit Description allow underscores in host validation patch Headers.forEach in cloneRequestAndPatchHeaders",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v20.3.22",
+      "title": "20.3.22",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v20.3.22",
+      "publishedAt": "2026-03-27T07:48:58.000Z",
+      "summary": "@angular-devkit/build-angular Commit Description update picomatch to 4.0.4 @angular-devkit/core Commit Description update picomatch to 4.0.4 @angular/build Commit Description update picomatch to 4.0.4",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v19.2.23",
+      "title": "19.2.23",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v19.2.23",
+      "publishedAt": "2026-03-27T07:45:03.000Z",
+      "summary": "@angular/cli Commit Description update picomatch to 4.0.4 @angular-devkit/build-angular Commit Description update picomatch to 4.0.4 @angular-devkit/core Commit Description update picomatch to 4.0.4 @angular/build Commit Description update picomatch to 4.0.4",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "https://spring.io/blog/2026/03/27/spring-modulith-2-1-m4-2-0-5-and-1-4-10-released",
+      "title": "Spring Modulith 2.1 M4, 2.0.5, and 1.4.10 released",
+      "url": "https://spring.io/blog/2026/03/27/spring-modulith-2-1-m4-2-0-5-and-1-4-10-released",
+      "publishedAt": "2026-03-27T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v22.0.0-next.3",
+      "title": "22.0.0-next.3",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v22.0.0-next.3",
+      "publishedAt": "2026-03-26T10:45:05.000Z",
+      "summary": "@schematics/angular Commit Description rely on strict template default in generated workspaces @angular/cli Commit Description restore console methods after logger completes @angular/build Commit Description deduplicate and merge coverage excludes with vitest prevent reporter duplicates by explicitly overriding Vitest ",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v21.2.4",
+      "title": "21.2.4",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v21.2.4",
+      "publishedAt": "2026-03-26T10:33:44.000Z",
+      "summary": "@angular/cli Commit Description restore console methods after logger completes @angular/build Commit Description deduplicate and merge coverage excludes with vitest prevent reporter duplicates by explicitly overriding Vitest configuration remove default for unit-test coverage option warn about performance of test.exclu",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "https://spring.io/blog/2026/03/26/spring-ai-2-0-0-M4-and-1-1-4-and-1-0-5-available",
+      "title": "Spring AI 2.0.0-M4, 1.1.4 and 1.0.5 are available now",
+      "url": "https://spring.io/blog/2026/03/26/spring-ai-2-0-0-M4-and-1-1-4-and-1-0-5-available",
+      "publishedAt": "2026-03-26T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "https://spring.io/blog/2026/03/26/spring-boot-3-5-13-available-now",
+      "title": "Spring Boot 3.5.13 available now",
+      "url": "https://spring.io/blog/2026/03/26/spring-boot-3-5-13-available-now",
+      "publishedAt": "2026-03-26T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "https://spring.io/blog/2026/03/26/spring-boot-4-0-5-available-now",
+      "title": "Spring Boot 4.0.5 available now",
+      "url": "https://spring.io/blog/2026/03/26/spring-boot-4-0-5-available-now",
+      "publishedAt": "2026-03-26T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
     {
       "id": "tag:github.com,2008:Repository/24195339/v22.0.0-next.5",
       "title": "22.0.0-next.5",
@@ -24,28 +137,6 @@
       "tags": []
     },
     {
-      "id": "https://spring.io/blog/2026/03/23/spring-cloud-config-5-0-2-4-3-2-4-2-6-4-1-9-3-1-13-released",
-      "title": "Spring Cloud Config 5.0.2, 4.3.2, 4.2.6, 4.1.9, 3.1.13 Released, includes fix for CVE-2026-22739",
-      "url": "https://spring.io/blog/2026/03/23/spring-cloud-config-5-0-2-4-3-2-4-2-6-4-1-9-3-1-13-released",
-      "publishedAt": "2026-03-23T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
-      "tags": []
-    },
-    {
-      "id": "https://spring.io/blog/2026/03/20/spring-boot-4-1-0-M3-available-now",
-      "title": "Spring Boot 4.1.0-M3 available now",
-      "url": "https://spring.io/blog/2026/03/20/spring-boot-4-1-0-M3-available-now",
-      "publishedAt": "2026-03-20T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
-      "tags": []
-    },
-    {
       "id": "tag:github.com,2008:Repository/36891867/v20.3.21",
       "title": "20.3.21",
       "url": "https://github.com/angular/angular-cli/releases/tag/v20.3.21",
@@ -65,28 +156,6 @@
       "sourceId": "angular-releases",
       "sourceName": "Angular (GitHub Releases)",
       "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "https://spring.io/blog/2026/03/19/spring-boot-4-0-4-available-now",
-      "title": "Spring Boot 4.0.4 available now",
-      "url": "https://spring.io/blog/2026/03/19/spring-boot-4-0-4-available-now",
-      "publishedAt": "2026-03-19T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
-      "tags": []
-    },
-    {
-      "id": "https://spring.io/blog/2026/03/19/spring-boot-3-5-12-available-now",
-      "title": "Spring Boot 3.5.12 available now",
-      "url": "https://spring.io/blog/2026/03/19/spring-boot-3-5-12-available-now",
-      "publishedAt": "2026-03-19T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
       "tags": []
     },
     {
@@ -226,50 +295,6 @@
       "tags": []
     },
     {
-      "id": "tag:github.com,2008:Repository/36891867/v20.3.20",
-      "title": "20.3.20",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v20.3.20",
-      "publishedAt": "2026-03-11T12:57:50.000Z",
-      "summary": "@angular/build Commit Description pass process environment variables to prerender workers",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v22.0.0-next.0",
-      "title": "22.0.0-next.0",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v22.0.0-next.0",
-      "publishedAt": "2026-03-05T19:29:37.000Z",
-      "summary": "@angular/cli Commit Description reflect new minimum supported Node version in ng.js Commit Description update minimum supported Node.js versions remove @angular-devkit/architect-cli package remove experimental Jest and Web Test Runner builders @angular/build Commit Description support runtime Zone.js detection in Vites",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v21.2.1",
-      "title": "21.2.1",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v21.2.1",
-      "publishedAt": "2026-03-05T11:16:03.000Z",
-      "summary": "@schematics/angular Commit Description prevent adding test dependencies when minimal option is enabled @angular/cli Commit Description correct dev dependency detection logic in ng add disable npm update notifier in package manager host ensure group members are updated to targeted version ignore unknown files when forma",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v20.3.19",
-      "title": "20.3.19",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v20.3.19",
-      "publishedAt": "2026-03-04T18:52:14.000Z",
-      "summary": "@angular-devkit/build-angular Commit Description update copy-webpack-plugin to v14.0.0",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
       "id": "https://foojay.io/?p=122884",
       "title": "BoxLang Homebrew Installer Released",
       "url": "https://foojay.io/today/boxlang-homebrew-installer-released/",
@@ -314,17 +339,6 @@
         "angular",
         "angular-security-update"
       ]
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v20.3.18",
-      "title": "20.3.18",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v20.3.18",
-      "publishedAt": "2026-02-26T21:13:09.000Z",
-      "summary": "@angular-devkit/core Commit Description update ajv to 8.18.0 @angular/build Commit Description update rollup to 4.59.0",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
     },
     {
       "id": "https://foojay.io/?p=122813",
@@ -569,21 +583,6 @@
         "codegen",
         "ai",
         "llm"
-      ]
-    },
-    {
-      "id": "https://medium.com/p/1987592a0b42",
-      "title": "Angular Summer Update 2025",
-      "url": "https://blog.angular.dev/angular-summer-update-2025-1987592a0b42?source=rss----447683c3d9a3---4",
-      "publishedAt": "2025-08-29T20:51:40.000Z",
-      "summary": "",
-      "sourceId": "angular-blog",
-      "sourceName": "Angular Blog",
-      "tech": "Angular",
-      "tags": [
-        "angular-summer-update",
-        "angular-v20",
-        "angular"
       ]
     }
   ]
