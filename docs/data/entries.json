@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-30T07:13:24.138Z",
+  "generatedAt": "2026-04-01T07:06:44.255Z",
   "items": [
     {
       "id": "https://medium.com/p/bdddad0cfa96",
@@ -104,9 +104,9 @@
       "tags": []
     },
     {
-      "id": "https://spring.io/blog/2026/03/26/spring-boot-4-0-5-available-now",
-      "title": "Spring Boot 4.0.5 available now",
-      "url": "https://spring.io/blog/2026/03/26/spring-boot-4-0-5-available-now",
+      "id": "https://spring.io/blog/2026/03/26/spring-boot-4-1-0-M4-available-now",
+      "title": "Spring Boot 4.1.0-M4 available now",
+      "url": "https://spring.io/blog/2026/03/26/spring-boot-4-1-0-M4-available-now",
       "publishedAt": "2026-03-26T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
