@@ -1,6 +1,50 @@
 {
-  "generatedAt": "2026-04-01T07:06:44.255Z",
+  "generatedAt": "2026-04-02T06:58:16.073Z",
   "items": [
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v22.0.0-next.6",
+      "title": "22.0.0-next.6",
+      "url": "https://github.com/angular/angular/releases/tag/v22.0.0-next.6",
+      "publishedAt": "2026-04-01T18:42:23.000Z",
+      "summary": "compiler Commit Description register SVG animation attributes in URL security context (#67797) compiler-cli Commit Description prevent recursive scope checks for invalid NgModule imports core Commit Description prevent binding unsafe attributes on SVG animation elements (#67797) resolve component import by exact specif",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v21.2.7",
+      "title": "21.2.7",
+      "url": "https://github.com/angular/angular/releases/tag/v21.2.7",
+      "publishedAt": "2026-04-01T18:36:04.000Z",
+      "summary": "compiler Commit Description register SVG animation attributes in URL security context (#67797) compiler-cli Commit Description prevent recursive scope checks for invalid NgModule imports core Commit Description prevent binding unsafe attributes on SVG animation elements (#67797) resolve component import by exact specif",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v22.0.0-next.4",
+      "title": "22.0.0-next.4",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v22.0.0-next.4",
+      "publishedAt": "2026-04-01T13:15:41.000Z",
+      "summary": "@angular/cli Commit Description support custom port in MCP devserver start tool fix sourceRoot resolution for MCP projects tool @angular/build Commit Description ensure transitive SCSS partial errors are tracked in watch mode ensure Vitest mock patching is executed only once preserve error stack traces during prerender",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v21.2.6",
+      "title": "21.2.6",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v21.2.6",
+      "publishedAt": "2026-04-01T13:08:07.000Z",
+      "summary": "@angular/cli Commit Description fix sourceRoot resolution for MCP projects tool @angular/build Commit Description ensure transitive SCSS partial errors are tracked in watch mode ensure Vitest mock patching is executed only once preserve error stack traces during prerendering scope CHROME_BIN executable path to individu",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
     {
       "id": "https://medium.com/p/bdddad0cfa96",
       "title": "Local AI, Reactive Routing, and the Vitest Migration! ⚡",
@@ -104,9 +148,9 @@
       "tags": []
     },
     {
-      "id": "https://spring.io/blog/2026/03/26/spring-boot-4-1-0-M4-available-now",
-      "title": "Spring Boot 4.1.0-M4 available now",
-      "url": "https://spring.io/blog/2026/03/26/spring-boot-4-1-0-M4-available-now",
+      "id": "https://spring.io/blog/2026/03/26/spring-boot-4-0-5-available-now",
+      "title": "Spring Boot 4.0.5 available now",
+      "url": "https://spring.io/blog/2026/03/26/spring-boot-4-0-5-available-now",
       "publishedAt": "2026-03-26T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
@@ -247,50 +291,6 @@
       "summary": "compiler Commit Description disallow translations of iframe src core Commit Description reverts \"feat(core): add support for nested animations\" sanitize translated form attributes",
       "sourceId": "angular-releases",
       "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/vsix-21.2.3",
-      "title": "VSCode Extension: 21.2.3",
-      "url": "https://github.com/angular/angular/releases/tag/vsix-21.2.3",
-      "publishedAt": "2026-03-11T21:10:18.000Z",
-      "summary": "This release contains internal refactorings only.",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v22.0.0-next.2",
-      "title": "22.0.0-next.2",
-      "url": "https://github.com/angular/angular/releases/tag/v22.0.0-next.2",
-      "publishedAt": "2026-03-11T20:10:40.000Z",
-      "summary": "core Commit Description allow debouncing signals ensure definitions compile include signal debug names in their toString() representation sanitize translated attribute bindings with interpolations remove createNgModuleRef forms Commit Description restrict SignalFormsConfig to a readonly API language-service Commit Desc",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v22.0.0-next.1",
-      "title": "22.0.0-next.1",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v22.0.0-next.1",
-      "publishedAt": "2026-03-11T13:08:48.000Z",
-      "summary": "@angular/cli Commit Description conditionally quote package names when adding dependencies based on host requirements preserve exact version in ng add when requested update zoneless migration tool to handle ChangeDetectionStrategy.Eager avoid redundant package version resolution in ng add cache root manifest and resolv",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v21.2.2",
-      "title": "21.2.2",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v21.2.2",
-      "publishedAt": "2026-03-11T13:03:54.000Z",
-      "summary": "@angular/cli Commit Description conditionally quote package names when adding dependencies based on host requirements preserve exact version in ng add when requested avoid redundant package version resolution in ng add @angular/build Commit Description allow any CHROME_BIN for vitest playwright provider normalize line ",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
       "tech": "Angular",
       "tags": []
     },
