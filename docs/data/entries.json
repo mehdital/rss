@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-04-02T06:58:16.073Z",
+  "generatedAt": "2026-04-03T06:55:57.783Z",
   "items": [
+    {
+      "id": "https://spring.io/blog/2026/04/02/spring-cloud-2025-0-2-aka-northfields-has-been-released",
+      "title": "Spring Cloud 2025.0.2 (aka Northfields) Has Been Released",
+      "url": "https://spring.io/blog/2026/04/02/spring-cloud-2025-0-2-aka-northfields-has-been-released",
+      "publishedAt": "2026-04-02T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
     {
       "id": "tag:github.com,2008:Repository/24195339/v22.0.0-next.6",
       "title": "22.0.0-next.6",
@@ -140,17 +151,6 @@
       "id": "https://spring.io/blog/2026/03/26/spring-boot-3-5-13-available-now",
       "title": "Spring Boot 3.5.13 available now",
       "url": "https://spring.io/blog/2026/03/26/spring-boot-3-5-13-available-now",
-      "publishedAt": "2026-03-26T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
-      "tags": []
-    },
-    {
-      "id": "https://spring.io/blog/2026/03/26/spring-boot-4-0-5-available-now",
-      "title": "Spring Boot 4.0.5 available now",
-      "url": "https://spring.io/blog/2026/03/26/spring-boot-4-0-5-available-now",
       "publishedAt": "2026-03-26T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
