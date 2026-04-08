@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-06T07:15:18.887Z",
+  "generatedAt": "2026-04-08T07:04:31.988Z",
   "items": [
     {
       "id": "https://spring.io/blog/2026/04/02/spring-cloud-2025-0-2-aka-northfields-has-been-released",
@@ -148,9 +148,9 @@
       "tags": []
     },
     {
-      "id": "https://spring.io/blog/2026/03/26/spring-boot-4-0-5-available-now",
-      "title": "Spring Boot 4.0.5 available now",
-      "url": "https://spring.io/blog/2026/03/26/spring-boot-4-0-5-available-now",
+      "id": "https://spring.io/blog/2026/03/26/spring-boot-3-5-13-available-now",
+      "title": "Spring Boot 3.5.13 available now",
+      "url": "https://spring.io/blog/2026/03/26/spring-boot-3-5-13-available-now",
       "publishedAt": "2026-03-26T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
