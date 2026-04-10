@@ -1,6 +1,72 @@
 {
-  "generatedAt": "2026-04-08T07:04:31.988Z",
+  "generatedAt": "2026-04-10T07:13:07.863Z",
   "items": [
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v20.3.23",
+      "title": "20.3.23",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v20.3.23",
+      "publishedAt": "2026-04-08T23:23:44.000Z",
+      "summary": "@angular/build Commit Description update vite to 7.3.2",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v19.2.24",
+      "title": "19.2.24",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v19.2.24",
+      "publishedAt": "2026-04-08T21:33:36.000Z",
+      "summary": "@angular/build Commit Description update vite to 6.4.2",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v22.0.0-next.5",
+      "title": "22.0.0-next.5",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v22.0.0-next.5",
+      "publishedAt": "2026-04-08T20:11:06.000Z",
+      "summary": "@angular/cli Commit Description handle missing package manager during analytics initialization @schematics/angular Commit Description add migrate-karma-to-vitest update migration add migration to add istanbul-lib-instrument add istanbul-lib-instrument to application/library generator dependencies @angular/build Commit ",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v22.0.0-next.7",
+      "title": "22.0.0-next.7",
+      "url": "https://github.com/angular/angular/releases/tag/v22.0.0-next.7",
+      "publishedAt": "2026-04-08T19:48:25.000Z",
+      "summary": "compiler Commit Description handle nested brackets in host object bindings compiler-cli Commit Description Adds warning for prefetch without main defer trigger error for type parameter declarations resolve TCB mapping failure for safe property reads with as any core Commit Description bootstrap via ApplicationRef with ",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v21.2.8",
+      "title": "21.2.8",
+      "url": "https://github.com/angular/angular/releases/tag/v21.2.8",
+      "publishedAt": "2026-04-08T19:31:49.000Z",
+      "summary": "compiler Commit Description handle nested brackets in host object bindings compiler-cli Commit Description error for type parameter declarations core Commit Description handle missing serialized container hydration data remove obsolete iOS cursor pointer hack in event delegation language-service Commit Description get ",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v21.2.7",
+      "title": "21.2.7",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v21.2.7",
+      "publishedAt": "2026-04-08T18:43:56.000Z",
+      "summary": "@angular/cli Commit Description handle missing package manager during analytics initialization @angular/build Commit Description preserve coverage ignore comments in development show clear error when styleUrl points to a TypeScript file",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
     {
       "id": "https://spring.io/blog/2026/04/02/spring-cloud-2025-0-2-aka-northfields-has-been-released",
       "title": "Spring Cloud 2025.0.2 (aka Northfields) Has Been Released",
@@ -126,17 +192,6 @@
       "tags": []
     },
     {
-      "id": "tag:github.com,2008:Repository/36891867/v21.2.4",
-      "title": "21.2.4",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v21.2.4",
-      "publishedAt": "2026-03-26T10:33:44.000Z",
-      "summary": "@angular/cli Commit Description restore console methods after logger completes @angular/build Commit Description deduplicate and merge coverage excludes with vitest prevent reporter duplicates by explicitly overriding Vitest configuration remove default for unit-test coverage option warn about performance of test.exclu",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
       "id": "https://spring.io/blog/2026/03/26/spring-ai-2-0-0-M4-and-1-1-4-and-1-0-5-available",
       "title": "Spring AI 2.0.0-M4, 1.1.4 and 1.0.5 are available now",
       "url": "https://spring.io/blog/2026/03/26/spring-ai-2-0-0-M4-and-1-1-4-and-1-0-5-available",
@@ -148,9 +203,9 @@
       "tags": []
     },
     {
-      "id": "https://spring.io/blog/2026/03/26/spring-boot-3-5-13-available-now",
-      "title": "Spring Boot 3.5.13 available now",
-      "url": "https://spring.io/blog/2026/03/26/spring-boot-3-5-13-available-now",
+      "id": "https://spring.io/blog/2026/03/26/spring-boot-4-0-5-available-now",
+      "title": "Spring Boot 4.0.5 available now",
+      "url": "https://spring.io/blog/2026/03/26/spring-boot-4-0-5-available-now",
       "publishedAt": "2026-03-26T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
@@ -181,17 +236,6 @@
       "tags": []
     },
     {
-      "id": "tag:github.com,2008:Repository/36891867/v20.3.21",
-      "title": "20.3.21",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v20.3.21",
-      "publishedAt": "2026-03-19T13:35:53.000Z",
-      "summary": "@angular/ssr Commit Description disallow x-forwarded-prefix starting with a backslash ensure unique values in redirect response Vary header support custom headers in redirect responses",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
       "id": "tag:github.com,2008:Repository/24195339/v22.0.0-next.4",
       "title": "22.0.0-next.4",
       "url": "https://github.com/angular/angular/releases/tag/v22.0.0-next.4",
@@ -214,28 +258,6 @@
       "tags": []
     },
     {
-      "id": "tag:github.com,2008:Repository/36891867/v22.0.0-next.2",
-      "title": "22.0.0-next.2",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v22.0.0-next.2",
-      "publishedAt": "2026-03-18T19:55:18.000Z",
-      "summary": "@schematics/angular Commit Description default components to OnPush change detection @angular/cli Commit Description use parsed package name for migrate-only updates @angular/build Commit Description alias createRequire banner import to avoid duplicate binding only use external packages for polyfills when no local file",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v21.2.3",
-      "title": "21.2.3",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v21.2.3",
-      "publishedAt": "2026-03-18T19:19:57.000Z",
-      "summary": "@angular/cli Commit Description use parsed package name for migrate-only updates @angular/build Commit Description alias createRequire banner import to avoid duplicate binding only use external packages for polyfills when no local files are present @angular/ssr Commit Description disallow x-forwarded-prefix starting wi",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
       "id": "https://medium.com/p/7aa1c1cf9550",
       "title": "Modernize Your Workflow: AI Tooling, Deferrable Views, and the Era of Forms! ️",
       "url": "https://blog.angular.dev/modernize-your-workflow-ai-tooling-deferrable-views-and-the-era-of-forms-%EF%B8%8F-7aa1c1cf9550?source=rss----447683c3d9a3---4",
@@ -249,28 +271,6 @@
         "angular-weekly-newsleter",
         "angularcommunity"
       ]
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v19.2.20",
-      "title": "19.2.20",
-      "url": "https://github.com/angular/angular/releases/tag/v19.2.20",
-      "publishedAt": "2026-03-12T20:42:44.000Z",
-      "summary": "compiler Commit Description disallow translations of iframe src core Commit Description sanitize translated attribute bindings with interpolations sanitize translated form attributes",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v20.3.18",
-      "title": "20.3.18",
-      "url": "https://github.com/angular/angular/releases/tag/v20.3.18",
-      "publishedAt": "2026-03-12T19:22:42.000Z",
-      "summary": "compiler Commit Description disallow translations of iframe src core Commit Description sanitize translated attribute bindings with interpolations sanitize translated form attributes",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
     },
     {
       "id": "tag:github.com,2008:Repository/24195339/v22.0.0-next.3",
