@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-04-13T07:45:14.545Z",
+  "generatedAt": "2026-04-14T07:15:06.176Z",
   "items": [
+    {
+      "id": "https://medium.com/p/eb1a773270e4",
+      "title": "Mastering Dynamic Components, HTTP Resources, and AI Writing Assistants ️",
+      "url": "https://blog.angular.dev/mastering-dynamic-components-http-resources-and-ai-writing-assistants-%EF%B8%8F-eb1a773270e4?source=rss----447683c3d9a3---4",
+      "publishedAt": "2026-04-13T15:53:54.000Z",
+      "summary": "",
+      "sourceId": "angular-blog",
+      "sourceName": "Angular Blog",
+      "tech": "Angular",
+      "tags": [
+        "angular"
+      ]
+    },
     {
       "id": "tag:github.com,2008:Repository/36891867/v20.3.23",
       "title": "20.3.23",
@@ -567,22 +580,6 @@
         "gen-ai-tools",
         "angular",
         "gen-ai-for-business"
-      ]
-    },
-    {
-      "id": "https://medium.com/p/7a7ed706e1a3",
-      "title": "Beyond the Horizon: How Angular is Embracing AI for Next-Gen Apps",
-      "url": "https://blog.angular.dev/beyond-the-horizon-how-angular-is-embracing-ai-for-next-gen-apps-7a7ed706e1a3?source=rss----447683c3d9a3---4",
-      "publishedAt": "2025-09-16T16:01:49.000Z",
-      "summary": "",
-      "sourceId": "angular-blog",
-      "sourceName": "Angular Blog",
-      "tech": "Angular",
-      "tags": [
-        "angular",
-        "codegen",
-        "ai",
-        "llm"
       ]
     }
   ]
