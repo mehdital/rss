@@ -1,6 +1,61 @@
 {
-  "generatedAt": "2026-04-14T07:15:06.176Z",
+  "generatedAt": "2026-04-16T07:16:36.606Z",
   "items": [
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v19.2.21",
+      "title": "19.2.21",
+      "url": "https://github.com/angular/angular/releases/tag/v19.2.21",
+      "publishedAt": "2026-04-15T22:20:42.000Z",
+      "summary": "platform-server Commit Description prevent SSRF bypasses via protocol-relative and backslash URLs",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v20.3.19",
+      "title": "20.3.19",
+      "url": "https://github.com/angular/angular/releases/tag/v20.3.19",
+      "publishedAt": "2026-04-15T22:08:29.000Z",
+      "summary": "platform-server Commit Description prevent SSRF bypasses via protocol-relative and backslash URLs",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v22.0.0-next.8",
+      "title": "22.0.0-next.8",
+      "url": "https://github.com/angular/angular/releases/tag/v22.0.0-next.8",
+      "publishedAt": "2026-04-15T22:00:31.000Z",
+      "summary": "compiler Commit Description allow safe navigation to correctly narrow down nullables don't escape dollar sign in literal expression compiler-cli Commit Description animation events not type checked properly when bound through HostListener decorator core Commit Description allow synchronous values for stream Resources e",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v21.2.9",
+      "title": "21.2.9",
+      "url": "https://github.com/angular/angular/releases/tag/v21.2.9",
+      "publishedAt": "2026-04-15T21:34:06.000Z",
+      "summary": "core Commit Description escape forward slashes in transfer state to prevent crawler indexing http Commit Description add CSP nonce support to JsonpClientBackend Don't on Passthru outside of reactive context platform-server Commit Description prevent SSRF bypasses via protocol-relative and backslash URLs router Commit D",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v20.3.24",
+      "title": "20.3.24",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v20.3.24",
+      "publishedAt": "2026-04-15T20:40:04.000Z",
+      "summary": "@angular/build Commit Description update esbuild to 0.28.0",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
     {
       "id": "https://medium.com/p/eb1a773270e4",
       "title": "Mastering Dynamic Components, HTTP Resources, and AI Writing Assistants ️",
@@ -194,17 +249,6 @@
       "tags": []
     },
     {
-      "id": "tag:github.com,2008:Repository/36891867/v22.0.0-next.3",
-      "title": "22.0.0-next.3",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v22.0.0-next.3",
-      "publishedAt": "2026-03-26T10:45:05.000Z",
-      "summary": "@schematics/angular Commit Description rely on strict template default in generated workspaces @angular/cli Commit Description restore console methods after logger completes @angular/build Commit Description deduplicate and merge coverage excludes with vitest prevent reporter duplicates by explicitly overriding Vitest ",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
       "id": "https://spring.io/blog/2026/03/26/spring-ai-2-0-0-M4-and-1-1-4-and-1-0-5-available",
       "title": "Spring AI 2.0.0-M4, 1.1.4 and 1.0.5 are available now",
       "url": "https://spring.io/blog/2026/03/26/spring-ai-2-0-0-M4-and-1-1-4-and-1-0-5-available",
@@ -249,28 +293,6 @@
       "tags": []
     },
     {
-      "id": "tag:github.com,2008:Repository/24195339/v22.0.0-next.4",
-      "title": "22.0.0-next.4",
-      "url": "https://github.com/angular/angular/releases/tag/v22.0.0-next.4",
-      "publishedAt": "2026-03-19T02:20:22.000Z",
-      "summary": "compiler Commit Description ensure generated code compiles parse named HTML entities containing digits stop generating unused field compiler-cli Commit Description escape template literal in TCB generic types not filled out correctly in type check block transform dropping exclamationToken from properties core Commit De",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v21.2.5",
-      "title": "21.2.5",
-      "url": "https://github.com/angular/angular/releases/tag/v21.2.5",
-      "publishedAt": "2026-03-18T23:33:56.000Z",
-      "summary": "compiler Commit Description ensure generated code compiles parse named HTML entities containing digits compiler-cli Commit Description escape template literal in TCB generic types not filled out correctly in type check block core Commit Description clean up dehydrated views during HMR component replacement run linked s",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
       "id": "https://medium.com/p/7aa1c1cf9550",
       "title": "Modernize Your Workflow: AI Tooling, Deferrable Views, and the Era of Forms! ️",
       "url": "https://blog.angular.dev/modernize-your-workflow-ai-tooling-deferrable-views-and-the-era-of-forms-%EF%B8%8F-7aa1c1cf9550?source=rss----447683c3d9a3---4",
@@ -284,28 +306,6 @@
         "angular-weekly-newsleter",
         "angularcommunity"
       ]
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v22.0.0-next.3",
-      "title": "22.0.0-next.3",
-      "url": "https://github.com/angular/angular/releases/tag/v22.0.0-next.3",
-      "publishedAt": "2026-03-12T19:12:52.000Z",
-      "summary": "compiler Commit Description disallow translations of iframe src core Commit Description reverts \"feat(core): add support for nested animations\" sanitize translated form attributes",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v21.2.4",
-      "title": "21.2.4",
-      "url": "https://github.com/angular/angular/releases/tag/v21.2.4",
-      "publishedAt": "2026-03-12T18:58:05.000Z",
-      "summary": "compiler Commit Description disallow translations of iframe src core Commit Description reverts \"feat(core): add support for nested animations\" sanitize translated form attributes",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
     },
     {
       "id": "https://foojay.io/?p=122884",
