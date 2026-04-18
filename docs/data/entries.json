@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-04-17T07:16:42.104Z",
+  "generatedAt": "2026-04-18T06:54:38.897Z",
   "items": [
+    {
+      "id": "https://spring.io/blog/2026/04/17/spring-data-2025-1-5-and-2025-0-11-released",
+      "title": "Spring Data 2025.1.5 and 2025.0.11 released",
+      "url": "https://spring.io/blog/2026/04/17/spring-data-2025-1-5-and-2025-0-11-released",
+      "publishedAt": "2026-04-17T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "https://spring.io/blog/2026/04/17/spring-data-2026-0-0-goes-RC",
+      "title": "Spring Data 2026.0.0-RC1 enters release candidate phase",
+      "url": "https://spring.io/blog/2026/04/17/spring-data-2026-0-0-goes-RC",
+      "publishedAt": "2026-04-17T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "https://spring.io/blog/2026/04/17/spring-framework-6-2-18-and-7-0-7-available-now",
+      "title": "Spring Framework 6.2.18 and 7.0.7 Available Now",
+      "url": "https://spring.io/blog/2026/04/17/spring-framework-6-2-18-and-7-0-7-available-now",
+      "publishedAt": "2026-04-17T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
     {
       "id": "tag:github.com,2008:Repository/24195339/v19.2.21",
       "title": "19.2.21",
@@ -235,39 +268,6 @@
       "sourceId": "angular-cli-releases",
       "sourceName": "Angular CLI (GitHub Releases)",
       "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "https://spring.io/blog/2026/03/27/spring-modulith-2-1-m4-2-0-5-and-1-4-10-released",
-      "title": "Spring Modulith 2.1 M4, 2.0.5, and 1.4.10 released",
-      "url": "https://spring.io/blog/2026/03/27/spring-modulith-2-1-m4-2-0-5-and-1-4-10-released",
-      "publishedAt": "2026-03-27T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
-      "tags": []
-    },
-    {
-      "id": "https://spring.io/blog/2026/03/26/spring-ai-2-0-0-M4-and-1-1-4-and-1-0-5-available",
-      "title": "Spring AI 2.0.0-M4, 1.1.4 and 1.0.5 are available now",
-      "url": "https://spring.io/blog/2026/03/26/spring-ai-2-0-0-M4-and-1-1-4-and-1-0-5-available",
-      "publishedAt": "2026-03-26T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
-      "tags": []
-    },
-    {
-      "id": "https://spring.io/blog/2026/03/26/spring-boot-3-5-13-available-now",
-      "title": "Spring Boot 3.5.13 available now",
-      "url": "https://spring.io/blog/2026/03/26/spring-boot-3-5-13-available-now",
-      "publishedAt": "2026-03-26T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
       "tags": []
     },
     {
