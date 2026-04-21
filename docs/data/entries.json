@@ -1,6 +1,32 @@
 {
-  "generatedAt": "2026-04-19T07:04:51.626Z",
+  "generatedAt": "2026-04-21T07:19:14.037Z",
   "items": [
+    {
+      "id": "https://medium.com/p/6dd270e87fac",
+      "title": "AI Training, Local Gemini, and Styling Signal Forms",
+      "url": "https://blog.angular.dev/ai-training-local-gemini-and-styling-signal-forms-6dd270e87fac?source=rss----447683c3d9a3---4",
+      "publishedAt": "2026-04-20T15:44:47.000Z",
+      "summary": "",
+      "sourceId": "angular-blog",
+      "sourceName": "Angular Blog",
+      "tech": "Angular",
+      "tags": [
+        "angular-weekly",
+        "angular",
+        "angular-newsletter"
+      ]
+    },
+    {
+      "id": "https://spring.io/blog/2026/04/20/spring-vault-4-0-rc1-4-0-2-released",
+      "title": "Spring Vault 4.1.0-RC1 and 4.0.2 released",
+      "url": "https://spring.io/blog/2026/04/20/spring-vault-4-0-rc1-4-0-2-released",
+      "publishedAt": "2026-04-20T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
     {
       "id": "https://spring.io/blog/2026/04/17/spring-data-2025-1-5-and-2025-0-11-released",
       "title": "Spring Data 2025.1.5 and 2025.0.11 released",
@@ -166,17 +192,6 @@
       "sourceId": "angular-cli-releases",
       "sourceName": "Angular CLI (GitHub Releases)",
       "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "https://spring.io/blog/2026/04/02/spring-cloud-2025-0-2-aka-northfields-has-been-released",
-      "title": "Spring Cloud 2025.0.2 (aka Northfields) Has Been Released",
-      "url": "https://spring.io/blog/2026/04/02/spring-cloud-2025-0-2-aka-northfields-has-been-released",
-      "publishedAt": "2026-04-02T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
       "tags": []
     },
     {
@@ -565,21 +580,6 @@
       "tags": [
         "angular",
         "software-testing"
-      ]
-    },
-    {
-      "id": "https://medium.com/p/3a3afde38f58",
-      "title": "Angular support for generating apps in Google AI Studio is now available",
-      "url": "https://blog.angular.dev/angular-support-for-generating-apps-in-google-ai-studio-is-now-available-3a3afde38f58?source=rss----447683c3d9a3---4",
-      "publishedAt": "2025-10-02T17:43:53.000Z",
-      "summary": "",
-      "sourceId": "angular-blog",
-      "sourceName": "Angular Blog",
-      "tech": "Angular",
-      "tags": [
-        "gen-ai-tools",
-        "angular",
-        "gen-ai-for-business"
       ]
     }
   ]
