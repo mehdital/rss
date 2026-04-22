@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-04-21T07:19:14.037Z",
+  "generatedAt": "2026-04-22T07:17:55.047Z",
   "items": [
+    {
+      "id": "https://spring.io/blog/2026/04/21/spring-authorization-server-1-5-7-available-now",
+      "title": "Spring Authorization Server 1.5.7 Available Now",
+      "url": "https://spring.io/blog/2026/04/21/spring-authorization-server-1-5-7-available-now",
+      "publishedAt": "2026-04-21T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "https://spring.io/blog/2026/04/21/spring-security-releases",
+      "title": "Spring Security 2026.04 Releases - Contains CVE Fixes",
+      "url": "https://spring.io/blog/2026/04/21/spring-security-releases",
+      "publishedAt": "2026-04-21T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "https://spring.io/blog/2026/04/21/spring-integration-7-1-0-rc1-available",
+      "title": "Spring Integration 7.1.0-RC1 Available",
+      "url": "https://spring.io/blog/2026/04/21/spring-integration-7-1-0-rc1-available",
+      "publishedAt": "2026-04-21T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
     {
       "id": "https://medium.com/p/6dd270e87fac",
       "title": "AI Training, Local Gemini, and Styling Signal Forms",
@@ -21,39 +54,6 @@
       "title": "Spring Vault 4.1.0-RC1 and 4.0.2 released",
       "url": "https://spring.io/blog/2026/04/20/spring-vault-4-0-rc1-4-0-2-released",
       "publishedAt": "2026-04-20T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
-      "tags": []
-    },
-    {
-      "id": "https://spring.io/blog/2026/04/17/spring-data-2025-1-5-and-2025-0-11-released",
-      "title": "Spring Data 2025.1.5 and 2025.0.11 released",
-      "url": "https://spring.io/blog/2026/04/17/spring-data-2025-1-5-and-2025-0-11-released",
-      "publishedAt": "2026-04-17T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
-      "tags": []
-    },
-    {
-      "id": "https://spring.io/blog/2026/04/17/spring-data-2026-0-0-goes-RC",
-      "title": "Spring Data 2026.0.0-RC1 enters release candidate phase",
-      "url": "https://spring.io/blog/2026/04/17/spring-data-2026-0-0-goes-RC",
-      "publishedAt": "2026-04-17T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
-      "tags": []
-    },
-    {
-      "id": "https://spring.io/blog/2026/04/17/spring-framework-6-2-18-and-7-0-7-available-now",
-      "title": "Spring Framework 6.2.18 and 7.0.7 Available Now",
-      "url": "https://spring.io/blog/2026/04/17/spring-framework-6-2-18-and-7-0-7-available-now",
-      "publishedAt": "2026-04-17T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
       "sourceName": "Spring Blog (Releases)",
