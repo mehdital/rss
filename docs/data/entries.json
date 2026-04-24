@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-04-22T07:17:55.047Z",
+  "generatedAt": "2026-04-24T07:46:18.083Z",
   "items": [
     {
-      "id": "https://spring.io/blog/2026/04/21/spring-authorization-server-1-5-7-available-now",
-      "title": "Spring Authorization Server 1.5.7 Available Now",
-      "url": "https://spring.io/blog/2026/04/21/spring-authorization-server-1-5-7-available-now",
-      "publishedAt": "2026-04-21T00:00:00.000Z",
+      "id": "https://spring.io/blog/2026/04/23/spring-boot-3-5-14-available-now",
+      "title": "Spring Boot 3.5.14 available now",
+      "url": "https://spring.io/blog/2026/04/23/spring-boot-3-5-14-available-now",
+      "publishedAt": "2026-04-23T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
       "sourceName": "Spring Blog (Releases)",
@@ -13,10 +13,10 @@
       "tags": []
     },
     {
-      "id": "https://spring.io/blog/2026/04/21/spring-security-releases",
-      "title": "Spring Security 2026.04 Releases - Contains CVE Fixes",
-      "url": "https://spring.io/blog/2026/04/21/spring-security-releases",
-      "publishedAt": "2026-04-21T00:00:00.000Z",
+      "id": "https://spring.io/blog/2026/04/23/spring-boot-4-1-0-RC1-available-now",
+      "title": "Spring Boot 4.1.0-RC1 available now",
+      "url": "https://spring.io/blog/2026/04/23/spring-boot-4-1-0-RC1-available-now",
+      "publishedAt": "2026-04-23T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
       "sourceName": "Spring Blog (Releases)",
@@ -24,10 +24,65 @@
       "tags": []
     },
     {
-      "id": "https://spring.io/blog/2026/04/21/spring-integration-7-1-0-rc1-available",
-      "title": "Spring Integration 7.1.0-RC1 Available",
-      "url": "https://spring.io/blog/2026/04/21/spring-integration-7-1-0-rc1-available",
-      "publishedAt": "2026-04-21T00:00:00.000Z",
+      "id": "https://spring.io/blog/2026/04/23/spring-boot-4-0-6-available-now",
+      "title": "Spring Boot 4.0.6 available now",
+      "url": "https://spring.io/blog/2026/04/23/spring-boot-4-0-6-available-now",
+      "publishedAt": "2026-04-23T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v22.0.0-next.9",
+      "title": "22.0.0-next.9",
+      "url": "https://github.com/angular/angular/releases/tag/v22.0.0-next.9",
+      "publishedAt": "2026-04-22T23:50:42.000Z",
+      "summary": "core Commit Description introduce @Service decorator Update Testability to use PendingTasks for stability indicator docs Commit Description link formatting in \"Animating your Application with CSS\" migrations Commit Description fix NgClass leaving trailing comma after removal router Commit Description restore internal U",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v21.2.10",
+      "title": "21.2.10",
+      "url": "https://github.com/angular/angular/releases/tag/v21.2.10",
+      "publishedAt": "2026-04-22T23:28:49.000Z",
+      "summary": "docs Commit Description link formatting in \"Animating your Application with CSS\" migrations Commit Description fix NgClass leaving trailing comma after removal router Commit Description restore internal URL on popstate when browserUrl is used",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v22.0.0-next.6",
+      "title": "22.0.0-next.6",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v22.0.0-next.6",
+      "publishedAt": "2026-04-22T11:47:01.000Z",
+      "summary": "@schematics/angular Commit Description stabilize refactor-jasmine-vitest schematic @angular/cli Commit Description dynamically resolve project Angular CLI executable inside MCP tools ignore EBADF file system errors during MCP project scan use headless option in MCP test tool @angular-devkit/build-angular Commit Descrip",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v21.2.8",
+      "title": "21.2.8",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v21.2.8",
+      "publishedAt": "2026-04-22T11:41:01.000Z",
+      "summary": "@angular/cli Commit Description dynamically resolve project Angular CLI executable inside MCP tools ignore EBADF file system errors during MCP project scan use headless option in MCP test tool @angular-devkit/build-angular Commit Description ensure route has leading slash in prerender builder fix app-shell route format",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "https://spring.io/blog/2026/04/22/spring-for-apache-pulsar-1-2-17-and-2-0-5-are-now-available",
+      "title": "Spring for Apache Pulsar 1.2.17 and 2.0.5 are now available",
+      "url": "https://spring.io/blog/2026/04/22/spring-for-apache-pulsar-1-2-17-and-2-0-5-are-now-available",
+      "publishedAt": "2026-04-22T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
       "sourceName": "Spring Blog (Releases)",
@@ -48,17 +103,6 @@
         "angular",
         "angular-newsletter"
       ]
-    },
-    {
-      "id": "https://spring.io/blog/2026/04/20/spring-vault-4-0-rc1-4-0-2-released",
-      "title": "Spring Vault 4.1.0-RC1 and 4.0.2 released",
-      "url": "https://spring.io/blog/2026/04/20/spring-vault-4-0-rc1-4-0-2-released",
-      "publishedAt": "2026-04-20T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
-      "tags": []
     },
     {
       "id": "tag:github.com,2008:Repository/24195339/v19.2.21",
@@ -264,48 +308,28 @@
       "tags": []
     },
     {
-      "id": "tag:github.com,2008:Repository/36891867/v20.3.22",
-      "title": "20.3.22",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v20.3.22",
-      "publishedAt": "2026-03-27T07:48:58.000Z",
-      "summary": "@angular-devkit/build-angular Commit Description update picomatch to 4.0.4 @angular-devkit/core Commit Description update picomatch to 4.0.4 @angular/build Commit Description update picomatch to 4.0.4",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v19.2.23",
-      "title": "19.2.23",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v19.2.23",
-      "publishedAt": "2026-03-27T07:45:03.000Z",
-      "summary": "@angular/cli Commit Description update picomatch to 4.0.4 @angular-devkit/build-angular Commit Description update picomatch to 4.0.4 @angular-devkit/core Commit Description update picomatch to 4.0.4 @angular/build Commit Description update picomatch to 4.0.4",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v22.0.0-next.5",
-      "title": "22.0.0-next.5",
-      "url": "https://github.com/angular/angular/releases/tag/v22.0.0-next.5",
-      "publishedAt": "2026-03-25T23:04:35.000Z",
-      "summary": "common Commit Description avoid redundant image fetch on destroy with auto sizes compiler Commit Description Support comments in html element. abstract emitter producing incorrect code for dynamic imports prevent shimCssText from adding extra blank lines per CSS comment compiler-cli Commit Description introduce NG8023 ",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v21.2.6",
-      "title": "21.2.6",
-      "url": "https://github.com/angular/angular/releases/tag/v21.2.6",
-      "publishedAt": "2026-03-25T22:42:12.000Z",
-      "summary": "common Commit Description avoid redundant image fetch on destroy with auto sizes compiler Commit Description prevent shimCssText from adding extra blank lines per CSS comment core Commit Description fixes a regression with animate.leave and reordering migrations Commit Description inject migration not work in multi-pro",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
+      "id": "https://foojay.io/?p=123062",
+      "title": "BoxLang 1.11.0 Release",
+      "url": "https://foojay.io/today/boxlang-1-11-0-release/",
+      "publishedAt": "2026-03-17T09:40:04.000Z",
+      "summary": "Table of Contents 🚀 What's New in 1.11.0⚡ Performance Wave — 15+ Targeted Runtime Speedups🔒 Concurrency & Lock Safety — Critical Fix🗓️ DateTime Casting Reliability🆕 enforceUDFTypeChecks Configuration Setting⏱️ getTickCount() — Nanosecond & Second Precision🗑️ New BIF: ExecutorDelete()🤖 Core Runtime Updates🏗️ ... ",
+      "sourceId": "foojay-release-notes",
+      "sourceName": "Foojay (Release Notes)",
+      "tech": "Java",
+      "tags": [
+        "AI",
+        "BoxLang",
+        "Cloud",
+        "Developer Tools",
+        "Java",
+        "Performance",
+        "Release Notes",
+        "Application Modernization",
+        "CFML",
+        "Cloud Migration",
+        "ColdFusion",
+        "Enterprise Java"
+      ]
     },
     {
       "id": "https://medium.com/p/7aa1c1cf9550",
@@ -535,21 +559,6 @@
         "Tools",
         "Tutorials",
         "Use Cases"
-      ]
-    },
-    {
-      "id": "https://foojay.io/?p=121830",
-      "title": "BoxLang Redis Has Landed: Enterprise-Grade Caching, Pub/Sub, and Distributed Locking",
-      "url": "https://foojay.io/today/boxlang-redis-has-landed-enterprise-grade-caching-pub-sub-and-distributed-locking/",
-      "publishedAt": "2025-11-25T09:33:34.000Z",
-      "summary": "Table of Contents 🎯 What is the Redis Module?⚡ Key Features📦 Getting Started🔧 Quick Configuration💾 Powerful Caching Made Simple📢 Publish/Subscribe: Real-Time Messaging🔒 Distributed Locking: Coordinate Across Servers🎯 Deployment Modes📚 Comprehensive Documentation💡 Use Cases🎁 Get Access We're thrilled to announ",
-      "sourceId": "foojay-release-notes",
-      "sourceName": "Foojay (Release Notes)",
-      "tech": "Java",
-      "tags": [
-        "BoxLang",
-        "Redis",
-        "Release Notes"
       ]
     },
     {
