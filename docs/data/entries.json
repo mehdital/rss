@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-04-24T07:46:18.083Z",
+  "generatedAt": "2026-04-26T07:14:36.866Z",
   "items": [
     {
-      "id": "https://spring.io/blog/2026/04/23/spring-boot-3-5-14-available-now",
-      "title": "Spring Boot 3.5.14 available now",
-      "url": "https://spring.io/blog/2026/04/23/spring-boot-3-5-14-available-now",
-      "publishedAt": "2026-04-23T00:00:00.000Z",
+      "id": "https://spring.io/blog/2026/04/24/spring-shell-4-0-2-is-out",
+      "title": "Spring Shell 4.0.2 is out!",
+      "url": "https://spring.io/blog/2026/04/24/spring-shell-4-0-2-is-out",
+      "publishedAt": "2026-04-24T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
       "sourceName": "Spring Blog (Releases)",
@@ -13,9 +13,20 @@
       "tags": []
     },
     {
-      "id": "https://spring.io/blog/2026/04/23/spring-boot-4-1-0-RC1-available-now",
-      "title": "Spring Boot 4.1.0-RC1 available now",
-      "url": "https://spring.io/blog/2026/04/23/spring-boot-4-1-0-RC1-available-now",
+      "id": "https://spring.io/blog/2026/04/24/spring-modulith-2-1-rc1-2-0-6-and-1-4-11-released",
+      "title": "Spring Modulith 2.1 RC1, 2.0.6, and 1.4.11 released",
+      "url": "https://spring.io/blog/2026/04/24/spring-modulith-2-1-rc1-2-0-6-and-1-4-11-released",
+      "publishedAt": "2026-04-24T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "https://spring.io/blog/2026/04/23/spring-boot-3-5-14-available-now",
+      "title": "Spring Boot 3.5.14 available now",
+      "url": "https://spring.io/blog/2026/04/23/spring-boot-3-5-14-available-now",
       "publishedAt": "2026-04-23T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
@@ -76,17 +87,6 @@
       "sourceId": "angular-cli-releases",
       "sourceName": "Angular CLI (GitHub Releases)",
       "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "https://spring.io/blog/2026/04/22/spring-for-apache-pulsar-1-2-17-and-2-0-5-are-now-available",
-      "title": "Spring for Apache Pulsar 1.2.17 and 2.0.5 are now available",
-      "url": "https://spring.io/blog/2026/04/22/spring-for-apache-pulsar-1-2-17-and-2-0-5-are-now-available",
-      "publishedAt": "2026-04-22T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
       "tags": []
     },
     {
