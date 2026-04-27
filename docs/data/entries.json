@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-26T07:14:36.866Z",
+  "generatedAt": "2026-04-27T08:02:12.711Z",
   "items": [
     {
       "id": "https://spring.io/blog/2026/04/24/spring-shell-4-0-2-is-out",
@@ -35,9 +35,9 @@
       "tags": []
     },
     {
-      "id": "https://spring.io/blog/2026/04/23/spring-boot-4-0-6-available-now",
-      "title": "Spring Boot 4.0.6 available now",
-      "url": "https://spring.io/blog/2026/04/23/spring-boot-4-0-6-available-now",
+      "id": "https://spring.io/blog/2026/04/23/spring-boot-4-1-0-RC1-available-now",
+      "title": "Spring Boot 4.1.0-RC1 available now",
+      "url": "https://spring.io/blog/2026/04/23/spring-boot-4-1-0-RC1-available-now",
       "publishedAt": "2026-04-23T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
