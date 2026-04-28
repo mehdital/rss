@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-04-27T08:02:12.711Z",
+  "generatedAt": "2026-04-28T08:02:37.380Z",
   "items": [
+    {
+      "id": "https://spring.io/blog/2026/04/27/spring-ai-1-0-6-1-1-5-2-0-0-M5-available-now",
+      "title": "Spring AI 1.0.6, 1.1.5, 2.0.0-M5 Available Now",
+      "url": "https://spring.io/blog/2026/04/27/spring-ai-1-0-6-1-1-5-2-0-0-M5-available-now",
+      "publishedAt": "2026-04-27T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
     {
       "id": "https://spring.io/blog/2026/04/24/spring-shell-4-0-2-is-out",
       "title": "Spring Shell 4.0.2 is out!",
@@ -27,17 +38,6 @@
       "id": "https://spring.io/blog/2026/04/23/spring-boot-3-5-14-available-now",
       "title": "Spring Boot 3.5.14 available now",
       "url": "https://spring.io/blog/2026/04/23/spring-boot-3-5-14-available-now",
-      "publishedAt": "2026-04-23T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
-      "tags": []
-    },
-    {
-      "id": "https://spring.io/blog/2026/04/23/spring-boot-4-1-0-RC1-available-now",
-      "title": "Spring Boot 4.1.0-RC1 available now",
-      "url": "https://spring.io/blog/2026/04/23/spring-boot-4-1-0-RC1-available-now",
       "publishedAt": "2026-04-23T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
