@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-04-28T08:02:37.380Z",
+  "generatedAt": "2026-04-29T07:56:31.620Z",
   "items": [
+    {
+      "id": "https://medium.com/p/07c0afb816a3",
+      "title": "Back from Baby Bonding: Agents, Building Blocks, and the Future of AI Engineering",
+      "url": "https://blog.angular.dev/back-from-baby-bonding-agents-building-blocks-and-the-future-of-ai-engineering-07c0afb816a3?source=rss----447683c3d9a3---4",
+      "publishedAt": "2026-04-28T18:56:45.000Z",
+      "summary": "",
+      "sourceId": "angular-blog",
+      "sourceName": "Angular Blog",
+      "tech": "Angular",
+      "tags": [
+        "angular-ai-tutor",
+        "ai",
+        "angular",
+        "agent-skills"
+      ]
+    },
     {
       "id": "https://spring.io/blog/2026/04/27/spring-ai-1-0-6-1-1-5-2-0-0-M5-available-now",
       "title": "Spring AI 1.0.6, 1.1.5, 2.0.0-M5 Available Now",
@@ -575,20 +591,6 @@
         "angular",
         "angular-v21",
         "aiangular"
-      ]
-    },
-    {
-      "id": "https://medium.com/p/5a393b32dd30",
-      "title": "Handling Time and Mock Clocks in Tests",
-      "url": "https://blog.angular.dev/handling-time-and-mock-clocks-in-tests-5a393b32dd30?source=rss----447683c3d9a3---4",
-      "publishedAt": "2025-11-07T01:01:25.000Z",
-      "summary": "",
-      "sourceId": "angular-blog",
-      "sourceName": "Angular Blog",
-      "tech": "Angular",
-      "tags": [
-        "angular",
-        "software-testing"
       ]
     }
   ]
