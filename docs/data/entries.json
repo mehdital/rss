@@ -1,6 +1,72 @@
 {
-  "generatedAt": "2026-04-29T07:56:31.620Z",
+  "generatedAt": "2026-04-30T07:59:27.178Z",
   "items": [
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v19.2.25",
+      "title": "19.2.25",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v19.2.25",
+      "publishedAt": "2026-04-30T06:20:33.000Z",
+      "summary": "@angular-devkit/build-angular Commit Description upgrade postcss to 8.5.12 @angular/build Commit Description update esbuild to 0.28.0 @angular/ssr Commit Description introduce trustProxyHeaders option to safely validate and sanitize proxy headers",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v22.0.0-next.10",
+      "title": "22.0.0-next.10",
+      "url": "https://github.com/angular/angular/releases/tag/v22.0.0-next.10",
+      "publishedAt": "2026-04-29T23:03:15.000Z",
+      "summary": "common Commit Description prevent focus from scrollToAnchor compiler Commit Description Angular expressions with optional chaining returns undefined let declaration span not including end character core Commit Description Add a injectAsync helper function fix ordering of view queries metadata in JIT mode guard against ",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v21.2.11",
+      "title": "21.2.11",
+      "url": "https://github.com/angular/angular/releases/tag/v21.2.11",
+      "publishedAt": "2026-04-29T22:38:44.000Z",
+      "summary": "common Commit Description prevent focus from scrollToAnchor compiler Commit Description let declaration span not including end character core Commit Description fix ordering of view queries metadata in JIT mode guard against non-object events and avoid listener wrapper identity mismatch prevent event replay double-invo",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v22.0.0-next.7",
+      "title": "22.0.0-next.7",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v22.0.0-next.7",
+      "publishedAt": "2026-04-29T21:45:34.000Z",
+      "summary": "@schematics/angular Commit Description add missing imports for focus and skip APIs in refactor-jasmine-vitest add trusted-proxy-headers migration @angular/cli Commit Description fix broken img ref in ai-tutor introduce initial package manager workspace awareness remove standalone true ref in ai tutor @angular/build Com",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v20.3.25",
+      "title": "20.3.25",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v20.3.25",
+      "publishedAt": "2026-04-29T21:11:26.000Z",
+      "summary": "@angular-devkit/build-angular Commit Description upgrade postcss to 8.5.12 @angular/ssr Commit Description introduce trustProxyHeaders option to safely validate and sanitize proxy headers",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v21.2.9",
+      "title": "21.2.9",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v21.2.9",
+      "publishedAt": "2026-04-29T18:44:01.000Z",
+      "summary": "@schematics/angular Commit Description add missing imports for focus and skip APIs in refactor-jasmine-vitest @angular/cli Commit Description fix broken img ref in ai-tutor introduce initial package manager workspace awareness remove standalone true ref in ai tutor @angular/ssr Commit Description introduce trustProxyHe",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
     {
       "id": "https://medium.com/p/07c0afb816a3",
       "title": "Back from Baby Bonding: Agents, Building Blocks, and the Future of AI Engineering",
@@ -200,17 +266,6 @@
       "tags": []
     },
     {
-      "id": "tag:github.com,2008:Repository/36891867/v19.2.24",
-      "title": "19.2.24",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v19.2.24",
-      "publishedAt": "2026-04-08T21:33:36.000Z",
-      "summary": "@angular/build Commit Description update vite to 6.4.2",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
       "id": "tag:github.com,2008:Repository/36891867/v22.0.0-next.5",
       "title": "22.0.0-next.5",
       "url": "https://github.com/angular/angular-cli/releases/tag/v22.0.0-next.5",
@@ -255,50 +310,6 @@
       "tags": []
     },
     {
-      "id": "tag:github.com,2008:Repository/24195339/v22.0.0-next.6",
-      "title": "22.0.0-next.6",
-      "url": "https://github.com/angular/angular/releases/tag/v22.0.0-next.6",
-      "publishedAt": "2026-04-01T18:42:23.000Z",
-      "summary": "compiler Commit Description register SVG animation attributes in URL security context (#67797) compiler-cli Commit Description prevent recursive scope checks for invalid NgModule imports core Commit Description prevent binding unsafe attributes on SVG animation elements (#67797) resolve component import by exact specif",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v21.2.7",
-      "title": "21.2.7",
-      "url": "https://github.com/angular/angular/releases/tag/v21.2.7",
-      "publishedAt": "2026-04-01T18:36:04.000Z",
-      "summary": "compiler Commit Description register SVG animation attributes in URL security context (#67797) compiler-cli Commit Description prevent recursive scope checks for invalid NgModule imports core Commit Description prevent binding unsafe attributes on SVG animation elements (#67797) resolve component import by exact specif",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v22.0.0-next.4",
-      "title": "22.0.0-next.4",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v22.0.0-next.4",
-      "publishedAt": "2026-04-01T13:15:41.000Z",
-      "summary": "@angular/cli Commit Description support custom port in MCP devserver start tool fix sourceRoot resolution for MCP projects tool @angular/build Commit Description ensure transitive SCSS partial errors are tracked in watch mode ensure Vitest mock patching is executed only once preserve error stack traces during prerender",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v21.2.6",
-      "title": "21.2.6",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v21.2.6",
-      "publishedAt": "2026-04-01T13:08:07.000Z",
-      "summary": "@angular/cli Commit Description fix sourceRoot resolution for MCP projects tool @angular/build Commit Description ensure transitive SCSS partial errors are tracked in watch mode ensure Vitest mock patching is executed only once preserve error stack traces during prerendering scope CHROME_BIN executable path to individu",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
       "id": "https://medium.com/p/bdddad0cfa96",
       "title": "Local AI, Reactive Routing, and the Vitest Migration! ⚡",
       "url": "https://blog.angular.dev/local-ai-reactive-routing-and-the-vitest-migration-bdddad0cfa96?source=rss----447683c3d9a3---4",
@@ -311,17 +322,6 @@
         "angular-weekly-newsletter",
         "angular"
       ]
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v21.2.5",
-      "title": "21.2.5",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v21.2.5",
-      "publishedAt": "2026-03-27T07:53:58.000Z",
-      "summary": "@angular/cli Commit Description support custom port in MCP devserver start tool @angular/ssr Commit Description allow underscores in host validation patch Headers.forEach in cloneRequestAndPatchHeaders",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
     },
     {
       "id": "https://foojay.io/?p=123062",
