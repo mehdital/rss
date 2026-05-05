@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-04T08:13:14.360Z",
+  "generatedAt": "2026-05-05T07:51:31.911Z",
   "items": [
     {
       "id": "tag:github.com,2008:Repository/36891867/v19.2.25",
@@ -117,9 +117,9 @@
       "tags": []
     },
     {
-      "id": "https://spring.io/blog/2026/04/23/spring-boot-3-5-14-available-now",
-      "title": "Spring Boot 3.5.14 available now",
-      "url": "https://spring.io/blog/2026/04/23/spring-boot-3-5-14-available-now",
+      "id": "https://spring.io/blog/2026/04/23/spring-boot-4-1-0-RC1-available-now",
+      "title": "Spring Boot 4.1.0-RC1 available now",
+      "url": "https://spring.io/blog/2026/04/23/spring-boot-4-1-0-RC1-available-now",
       "publishedAt": "2026-04-23T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
