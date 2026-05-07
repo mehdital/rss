@@ -1,6 +1,61 @@
 {
-  "generatedAt": "2026-05-06T08:03:24.702Z",
+  "generatedAt": "2026-05-07T08:11:01.537Z",
   "items": [
+    {
+      "id": "tag:github.com,2008:Repository/24195339/zone.js-0.16.2",
+      "title": "zone.js-0.16.2",
+      "url": "https://github.com/angular/angular/releases/tag/zone.js-0.16.2",
+      "publishedAt": "2026-05-06T23:44:48.000Z",
+      "summary": "release: cut the zone.js-0.16.2 release",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v22.0.0-next.11",
+      "title": "22.0.0-next.11",
+      "url": "https://github.com/angular/angular/releases/tag/v22.0.0-next.11",
+      "publishedAt": "2026-05-06T23:30:29.000Z",
+      "summary": "compiler Commit Description invalid type checking code if field name needs to be quoted compiler-cli Commit Description add support for Node.js 26.0.0 support external TCBs with copied content in specific mode core Commit Description add provideWebMcpTools add ability to cache resources for SSR export experimental decl",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v21.2.12",
+      "title": "21.2.12",
+      "url": "https://github.com/angular/angular/releases/tag/v21.2.12",
+      "publishedAt": "2026-05-06T22:47:52.000Z",
+      "summary": "core Commit Description allow explicit read generic with signal input transforms i18n flags leaking on errors respect ngSkipHydration on components with projectable nodes in LContainers sanitizer typings validate security-sensitive attributes in i18n bindings visit ng-let expression value in signal migration schematics",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v20.3.20",
+      "title": "20.3.20",
+      "url": "https://github.com/angular/angular/releases/tag/v20.3.20",
+      "publishedAt": "2026-05-06T22:08:41.000Z",
+      "summary": "core Commit Description disallow event attribute bindings in host bindings unconditionally (#68468) validate security-sensitive attributes in i18n bindings (#68468) platform-server Commit Description ensure origin has a trailing slash when parsing url (#68468)",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v21.2.10",
+      "title": "21.2.10",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v21.2.10",
+      "publishedAt": "2026-05-06T21:27:08.000Z",
+      "summary": "@angular/cli Commit Description restrict MCP workspace access to allowed client roots during resolution",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
     {
       "id": "tag:github.com,2008:Repository/36891867/v19.2.25",
       "title": "19.2.25",
@@ -117,9 +172,9 @@
       "tags": []
     },
     {
-      "id": "https://spring.io/blog/2026/04/23/spring-boot-4-1-0-RC1-available-now",
-      "title": "Spring Boot 4.1.0-RC1 available now",
-      "url": "https://spring.io/blog/2026/04/23/spring-boot-4-1-0-RC1-available-now",
+      "id": "https://spring.io/blog/2026/04/23/spring-boot-3-5-14-available-now",
+      "title": "Spring Boot 3.5.14 available now",
+      "url": "https://spring.io/blog/2026/04/23/spring-boot-3-5-14-available-now",
       "publishedAt": "2026-04-23T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
@@ -187,28 +242,6 @@
       ]
     },
     {
-      "id": "tag:github.com,2008:Repository/24195339/v19.2.21",
-      "title": "19.2.21",
-      "url": "https://github.com/angular/angular/releases/tag/v19.2.21",
-      "publishedAt": "2026-04-15T22:20:42.000Z",
-      "summary": "platform-server Commit Description prevent SSRF bypasses via protocol-relative and backslash URLs",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v20.3.19",
-      "title": "20.3.19",
-      "url": "https://github.com/angular/angular/releases/tag/v20.3.19",
-      "publishedAt": "2026-04-15T22:08:29.000Z",
-      "summary": "platform-server Commit Description prevent SSRF bypasses via protocol-relative and backslash URLs",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
       "id": "tag:github.com,2008:Repository/24195339/v22.0.0-next.8",
       "title": "22.0.0-next.8",
       "url": "https://github.com/angular/angular/releases/tag/v22.0.0-next.8",
@@ -255,17 +288,6 @@
       ]
     },
     {
-      "id": "tag:github.com,2008:Repository/36891867/v20.3.23",
-      "title": "20.3.23",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v20.3.23",
-      "publishedAt": "2026-04-08T23:23:44.000Z",
-      "summary": "@angular/build Commit Description update vite to 7.3.2",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
       "id": "tag:github.com,2008:Repository/36891867/v22.0.0-next.5",
       "title": "22.0.0-next.5",
       "url": "https://github.com/angular/angular-cli/releases/tag/v22.0.0-next.5",
@@ -273,28 +295,6 @@
       "summary": "@angular/cli Commit Description handle missing package manager during analytics initialization @schematics/angular Commit Description add migrate-karma-to-vitest update migration add migration to add istanbul-lib-instrument add istanbul-lib-instrument to application/library generator dependencies @angular/build Commit ",
       "sourceId": "angular-cli-releases",
       "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v22.0.0-next.7",
-      "title": "22.0.0-next.7",
-      "url": "https://github.com/angular/angular/releases/tag/v22.0.0-next.7",
-      "publishedAt": "2026-04-08T19:48:25.000Z",
-      "summary": "compiler Commit Description handle nested brackets in host object bindings compiler-cli Commit Description Adds warning for prefetch without main defer trigger error for type parameter declarations resolve TCB mapping failure for safe property reads with as any core Commit Description bootstrap via ApplicationRef with ",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v21.2.8",
-      "title": "21.2.8",
-      "url": "https://github.com/angular/angular/releases/tag/v21.2.8",
-      "publishedAt": "2026-04-08T19:31:49.000Z",
-      "summary": "compiler Commit Description handle nested brackets in host object bindings compiler-cli Commit Description error for type parameter declarations core Commit Description handle missing serialized container hydration data remove obsolete iOS cursor pointer hack in event delegation language-service Commit Description get ",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
       "tech": "Angular",
       "tags": []
     },
