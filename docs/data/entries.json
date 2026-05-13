@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-05-12T08:20:45.288Z",
+  "generatedAt": "2026-05-13T08:29:58.575Z",
   "items": [
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v19.2.22",
+      "title": "19.2.22",
+      "url": "https://github.com/angular/angular/releases/tag/v19.2.22",
+      "publishedAt": "2026-05-12T21:46:49.000Z",
+      "summary": "core Commit Description disallow event attribute bindings in host bindings unconditionally (#68469) validate security-sensitive attributes in i18n bindings (#68469) platform-server Commit Description add allowedHosts option to renderModule and renderApplication ensure origin has a trailing slash when parsing url (#6846",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v20.3.21",
+      "title": "20.3.21",
+      "url": "https://github.com/angular/angular/releases/tag/v20.3.21",
+      "publishedAt": "2026-05-12T17:11:39.000Z",
+      "summary": "platform-server Commit Description add allowedHosts option to renderModule and renderApplication",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
     {
       "id": "tag:github.com,2008:Repository/36891867/v22.0.0-next.8",
       "title": "22.0.0-next.8",
@@ -24,9 +46,9 @@
       "tags": []
     },
     {
-      "id": "https://spring.io/blog/2026/05/08/spring-ai-1-0-7-1-1-6-2-0-0-M6-available-now",
-      "title": "Spring AI 1.0.7, 1.1.6, 2.0.0-M6 Available Now",
-      "url": "https://spring.io/blog/2026/05/08/spring-ai-1-0-7-1-1-6-2-0-0-M6-available-now",
+      "id": "https://spring.io/blog/2026/05/08/spring-cloud-april-releases",
+      "title": "Spring Cloud Function and Config Have Been Released To Address Several CVEs",
+      "url": "https://spring.io/blog/2026/05/08/spring-cloud-april-releases",
       "publishedAt": "2026-05-08T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
@@ -35,9 +57,9 @@
       "tags": []
     },
     {
-      "id": "https://spring.io/blog/2026/05/08/spring-cloud-april-releases",
-      "title": "Spring Cloud Function and Config Have Been Released To Address Several CVEs",
-      "url": "https://spring.io/blog/2026/05/08/spring-cloud-april-releases",
+      "id": "https://spring.io/blog/2026/05/08/spring-ai-1-0-7-1-1-6-2-0-0-M6-available-now",
+      "title": "Spring AI 1.0.7, 1.1.6, 2.0.0-M6 Available Now",
+      "url": "https://spring.io/blog/2026/05/08/spring-ai-1-0-7-1-1-6-2-0-0-M6-available-now",
       "publishedAt": "2026-05-08T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
@@ -216,17 +238,6 @@
       "tags": []
     },
     {
-      "id": "tag:github.com,2008:Repository/24195339/v21.2.10",
-      "title": "21.2.10",
-      "url": "https://github.com/angular/angular/releases/tag/v21.2.10",
-      "publishedAt": "2026-04-22T23:28:49.000Z",
-      "summary": "docs Commit Description link formatting in \"Animating your Application with CSS\" migrations Commit Description fix NgClass leaving trailing comma after removal router Commit Description restore internal URL on popstate when browserUrl is used",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
       "id": "tag:github.com,2008:Repository/36891867/v22.0.0-next.6",
       "title": "22.0.0-next.6",
       "url": "https://github.com/angular/angular-cli/releases/tag/v22.0.0-next.6",
@@ -262,17 +273,6 @@
         "angular",
         "angular-newsletter"
       ]
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v22.0.0-next.8",
-      "title": "22.0.0-next.8",
-      "url": "https://github.com/angular/angular/releases/tag/v22.0.0-next.8",
-      "publishedAt": "2026-04-15T22:00:31.000Z",
-      "summary": "compiler Commit Description allow safe navigation to correctly narrow down nullables don't escape dollar sign in literal expression compiler-cli Commit Description animation events not type checked properly when bound through HostListener decorator core Commit Description allow synchronous values for stream Resources e",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
     },
     {
       "id": "tag:github.com,2008:Repository/36891867/v20.3.24",
