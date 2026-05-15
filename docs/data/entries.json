@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T08:24:32.144Z",
+  "generatedAt": "2026-05-15T08:36:26.288Z",
   "items": [
     {
       "id": "tag:github.com,2008:Repository/24195339/v22.0.0-rc.0",
@@ -282,6 +282,23 @@
       "tags": []
     },
     {
+      "id": "https://foojay.io/?p=123512",
+      "title": "Azul Zulu April 2026 Quarterly Update Released",
+      "url": "https://foojay.io/today/azul-zulu-april-2026-quarterly-update-released/",
+      "publishedAt": "2026-04-23T07:12:29.000Z",
+      "summary": "Table of Contents The Quarterly Update CycleCritical Patch Updates (CPU)Patch Set Updates (PSU)Making Perfect Use of CPU and PSU releasesDifference With the Six-Month Release CycleSecurity and Bug Fixes in This ReleaseAzul Zulu April 2026 Release NotesAzul Zulu Joins Docker's Official ... The post Azul Zulu April 2026 ",
+      "sourceId": "foojay-release-notes",
+      "sourceName": "Foojay (Release Notes)",
+      "tech": "Java",
+      "tags": [
+        "Java",
+        "Release Notes",
+        "azul",
+        "core",
+        "zulu"
+      ]
+    },
+    {
       "id": "https://medium.com/p/6dd270e87fac",
       "title": "AI Training, Local Gemini, and Styling Signal Forms",
       "url": "https://blog.angular.dev/ai-training-local-gemini-and-styling-signal-forms-6dd270e87fac?source=rss----447683c3d9a3---4",
@@ -328,7 +345,7 @@
       "title": "BoxLang 1.11.0 Release",
       "url": "https://foojay.io/today/boxlang-1-11-0-release/",
       "publishedAt": "2026-03-17T09:40:04.000Z",
-      "summary": "Table of Contents 🚀 What's New in 1.11.0⚡ Performance Wave — 15+ Targeted Runtime Speedups🔒 Concurrency & Lock Safety — Critical Fix🗓️ DateTime Casting Reliability🆕 enforceUDFTypeChecks Configuration Setting⏱️ getTickCount() — Nanosecond & Second Precision🗑️ New BIF: ExecutorDelete()🤖 Core Runtime Updates🏗️ ... ",
+      "summary": "Table of Contents 🚀 What's New in 1.11.0 ⚡ Performance Wave — 15+ Targeted Runtime Speedups 🔒 Concurrency & Lock Safety — Critical Fix 🗓️ DateTime Casting Reliability 🆕 enforceUDFTypeChecks Configuration Setting ⏱️ getTickCount() — Nanosecond & Second Precision 🗑️ ... The post BoxLang 1.11.0 Release appeared first",
       "sourceId": "foojay-release-notes",
       "sourceName": "Foojay (Release Notes)",
       "tech": "Java",
@@ -367,7 +384,7 @@
       "title": "BoxLang Homebrew Installer Released",
       "url": "https://foojay.io/today/boxlang-homebrew-installer-released/",
       "publishedAt": "2026-03-03T12:34:03.000Z",
-      "summary": "Table of Contents Getting StartedOption 1: BVM — BoxLang Version ManagerOption 2: Quick Installer — Zero Friction SetupAlways Up to DateReady to Try It? We're excited to announce the official BoxLang Homebrew tap — the easiest way to get BoxLang ... The post BoxLang Homebrew Installer Released appeared first on foojay.",
+      "summary": "Table of Contents Getting Started Option 1: BVM — BoxLang Version ManagerOption 2: Quick Installer — Zero Friction SetupAlways Up to DateReady to Try It? We're excited to announce the official BoxLang Homebrew tap — the easiest way to get ... The post BoxLang Homebrew Installer Released appeared first on foojay.",
       "sourceId": "foojay-release-notes",
       "sourceName": "Foojay (Release Notes)",
       "tech": "Java",
@@ -556,25 +573,6 @@
         "Java",
         "JEPs",
         "Release Notes"
-      ]
-    },
-    {
-      "id": "https://foojay.io/?p=121832",
-      "title": "BoxLang RSS : Full-Featured RSS/Atom Feed Module for BoxLang",
-      "url": "https://foojay.io/today/boxlang-rss-full-featured-rss-atom-feed-module-for-boxlang/",
-      "publishedAt": "2025-12-02T11:19:11.000Z",
-      "summary": "Table of Contents Thanks To Ray CamdenWhy bx-rss?✨ Key Features at a Glance🚀 Installation💡 Quick Start Examples🎙️ Podcast Power: iTunes Extension Support📹 Media RSS: Video & Image Feeds🔄 Feed Aggregation: Read Multiple Sources✍️ Creating Feeds: Share Your Content🎙️ Create Your ... The post BoxLang RSS : Full-Feat",
-      "sourceId": "foojay-release-notes",
-      "sourceName": "Foojay (Release Notes)",
-      "tech": "Java",
-      "tags": [
-        "BoxLang",
-        "Developer Tools",
-        "Java",
-        "Release Notes",
-        "Tools",
-        "Tutorials",
-        "Use Cases"
       ]
     },
     {
