@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-05-17T08:06:50.051Z",
+  "generatedAt": "2026-05-20T08:50:06.638Z",
   "items": [
+    {
+      "id": "https://foojay.io/?p=123788",
+      "title": "Azul Payara May 2026 Release – What’s New",
+      "url": "https://foojay.io/today/whats-new-in-the-may-2026-azul-payara-release/",
+      "publishedAt": "2026-05-14T11:40:02.000Z",
+      "summary": "Table of Contents A critical security fix, patched across every supported branchAzul Payara Community 7.2026.5Azul Payara 6.38.0: Continued Jakarta EE 10 SupportAzul Payara 5.87.0: Jakarta EE 8 Support ContinuesAzul Payara 4.1.2.191.55: Legacy Branch Still MaintainedLooking AheadUpgrading and Feedback The May ... The p",
+      "sourceId": "foojay-release-notes",
+      "sourceName": "Foojay (Release Notes)",
+      "tech": "Java",
+      "tags": [
+        "Jakarta EE",
+        "Payara",
+        "Release Notes",
+        "Uncategorized",
+        "Jakarta EE 11",
+        "Payara 7"
+      ]
+    },
     {
       "id": "tag:github.com,2008:Repository/24195339/v22.0.0-rc.0",
       "title": "22.0.0-rc.0",
@@ -557,21 +575,6 @@
       "tags": [
         "Performance",
         "Press",
-        "Release Notes"
-      ]
-    },
-    {
-      "id": "https://foojay.io/?p=121633",
-      "title": "Java 25: What’s New?",
-      "url": "https://foojay.io/today/java-25-whats-new/",
-      "publishedAt": "2025-12-03T09:02:49.000Z",
-      "summary": "Table of Contents JEP 470: PEM Encodings of Cryptographic Objects (Preview)JEP 502: Stable Values (Preview)JEP 503: Remove the 32-bit x86 Port509: JFR CPU-Time Profiling (Experimental)514: Ahead-of-Time Command-Line Ergonomics515: Ahead-of-Time Method Profiling518: JFR Cooperative Sampling520: JFR Method Timing & Traci",
-      "sourceId": "foojay-release-notes",
-      "sourceName": "Foojay (Release Notes)",
-      "tech": "Java",
-      "tags": [
-        "Java",
-        "JEPs",
         "Release Notes"
       ]
     },
