@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-05-20T08:50:06.638Z",
+  "generatedAt": "2026-05-21T08:52:27.630Z",
   "items": [
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v21.2.12",
+      "title": "21.2.12",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v21.2.12",
+      "publishedAt": "2026-05-20T22:50:49.000Z",
+      "summary": "@angular/build Commit Description ignore virtual esbuild paths with (disabled):",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v22.0.0-rc.1",
+      "title": "22.0.0-rc.1",
+      "url": "https://github.com/angular/angular/releases/tag/v22.0.0-rc.1",
+      "publishedAt": "2026-05-20T22:43:12.000Z",
+      "summary": "compiler Commit Description strip namespaced SVG script elements during template compilation core Commit Description do not insert todo when migrating void @output makes resource URL sanitizer lookup case-insensitive reject script element as a dynamic component host support prefix-insensitive DOM schema lookups and com",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v21.2.14",
+      "title": "21.2.14",
+      "url": "https://github.com/angular/angular/releases/tag/v21.2.14",
+      "publishedAt": "2026-05-20T22:34:55.000Z",
+      "summary": "compiler Commit Description strip namespaced SVG script elements during template compilation core Commit Description do not insert todo when migrating void @output makes resource URL sanitizer lookup case-insensitive reject script element as a dynamic component host visit ICU expressions in signal migration schematics ",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
     {
       "id": "https://foojay.io/?p=123788",
       "title": "Azul Payara May 2026 Release – What’s New",
@@ -185,17 +218,6 @@
       "tags": []
     },
     {
-      "id": "tag:github.com,2008:Repository/24195339/v20.3.20",
-      "title": "20.3.20",
-      "url": "https://github.com/angular/angular/releases/tag/v20.3.20",
-      "publishedAt": "2026-05-06T22:08:41.000Z",
-      "summary": "core Commit Description disallow event attribute bindings in host bindings unconditionally (#68468) validate security-sensitive attributes in i18n bindings (#68468) platform-server Commit Description ensure origin has a trailing slash when parsing url (#68468)",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
       "id": "tag:github.com,2008:Repository/36891867/v21.2.10",
       "title": "21.2.10",
       "url": "https://github.com/angular/angular-cli/releases/tag/v21.2.10",
@@ -218,33 +240,11 @@
       "tags": []
     },
     {
-      "id": "tag:github.com,2008:Repository/24195339/v22.0.0-next.10",
-      "title": "22.0.0-next.10",
-      "url": "https://github.com/angular/angular/releases/tag/v22.0.0-next.10",
-      "publishedAt": "2026-04-29T23:03:15.000Z",
-      "summary": "common Commit Description prevent focus from scrollToAnchor compiler Commit Description Angular expressions with optional chaining returns undefined let declaration span not including end character core Commit Description Add a injectAsync helper function fix ordering of view queries metadata in JIT mode guard against ",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
       "id": "tag:github.com,2008:Repository/36891867/v22.0.0-next.7",
       "title": "22.0.0-next.7",
       "url": "https://github.com/angular/angular-cli/releases/tag/v22.0.0-next.7",
       "publishedAt": "2026-04-29T21:45:34.000Z",
       "summary": "@schematics/angular Commit Description add missing imports for focus and skip APIs in refactor-jasmine-vitest add trusted-proxy-headers migration @angular/cli Commit Description fix broken img ref in ai-tutor introduce initial package manager workspace awareness remove standalone true ref in ai tutor @angular/build Com",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v20.3.25",
-      "title": "20.3.25",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v20.3.25",
-      "publishedAt": "2026-04-29T21:11:26.000Z",
-      "summary": "@angular-devkit/build-angular Commit Description upgrade postcss to 8.5.12 @angular/ssr Commit Description introduce trustProxyHeaders option to safely validate and sanitize proxy headers",
       "sourceId": "angular-cli-releases",
       "sourceName": "Angular CLI (GitHub Releases)",
       "tech": "Angular",
