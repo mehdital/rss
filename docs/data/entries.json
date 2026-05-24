@@ -1,6 +1,43 @@
 {
-  "generatedAt": "2026-05-22T08:45:34.247Z",
+  "generatedAt": "2026-05-24T08:13:36.776Z",
   "items": [
+    {
+      "id": "https://spring.io/blog/2026/05/23/spring-ai-1-0-8-1-1-7-2-0-0-M7-available-now",
+      "title": "Spring AI 1.0.8, 1.1.7, 2.0.0-M7 Available Now",
+      "url": "https://spring.io/blog/2026/05/23/spring-ai-1-0-8-1-1-7-2-0-0-M7-available-now",
+      "publishedAt": "2026-05-23T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/vsix-21.2.4",
+      "title": "VSCode Extension: 21.2.4",
+      "url": "https://github.com/angular/angular/releases/tag/vsix-21.2.4",
+      "publishedAt": "2026-05-22T21:30:46.000Z",
+      "summary": "fix(vscode-extension): disable language server in untrusted workspaces (4a41831326) fix(vscode-extension): restrict jsdoc markdown trust and harden document opening (6d8b156b45) fix(vscode-extension): prompt for confirmation before loading workspace tsdk (82cf38ad95) fix(vscode-extension): Look for tsdk override in the",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "https://medium.com/p/94c18a911a3a",
+      "title": "Mastering Dynamic Components, HTTP Resources, and AI Writing Assistants ️",
+      "url": "https://blog.angular.dev/mastering-dynamic-components-http-resources-and-ai-writing-assistants-%EF%B8%8F-94c18a911a3a?source=rss----447683c3d9a3---4",
+      "publishedAt": "2026-05-22T13:01:01.000Z",
+      "summary": "",
+      "sourceId": "angular-blog",
+      "sourceName": "Angular Blog",
+      "tech": "Angular",
+      "tags": [
+        "angular",
+        "angular-weekly",
+        "angular-newsletter"
+      ]
+    },
     {
       "id": "tag:github.com,2008:Repository/36891867/v22.0.0-rc.1",
       "title": "22.0.0-rc.1",
@@ -218,17 +255,6 @@
       "tags": []
     },
     {
-      "id": "tag:github.com,2008:Repository/24195339/v21.2.12",
-      "title": "21.2.12",
-      "url": "https://github.com/angular/angular/releases/tag/v21.2.12",
-      "publishedAt": "2026-05-06T22:47:52.000Z",
-      "summary": "core Commit Description allow explicit read generic with signal input transforms i18n flags leaking on errors respect ngSkipHydration on components with projectable nodes in LContainers sanitizer typings validate security-sensitive attributes in i18n bindings visit ng-let expression value in signal migration schematics",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
       "id": "tag:github.com,2008:Repository/36891867/v21.2.10",
       "title": "21.2.10",
       "url": "https://github.com/angular/angular-cli/releases/tag/v21.2.10",
@@ -282,17 +308,6 @@
       "title": "Spring AI 1.0.6, 1.1.5, 2.0.0-M5 Available Now",
       "url": "https://spring.io/blog/2026/04/27/spring-ai-1-0-6-1-1-5-2-0-0-M5-available-now",
       "publishedAt": "2026-04-27T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
-      "tags": []
-    },
-    {
-      "id": "https://spring.io/blog/2026/04/24/spring-shell-4-0-2-is-out",
-      "title": "Spring Shell 4.0.2 is out!",
-      "url": "https://spring.io/blog/2026/04/24/spring-shell-4-0-2-is-out",
-      "publishedAt": "2026-04-24T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
       "sourceName": "Spring Blog (Releases)",
@@ -576,22 +591,6 @@
         "Performance",
         "Press",
         "Release Notes"
-      ]
-    },
-    {
-      "id": "https://medium.com/p/57946c34f14b",
-      "title": "Announcing Angular v21",
-      "url": "https://blog.angular.dev/announcing-angular-v21-57946c34f14b?source=rss----447683c3d9a3---4",
-      "publishedAt": "2025-11-19T22:35:29.000Z",
-      "summary": "",
-      "sourceId": "angular-blog",
-      "sourceName": "Angular Blog",
-      "tech": "Angular",
-      "tags": [
-        "angular-mcp",
-        "angular",
-        "angular-v21",
-        "aiangular"
       ]
     }
   ]
