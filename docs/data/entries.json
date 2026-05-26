@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T09:43:52.172Z",
+  "generatedAt": "2026-05-26T09:32:06.842Z",
   "items": [
     {
       "id": "https://spring.io/blog/2026/05/23/spring-ai-1-0-8-1-1-7-2-0-0-M7-available-now",
@@ -211,9 +211,9 @@
       "tags": []
     },
     {
-      "id": "https://spring.io/blog/2026/05/08/spring-cloud-april-releases",
-      "title": "Spring Cloud Function and Config Have Been Released To Address Several CVEs",
-      "url": "https://spring.io/blog/2026/05/08/spring-cloud-april-releases",
+      "id": "https://spring.io/blog/2026/05/08/spring-ai-1-0-7-1-1-6-2-0-0-M6-available-now",
+      "title": "Spring AI 1.0.7, 1.1.6, 2.0.0-M6 Available Now",
+      "url": "https://spring.io/blog/2026/05/08/spring-ai-1-0-7-1-1-6-2-0-0-M6-available-now",
       "publishedAt": "2026-05-08T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
@@ -222,9 +222,9 @@
       "tags": []
     },
     {
-      "id": "https://spring.io/blog/2026/05/08/spring-ai-1-0-7-1-1-6-2-0-0-M6-available-now",
-      "title": "Spring AI 1.0.7, 1.1.6, 2.0.0-M6 Available Now",
-      "url": "https://spring.io/blog/2026/05/08/spring-ai-1-0-7-1-1-6-2-0-0-M6-available-now",
+      "id": "https://spring.io/blog/2026/05/08/spring-cloud-april-releases",
+      "title": "Spring Cloud Function and Config Have Been Released To Address Several CVEs",
+      "url": "https://spring.io/blog/2026/05/08/spring-cloud-april-releases",
       "publishedAt": "2026-05-08T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
