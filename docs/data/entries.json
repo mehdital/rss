@@ -1,6 +1,50 @@
 {
-  "generatedAt": "2026-06-01T11:04:34.720Z",
+  "generatedAt": "2026-06-02T09:58:37.196Z",
   "items": [
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v20.3.27",
+      "title": "20.3.27",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v20.3.27",
+      "publishedAt": "2026-06-02T09:56:52.000Z",
+      "summary": "@angular/ssr Commit Description add support for configuring trusted proxy headers via environment variable",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v19.2.27",
+      "title": "19.2.27",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v19.2.27",
+      "publishedAt": "2026-06-02T09:45:57.000Z",
+      "summary": "@angular/ssr Commit Description add support for configuring trusted proxy headers via environment variable",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v22.0.0-rc.3",
+      "title": "22.0.0-rc.3",
+      "url": "https://github.com/angular/angular/releases/tag/v22.0.0-rc.3",
+      "publishedAt": "2026-06-01T20:06:40.000Z",
+      "summary": "common Commit Description only strip a literal /index.html suffix from URLs compiler Commit Description move projection attributes into constants core Commit Description use Object.create(null) for LOCALE_DATA as a hardening measure migrations Commit Description Make the safe optional chaining idempotent platform-serve",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v22.0.0-rc.3",
+      "title": "22.0.0-rc.3",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v22.0.0-rc.3",
+      "publishedAt": "2026-06-01T13:11:51.000Z",
+      "summary": "@schematics/angular Commit Description preserve Jasmine stub-by-default semantics for bare spies @angular/cli Commit Description expand package groups for newly added peer dependencies in update schematic @angular/build Commit Description prevent esbuild service child process leakage @angular/ssr Commit Description sup",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
     {
       "id": "tag:github.com,2008:Repository/24195339/vsix-included-21.2.4",
       "title": "VSCode Extension: 21.2.4",
@@ -182,17 +226,6 @@
       "tags": []
     },
     {
-      "id": "tag:github.com,2008:Repository/24195339/v21.2.14",
-      "title": "21.2.14",
-      "url": "https://github.com/angular/angular/releases/tag/v21.2.14",
-      "publishedAt": "2026-05-20T22:34:55.000Z",
-      "summary": "compiler Commit Description strip namespaced SVG script elements during template compilation core Commit Description do not insert todo when migrating void @output makes resource URL sanitizer lookup case-insensitive reject script element as a dynamic component host visit ICU expressions in signal migration schematics ",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
       "id": "https://foojay.io/?p=123788",
       "title": "Azul Payara May 2026 Release – What’s New",
       "url": "https://foojay.io/today/whats-new-in-the-may-2026-azul-payara-release/",
@@ -244,28 +277,6 @@
       "tags": []
     },
     {
-      "id": "tag:github.com,2008:Repository/36891867/v19.2.26",
-      "title": "19.2.26",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v19.2.26",
-      "publishedAt": "2026-05-13T09:54:41.000Z",
-      "summary": "@angular/ssr Commit Description allow all hosts in common engine rendering options to prevent validation errors",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v22.0.0-next.8",
-      "title": "22.0.0-next.8",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v22.0.0-next.8",
-      "publishedAt": "2026-05-11T22:47:13.000Z",
-      "summary": "@angular/cli Commit Description add support for Node.js 26.0.0 restrict MCP workspace access to allowed client roots during resolution robustly parse npm manifest from array update odd-numbered Node.js version warning condition for future releases @schematics/angular Commit Description conditionally install istanbul co",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
       "id": "https://spring.io/blog/2026/05/08/spring-ai-1-0-7-1-1-6-2-0-0-M6-available-now",
       "title": "Spring AI 1.0.7, 1.1.6, 2.0.0-M6 Available Now",
       "url": "https://spring.io/blog/2026/05/08/spring-ai-1-0-7-1-1-6-2-0-0-M6-available-now",
@@ -285,17 +296,6 @@
       "sourceId": "spring-releases",
       "sourceName": "Spring Blog (Releases)",
       "tech": "Java",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v21.2.10",
-      "title": "21.2.10",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v21.2.10",
-      "publishedAt": "2026-05-06T21:27:08.000Z",
-      "summary": "@angular/cli Commit Description restrict MCP workspace access to allowed client roots during resolution",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
       "tags": []
     },
     {
