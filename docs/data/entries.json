@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-06-02T09:58:37.196Z",
+  "generatedAt": "2026-06-03T10:29:41.388Z",
   "items": [
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v19.2.25",
+      "title": "19.2.25",
+      "url": "https://github.com/angular/angular/releases/tag/v19.2.25",
+      "publishedAt": "2026-06-02T11:20:14.000Z",
+      "summary": "platform-server Commit Description throw on suspicious URLs and restrict protocol-relative URLs update domino to latest version",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v20.3.24",
+      "title": "20.3.24",
+      "url": "https://github.com/angular/angular/releases/tag/v20.3.24",
+      "publishedAt": "2026-06-02T11:10:28.000Z",
+      "summary": "platform-server Commit Description throw on suspicious URLs and restrict protocol-relative URLs update domino to latest version",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
     {
       "id": "tag:github.com,2008:Repository/36891867/v20.3.27",
       "title": "20.3.27",
@@ -167,17 +189,6 @@
       "tags": []
     },
     {
-      "id": "tag:github.com,2008:Repository/24195339/vsix-21.2.4",
-      "title": "vsix-21.2.4",
-      "url": "https://github.com/angular/angular/releases/tag/vsix-21.2.4",
-      "publishedAt": "2026-05-22T21:25:49.000Z",
-      "summary": "release: bump VSCode extension version to 21.2.4",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
       "id": "https://medium.com/p/94c18a911a3a",
       "title": "Mastering Dynamic Components, HTTP Resources, and AI Writing Assistants ️",
       "url": "https://blog.angular.dev/mastering-dynamic-components-http-resources-and-ai-writing-assistants-%EF%B8%8F-94c18a911a3a?source=rss----447683c3d9a3---4",
@@ -211,17 +222,6 @@
       "summary": "@angular/build Commit Description ignore virtual esbuild paths with (disabled):",
       "sourceId": "angular-cli-releases",
       "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v22.0.0-rc.1",
-      "title": "22.0.0-rc.1",
-      "url": "https://github.com/angular/angular/releases/tag/v22.0.0-rc.1",
-      "publishedAt": "2026-05-20T22:43:12.000Z",
-      "summary": "compiler Commit Description strip namespaced SVG script elements during template compilation core Commit Description do not insert todo when migrating void @output makes resource URL sanitizer lookup case-insensitive reject script element as a dynamic component host support prefix-insensitive DOM schema lookups and com",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
       "tech": "Angular",
       "tags": []
     },
