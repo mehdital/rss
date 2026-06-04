@@ -1,6 +1,76 @@
 {
-  "generatedAt": "2026-06-03T10:29:41.388Z",
+  "generatedAt": "2026-06-04T09:39:57.316Z",
   "items": [
+    {
+      "id": "tag:github.com,2008:Repository/24195339/vsix-22.0.0",
+      "title": "VSCode Extension: 22.0.0",
+      "url": "https://github.com/angular/angular/releases/tag/vsix-22.0.0",
+      "publishedAt": "2026-06-03T16:16:10.000Z",
+      "summary": "Breaking Changes The extension now bundles TypeScript version 6.0, which itself includes breaking new defaults such as strict being true. You will need to explicitly set \"strict\": false in your tsconfig.json. Alternatively, the extension supports configuring the tsdk in the same way as the built in TS/JS extension. Fix",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "https://medium.com/p/c52bb83a4664",
+      "title": "Announcing Angular v22",
+      "url": "https://blog.angular.dev/announcing-angular-v22-c52bb83a4664?source=rss----447683c3d9a3---4",
+      "publishedAt": "2026-06-03T16:14:58.000Z",
+      "summary": "",
+      "sourceId": "angular-blog",
+      "sourceName": "Angular Blog",
+      "tech": "Angular",
+      "tags": [
+        "angular-release",
+        "angular",
+        "angular-v22"
+      ]
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v22.0.0",
+      "title": "22.0.0",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v22.0.0",
+      "publishedAt": "2026-06-03T14:09:47.000Z",
+      "summary": "@schematics/angular Commit Description add migrate-karma-to-vitest update migration add migration to add istanbul-lib-instrument conditionally install istanbul coverage provider for Vitest migration migrate fake async to Vitest fake timers migrate fakeAsync's flush behavior when used in beforeEach rely on strict templa",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v22.0.0",
+      "title": "22.0.0",
+      "url": "https://github.com/angular/angular/releases/tag/v22.0.0",
+      "publishedAt": "2026-06-03T14:08:52.000Z",
+      "summary": "compiler Commit Description allow safe navigation to correctly narrow down nullables Angular expressions with optional chaining returns undefined Support comments in html element. abstract emitter producing incorrect code for dynamic imports Don't bind inputs/outputs for data- attributes don't escape dollar sign in lit",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v21.2.14",
+      "title": "21.2.14",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v21.2.14",
+      "publishedAt": "2026-06-03T12:32:38.000Z",
+      "summary": "@angular/cli Commit Description expand package groups for newly added peer dependencies in update schematic @angular/build Commit Description prevent esbuild service child process leakage",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v21.2.16",
+      "title": "21.2.16",
+      "url": "https://github.com/angular/angular/releases/tag/v21.2.16",
+      "publishedAt": "2026-06-03T12:30:03.000Z",
+      "summary": "common Commit Description only strip a literal /index.html suffix from URLs compiler Commit Description move projection attributes into constants core Commit Description harden inherit definition feature against polluted prototypes use Object.create(null) for LOCALE_DATA as a hardening measure platform-server Commit De",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
     {
       "id": "tag:github.com,2008:Repository/24195339/v19.2.25",
       "title": "19.2.25",
@@ -68,17 +138,6 @@
       "tags": []
     },
     {
-      "id": "tag:github.com,2008:Repository/24195339/vsix-included-21.2.4",
-      "title": "VSCode Extension: 21.2.4",
-      "url": "https://github.com/angular/angular/releases/tag/vsix-included-21.2.4",
-      "publishedAt": "2026-05-28T17:16:39.000Z",
-      "summary": "fix(vscode-extension): disable language server in untrusted workspaces (4a41831326) fix(vscode-extension): restrict jsdoc markdown trust and harden document opening (6d8b156b45) fix(vscode-extension): prompt for confirmation before loading workspace tsdk (82cf38ad95) fix(vscode-extension): Look for tsdk override in the",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
       "id": "tag:github.com,2008:Repository/24195339/v22.0.0-rc.2",
       "title": "22.0.0-rc.2",
       "url": "https://github.com/angular/angular/releases/tag/v22.0.0-rc.2",
@@ -128,28 +187,6 @@
       "url": "https://github.com/angular/angular/releases/tag/v20.3.23",
       "publishedAt": "2026-05-28T14:27:31.000Z",
       "summary": "compiler Commit Description prevent namespaced SVG elements from being stripped",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v20.3.22",
-      "title": "20.3.22",
-      "url": "https://github.com/angular/angular/releases/tag/v20.3.22",
-      "publishedAt": "2026-05-27T22:55:13.000Z",
-      "summary": "common Commit Description add upper bounds for digitsInfo sanitize placeholder compiler Commit Description normalize tag names with custom namespaces in DomElementSchemaRegistry (#68926) sanitize dynamic href and xlink:href bindings on SVG a elements (#68926) strip namespaced SVG script elements during template compila",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v19.2.23",
-      "title": "19.2.23",
-      "url": "https://github.com/angular/angular/releases/tag/v19.2.23",
-      "publishedAt": "2026-05-27T22:48:21.000Z",
-      "summary": "common Commit Description add upper bounds for digitsInfo sanitize placeholder compiler Commit Description normalize tag names with custom namespaces in DomElementSchemaRegistry sanitize dynamic href and xlink:href bindings on SVG a elements strip namespaced SVG script elements during template compilation core Commit D",
       "sourceId": "angular-releases",
       "sourceName": "Angular (GitHub Releases)",
       "tech": "Angular",
@@ -249,28 +286,6 @@
       "url": "https://github.com/angular/angular-cli/releases/tag/v22.0.0-rc.0",
       "publishedAt": "2026-05-13T19:07:49.000Z",
       "summary": "@angular/cli Commit Description add support for Node.js 26.0.0 restrict MCP workspace access to allowed client roots during resolution update odd-numbered Node.js version warning condition for future releases @schematics/angular Commit Description conditionally install istanbul coverage provider for Vitest migration mi",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v21.2.11",
-      "title": "21.2.11",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v21.2.11",
-      "publishedAt": "2026-05-13T10:13:03.000Z",
-      "summary": "@angular/cli Commit Description robustly parse npm manifest from array @angular/ssr Commit Description allow all hosts in common engine rendering options to prevent validation errors remove stateful flag from URL_PARAMETER_REGEXP",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v20.3.26",
-      "title": "20.3.26",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v20.3.26",
-      "publishedAt": "2026-05-13T10:00:51.000Z",
-      "summary": "@angular/ssr Commit Description allow all hosts in common engine rendering options to prevent validation errors",
       "sourceId": "angular-cli-releases",
       "sourceName": "Angular CLI (GitHub Releases)",
       "tech": "Angular",
@@ -528,20 +543,6 @@
         "angular-french",
         "angular-spanish",
         "angular"
-      ]
-    },
-    {
-      "id": "https://medium.com/p/7d0294475610",
-      "title": "Community Stories, Code Samples, and Signal Forms!",
-      "url": "https://blog.angular.dev/community-stories-code-samples-and-signal-forms-7d0294475610?source=rss----447683c3d9a3---4",
-      "publishedAt": "2026-01-23T17:37:39.000Z",
-      "summary": "",
-      "sourceId": "angular-blog",
-      "sourceName": "Angular Blog",
-      "tech": "Angular",
-      "tags": [
-        "angularcommunity",
-        "angular-gde"
       ]
     },
     {
