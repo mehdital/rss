@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-06-05T09:24:47.837Z",
+  "generatedAt": "2026-06-06T08:21:11.479Z",
   "items": [
+    {
+      "id": "https://spring.io/blog/2026/06/06/spring-ai-2-0-0-RC1-available-now",
+      "title": "Spring AI 2.0.0-RC1 Available Now",
+      "url": "https://spring.io/blog/2026/06/06/spring-ai-2-0-0-RC1-available-now",
+      "publishedAt": "2026-06-06T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
     {
       "id": "https://medium.com/p/ff37df480574",
       "title": "Angular in 2026: Mid-Year Reality Check, Signals, and AI Code Quality!",
@@ -310,17 +321,6 @@
       "id": "https://spring.io/blog/2026/05/08/spring-ai-1-0-7-1-1-6-2-0-0-M6-available-now",
       "title": "Spring AI 1.0.7, 1.1.6, 2.0.0-M6 Available Now",
       "url": "https://spring.io/blog/2026/05/08/spring-ai-1-0-7-1-1-6-2-0-0-M6-available-now",
-      "publishedAt": "2026-05-08T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
-      "tags": []
-    },
-    {
-      "id": "https://spring.io/blog/2026/05/08/spring-cloud-april-releases",
-      "title": "Spring Cloud Function and Config Have Been Released To Address Several CVEs",
-      "url": "https://spring.io/blog/2026/05/08/spring-cloud-april-releases",
       "publishedAt": "2026-05-08T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
