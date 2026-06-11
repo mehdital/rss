@@ -1,10 +1,65 @@
 {
-  "generatedAt": "2026-06-10T09:36:57.849Z",
+  "generatedAt": "2026-06-11T10:00:39.117Z",
   "items": [
     {
-      "id": "https://spring.io/blog/2026/06/10/spring-grpc-1-1-0-available-now",
-      "title": "Spring gRPC 1.1.0 available now",
-      "url": "https://spring.io/blog/2026/06/10/spring-grpc-1-1-0-available-now",
+      "id": "tag:github.com,2008:Repository/36891867/v22.0.1",
+      "title": "22.0.1",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v22.0.1",
+      "publishedAt": "2026-06-10T22:58:32.000Z",
+      "summary": "@schematics/angular Commit Description fix browserMode option mapping in refactor-jasmine-vitest safely comment out multiline statements in refactor-jasmine-vitest use null objects and callbacks in karma-to-vitest migration @angular/cli Commit Description do not sort migrations of the same version alphabetically fallba",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v22.1.0-next.0",
+      "title": "22.1.0-next.0",
+      "url": "https://github.com/angular/angular/releases/tag/v22.1.0-next.0",
+      "publishedAt": "2026-06-10T20:41:03.000Z",
+      "summary": "common Commit Description skip transfer cache for uncacheable HTTP traffic (#69017) compiler Commit Description support foreign components defined outside top-level scope compiler-cli Commit Description allow passing uninvoked signals as foreign component props support import aliases in foreignImports (#68674) core Com",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v22.0.1",
+      "title": "22.0.1",
+      "url": "https://github.com/angular/angular/releases/tag/v22.0.1",
+      "publishedAt": "2026-06-10T20:16:29.000Z",
+      "summary": "common Commit Description escape CSS string-terminating characters in escapeCssUrl Limits date format string length prevent prototype pollution in formatDateTime use cryptographically secure SHA-256 for transfer cache key generation compiler Commit Description disallow i18n event attributes more robust logic to check i",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v21.2.17",
+      "title": "21.2.17",
+      "url": "https://github.com/angular/angular/releases/tag/v21.2.17",
+      "publishedAt": "2026-06-10T19:54:28.000Z",
+      "summary": "common Commit Description Limits date format string length skip transfer cache for uncacheable HTTP traffic use cryptographically secure SHA-256 for transfer cache key generation compiler Commit Description sanitize two-way properties core Commit Description harden TransferState restoration against DOM clobbering valid",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v20.3.25",
+      "title": "20.3.25",
+      "url": "https://github.com/angular/angular/releases/tag/v20.3.25",
+      "publishedAt": "2026-06-10T19:22:37.000Z",
+      "summary": "common Commit Description Limits date format string length skip transfer cache for uncacheable HTTP traffic use cryptographically secure SHA-256 for transfer cache key generation compiler Commit Description sanitize two-way properties core Commit Description harden TransferState restoration against DOM clobbering valid",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "https://spring.io/blog/2026/06/10/spring-batch-6-0-4-and-5-2-6-available-now",
+      "title": "Spring Batch 6.0.4 and 5.2.6 available now",
+      "url": "https://spring.io/blog/2026/06/10/spring-batch-6-0-4-and-5-2-6-available-now",
       "publishedAt": "2026-06-10T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
@@ -13,9 +68,9 @@
       "tags": []
     },
     {
-      "id": "https://spring.io/blog/2026/06/10/spring-for-graphql-1-4-6-and-2-0-4-released",
-      "title": "Spring for GraphQL 1.4.6 and 2.0.4 released",
-      "url": "https://spring.io/blog/2026/06/10/spring-for-graphql-1-4-6-and-2-0-4-released",
+      "id": "https://spring.io/blog/2026/06/10/spring-boot-3-5-15-available-now",
+      "title": "Spring Boot 3.5.15 available now",
+      "url": "https://spring.io/blog/2026/06/10/spring-boot-3-5-15-available-now",
       "publishedAt": "2026-06-10T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
@@ -24,9 +79,9 @@
       "tags": []
     },
     {
-      "id": "https://spring.io/blog/2026/06/10/spring-vault-4-1-available",
-      "title": "Spring Vault 4.1 Generally Available",
-      "url": "https://spring.io/blog/2026/06/10/spring-vault-4-1-available",
+      "id": "https://spring.io/blog/2026/06/10/spring-boot-4-0-7-available-now",
+      "title": "Spring Boot 4.0.7 available now",
+      "url": "https://spring.io/blog/2026/06/10/spring-boot-4-0-7-available-now",
       "publishedAt": "2026-06-10T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
@@ -35,9 +90,9 @@
       "tags": []
     },
     {
-      "id": "https://spring.io/blog/2026/06/10/spring-vault-4-0-3-3-2-1-available",
-      "title": "Spring Vault 4.0.3 and 3.2.1 available",
-      "url": "https://spring.io/blog/2026/06/10/spring-vault-4-0-3-3-2-1-available",
+      "id": "https://spring.io/blog/2026/06/10/spring-boot-4",
+      "title": "Spring Boot 4.1.0 available now",
+      "url": "https://spring.io/blog/2026/06/10/spring-boot-4",
       "publishedAt": "2026-06-10T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
@@ -197,39 +252,6 @@
       "tags": []
     },
     {
-      "id": "tag:github.com,2008:Repository/24195339/v22.0.0-rc.2",
-      "title": "22.0.0-rc.2",
-      "url": "https://github.com/angular/angular/releases/tag/v22.0.0-rc.2",
-      "publishedAt": "2026-05-28T17:01:42.000Z",
-      "summary": "common Commit Description add upper bounds for digitsInfo sanitize placeholder compiler Commit Description normalize tag names with custom namespaces in DomElementSchemaRegistry (#68868) prevent namespaced SVG elements from being stripped sanitize dynamic href and xlink:href bindings on SVG a elements (#68868) core Com",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v21.2.15",
-      "title": "21.2.15",
-      "url": "https://github.com/angular/angular/releases/tag/v21.2.15",
-      "publishedAt": "2026-05-28T16:51:19.000Z",
-      "summary": "common Commit Description add upper bounds for digitsInfo sanitize placeholder compiler Commit Description normalize tag names with custom namespaces in DomElementSchemaRegistry (#68925) prevent namespaced SVG elements from being stripped sanitize dynamic href and xlink:href bindings on SVG a elements (#68925) strip na",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v19.2.24",
-      "title": "19.2.24",
-      "url": "https://github.com/angular/angular/releases/tag/v19.2.24",
-      "publishedAt": "2026-05-28T14:44:22.000Z",
-      "summary": "compiler Commit Description prevent namespaced SVG elements from being stripped",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
       "id": "tag:github.com,2008:Repository/36891867/v22.0.0-rc.2",
       "title": "22.0.0-rc.2",
       "url": "https://github.com/angular/angular-cli/releases/tag/v22.0.0-rc.2",
@@ -237,17 +259,6 @@
       "summary": "@angular-devkit/build-angular Commit Description remove unconditional CORS wildcard from webpack dev-server",
       "sourceId": "angular-cli-releases",
       "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v20.3.23",
-      "title": "20.3.23",
-      "url": "https://github.com/angular/angular/releases/tag/v20.3.23",
-      "publishedAt": "2026-05-28T14:27:31.000Z",
-      "summary": "compiler Commit Description prevent namespaced SVG elements from being stripped",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
       "tech": "Angular",
       "tags": []
     },
@@ -316,17 +327,6 @@
         "Jakarta EE 11",
         "Payara 7"
       ]
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v22.0.0-rc.0",
-      "title": "22.0.0-rc.0",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v22.0.0-rc.0",
-      "publishedAt": "2026-05-13T19:07:49.000Z",
-      "summary": "@angular/cli Commit Description add support for Node.js 26.0.0 restrict MCP workspace access to allowed client roots during resolution update odd-numbered Node.js version warning condition for future releases @schematics/angular Commit Description conditionally install istanbul coverage provider for Vitest migration mi",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
     },
     {
       "id": "https://medium.com/p/07c0afb816a3",
