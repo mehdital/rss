@@ -1,6 +1,94 @@
 {
-  "generatedAt": "2026-06-11T10:00:39.117Z",
+  "generatedAt": "2026-06-12T09:53:33.139Z",
   "items": [
+    {
+      "id": "tag:github.com,2008:Repository/24195339/vsix-22.0.1",
+      "title": "VSCode Extension: 22.0.1",
+      "url": "https://github.com/angular/angular/releases/tag/vsix-22.0.1",
+      "publishedAt": "2026-06-11T18:26:37.000Z",
+      "summary": "fix(vscode-extension): resolve relative workspace tsdk paths to absolute (f6695b0eb2) fix(language-service): prevent external template inlay hints from appearing in TS files (43a0e28729) fix(vscode-extension): inspect tsdk configurations correctly (102ffb65d1)",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v22.1.0-next.0",
+      "title": "22.1.0-next.0",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v22.1.0-next.0",
+      "publishedAt": "2026-06-11T16:42:57.000Z",
+      "summary": "@angular/cli Commit Description robustly parse npm manifest from array @schematics/angular Commit Description update ai-config to include Angular MCP server config @angular-devkit/core Commit Description deprecate stringToFileBuffer and fileBufferToString @angular/ssr Commit Description correct grammar in console warni",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v20.3.28",
+      "title": "20.3.28",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v20.3.28",
+      "publishedAt": "2026-06-11T16:37:13.000Z",
+      "summary": "@angular/cli Commit Description fallback to deprecated versions when resolving ranges if no non-deprecated version is found remove forceAuth and unscoped credential parsing",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v21.2.15",
+      "title": "21.2.15",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v21.2.15",
+      "publishedAt": "2026-06-11T15:54:56.000Z",
+      "summary": "@angular/cli Commit Description remove forceAuth and unscoped credential parsing support registry metadata fetching under bun package manager",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "https://spring.io/blog/2026/06/11/spring-cloud-2025-1-2-aka-oakwood-has-been-released",
+      "title": "Spring Cloud 2025.1.2 (aka Oakwood) Has Been Released",
+      "url": "https://spring.io/blog/2026/06/11/spring-cloud-2025-1-2-aka-oakwood-has-been-released",
+      "publishedAt": "2026-06-11T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "https://spring.io/blog/2026/06/11/spring-cloud-2025-0-3-aka-northfields-has-been-released",
+      "title": "Spring Cloud 2025.0.3 (aka Northfields) Has Been Released",
+      "url": "https://spring.io/blog/2026/06/11/spring-cloud-2025-0-3-aka-northfields-has-been-released",
+      "publishedAt": "2026-06-11T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "https://spring.io/blog/2026/06/11/spring-shell-4-0-3-and-3-4-3-are-out",
+      "title": "Spring Shell 4.0.3 and 3.4.3 are out!",
+      "url": "https://spring.io/blog/2026/06/11/spring-shell-4-0-3-and-3-4-3-are-out",
+      "publishedAt": "2026-06-11T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "https://spring.io/blog/2026/06/11/spring-modulith-2-1-ga-2-0-7-and-1-4-12-released",
+      "title": "Spring Modulith 2.1 GA, 2.0.7, and 1.4.12 released",
+      "url": "https://spring.io/blog/2026/06/11/spring-modulith-2-1-ga-2-0-7-and-1-4-12-released",
+      "publishedAt": "2026-06-11T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
     {
       "id": "tag:github.com,2008:Repository/36891867/v22.0.1",
       "title": "22.0.1",
@@ -54,50 +142,6 @@
       "sourceId": "angular-releases",
       "sourceName": "Angular (GitHub Releases)",
       "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "https://spring.io/blog/2026/06/10/spring-batch-6-0-4-and-5-2-6-available-now",
-      "title": "Spring Batch 6.0.4 and 5.2.6 available now",
-      "url": "https://spring.io/blog/2026/06/10/spring-batch-6-0-4-and-5-2-6-available-now",
-      "publishedAt": "2026-06-10T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
-      "tags": []
-    },
-    {
-      "id": "https://spring.io/blog/2026/06/10/spring-boot-3-5-15-available-now",
-      "title": "Spring Boot 3.5.15 available now",
-      "url": "https://spring.io/blog/2026/06/10/spring-boot-3-5-15-available-now",
-      "publishedAt": "2026-06-10T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
-      "tags": []
-    },
-    {
-      "id": "https://spring.io/blog/2026/06/10/spring-boot-4-0-7-available-now",
-      "title": "Spring Boot 4.0.7 available now",
-      "url": "https://spring.io/blog/2026/06/10/spring-boot-4-0-7-available-now",
-      "publishedAt": "2026-06-10T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
-      "tags": []
-    },
-    {
-      "id": "https://spring.io/blog/2026/06/10/spring-boot-4",
-      "title": "Spring Boot 4.1.0 available now",
-      "url": "https://spring.io/blog/2026/06/10/spring-boot-4",
-      "publishedAt": "2026-06-10T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
       "tags": []
     },
     {
@@ -230,17 +274,6 @@
       "tags": []
     },
     {
-      "id": "tag:github.com,2008:Repository/24195339/v22.0.0-rc.3",
-      "title": "22.0.0-rc.3",
-      "url": "https://github.com/angular/angular/releases/tag/v22.0.0-rc.3",
-      "publishedAt": "2026-06-01T20:06:40.000Z",
-      "summary": "common Commit Description only strip a literal /index.html suffix from URLs compiler Commit Description move projection attributes into constants core Commit Description use Object.create(null) for LOCALE_DATA as a hardening measure migrations Commit Description Make the safe optional chaining idempotent platform-serve",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
       "id": "tag:github.com,2008:Repository/36891867/v22.0.0-rc.3",
       "title": "22.0.0-rc.3",
       "url": "https://github.com/angular/angular-cli/releases/tag/v22.0.0-rc.3",
@@ -263,17 +296,6 @@
       "tags": []
     },
     {
-      "id": "tag:github.com,2008:Repository/36891867/v21.2.13",
-      "title": "21.2.13",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v21.2.13",
-      "publishedAt": "2026-05-27T21:08:51.000Z",
-      "summary": "@angular-devkit/build-angular Commit Description remove unconditional CORS wildcard from webpack dev-server @angular/build Commit Description assert that asset input paths are within workspace root",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
       "id": "https://medium.com/p/94c18a911a3a",
       "title": "Mastering Dynamic Components, HTTP Resources, and AI Writing Assistants ️",
       "url": "https://blog.angular.dev/mastering-dynamic-components-http-resources-and-ai-writing-assistants-%EF%B8%8F-94c18a911a3a?source=rss----447683c3d9a3---4",
@@ -286,46 +308,6 @@
         "angular",
         "angular-weekly",
         "angular-newsletter"
-      ]
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v22.0.0-rc.1",
-      "title": "22.0.0-rc.1",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v22.0.0-rc.1",
-      "publishedAt": "2026-05-21T23:51:08.000Z",
-      "summary": "@schematics/angular Commit Description support spy call arguments migration in refactor-jasmine-vitest @angular/build Commit Description assert that asset input paths are within workspace root ignore virtual esbuild paths with (disabled):",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v21.2.12",
-      "title": "21.2.12",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v21.2.12",
-      "publishedAt": "2026-05-20T22:50:49.000Z",
-      "summary": "@angular/build Commit Description ignore virtual esbuild paths with (disabled):",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "https://foojay.io/?p=123788",
-      "title": "Azul Payara May 2026 Release – What’s New",
-      "url": "https://foojay.io/today/whats-new-in-the-may-2026-azul-payara-release/",
-      "publishedAt": "2026-05-14T11:40:02.000Z",
-      "summary": "Table of Contents A critical security fix, patched across every supported branchAzul Payara Community 7.2026.5Azul Payara 6.38.0: Continued Jakarta EE 10 SupportAzul Payara 5.87.0: Jakarta EE 8 Support ContinuesAzul Payara 4.1.2.191.55: Legacy Branch Still MaintainedLooking AheadUpgrading and Feedback The May ... The p",
-      "sourceId": "foojay-release-notes",
-      "sourceName": "Foojay (Release Notes)",
-      "tech": "Java",
-      "tags": [
-        "Jakarta EE",
-        "Payara",
-        "Release Notes",
-        "Uncategorized",
-        "Jakarta EE 11",
-        "Payara 7"
       ]
     },
     {
@@ -342,23 +324,6 @@
         "ai",
         "angular",
         "agent-skills"
-      ]
-    },
-    {
-      "id": "https://foojay.io/?p=123512",
-      "title": "Azul Zulu April 2026 Quarterly Update Released",
-      "url": "https://foojay.io/today/azul-zulu-april-2026-quarterly-update-released/",
-      "publishedAt": "2026-04-23T07:12:29.000Z",
-      "summary": "Table of Contents The Quarterly Update CycleCritical Patch Updates (CPU)Patch Set Updates (PSU)Making Perfect Use of CPU and PSU releasesDifference With the Six-Month Release CycleSecurity and Bug Fixes in This ReleaseAzul Zulu April 2026 Release NotesAzul Zulu Joins Docker's Official ... The post Azul Zulu April 2026 ",
-      "sourceId": "foojay-release-notes",
-      "sourceName": "Foojay (Release Notes)",
-      "tech": "Java",
-      "tags": [
-        "Java",
-        "Release Notes",
-        "azul",
-        "core",
-        "zulu"
       ]
     },
     {
@@ -404,30 +369,6 @@
       ]
     },
     {
-      "id": "https://foojay.io/?p=123062",
-      "title": "BoxLang 1.11.0 Release",
-      "url": "https://foojay.io/today/boxlang-1-11-0-release/",
-      "publishedAt": "2026-03-17T09:40:04.000Z",
-      "summary": "Table of Contents 🚀 What's New in 1.11.0 ⚡ Performance Wave — 15+ Targeted Runtime Speedups 🔒 Concurrency & Lock Safety — Critical Fix 🗓️ DateTime Casting Reliability 🆕 enforceUDFTypeChecks Configuration Setting ⏱️ getTickCount() — Nanosecond & Second Precision 🗑️ ... The post BoxLang 1.11.0 Release appeared first",
-      "sourceId": "foojay-release-notes",
-      "sourceName": "Foojay (Release Notes)",
-      "tech": "Java",
-      "tags": [
-        "AI",
-        "BoxLang",
-        "Cloud",
-        "Developer Tools",
-        "Java",
-        "Performance",
-        "Release Notes",
-        "Application Modernization",
-        "CFML",
-        "Cloud Migration",
-        "ColdFusion",
-        "Enterprise Java"
-      ]
-    },
-    {
       "id": "https://medium.com/p/7aa1c1cf9550",
       "title": "Modernize Your Workflow: AI Tooling, Deferrable Views, and the Era of Forms! ️",
       "url": "https://blog.angular.dev/modernize-your-workflow-ai-tooling-deferrable-views-and-the-era-of-forms-%EF%B8%8F-7aa1c1cf9550?source=rss----447683c3d9a3---4",
@@ -440,38 +381,6 @@
         "angular",
         "angular-weekly-newsleter",
         "angularcommunity"
-      ]
-    },
-    {
-      "id": "https://foojay.io/?p=122884",
-      "title": "BoxLang Homebrew Installer Released",
-      "url": "https://foojay.io/today/boxlang-homebrew-installer-released/",
-      "publishedAt": "2026-03-03T12:34:03.000Z",
-      "summary": "Table of Contents Getting Started Option 1: BVM — BoxLang Version ManagerOption 2: Quick Installer — Zero Friction SetupAlways Up to DateReady to Try It? We're excited to announce the official BoxLang Homebrew tap — the easiest way to get ... The post BoxLang Homebrew Installer Released appeared first on foojay.",
-      "sourceId": "foojay-release-notes",
-      "sourceName": "Foojay (Release Notes)",
-      "tech": "Java",
-      "tags": [
-        "BoxLang",
-        "Developer Tools",
-        "Java",
-        "Release Notes",
-        "Tools"
-      ]
-    },
-    {
-      "id": "https://foojay.io/?p=122791",
-      "title": "Java 26: What’s New?",
-      "url": "https://foojay.io/today/java-26-whats-new/",
-      "publishedAt": "2026-03-03T10:00:28.000Z",
-      "summary": "Table of Contents JEP 500: Prepare to Make Final Mean FinalJEP 504: Remove the Applet APIJEP 516: Ahead-of-Time Object Caching with Any GCJEP 517: HTTP/3 for the HTTP Client APIJEP 522: G1 GC: Improve Throughput by Reducing SynchronizationUUIDv7 supportFeatures coming ... The post Java 26: What’s New? appeared first on",
-      "sourceId": "foojay-release-notes",
-      "sourceName": "Foojay (Release Notes)",
-      "tech": "Java",
-      "tags": [
-        "Java",
-        "JEPs",
-        "Release Notes"
       ]
     },
     {
@@ -489,48 +398,6 @@
       ]
     },
     {
-      "id": "https://foojay.io/?p=122813",
-      "title": "Announcing Cloud-Native BoxLang for $5/Month",
-      "url": "https://foojay.io/today/announcing-cloud-native-boxlang-for-5-month/",
-      "publishedAt": "2026-02-23T16:39:44.000Z",
-      "summary": "Table of Contents Cloud-Native BoxLang Has Never Been Easier 💰 Production-Ready for $5/Month 🎯 Who Is This For? ⚡ What You Get Out of the Box 🚀 Deploy in 3 Clicks 🔧 Grow Beyond the Basics 🥊 Why BoxLang + ... The post Announcing Cloud-Native BoxLang for $5/Month appeared first on foojay.",
-      "sourceId": "foojay-release-notes",
-      "sourceName": "Foojay (Release Notes)",
-      "tech": "Java",
-      "tags": [
-        "BoxLang",
-        "Cloud",
-        "Press",
-        "Release Notes",
-        "AI Integration",
-        "bx-ai",
-        "Cloud Native",
-        "Enterprise",
-        "JVM",
-        "Microservices",
-        "orchestration",
-        "SaaS"
-      ]
-    },
-    {
-      "id": "https://foojay.io/?p=122736",
-      "title": "GlassFish 8 is here with Jakarta EE 11, virtual threads, and Jakarta Data",
-      "url": "https://foojay.io/today/glassfish-8-is-here-with-jakarta-ee-11-virtual-threads-and-jakarta-data/",
-      "publishedAt": "2026-02-18T16:06:02.000Z",
-      "summary": "Table of Contents What makes GlassFish 8 modern and developer-friendlyThe story of Jakarta Data in GlassFish 8The story of virtual threads support in GlassFish 8GlassFish 8 beyond Jakarta EE 11Production-ready and supportedDive deeper The final version of Eclipse GlassFish 8 ... The post GlassFish 8 is here with Jakart",
-      "sourceId": "foojay-release-notes",
-      "sourceName": "Foojay (Release Notes)",
-      "tech": "Java",
-      "tags": [
-        "Jakarta EE",
-        "Payara",
-        "Release Notes",
-        "Uncategorized",
-        "GlassFish",
-        "OmniFish"
-      ]
-    },
-    {
       "id": "https://medium.com/p/eefc4b05ddb6",
       "title": "Angular 21: Internal Mechanics, ARIA, and AI-Powered Coding!",
       "url": "https://blog.angular.dev/angular-21-internal-mechanics-aria-and-ai-powered-coding-eefc4b05ddb6?source=rss----447683c3d9a3---4",
@@ -542,55 +409,6 @@
       "tags": [
         "angularcommunity",
         "angular"
-      ]
-    },
-    {
-      "id": "https://foojay.io/?p=122427",
-      "title": "OpenJDK January 2026 Critical Patch Update and Patch Set Update Released",
-      "url": "https://foojay.io/today/openjdk-january-2026-critical-patch-update-and-patch-set-update-released/",
-      "publishedAt": "2026-01-21T08:32:01.000Z",
-      "summary": "Table of Contents The Quarterly Update Cycle Critical Patch Updates (CPU) Patch Set Updates (PSU) Difference With the Six-Month Release CycleDistributor AvailabilityIn this January ReleaseNext Steps The January 2026 OpenJDK quarterly updates are now (or will soon be) available from ... The post OpenJDK January 2026 Cri",
-      "sourceId": "foojay-release-notes",
-      "sourceName": "Foojay (Release Notes)",
-      "tech": "Java",
-      "tags": [
-        "CRaC",
-        "Java",
-        "Java Core",
-        "Release Notes",
-        "OpenJDK",
-        "Release"
-      ]
-    },
-    {
-      "id": "https://foojay.io/?p=122312",
-      "title": "BoxLang 1.9.0 Released: Production-Ready Stability and Enterprise-Grade Reliability",
-      "url": "https://foojay.io/today/boxlang-1-9-0-released-production-ready-stability-and-enterprise-grade-reliability/",
-      "publishedAt": "2026-01-12T11:16:19.000Z",
-      "summary": "Table of Contents Production-Ready EnhancementsKey Features and Code Examples Array-Based Form Field Parsing Datasource Lifecycle Management Oracle Database Improvements Enhanced SOAP Client with Fluent API Technical SpecificationsAvailability and LicensingAbout BoxLangAbout Ortus Solutions Houston, Texas – January 202",
-      "sourceId": "foojay-release-notes",
-      "sourceName": "Foojay (Release Notes)",
-      "tech": "Java",
-      "tags": [
-        "BoxLang",
-        "Java",
-        "Library",
-        "Release Notes"
-      ]
-    },
-    {
-      "id": "https://foojay.io/?p=122004",
-      "title": "More Java From Azul!",
-      "url": "https://foojay.io/today/more-java-from-azul/",
-      "publishedAt": "2025-12-10T17:14:23.000Z",
-      "summary": "Table of Contents A Little Java HistoryPayara and Azul Azul is a company focused purely on Java through builds of OpenJDK, in the form of Platform Core, and our high-performance Java platform (including JVM), Platform Prime. We build on these with Intelligence Cloud to deliver precise information about security ... The",
-      "sourceId": "foojay-release-notes",
-      "sourceName": "Foojay (Release Notes)",
-      "tech": "Java",
-      "tags": [
-        "Performance",
-        "Press",
-        "Release Notes"
       ]
     }
   ]
