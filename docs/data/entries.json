@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-06-14T08:58:48.567Z",
+  "generatedAt": "2026-06-16T10:50:01.350Z",
   "items": [
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v22.0.0",
+      "title": "22.0.0",
+      "url": "https://github.com/angular/angular/releases/tag/v22.0.0",
+      "publishedAt": "2026-06-15T14:15:32.000Z",
+      "summary": "compiler Commit Description allow safe navigation to correctly narrow down nullables Angular expressions with optional chaining returns undefined Support comments in html element. abstract emitter producing incorrect code for dynamic imports Don't bind inputs/outputs for data- attributes don't escape dollar sign in lit",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "https://spring.io/blog/2026/06/15/spring-tools-5-2-0-released",
+      "title": "Spring Tools 5.2.0 released",
+      "url": "https://spring.io/blog/2026/06/15/spring-tools-5-2-0-released",
+      "publishedAt": "2026-06-15T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
     {
       "id": "https://spring.io/blog/2026/06/12/spring-ai-1-1-8-1-0-9-avaialble-now",
       "title": "Spring AI 1.0.9, 1.1.8 Available Now",
@@ -71,17 +93,6 @@
       "id": "https://spring.io/blog/2026/06/11/spring-cloud-2025-0-3-aka-northfields-has-been-released",
       "title": "Spring Cloud 2025.0.3 (aka Northfields) Has Been Released",
       "url": "https://spring.io/blog/2026/06/11/spring-cloud-2025-0-3-aka-northfields-has-been-released",
-      "publishedAt": "2026-06-11T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
-      "tags": []
-    },
-    {
-      "id": "https://spring.io/blog/2026/06/11/spring-cloud-2025-1-2-aka-oakwood-has-been-released",
-      "title": "Spring Cloud 2025.1.2 (aka Oakwood) Has Been Released",
-      "url": "https://spring.io/blog/2026/06/11/spring-cloud-2025-1-2-aka-oakwood-has-been-released",
       "publishedAt": "2026-06-11T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
@@ -193,17 +204,6 @@
       "summary": "@schematics/angular Commit Description add migrate-karma-to-vitest update migration add migration to add istanbul-lib-instrument conditionally install istanbul coverage provider for Vitest migration migrate fake async to Vitest fake timers migrate fakeAsync's flush behavior when used in beforeEach rely on strict templa",
       "sourceId": "angular-cli-releases",
       "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v22.0.0",
-      "title": "22.0.0",
-      "url": "https://github.com/angular/angular/releases/tag/v22.0.0",
-      "publishedAt": "2026-06-03T14:08:52.000Z",
-      "summary": "compiler Commit Description allow safe navigation to correctly narrow down nullables Angular expressions with optional chaining returns undefined Support comments in html element. abstract emitter producing incorrect code for dynamic imports Don't bind inputs/outputs for data- attributes don't escape dollar sign in lit",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
       "tech": "Angular",
       "tags": []
     },
