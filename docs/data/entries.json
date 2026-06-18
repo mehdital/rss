@@ -1,6 +1,61 @@
 {
-  "generatedAt": "2026-06-17T10:22:20.759Z",
+  "generatedAt": "2026-06-18T10:01:33.625Z",
   "items": [
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v22.1.0-next.1",
+      "title": "22.1.0-next.1",
+      "url": "https://github.com/angular/angular/releases/tag/v22.1.0-next.1",
+      "publishedAt": "2026-06-17T21:16:12.000Z",
+      "summary": "common Commit Description escape anchor fragment in shadow DOM name selector compiler Commit Description restrict possible event handler check to property names longer than 2 characters core Commit Description avoid caching missing locale data escape overlapping comment delimiters in escapeCommentText guard against DOM",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v22.0.2",
+      "title": "22.0.2",
+      "url": "https://github.com/angular/angular/releases/tag/v22.0.2",
+      "publishedAt": "2026-06-17T21:08:12.000Z",
+      "summary": "common Commit Description escape anchor fragment in shadow DOM name selector skip transfer cache for uncacheable HTTP traffic (#69316) compiler Commit Description restrict possible event handler check to property names longer than 2 characters core Commit Description avoid caching missing locale data escape overlapping",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v21.2.16",
+      "title": "21.2.16",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v21.2.16",
+      "publishedAt": "2026-06-17T15:31:52.000Z",
+      "summary": "@angular/cli Commit Description update pacote to 21.5.1 @angular/ssr Commit Description prioritize options over environment variables in AngularNodeAppEngine",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v20.3.29",
+      "title": "20.3.29",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v20.3.29",
+      "publishedAt": "2026-06-17T14:54:35.000Z",
+      "summary": "@angular/cli Commit Description update pacote to 21.5.1 @angular/ssr Commit Description prioritize options over environment variables in AngularNodeAppEngine",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v22.0.2",
+      "title": "22.0.2",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v22.0.2",
+      "publishedAt": "2026-06-17T14:07:32.000Z",
+      "summary": "@angular/cli Commit Description support registry metadata fetching under bun package manager implement semaphore backpressure throttling in PackageManager @angular/build Commit Description implement semaphore backpressure throttling in JavaScriptTransformer @angular/ssr Commit Description avoid caching non-SSG page loo",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
     {
       "id": "tag:github.com,2008:Repository/24195339/v22.0.0",
       "title": "22.0.0",
@@ -90,9 +145,9 @@
       "tags": []
     },
     {
-      "id": "https://spring.io/blog/2026/06/11/spring-cloud-2025-0-3-aka-northfields-has-been-released",
-      "title": "Spring Cloud 2025.0.3 (aka Northfields) Has Been Released",
-      "url": "https://spring.io/blog/2026/06/11/spring-cloud-2025-0-3-aka-northfields-has-been-released",
+      "id": "https://spring.io/blog/2026/06/11/spring-cloud-2025-1-2-aka-oakwood-has-been-released",
+      "title": "Spring Cloud 2025.1.2 (aka Oakwood) Has Been Released",
+      "url": "https://spring.io/blog/2026/06/11/spring-cloud-2025-1-2-aka-oakwood-has-been-released",
       "publishedAt": "2026-06-11T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
@@ -230,66 +285,11 @@
       "tags": []
     },
     {
-      "id": "tag:github.com,2008:Repository/24195339/v19.2.25",
-      "title": "19.2.25",
-      "url": "https://github.com/angular/angular/releases/tag/v19.2.25",
-      "publishedAt": "2026-06-02T11:20:14.000Z",
-      "summary": "platform-server Commit Description throw on suspicious URLs and restrict protocol-relative URLs update domino to latest version",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v20.3.24",
-      "title": "20.3.24",
-      "url": "https://github.com/angular/angular/releases/tag/v20.3.24",
-      "publishedAt": "2026-06-02T11:10:28.000Z",
-      "summary": "platform-server Commit Description throw on suspicious URLs and restrict protocol-relative URLs update domino to latest version",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
       "id": "tag:github.com,2008:Repository/36891867/v20.3.27",
       "title": "20.3.27",
       "url": "https://github.com/angular/angular-cli/releases/tag/v20.3.27",
       "publishedAt": "2026-06-02T09:56:52.000Z",
       "summary": "@angular/ssr Commit Description add support for configuring trusted proxy headers via environment variable",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v19.2.27",
-      "title": "19.2.27",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v19.2.27",
-      "publishedAt": "2026-06-02T09:45:57.000Z",
-      "summary": "@angular/ssr Commit Description add support for configuring trusted proxy headers via environment variable",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v22.0.0-rc.3",
-      "title": "22.0.0-rc.3",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v22.0.0-rc.3",
-      "publishedAt": "2026-06-01T13:11:51.000Z",
-      "summary": "@schematics/angular Commit Description preserve Jasmine stub-by-default semantics for bare spies @angular/cli Commit Description expand package groups for newly added peer dependencies in update schematic @angular/build Commit Description prevent esbuild service child process leakage @angular/ssr Commit Description sup",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v22.0.0-rc.2",
-      "title": "22.0.0-rc.2",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v22.0.0-rc.2",
-      "publishedAt": "2026-05-28T14:29:23.000Z",
-      "summary": "@angular-devkit/build-angular Commit Description remove unconditional CORS wildcard from webpack dev-server",
       "sourceId": "angular-cli-releases",
       "sourceName": "Angular CLI (GitHub Releases)",
       "tech": "Angular",
