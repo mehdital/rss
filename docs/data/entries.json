@@ -1,6 +1,32 @@
 {
-  "generatedAt": "2026-06-18T10:01:33.625Z",
+  "generatedAt": "2026-06-20T08:37:40.208Z",
   "items": [
+    {
+      "id": "https://medium.com/p/25842ff36020",
+      "title": "Community Comebacks, Angular 21.1 Features, and Smarter Signal Forms ️⚡",
+      "url": "https://blog.angular.dev/angular-community-weekly-14-25842ff36020?source=rss----447683c3d9a3---4",
+      "publishedAt": "2026-06-19T10:01:04.000Z",
+      "summary": "",
+      "sourceId": "angular-blog",
+      "sourceName": "Angular Blog",
+      "tech": "Angular",
+      "tags": [
+        "angular-weekly",
+        "angular",
+        "angular-newsletter"
+      ]
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v22.0.3",
+      "title": "22.0.3",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v22.0.3",
+      "publishedAt": "2026-06-18T13:33:37.000Z",
+      "summary": "@schematics/angular Commit Description remove default workspace vscode mcp.json configuration",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
     {
       "id": "tag:github.com,2008:Repository/24195339/v22.1.0-next.1",
       "title": "22.1.0-next.1",
@@ -145,9 +171,9 @@
       "tags": []
     },
     {
-      "id": "https://spring.io/blog/2026/06/11/spring-cloud-2025-1-2-aka-oakwood-has-been-released",
-      "title": "Spring Cloud 2025.1.2 (aka Oakwood) Has Been Released",
-      "url": "https://spring.io/blog/2026/06/11/spring-cloud-2025-1-2-aka-oakwood-has-been-released",
+      "id": "https://spring.io/blog/2026/06/11/spring-cloud-2025-0-3-aka-northfields-has-been-released",
+      "title": "Spring Cloud 2025.0.3 (aka Northfields) Has Been Released",
+      "url": "https://spring.io/blog/2026/06/11/spring-cloud-2025-0-3-aka-northfields-has-been-released",
       "publishedAt": "2026-06-11T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
@@ -281,17 +307,6 @@
       "summary": "common Commit Description only strip a literal /index.html suffix from URLs compiler Commit Description move projection attributes into constants core Commit Description harden inherit definition feature against polluted prototypes use Object.create(null) for LOCALE_DATA as a hardening measure platform-server Commit De",
       "sourceId": "angular-releases",
       "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v20.3.27",
-      "title": "20.3.27",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v20.3.27",
-      "publishedAt": "2026-06-02T09:56:52.000Z",
-      "summary": "@angular/ssr Commit Description add support for configuring trusted proxy headers via environment variable",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
       "tech": "Angular",
       "tags": []
     },
@@ -528,20 +543,6 @@
         "Uncategorized",
         "GlassFish",
         "OmniFish"
-      ]
-    },
-    {
-      "id": "https://medium.com/p/eefc4b05ddb6",
-      "title": "Angular 21: Internal Mechanics, ARIA, and AI-Powered Coding!",
-      "url": "https://blog.angular.dev/angular-21-internal-mechanics-aria-and-ai-powered-coding-eefc4b05ddb6?source=rss----447683c3d9a3---4",
-      "publishedAt": "2026-02-17T17:58:47.000Z",
-      "summary": "",
-      "sourceId": "angular-blog",
-      "sourceName": "Angular Blog",
-      "tech": "Angular",
-      "tags": [
-        "angularcommunity",
-        "angular"
       ]
     },
     {
