@@ -1,6 +1,61 @@
 {
-  "generatedAt": "2026-06-24T08:50:16.580Z",
+  "generatedAt": "2026-06-25T08:44:13.226Z",
   "items": [
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v22.1.0-next.1",
+      "title": "22.1.0-next.1",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v22.1.0-next.1",
+      "publishedAt": "2026-06-24T09:19:58.000Z",
+      "summary": "@schematics/angular Commit Description remove default workspace vscode mcp.json configuration @angular/cli Commit Description prevent Yarn registry environment variable override support registry metadata fetching under bun package manager implement semaphore backpressure throttling in PackageManager @angular/build Comm",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v22.0.4",
+      "title": "22.0.4",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v22.0.4",
+      "publishedAt": "2026-06-24T09:04:41.000Z",
+      "summary": "@angular/build Commit Description aggregate parallel worker performance timings on the main thread dispose builder result context early in non-watch mode",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v21.2.17",
+      "title": "21.2.17",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v21.2.17",
+      "publishedAt": "2026-06-24T08:55:07.000Z",
+      "summary": "@angular/build Commit Description bump @babel/core to 7.29.7 bump esbuild to 0.28.1 bump piscina to 5.2.0 bump vite to 7.3.5",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v20.3.30",
+      "title": "20.3.30",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v20.3.30",
+      "publishedAt": "2026-06-24T08:50:53.000Z",
+      "summary": "@angular/build Commit Description bump @babel/core to 7.29.7 bump esbuild to 0.28.1 bump piscina to 5.2.0 bump vite to 7.3.5",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "https://spring.io/blog/2026/06/24/spring-data-2025-0-13-released",
+      "title": "Spring Data 2025.0.13 released",
+      "url": "https://spring.io/blog/2026/06/24/spring-data-2025-0-13-released",
+      "publishedAt": "2026-06-24T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
     {
       "id": "https://medium.com/p/25842ff36020",
       "title": "Community Comebacks, Angular 21.1 Features, and Smarter Signal Forms ️⚡",
@@ -149,44 +204,11 @@
       "tags": []
     },
     {
-      "id": "tag:github.com,2008:Repository/36891867/v20.3.28",
-      "title": "20.3.28",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v20.3.28",
-      "publishedAt": "2026-06-11T16:37:13.000Z",
-      "summary": "@angular/cli Commit Description fallback to deprecated versions when resolving ranges if no non-deprecated version is found remove forceAuth and unscoped credential parsing",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
       "id": "tag:github.com,2008:Repository/36891867/v21.2.15",
       "title": "21.2.15",
       "url": "https://github.com/angular/angular-cli/releases/tag/v21.2.15",
       "publishedAt": "2026-06-11T15:54:56.000Z",
       "summary": "@angular/cli Commit Description remove forceAuth and unscoped credential parsing support registry metadata fetching under bun package manager",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "https://spring.io/blog/2026/06/11/spring-cloud-2025-0-3-aka-northfields-has-been-released",
-      "title": "Spring Cloud 2025.0.3 (aka Northfields) Has Been Released",
-      "url": "https://spring.io/blog/2026/06/11/spring-cloud-2025-0-3-aka-northfields-has-been-released",
-      "publishedAt": "2026-06-11T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v22.0.1",
-      "title": "22.0.1",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v22.0.1",
-      "publishedAt": "2026-06-10T22:58:32.000Z",
-      "summary": "@schematics/angular Commit Description fix browserMode option mapping in refactor-jasmine-vitest safely comment out multiline statements in refactor-jasmine-vitest use null objects and callbacks in karma-to-vitest migration @angular/cli Commit Description do not sort migrations of the same version alphabetically fallba",
       "sourceId": "angular-cli-releases",
       "sourceName": "Angular CLI (GitHub Releases)",
       "tech": "Angular",
@@ -278,28 +300,6 @@
       ]
     },
     {
-      "id": "tag:github.com,2008:Repository/36891867/v22.0.0",
-      "title": "22.0.0",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v22.0.0",
-      "publishedAt": "2026-06-03T14:09:47.000Z",
-      "summary": "@schematics/angular Commit Description add migrate-karma-to-vitest update migration add migration to add istanbul-lib-instrument conditionally install istanbul coverage provider for Vitest migration migrate fake async to Vitest fake timers migrate fakeAsync's flush behavior when used in beforeEach rely on strict templa",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v21.2.14",
-      "title": "21.2.14",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v21.2.14",
-      "publishedAt": "2026-06-03T12:32:38.000Z",
-      "summary": "@angular/cli Commit Description expand package groups for newly added peer dependencies in update schematic @angular/build Commit Description prevent esbuild service child process leakage",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
       "id": "tag:github.com,2008:Repository/24195339/v21.2.16",
       "title": "21.2.16",
       "url": "https://github.com/angular/angular/releases/tag/v21.2.16",
@@ -323,6 +323,30 @@
         "angular",
         "angular-weekly",
         "angular-newsletter"
+      ]
+    },
+    {
+      "id": "https://foojay.io/?p=123809",
+      "title": "BoxLang v1.13.0: Compatibility, Concurrency, and Formatter Maturity",
+      "url": "https://foojay.io/today/boxlang-v1-13-0-compatibility-concurrency-and-formatter-maturity/",
+      "publishedAt": "2026-05-19T12:11:19.000Z",
+      "summary": "BoxLang 1.13.0 is a stability-first release with deep compatibility work and runtime hardening. This build closes 48 issues, with the majority focused on CFML compatibility edge cases, concurrency correctness, formatting parity, and miniserver/runtime reliability under real production loads. While this ... The post Box",
+      "sourceId": "foojay-release-notes",
+      "sourceName": "Foojay (Release Notes)",
+      "tech": "Java",
+      "tags": [
+        "BoxLang",
+        "Developer Tools",
+        "DevOps",
+        "Java",
+        "Performance",
+        "Release Notes",
+        "Security",
+        "Adobe ColdFusion",
+        "async",
+        "BoxFuture",
+        "BoxLang 1.13.0",
+        "CFML"
       ]
     },
     {
@@ -576,21 +600,6 @@
         "BoxLang",
         "Java",
         "Library",
-        "Release Notes"
-      ]
-    },
-    {
-      "id": "https://foojay.io/?p=122004",
-      "title": "More Java From Azul!",
-      "url": "https://foojay.io/today/more-java-from-azul/",
-      "publishedAt": "2025-12-10T17:14:23.000Z",
-      "summary": "Azul is a company focused purely on Java through builds of OpenJDK, in the form of Platform Core, and our high-performance Java platform (including JVM), Platform Prime. We build on these with Intelligence Cloud to deliver precise information about security vulnerabilities in running code, unused code and an inventory ",
-      "sourceId": "foojay-release-notes",
-      "sourceName": "Foojay (Release Notes)",
-      "tech": "Java",
-      "tags": [
-        "Performance",
-        "Press",
         "Release Notes"
       ]
     }
