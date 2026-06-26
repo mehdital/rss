@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-06-25T08:44:13.226Z",
+  "generatedAt": "2026-06-26T08:46:30.759Z",
   "items": [
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v22.1.0-next.2",
+      "title": "22.1.0-next.2",
+      "url": "https://github.com/angular/angular/releases/tag/v22.1.0-next.2",
+      "publishedAt": "2026-06-25T15:34:15.000Z",
+      "summary": "compiler Commit Description account for NgModule dependencies in JIT-compiled partial declarations compiler-cli Commit Description report diagnostic instead of crashing on malformed host binding core Commit Description avoid uncaught promise errors in injectAsync prefetching http Commit Description prevent caching of r",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v22.0.3",
+      "title": "22.0.3",
+      "url": "https://github.com/angular/angular/releases/tag/v22.0.3",
+      "publishedAt": "2026-06-25T15:10:33.000Z",
+      "summary": "compiler Commit Description account for NgModule dependencies in JIT-compiled partial declarations remove unused import breaking CI in 22.0.x compiler-cli Commit Description report diagnostic instead of crashing on malformed host binding core Commit Description avoid uncaught promise errors in injectAsync prefetching h",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "https://spring.io/blog/2026/06/25/spring-boot-3-5-16-available-now",
+      "title": "Spring Boot 3.5.16 available now",
+      "url": "https://spring.io/blog/2026/06/25/spring-boot-3-5-16-available-now",
+      "publishedAt": "2026-06-25T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
     {
       "id": "tag:github.com,2008:Repository/36891867/v22.1.0-next.1",
       "title": "22.1.0-next.1",
@@ -138,17 +171,6 @@
       "tags": []
     },
     {
-      "id": "tag:github.com,2008:Repository/24195339/v22.0.0",
-      "title": "22.0.0",
-      "url": "https://github.com/angular/angular/releases/tag/v22.0.0",
-      "publishedAt": "2026-06-15T14:15:32.000Z",
-      "summary": "compiler Commit Description allow safe navigation to correctly narrow down nullables Angular expressions with optional chaining returns undefined Support comments in html element. abstract emitter producing incorrect code for dynamic imports Don't bind inputs/outputs for data- attributes don't escape dollar sign in lit",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
       "id": "https://spring.io/blog/2026/06/15/spring-tools-5-2-0-released",
       "title": "Spring Tools 5.2.0 released",
       "url": "https://spring.io/blog/2026/06/15/spring-tools-5-2-0-released",
@@ -163,17 +185,6 @@
       "id": "https://spring.io/blog/2026/06/12/spring-ai-1-1-8-1-0-9-avaialble-now",
       "title": "Spring AI 1.0.9, 1.1.8 Available Now",
       "url": "https://spring.io/blog/2026/06/12/spring-ai-1-1-8-1-0-9-avaialble-now",
-      "publishedAt": "2026-06-12T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
-      "tags": []
-    },
-    {
-      "id": "https://spring.io/blog/2026/06/12/spring-ai-2-0-0-GA-available-now",
-      "title": "Spring AI 2.0.0 GA Available Now",
-      "url": "https://spring.io/blog/2026/06/12/spring-ai-2-0-0-GA-available-now",
       "publishedAt": "2026-06-12T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
@@ -298,17 +309,6 @@
         "angular",
         "angular-v22"
       ]
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v21.2.16",
-      "title": "21.2.16",
-      "url": "https://github.com/angular/angular/releases/tag/v21.2.16",
-      "publishedAt": "2026-06-03T12:30:03.000Z",
-      "summary": "common Commit Description only strip a literal /index.html suffix from URLs compiler Commit Description move projection attributes into constants core Commit Description harden inherit definition feature against polluted prototypes use Object.create(null) for LOCALE_DATA as a hardening measure platform-server Commit De",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
     },
     {
       "id": "https://medium.com/p/94c18a911a3a",
