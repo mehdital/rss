@@ -1,6 +1,45 @@
 {
-  "generatedAt": "2026-06-26T08:46:30.759Z",
+  "generatedAt": "2026-06-27T08:23:39.231Z",
   "items": [
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v22.1.0-next.3",
+      "title": "22.1.0-next.3",
+      "url": "https://github.com/angular/angular/releases/tag/v22.1.0-next.3",
+      "publishedAt": "2026-06-26T17:24:22.000Z",
+      "summary": "migrations Commit Description resolve migration failure when tsconfig specifies rootDir",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v22.0.4",
+      "title": "22.0.4",
+      "url": "https://github.com/angular/angular/releases/tag/v22.0.4",
+      "publishedAt": "2026-06-26T17:04:20.000Z",
+      "summary": "migrations Commit Description resolve migration failure when tsconfig specifies rootDir",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "https://medium.com/p/e1ffea2303bd",
+      "title": "Demystifying A2UI: How to Make AI Agents “Speak UI” in Your App",
+      "url": "https://blog.angular.dev/demystifying-a2ui-how-to-make-ai-agents-speak-ui-in-your-app-e1ffea2303bd?source=rss----447683c3d9a3---4",
+      "publishedAt": "2026-06-26T09:01:02.000Z",
+      "summary": "",
+      "sourceId": "angular-blog",
+      "sourceName": "Angular Blog",
+      "tech": "Angular",
+      "tags": [
+        "adk",
+        "a2ui",
+        "genuis",
+        "angular",
+        "a2a"
+      ]
+    },
     {
       "id": "tag:github.com,2008:Repository/24195339/v22.1.0-next.2",
       "title": "22.1.0-next.2",
@@ -259,17 +298,6 @@
       "tags": []
     },
     {
-      "id": "tag:github.com,2008:Repository/24195339/v20.3.25",
-      "title": "20.3.25",
-      "url": "https://github.com/angular/angular/releases/tag/v20.3.25",
-      "publishedAt": "2026-06-10T19:22:37.000Z",
-      "summary": "common Commit Description Limits date format string length skip transfer cache for uncacheable HTTP traffic use cryptographically secure SHA-256 for transfer cache key generation compiler Commit Description sanitize two-way properties core Commit Description harden TransferState restoration against DOM clobbering valid",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
       "id": "https://medium.com/p/ff37df480574",
       "title": "Angular in 2026: Mid-Year Reality Check, Signals, and AI Code Quality!",
       "url": "https://blog.angular.dev/angular-in-2026-mid-year-reality-check-signals-and-ai-code-quality-ff37df480574?source=rss----447683c3d9a3---4",
@@ -283,17 +311,6 @@
         "angular-weekly",
         "angular"
       ]
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/vsix-22.0.0",
-      "title": "VSCode Extension: 22.0.0",
-      "url": "https://github.com/angular/angular/releases/tag/vsix-22.0.0",
-      "publishedAt": "2026-06-03T16:16:10.000Z",
-      "summary": "Breaking Changes The extension now bundles TypeScript version 6.0, which itself includes breaking new defaults such as strict being true. You will need to explicitly set \"strict\": false in your tsconfig.json. Alternatively, the extension supports configuring the tsdk in the same way as the built in TS/JS extension. Fix",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
     },
     {
       "id": "https://medium.com/p/c52bb83a4664",
@@ -511,20 +528,6 @@
         "Java",
         "JEPs",
         "Release Notes"
-      ]
-    },
-    {
-      "id": "https://medium.com/p/c2656249b799",
-      "title": "Security Advisory: Addressing Recent Vulnerabilities in Angular",
-      "url": "https://blog.angular.dev/security-advisory-addressing-recent-vulnerabilities-in-angular-c2656249b799?source=rss----447683c3d9a3---4",
-      "publishedAt": "2026-02-27T20:40:44.000Z",
-      "summary": "",
-      "sourceId": "angular-blog",
-      "sourceName": "Angular Blog",
-      "tech": "Angular",
-      "tags": [
-        "angular",
-        "angular-security-update"
       ]
     },
     {
