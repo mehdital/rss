@@ -1,6 +1,50 @@
 {
-  "generatedAt": "2026-06-29T10:17:25.482Z",
+  "generatedAt": "2026-07-01T09:25:07.161Z",
   "items": [
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v22.1.0-next.2",
+      "title": "22.1.0-next.2",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v22.1.0-next.2",
+      "publishedAt": "2026-07-01T09:18:45.000Z",
+      "summary": "@schematics/angular Commit Description remove unused app tsconfig outDir @angular/cli Commit Description gracefully handle package manager errors in command handler respect client-side release age settings during update resolution respect release age policy in update bootstrapping logic @angular-devkit/build-angular Co",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v22.0.5",
+      "title": "22.0.5",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v22.0.5",
+      "publishedAt": "2026-07-01T09:14:58.000Z",
+      "summary": "@schematics/angular Commit Description remove unused app tsconfig outDir @angular/cli Commit Description gracefully handle package manager errors in command handler respect release age policy in update bootstrapping logic @angular-devkit/build-angular Commit Description prevent OS command injection in ssr-dev-server bu",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v21.2.18",
+      "title": "21.2.18",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v21.2.18",
+      "publishedAt": "2026-07-01T09:10:32.000Z",
+      "summary": "@angular/cli Commit Description respect release age policy in update bootstrapping logic @angular/build Commit Description bump undici to 7.28.0 bump vite to 7.3.6",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v20.3.31",
+      "title": "20.3.31",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v20.3.31",
+      "publishedAt": "2026-07-01T09:05:41.000Z",
+      "summary": "@angular-devkit/build-angular Commit Description bump undici to 7.28.0 @angular/build Commit Description bump vite to 7.3.6",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
     {
       "id": "tag:github.com,2008:Repository/24195339/v22.1.0-next.3",
       "title": "22.1.0-next.3",
@@ -177,28 +221,6 @@
       "tags": []
     },
     {
-      "id": "tag:github.com,2008:Repository/36891867/v21.2.16",
-      "title": "21.2.16",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v21.2.16",
-      "publishedAt": "2026-06-17T15:31:52.000Z",
-      "summary": "@angular/cli Commit Description update pacote to 21.5.1 @angular/ssr Commit Description prioritize options over environment variables in AngularNodeAppEngine",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v20.3.29",
-      "title": "20.3.29",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v20.3.29",
-      "publishedAt": "2026-06-17T14:54:35.000Z",
-      "summary": "@angular/cli Commit Description update pacote to 21.5.1 @angular/ssr Commit Description prioritize options over environment variables in AngularNodeAppEngine",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
       "id": "tag:github.com,2008:Repository/36891867/v22.0.2",
       "title": "22.0.2",
       "url": "https://github.com/angular/angular-cli/releases/tag/v22.0.2",
@@ -239,28 +261,6 @@
       "summary": "fix(vscode-extension): resolve relative workspace tsdk paths to absolute (f6695b0eb2) fix(language-service): prevent external template inlay hints from appearing in TS files (43a0e28729) fix(vscode-extension): inspect tsdk configurations correctly (102ffb65d1)",
       "sourceId": "angular-releases",
       "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v22.1.0-next.0",
-      "title": "22.1.0-next.0",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v22.1.0-next.0",
-      "publishedAt": "2026-06-11T16:42:57.000Z",
-      "summary": "@angular/cli Commit Description robustly parse npm manifest from array @schematics/angular Commit Description update ai-config to include Angular MCP server config @angular-devkit/core Commit Description deprecate stringToFileBuffer and fileBufferToString @angular/ssr Commit Description correct grammar in console warni",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v21.2.15",
-      "title": "21.2.15",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v21.2.15",
-      "publishedAt": "2026-06-11T15:54:56.000Z",
-      "summary": "@angular/cli Commit Description remove forceAuth and unscoped credential parsing support registry metadata fetching under bun package manager",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
       "tech": "Angular",
       "tags": []
     },
