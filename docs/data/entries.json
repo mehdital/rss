@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-07-01T09:25:07.161Z",
+  "generatedAt": "2026-07-02T08:38:41.275Z",
   "items": [
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v22.1.0-next.4",
+      "title": "22.1.0-next.4",
+      "url": "https://github.com/angular/angular/releases/tag/v22.1.0-next.4",
+      "publishedAt": "2026-07-01T21:10:35.000Z",
+      "summary": "common Commit Description use Object.hasOwn in I18nSelectPipe to handle null-prototype and shadowed mappings compiler Commit Description permissive whitespace parsing in default never blocks compiler-cli Commit Description include toSignal in debugName transform core Commit Description improve input writes migration in",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v22.0.5",
+      "title": "22.0.5",
+      "url": "https://github.com/angular/angular/releases/tag/v22.0.5",
+      "publishedAt": "2026-07-01T20:47:51.000Z",
+      "summary": "common Commit Description use Object.hasOwn in I18nSelectPipe to handle null-prototype and shadowed mappings compiler-cli Commit Description include toSignal in debugName transform core Commit Description improve input writes migration in best effort mode reject dynamic script host elements router Commit Description fi",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
     {
       "id": "tag:github.com,2008:Repository/36891867/v22.1.0-next.2",
       "title": "22.1.0-next.2",
@@ -270,28 +292,6 @@
       "url": "https://github.com/angular/angular/releases/tag/v22.1.0-next.0",
       "publishedAt": "2026-06-10T20:41:03.000Z",
       "summary": "common Commit Description skip transfer cache for uncacheable HTTP traffic (#69017) compiler Commit Description support foreign components defined outside top-level scope compiler-cli Commit Description allow passing uninvoked signals as foreign component props support import aliases in foreignImports (#68674) core Com",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v22.0.1",
-      "title": "22.0.1",
-      "url": "https://github.com/angular/angular/releases/tag/v22.0.1",
-      "publishedAt": "2026-06-10T20:16:29.000Z",
-      "summary": "common Commit Description escape CSS string-terminating characters in escapeCssUrl Limits date format string length prevent prototype pollution in formatDateTime use cryptographically secure SHA-256 for transfer cache key generation compiler Commit Description disallow i18n event attributes more robust logic to check i",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v21.2.17",
-      "title": "21.2.17",
-      "url": "https://github.com/angular/angular/releases/tag/v21.2.17",
-      "publishedAt": "2026-06-10T19:54:28.000Z",
-      "summary": "common Commit Description Limits date format string length skip transfer cache for uncacheable HTTP traffic use cryptographically secure SHA-256 for transfer cache key generation compiler Commit Description sanitize two-way properties core Commit Description harden TransferState restoration against DOM clobbering valid",
       "sourceId": "angular-releases",
       "sourceName": "Angular (GitHub Releases)",
       "tech": "Angular",
