@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-07-07T09:19:41.161Z",
+  "generatedAt": "2026-07-08T08:04:14.535Z",
   "items": [
+    {
+      "id": "https://medium.com/p/15c768142043",
+      "title": "Community Engineering, Agentic Coding, and Real-User Component Testing ️",
+      "url": "https://blog.angular.dev/community-engineering-agentic-coding-and-real-user-component-testing-%EF%B8%8F-15c768142043?source=rss----447683c3d9a3---4",
+      "publishedAt": "2026-07-07T15:47:29.000Z",
+      "summary": "",
+      "sourceId": "angular-blog",
+      "sourceName": "Angular Blog",
+      "tech": "Angular",
+      "tags": [
+        "angular-weekly",
+        "angular"
+      ]
+    },
     {
       "id": "tag:github.com,2008:Repository/24195339/v22.1.0-next.4",
       "title": "22.1.0-next.4",
@@ -481,21 +495,6 @@
         "Cloud Migration",
         "ColdFusion",
         "Enterprise Java"
-      ]
-    },
-    {
-      "id": "https://medium.com/p/7aa1c1cf9550",
-      "title": "Modernize Your Workflow: AI Tooling, Deferrable Views, and the Era of Forms! ️",
-      "url": "https://blog.angular.dev/modernize-your-workflow-ai-tooling-deferrable-views-and-the-era-of-forms-%EF%B8%8F-7aa1c1cf9550?source=rss----447683c3d9a3---4",
-      "publishedAt": "2026-03-13T15:16:20.000Z",
-      "summary": "",
-      "sourceId": "angular-blog",
-      "sourceName": "Angular Blog",
-      "tech": "Angular",
-      "tags": [
-        "angular",
-        "angular-weekly-newsleter",
-        "angularcommunity"
       ]
     },
     {
