@@ -1,6 +1,50 @@
 {
-  "generatedAt": "2026-07-08T08:04:14.535Z",
+  "generatedAt": "2026-07-09T09:10:52.407Z",
   "items": [
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v20.3.26",
+      "title": "20.3.26",
+      "url": "https://github.com/angular/angular/releases/tag/v20.3.26",
+      "publishedAt": "2026-07-08T22:11:15.000Z",
+      "summary": "compiler-cli Commit Description update babel dependencies to latest v7 core Commit Description avoid caching missing locale data reject dynamic script host elements http Commit Description prevent caching of responses with Set-Cookie headers service-worker Commit Description preserve referrer in asset requests preserve",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v21.2.18",
+      "title": "21.2.18",
+      "url": "https://github.com/angular/angular/releases/tag/v21.2.18",
+      "publishedAt": "2026-07-08T22:02:19.000Z",
+      "summary": "compiler-cli Commit Description update babel dependencies to latest v7 core Commit Description avoid caching missing locale data reject dynamic script host elements http Commit Description prevent caching of responses with Set-Cookie headers service-worker Commit Description preserve referrer in asset requests preserve",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v22.1.0-next.5",
+      "title": "22.1.0-next.5",
+      "url": "https://github.com/angular/angular/releases/tag/v22.1.0-next.5",
+      "publishedAt": "2026-07-08T21:46:54.000Z",
+      "summary": "compiler Commit Description Add an error for --global-foo cases (#68846) Disable '--global-' error outside of g3 (#68846) Namespace CSS variables to the app (#68846) Support css var namespacing in properties (#68846) use regular optional chaining expression for safe function calls in TCBs compiler-cli Commit Descriptio",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v22.0.6",
+      "title": "22.0.6",
+      "url": "https://github.com/angular/angular/releases/tag/v22.0.6",
+      "publishedAt": "2026-07-08T21:36:41.000Z",
+      "summary": "compiler Commit Description use regular optional chaining expression for safe function calls in TCBs compiler-cli Commit Description apply debugName transform to required signal queries detect uninvoked signals in bound expressions using ternary forms/signals Commit Description make extractValue reactive for compat Abs",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
     {
       "id": "https://medium.com/p/15c768142043",
       "title": "Community Engineering, Agentic Coding, and Real-User Component Testing ️",
@@ -235,28 +279,6 @@
       "tags": []
     },
     {
-      "id": "tag:github.com,2008:Repository/24195339/v22.1.0-next.1",
-      "title": "22.1.0-next.1",
-      "url": "https://github.com/angular/angular/releases/tag/v22.1.0-next.1",
-      "publishedAt": "2026-06-17T21:16:12.000Z",
-      "summary": "common Commit Description escape anchor fragment in shadow DOM name selector compiler Commit Description restrict possible event handler check to property names longer than 2 characters core Commit Description avoid caching missing locale data escape overlapping comment delimiters in escapeCommentText guard against DOM",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v22.0.2",
-      "title": "22.0.2",
-      "url": "https://github.com/angular/angular/releases/tag/v22.0.2",
-      "publishedAt": "2026-06-17T21:08:12.000Z",
-      "summary": "common Commit Description escape anchor fragment in shadow DOM name selector skip transfer cache for uncacheable HTTP traffic (#69316) compiler Commit Description restrict possible event handler check to property names longer than 2 characters core Commit Description avoid caching missing locale data escape overlapping",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
       "id": "tag:github.com,2008:Repository/36891867/v22.0.2",
       "title": "22.0.2",
       "url": "https://github.com/angular/angular-cli/releases/tag/v22.0.2",
@@ -287,28 +309,6 @@
       "sourceId": "spring-releases",
       "sourceName": "Spring Blog (Releases)",
       "tech": "Java",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/vsix-22.0.1",
-      "title": "VSCode Extension: 22.0.1",
-      "url": "https://github.com/angular/angular/releases/tag/vsix-22.0.1",
-      "publishedAt": "2026-06-11T18:26:37.000Z",
-      "summary": "fix(vscode-extension): resolve relative workspace tsdk paths to absolute (f6695b0eb2) fix(language-service): prevent external template inlay hints from appearing in TS files (43a0e28729) fix(vscode-extension): inspect tsdk configurations correctly (102ffb65d1)",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v22.1.0-next.0",
-      "title": "22.1.0-next.0",
-      "url": "https://github.com/angular/angular/releases/tag/v22.1.0-next.0",
-      "publishedAt": "2026-06-10T20:41:03.000Z",
-      "summary": "common Commit Description skip transfer cache for uncacheable HTTP traffic (#69017) compiler Commit Description support foreign components defined outside top-level scope compiler-cli Commit Description allow passing uninvoked signals as foreign component props support import aliases in foreignImports (#68674) core Com",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
       "tags": []
     },
     {
