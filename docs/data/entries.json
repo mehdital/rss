@@ -1,6 +1,50 @@
 {
-  "generatedAt": "2026-07-09T09:10:52.407Z",
+  "generatedAt": "2026-07-10T08:56:59.835Z",
   "items": [
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v21.2.19",
+      "title": "21.2.19",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v21.2.19",
+      "publishedAt": "2026-07-09T16:56:34.000Z",
+      "summary": "@angular-devkit/build-angular Commit Description update http-proxy-middleware to 3.0.7",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v20.3.32",
+      "title": "20.3.32",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v20.3.32",
+      "publishedAt": "2026-07-09T15:51:22.000Z",
+      "summary": "@angular-devkit/build-angular Commit Description update http-proxy-middleware to 3.0.7",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v22.1.0-next.3",
+      "title": "22.1.0-next.3",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v22.1.0-next.3",
+      "publishedAt": "2026-07-09T13:25:19.000Z",
+      "summary": "@angular/build Commit Description add built-in SQLite cache store fallback share persistent build cache across git worktrees fallback to build target preserveSymlinks option in karma runner prevent esbuild service hang on internal component stylesheet builds prevent externalizing builder-injected i18n locale data strip",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v22.0.6",
+      "title": "22.0.6",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v22.0.6",
+      "publishedAt": "2026-07-09T12:02:23.000Z",
+      "summary": "@angular/build Commit Description fallback to build target preserveSymlinks option in karma runner prevent externalizing builder-injected i18n locale data strip all vite id prefixes from minified code with external dependencies @angular/ssr Commit Description replace all route parameters when resolving relative redirec",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
     {
       "id": "tag:github.com,2008:Repository/24195339/v20.3.26",
       "title": "20.3.26",
@@ -198,6 +242,25 @@
       "tags": []
     },
     {
+      "id": "https://foojay.io/?p=124368",
+      "title": "What’s New In The June 2026 Azul Payara Release?",
+      "url": "https://foojay.io/today/whats-new-in-the-june-2026-azul-payara-release/",
+      "publishedAt": "2026-06-24T11:28:52.000Z",
+      "summary": "The June 2026 cycle ships the first regular monthly release of the Payara 7 line, plus a critical security fix that lands across every supported branch. Azul Payara 7.1.0 continues the Jakarta EE 11 line that went generally available in ... The post What’s New In The June 2026 Azul Payara Release? appeared first on foo",
+      "sourceId": "foojay-release-notes",
+      "sourceName": "Foojay (Release Notes)",
+      "tech": "Java",
+      "tags": [
+        "Jakarta EE",
+        "Java",
+        "Microservices",
+        "Payara",
+        "Release Notes",
+        "Uncategorized",
+        "Pauara Server"
+      ]
+    },
+    {
       "id": "tag:github.com,2008:Repository/36891867/v22.1.0-next.1",
       "title": "22.1.0-next.1",
       "url": "https://github.com/angular/angular-cli/releases/tag/v22.1.0-next.1",
@@ -214,28 +277,6 @@
       "url": "https://github.com/angular/angular-cli/releases/tag/v22.0.4",
       "publishedAt": "2026-06-24T09:04:41.000Z",
       "summary": "@angular/build Commit Description aggregate parallel worker performance timings on the main thread dispose builder result context early in non-watch mode",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v21.2.17",
-      "title": "21.2.17",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v21.2.17",
-      "publishedAt": "2026-06-24T08:55:07.000Z",
-      "summary": "@angular/build Commit Description bump @babel/core to 7.29.7 bump esbuild to 0.28.1 bump piscina to 5.2.0 bump vite to 7.3.5",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v20.3.30",
-      "title": "20.3.30",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v20.3.30",
-      "publishedAt": "2026-06-24T08:50:53.000Z",
-      "summary": "@angular/build Commit Description bump @babel/core to 7.29.7 bump esbuild to 0.28.1 bump piscina to 5.2.0 bump vite to 7.3.5",
       "sourceId": "angular-cli-releases",
       "sourceName": "Angular CLI (GitHub Releases)",
       "tech": "Angular",
@@ -266,28 +307,6 @@
         "angular",
         "angular-newsletter"
       ]
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v22.0.3",
-      "title": "22.0.3",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v22.0.3",
-      "publishedAt": "2026-06-18T13:33:37.000Z",
-      "summary": "@schematics/angular Commit Description remove default workspace vscode mcp.json configuration",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v22.0.2",
-      "title": "22.0.2",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v22.0.2",
-      "publishedAt": "2026-06-17T14:07:32.000Z",
-      "summary": "@angular/cli Commit Description support registry metadata fetching under bun package manager implement semaphore backpressure throttling in PackageManager @angular/build Commit Description implement semaphore backpressure throttling in JavaScriptTransformer @angular/ssr Commit Description avoid caching non-SSG page loo",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
     },
     {
       "id": "https://spring.io/blog/2026/06/15/spring-tools-5-2-0-released",
@@ -587,22 +606,6 @@
         "Release Notes",
         "OpenJDK",
         "Release"
-      ]
-    },
-    {
-      "id": "https://foojay.io/?p=122312",
-      "title": "BoxLang 1.9.0 Released: Production-Ready Stability and Enterprise-Grade Reliability",
-      "url": "https://foojay.io/today/boxlang-1-9-0-released-production-ready-stability-and-enterprise-grade-reliability/",
-      "publishedAt": "2026-01-12T11:16:19.000Z",
-      "summary": "Houston, Texas – January 2025 – Ortus Solutions, a leading innovator in professional open-source development, today announced the release of BoxLang 1.9.0, a major stability and compatibility release focused on production-readiness. This release resolves over 50 critical bugs and introduces ... The post BoxLang 1.9.0 R",
-      "sourceId": "foojay-release-notes",
-      "sourceName": "Foojay (Release Notes)",
-      "tech": "Java",
-      "tags": [
-        "BoxLang",
-        "Java",
-        "Library",
-        "Release Notes"
       ]
     }
   ]
