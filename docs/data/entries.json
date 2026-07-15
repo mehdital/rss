@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-07-14T07:43:11.376Z",
+  "generatedAt": "2026-07-15T07:46:52.111Z",
   "items": [
+    {
+      "id": "https://foojay.io/?p=124852",
+      "title": "BoxLang 1.14.0 : Sets, Ranges, Inner Classes, and a Runtime That Talks Back",
+      "url": "https://foojay.io/today/boxlang-1-14-0-sets-ranges-inner-classes-and-a-runtime-that-talks-back/",
+      "publishedAt": "2026-07-09T18:02:59.000Z",
+      "summary": "BoxLang has never stood still, but 1.14.0 is something different. This is the release where the language stops filling gaps and starts defining what a modern dynamic JVM language looks like on its own terms. Sixty-five issues closed. Four innovative ... The post BoxLang 1.14.0 : Sets, Ranges, Inner Classes, and a Runti",
+      "sourceId": "foojay-release-notes",
+      "sourceName": "Foojay (Release Notes)",
+      "tech": "Java",
+      "tags": [
+        "BoxLang",
+        "Developer Tools",
+        "Java",
+        "Release Notes",
+        "BoxSet",
+        "Data Structures",
+        "Developer tools",
+        "inner classes",
+        "JVM",
+        "language features",
+        "modernization",
+        "Object-Oriented Programming"
+      ]
+    },
     {
       "id": "tag:github.com,2008:Repository/36891867/v21.2.19",
       "title": "21.2.19",
@@ -588,24 +612,6 @@
         "Uncategorized",
         "GlassFish",
         "OmniFish"
-      ]
-    },
-    {
-      "id": "https://foojay.io/?p=122427",
-      "title": "OpenJDK January 2026 Critical Patch Update and Patch Set Update Released",
-      "url": "https://foojay.io/today/openjdk-january-2026-critical-patch-update-and-patch-set-update-released/",
-      "publishedAt": "2026-01-21T08:32:01.000Z",
-      "summary": "The January 2026 OpenJDK quarterly updates are now (or will soon be) available from various OpenJDK distributors. This quarterly release brings important security fixes and updates to all currently supported Java versions. The Quarterly Update Cycle Every three months (in ... The post OpenJDK January 2026 Critical Patc",
-      "sourceId": "foojay-release-notes",
-      "sourceName": "Foojay (Release Notes)",
-      "tech": "Java",
-      "tags": [
-        "CRaC",
-        "Java",
-        "Java Core",
-        "Release Notes",
-        "OpenJDK",
-        "Release"
       ]
     }
   ]
