@@ -1,6 +1,50 @@
 {
-  "generatedAt": "2026-07-15T07:46:52.111Z",
+  "generatedAt": "2026-07-16T07:51:48.663Z",
   "items": [
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v22.1.0-next.6",
+      "title": "22.1.0-next.6",
+      "url": "https://github.com/angular/angular/releases/tag/v22.1.0-next.6",
+      "publishedAt": "2026-07-16T04:30:13.000Z",
+      "summary": "common Commit Description avoid prototype lookups in date format caches compiler Commit Description parsing of an empty template literal interpolation support foreign components inside control flow blocks (#69674) do not emit tag name when control flow root is foreign component (#69674) compiler-cli Commit Description ",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v22.0.7",
+      "title": "22.0.7",
+      "url": "https://github.com/angular/angular/releases/tag/v22.0.7",
+      "publishedAt": "2026-07-16T04:23:25.000Z",
+      "summary": "common Commit Description avoid prototype lookups in date format caches compiler Commit Description parsing of an empty template literal interpolation compiler-cli Commit Description re-tag SourceFiles after TsCreateProgramDriver.updateFiles() core Commit Description allow static attributes for explicit input transform",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v22.1.0-next.4",
+      "title": "22.1.0-next.4",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v22.1.0-next.4",
+      "publishedAt": "2026-07-15T18:42:12.000Z",
+      "summary": "@schematics/angular Commit Description remove unused spec tsconfig outDir @angular/cli Commit Description copy packageManager field and yarn config for temp installs support resolving subproject dependencies in pnpm workspaces @angular/build Commit Description emit debug ids for stable subresource integrity hashes prev",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v22.0.7",
+      "title": "22.0.7",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v22.0.7",
+      "publishedAt": "2026-07-15T17:51:00.000Z",
+      "summary": "@angular/cli Commit Description copy packageManager field and yarn config for temp installs support resolving subproject dependencies in pnpm workspaces",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
     {
       "id": "https://foojay.io/?p=124852",
       "title": "BoxLang 1.14.0 : Sets, Ranges, Inner Classes, and a Runtime That Talks Back",
@@ -233,28 +277,6 @@
       ]
     },
     {
-      "id": "tag:github.com,2008:Repository/24195339/v22.1.0-next.2",
-      "title": "22.1.0-next.2",
-      "url": "https://github.com/angular/angular/releases/tag/v22.1.0-next.2",
-      "publishedAt": "2026-06-25T15:34:15.000Z",
-      "summary": "compiler Commit Description account for NgModule dependencies in JIT-compiled partial declarations compiler-cli Commit Description report diagnostic instead of crashing on malformed host binding core Commit Description avoid uncaught promise errors in injectAsync prefetching http Commit Description prevent caching of r",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v22.0.3",
-      "title": "22.0.3",
-      "url": "https://github.com/angular/angular/releases/tag/v22.0.3",
-      "publishedAt": "2026-06-25T15:10:33.000Z",
-      "summary": "compiler Commit Description account for NgModule dependencies in JIT-compiled partial declarations remove unused import breaking CI in 22.0.x compiler-cli Commit Description report diagnostic instead of crashing on malformed host binding core Commit Description avoid uncaught promise errors in injectAsync prefetching h",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
       "id": "https://spring.io/blog/2026/06/25/spring-boot-3-5-16-available-now",
       "title": "Spring Boot 3.5.16 available now",
       "url": "https://spring.io/blog/2026/06/25/spring-boot-3-5-16-available-now",
@@ -283,28 +305,6 @@
         "Uncategorized",
         "Pauara Server"
       ]
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v22.1.0-next.1",
-      "title": "22.1.0-next.1",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v22.1.0-next.1",
-      "publishedAt": "2026-06-24T09:19:58.000Z",
-      "summary": "@schematics/angular Commit Description remove default workspace vscode mcp.json configuration @angular/cli Commit Description prevent Yarn registry environment variable override support registry metadata fetching under bun package manager implement semaphore backpressure throttling in PackageManager @angular/build Comm",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v22.0.4",
-      "title": "22.0.4",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v22.0.4",
-      "publishedAt": "2026-06-24T09:04:41.000Z",
-      "summary": "@angular/build Commit Description aggregate parallel worker performance timings on the main thread dispose builder result context early in non-watch mode",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
     },
     {
       "id": "https://spring.io/blog/2026/06/24/spring-data-2025-0-13-released",
