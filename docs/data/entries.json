@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-07-22T08:04:27.352Z",
+  "generatedAt": "2026-07-23T08:07:28.808Z",
   "items": [
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v22.1.0-rc.0",
+      "title": "22.1.0-rc.0",
+      "url": "https://github.com/angular/angular/releases/tag/v22.1.0-rc.0",
+      "publishedAt": "2026-07-22T14:41:26.000Z",
+      "summary": "common Commit Description preserve crossorigin on image preloads core Commit Description ensure SVG animation attributeName is checked case-insensitively forms Commit Description ensure pending status propagates to the root form in signal forms http Commit Description prevent transfer cache key collisions migrations Co",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v22.0.8",
+      "title": "22.0.8",
+      "url": "https://github.com/angular/angular/releases/tag/v22.0.8",
+      "publishedAt": "2026-07-22T14:33:06.000Z",
+      "summary": "common Commit Description preserve crossorigin on image preloads core Commit Description ensure SVG animation attributeName is checked case-insensitively forms Commit Description ensure pending status propagates to the root form in signal forms http Commit Description prevent transfer cache key collisions migrations Co",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
     {
       "id": "https://medium.com/p/05440da623ad",
       "title": "Reactive Flows, AI Agents, and State Events: This Week’s Angular Masterclass! ⚡",
@@ -248,28 +270,6 @@
       "summary": "@angular-devkit/build-angular Commit Description bump undici to 7.28.0 @angular/build Commit Description bump vite to 7.3.6",
       "sourceId": "angular-cli-releases",
       "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v22.1.0-next.3",
-      "title": "22.1.0-next.3",
-      "url": "https://github.com/angular/angular/releases/tag/v22.1.0-next.3",
-      "publishedAt": "2026-06-26T17:24:22.000Z",
-      "summary": "migrations Commit Description resolve migration failure when tsconfig specifies rootDir",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v22.0.4",
-      "title": "22.0.4",
-      "url": "https://github.com/angular/angular/releases/tag/v22.0.4",
-      "publishedAt": "2026-06-26T17:04:20.000Z",
-      "summary": "migrations Commit Description resolve migration failure when tsconfig specifies rootDir",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
       "tech": "Angular",
       "tags": []
     },
