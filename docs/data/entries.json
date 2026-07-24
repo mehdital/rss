@@ -1,6 +1,47 @@
 {
-  "generatedAt": "2026-07-23T08:07:28.808Z",
+  "generatedAt": "2026-07-24T08:03:41.208Z",
   "items": [
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v22.1.0-rc.0",
+      "title": "22.1.0-rc.0",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v22.1.0-rc.0",
+      "publishedAt": "2026-07-23T18:25:15.000Z",
+      "summary": "@angular/cli Commit Description abort and guide manual mitigation when updating catalog packages batch Prettier invocations during migration formatting remove algoliasearch dependency and support latest docs versions resolve correct registry name when using npm alias syntax during update revert package.json changes if ",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v22.0.8",
+      "title": "22.0.8",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v22.0.8",
+      "publishedAt": "2026-07-23T16:33:43.000Z",
+      "summary": "@angular/cli Commit Description batch Prettier invocations during migration formatting update MCP devserver tool names to conform to spec regex @angular/build Commit Description canonicalize drive letter casing for workspace root on Windows ensure import map integrity keys are valid URL-like specifiers favor istanbul c",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "https://foojay.io/?p=125027",
+      "title": "What’s New In The July 2026 Azul Payara Release?",
+      "url": "https://foojay.io/today/whats-new-in-the-july-2026-azul-payara-release/",
+      "publishedAt": "2026-07-23T10:28:58.000Z",
+      "summary": "The July 2026 release brings Azul Payara 7.2.0, Azul Payara Community 7.2026.7, Azul Payara 6.40.0, Azul Payara 5.89.0, and Azul Payara 4.1.2.191.57. A single security fix runs through every release, backported from the 7 line down to Payara 4: brute ... The post What’s New In The July 2026 Azul Payara Release? appeare",
+      "sourceId": "foojay-release-notes",
+      "sourceName": "Foojay (Release Notes)",
+      "tech": "Java",
+      "tags": [
+        "Jakarta EE",
+        "Payara",
+        "Release Notes",
+        "Java",
+        "Microservices",
+        "Payara Micro",
+        "Payara Server"
+      ]
+    },
     {
       "id": "tag:github.com,2008:Repository/24195339/v22.1.0-rc.0",
       "title": "22.1.0-rc.0",
@@ -80,6 +121,30 @@
       "sourceName": "Angular CLI (GitHub Releases)",
       "tech": "Angular",
       "tags": []
+    },
+    {
+      "id": "https://foojay.io/?p=124944",
+      "title": "BoxLang 1.15.0 Released: Blazing Fast Strings, Runtime Portability, and much more",
+      "url": "https://foojay.io/today/boxlang-1-15-0-released-blazing-fast-strings-runtime-portability-and-much-more/",
+      "publishedAt": "2026-07-14T17:57:10.000Z",
+      "summary": "BoxLang 1.15.0 is a high-impact release with two big headlines and a long tail of hardening. The first headline is a massive performance upgrade to string handling: a new first-class BoxStringBuilder type, compile-time literal folding, smarter &= semantics, and a ... The post BoxLang 1.15.0 Released: Blazing Fast Strin",
+      "sourceId": "foojay-release-notes",
+      "sourceName": "Foojay (Release Notes)",
+      "tech": "Java",
+      "tags": [
+        "BoxLang",
+        "Cloud",
+        "Developer Tools",
+        "DevOps",
+        "Java",
+        "Java Core",
+        "Performance",
+        "Release Notes",
+        "Tools",
+        "Android",
+        "BoxLang 1.15.0",
+        "BoxStringBuilder"
+      ]
     },
     {
       "id": "https://foojay.io/?p=124852",
@@ -246,28 +311,6 @@
       "url": "https://github.com/angular/angular-cli/releases/tag/v22.0.5",
       "publishedAt": "2026-07-01T09:14:58.000Z",
       "summary": "@schematics/angular Commit Description remove unused app tsconfig outDir @angular/cli Commit Description gracefully handle package manager errors in command handler respect release age policy in update bootstrapping logic @angular-devkit/build-angular Commit Description prevent OS command injection in ssr-dev-server bu",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v21.2.18",
-      "title": "21.2.18",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v21.2.18",
-      "publishedAt": "2026-07-01T09:10:32.000Z",
-      "summary": "@angular/cli Commit Description respect release age policy in update bootstrapping logic @angular/build Commit Description bump undici to 7.28.0 bump vite to 7.3.6",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v20.3.31",
-      "title": "20.3.31",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v20.3.31",
-      "publishedAt": "2026-07-01T09:05:41.000Z",
-      "summary": "@angular-devkit/build-angular Commit Description bump undici to 7.28.0 @angular/build Commit Description bump vite to 7.3.6",
       "sourceId": "angular-cli-releases",
       "sourceName": "Angular CLI (GitHub Releases)",
       "tech": "Angular",
@@ -570,48 +613,6 @@
         "Java",
         "JEPs",
         "Release Notes"
-      ]
-    },
-    {
-      "id": "https://foojay.io/?p=122813",
-      "title": "Announcing Cloud-Native BoxLang for $5/Month",
-      "url": "https://foojay.io/today/announcing-cloud-native-boxlang-for-5-month/",
-      "publishedAt": "2026-02-23T16:39:44.000Z",
-      "summary": "TL;DR: We just released a production-ready starter template that deploys a modern BoxLang application to DigitalOcean App Platform in under 5 minutes—starting at just $5/month. One-click deployment, auto-scaling, automatic redeployments, and zero downtime included. Cloud-Native BoxLang Has Never Been Easier ... The pos",
-      "sourceId": "foojay-release-notes",
-      "sourceName": "Foojay (Release Notes)",
-      "tech": "Java",
-      "tags": [
-        "BoxLang",
-        "Cloud",
-        "Press",
-        "Release Notes",
-        "AI Integration",
-        "bx-ai",
-        "Cloud Native",
-        "Enterprise",
-        "JVM",
-        "Microservices",
-        "orchestration",
-        "SaaS"
-      ]
-    },
-    {
-      "id": "https://foojay.io/?p=122736",
-      "title": "GlassFish 8 is here with Jakarta EE 11, virtual threads, and Jakarta Data",
-      "url": "https://foojay.io/today/glassfish-8-is-here-with-jakarta-ee-11-virtual-threads-and-jakarta-data/",
-      "publishedAt": "2026-02-18T16:06:02.000Z",
-      "summary": "The final version of Eclipse GlassFish 8 is here, released on 5 February 2026. As a GlassFish committer, I'd like to share what it brings for the Java community and some behind-the-scenes stories from the development process Recently my company ... The post GlassFish 8 is here with Jakarta EE 11, virtual threads, and J",
-      "sourceId": "foojay-release-notes",
-      "sourceName": "Foojay (Release Notes)",
-      "tech": "Java",
-      "tags": [
-        "Jakarta EE",
-        "Payara",
-        "Release Notes",
-        "Uncategorized",
-        "GlassFish",
-        "OmniFish"
       ]
     }
   ]
