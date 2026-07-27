@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T07:47:02.870Z",
+  "generatedAt": "2026-07-27T09:23:31.521Z",
   "items": [
     {
       "id": "tag:github.com,2008:Repository/36891867/v22.1.0-rc.0",
@@ -22,6 +22,24 @@
       "sourceName": "Angular CLI (GitHub Releases)",
       "tech": "Angular",
       "tags": []
+    },
+    {
+      "id": "https://foojay.io/?p=125001",
+      "title": "Azul Zulu July 2026 Quarterly Update Released",
+      "url": "https://foojay.io/today/azul-zulu-july-2026-quarterly-update-released/",
+      "publishedAt": "2026-07-23T12:35:26.000Z",
+      "summary": "Every three months your production JDKs fall further behind on security patches. Azul closes that gap today with the July 2026 quarterly update for Azul Zulu Builds of OpenJDK, covering Java 26, 25, 21, 17, 11, 8, 7, and 6. ... The post Azul Zulu July 2026 Quarterly Update Released appeared first on foojay.",
+      "sourceId": "foojay-release-notes",
+      "sourceName": "Foojay (Release Notes)",
+      "tech": "Java",
+      "tags": [
+        "Java",
+        "Java Core",
+        "Release Notes",
+        "azul",
+        "cve",
+        "zulu"
+      ]
     },
     {
       "id": "https://foojay.io/?p=125027",
@@ -598,21 +616,6 @@
         "Java",
         "Release Notes",
         "Tools"
-      ]
-    },
-    {
-      "id": "https://foojay.io/?p=122791",
-      "title": "Java 26: What’s New?",
-      "url": "https://foojay.io/today/java-26-whats-new/",
-      "publishedAt": "2026-03-03T10:00:28.000Z",
-      "summary": "This article was first published in my personal blog: Java 26: What's new? and is part of a serie on what’s new on the last versions of Java). Now that Java 26 is features complete (Rampdown Phase Two at the ... The post Java 26: What’s New? appeared first on foojay.",
-      "sourceId": "foojay-release-notes",
-      "sourceName": "Foojay (Release Notes)",
-      "tech": "Java",
-      "tags": [
-        "Java",
-        "JEPs",
-        "Release Notes"
       ]
     }
   ]
