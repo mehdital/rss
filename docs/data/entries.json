@@ -1,6 +1,91 @@
 {
-  "generatedAt": "2026-07-29T08:14:59.818Z",
+  "generatedAt": "2026-07-30T08:03:30.976Z",
   "items": [
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v22.1.0",
+      "title": "22.1.0",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v22.1.0",
+      "publishedAt": "2026-07-29T23:38:30.000Z",
+      "summary": "@angular/cli Commit Description abort and guide manual mitigation when updating catalog packages prevent Yarn registry environment variable override remove algoliasearch dependency and support latest docs versions resolve correct registry name when using npm alias syntax during update respect client-side release age se",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v22.2.0-next.0",
+      "title": "22.2.0-next.0",
+      "url": "https://github.com/angular/angular/releases/tag/v22.2.0-next.0",
+      "publishedAt": "2026-07-29T20:49:43.000Z",
+      "summary": "forms Commit Description allow permanent hidden fields in signal forms",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v21.2.19",
+      "title": "21.2.19",
+      "url": "https://github.com/angular/angular/releases/tag/v21.2.19",
+      "publishedAt": "2026-07-29T20:44:52.000Z",
+      "summary": "compiler Commit Description disallow i18n event attributes restrict possible event handler check to property names longer than 2 characters http Commit Description distinguish repeated transfer cache params enable xsrf for root-provided HttpClient platform-server Commit Description update domino to latest version",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v22.1.0",
+      "title": "22.1.0",
+      "url": "https://github.com/angular/angular/releases/tag/v22.1.0",
+      "publishedAt": "2026-07-29T20:39:20.000Z",
+      "summary": "common Commit Description skip transfer cache for uncacheable HTTP traffic (#69017) compiler Commit Description Add an error for --global-foo cases (#68846) Disable '--global-' error outside of g3 (#68846) Namespace CSS variables to the app (#68846) Support css var namespacing in properties (#68846) permissive whitespa",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v20.3.27",
+      "title": "20.3.27",
+      "url": "https://github.com/angular/angular/releases/tag/v20.3.27",
+      "publishedAt": "2026-07-29T19:52:32.000Z",
+      "summary": "compiler Commit Description disallow i18n event attributes restrict possible event handler check to property names longer than 2 characters http Commit Description distinguish repeated transfer cache params platform-server Commit Description update domino to latest version",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v22.0.9",
+      "title": "22.0.9",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v22.0.9",
+      "publishedAt": "2026-07-29T09:35:16.000Z",
+      "summary": "@angular/cli Commit Description declare devserver_start and devserver_stop as isReadOnly:false @angular/build Commit Description safeguard Karma builder stream controller against closed state",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "https://foojay.io/?p=125017",
+      "title": "New Between-Quarters Security Updates for Java: What CSPUs Mean for Your Release Pipeline",
+      "url": "https://foojay.io/today/new-between-quarters-security-updates-for-java-what-cspus-mean-for-your-release-pipeline/",
+      "publishedAt": "2026-07-27T07:31:11.000Z",
+      "summary": "In an announcement on the OpenJDK Updates Mailinglist on July 20, 2026, Rob McKenna explained a change in the Oracle security release cycle for JDK builds. They plan to deliver security updates for the Oracle JDK as part of (some) ... The post New Between-Quarters Security Updates for Java: What CSPUs Mean for Your Rel",
+      "sourceId": "foojay-release-notes",
+      "sourceName": "Foojay (Release Notes)",
+      "tech": "Java",
+      "tags": [
+        "Java",
+        "Java Core",
+        "Release Notes",
+        "azul",
+        "oracle",
+        "prime",
+        "zulu"
+      ]
+    },
     {
       "id": "tag:github.com,2008:Repository/36891867/v22.1.0-rc.0",
       "title": "22.1.0-rc.0",
@@ -233,28 +318,6 @@
       "tags": []
     },
     {
-      "id": "tag:github.com,2008:Repository/24195339/v20.3.26",
-      "title": "20.3.26",
-      "url": "https://github.com/angular/angular/releases/tag/v20.3.26",
-      "publishedAt": "2026-07-08T22:11:15.000Z",
-      "summary": "compiler-cli Commit Description update babel dependencies to latest v7 core Commit Description avoid caching missing locale data reject dynamic script host elements http Commit Description prevent caching of responses with Set-Cookie headers service-worker Commit Description preserve referrer in asset requests preserve",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v21.2.18",
-      "title": "21.2.18",
-      "url": "https://github.com/angular/angular/releases/tag/v21.2.18",
-      "publishedAt": "2026-07-08T22:02:19.000Z",
-      "summary": "compiler-cli Commit Description update babel dependencies to latest v7 core Commit Description avoid caching missing locale data reject dynamic script host elements http Commit Description prevent caching of responses with Set-Cookie headers service-worker Commit Description preserve referrer in asset requests preserve",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
       "id": "tag:github.com,2008:Repository/24195339/v22.1.0-next.5",
       "title": "22.1.0-next.5",
       "url": "https://github.com/angular/angular/releases/tag/v22.1.0-next.5",
@@ -291,47 +354,14 @@
       ]
     },
     {
-      "id": "tag:github.com,2008:Repository/24195339/v22.1.0-next.4",
-      "title": "22.1.0-next.4",
-      "url": "https://github.com/angular/angular/releases/tag/v22.1.0-next.4",
-      "publishedAt": "2026-07-01T21:10:35.000Z",
-      "summary": "common Commit Description use Object.hasOwn in I18nSelectPipe to handle null-prototype and shadowed mappings compiler Commit Description permissive whitespace parsing in default never blocks compiler-cli Commit Description include toSignal in debugName transform core Commit Description improve input writes migration in",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v22.0.5",
-      "title": "22.0.5",
-      "url": "https://github.com/angular/angular/releases/tag/v22.0.5",
-      "publishedAt": "2026-07-01T20:47:51.000Z",
-      "summary": "common Commit Description use Object.hasOwn in I18nSelectPipe to handle null-prototype and shadowed mappings compiler-cli Commit Description include toSignal in debugName transform core Commit Description improve input writes migration in best effort mode reject dynamic script host elements router Commit Description fi",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v22.1.0-next.2",
-      "title": "22.1.0-next.2",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v22.1.0-next.2",
-      "publishedAt": "2026-07-01T09:18:45.000Z",
-      "summary": "@schematics/angular Commit Description remove unused app tsconfig outDir @angular/cli Commit Description gracefully handle package manager errors in command handler respect client-side release age settings during update resolution respect release age policy in update bootstrapping logic @angular-devkit/build-angular Co",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v22.0.5",
-      "title": "22.0.5",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v22.0.5",
-      "publishedAt": "2026-07-01T09:14:58.000Z",
-      "summary": "@schematics/angular Commit Description remove unused app tsconfig outDir @angular/cli Commit Description gracefully handle package manager errors in command handler respect release age policy in update bootstrapping logic @angular-devkit/build-angular Commit Description prevent OS command injection in ssr-dev-server bu",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
+      "id": "https://spring.io/blog/2026/06/30/spring-tools-5-3-0-released",
+      "title": "Spring Tools 5.3.0 released",
+      "url": "https://spring.io/blog/2026/06/30/spring-tools-5-3-0-released",
+      "publishedAt": "2026-06-30T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
       "tags": []
     },
     {
@@ -412,17 +442,6 @@
       "title": "Spring Tools 5.2.0 released",
       "url": "https://spring.io/blog/2026/06/15/spring-tools-5-2-0-released",
       "publishedAt": "2026-06-15T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
-      "tags": []
-    },
-    {
-      "id": "https://spring.io/blog/2026/06/12/spring-ai-1-1-8-1-0-9-avaialble-now",
-      "title": "Spring AI 1.0.9, 1.1.8 Available Now",
-      "url": "https://spring.io/blog/2026/06/12/spring-ai-1-1-8-1-0-9-avaialble-now",
-      "publishedAt": "2026-06-12T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
       "sourceName": "Spring Blog (Releases)",
@@ -599,23 +618,6 @@
         "Cloud Migration",
         "ColdFusion",
         "Enterprise Java"
-      ]
-    },
-    {
-      "id": "https://foojay.io/?p=122884",
-      "title": "BoxLang Homebrew Installer Released",
-      "url": "https://foojay.io/today/boxlang-homebrew-installer-released/",
-      "publishedAt": "2026-03-03T12:34:03.000Z",
-      "summary": "We're excited to announce the official BoxLang Homebrew tap — the easiest way to get BoxLang up and running on macOS (and Linux with Homebrew). One command, and you're in business. Getting Started First, make sure you have Homebrew installed, ... The post BoxLang Homebrew Installer Released appeared first on foojay.",
-      "sourceId": "foojay-release-notes",
-      "sourceName": "Foojay (Release Notes)",
-      "tech": "Java",
-      "tags": [
-        "BoxLang",
-        "Developer Tools",
-        "Java",
-        "Release Notes",
-        "Tools"
       ]
     }
   ]
