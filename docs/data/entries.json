@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-07-30T08:03:30.976Z",
+  "generatedAt": "2026-07-31T08:29:37.226Z",
   "items": [
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v22.1.2",
+      "title": "22.1.2",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v22.1.2",
+      "publishedAt": "2026-07-30T15:38:52.000Z",
+      "summary": "@angular/cli Commit Description add packages with built-in schematics to devDependencies only @angular/build Commit Description prevent IIFE wrapper interleaving for adjacent classes in minified files",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v22.1.1",
+      "title": "22.1.1",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v22.1.1",
+      "publishedAt": "2026-07-30T09:41:09.000Z",
+      "summary": "@angular/cli Commit Description support npm 12 metadata array and error formats @angular/build Commit Description rewrite paths from sandboxed execroots when running under Bazel",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v22.2.0-next.0",
+      "title": "22.2.0-next.0",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v22.2.0-next.0",
+      "publishedAt": "2026-07-30T09:01:21.000Z",
+      "summary": "@angular/cli Commit Description support npm 12 metadata array and error formats @angular/build Commit Description rewrite paths from sandboxed execroots when running under Bazel",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
     {
       "id": "tag:github.com,2008:Repository/36891867/v22.1.0",
       "title": "22.1.0",
@@ -274,44 +307,11 @@
       ]
     },
     {
-      "id": "tag:github.com,2008:Repository/36891867/v21.2.19",
-      "title": "21.2.19",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v21.2.19",
-      "publishedAt": "2026-07-09T16:56:34.000Z",
-      "summary": "@angular-devkit/build-angular Commit Description update http-proxy-middleware to 3.0.7",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v20.3.32",
-      "title": "20.3.32",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v20.3.32",
-      "publishedAt": "2026-07-09T15:51:22.000Z",
-      "summary": "@angular-devkit/build-angular Commit Description update http-proxy-middleware to 3.0.7",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
       "id": "tag:github.com,2008:Repository/36891867/v22.1.0-next.3",
       "title": "22.1.0-next.3",
       "url": "https://github.com/angular/angular-cli/releases/tag/v22.1.0-next.3",
       "publishedAt": "2026-07-09T13:25:19.000Z",
       "summary": "@angular/build Commit Description add built-in SQLite cache store fallback share persistent build cache across git worktrees fallback to build target preserveSymlinks option in karma runner prevent esbuild service hang on internal component stylesheet builds prevent externalizing builder-injected i18n locale data strip",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v22.0.6",
-      "title": "22.0.6",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v22.0.6",
-      "publishedAt": "2026-07-09T12:02:23.000Z",
-      "summary": "@angular/build Commit Description fallback to build target preserveSymlinks option in karma runner prevent externalizing builder-injected i18n locale data strip all vite id prefixes from minified code with external dependencies @angular/ssr Commit Description replace all route parameters when resolving relative redirec",
       "sourceId": "angular-cli-releases",
       "sourceName": "Angular CLI (GitHub Releases)",
       "tech": "Angular",
