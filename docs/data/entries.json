@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-07-31T08:29:37.226Z",
+  "generatedAt": "2026-08-02T08:00:48.733Z",
   "items": [
+    {
+      "id": "https://medium.com/p/ebc715561ca1",
+      "title": "Free Book Chapters, Better Testing Control, and Smart MCP Configuration!",
+      "url": "https://blog.angular.dev/free-book-chapters-better-testing-control-and-smart-mcp-configuration-ebc715561ca1?source=rss----447683c3d9a3---4",
+      "publishedAt": "2026-07-31T15:20:46.000Z",
+      "summary": "",
+      "sourceId": "angular-blog",
+      "sourceName": "Angular Blog",
+      "tech": "Angular",
+      "tags": [
+        "angular"
+      ]
+    },
     {
       "id": "tag:github.com,2008:Repository/36891867/v22.1.2",
       "title": "22.1.2",
@@ -581,19 +594,6 @@
         "angular-weekly",
         "angular",
         "angular-newsletter"
-      ]
-    },
-    {
-      "id": "https://medium.com/p/eb1a773270e4",
-      "title": "Mastering Dynamic Components, HTTP Resources, and AI Writing Assistants ️",
-      "url": "https://blog.angular.dev/mastering-dynamic-components-http-resources-and-ai-writing-assistants-%EF%B8%8F-eb1a773270e4?source=rss----447683c3d9a3---4",
-      "publishedAt": "2026-04-13T15:53:54.000Z",
-      "summary": "",
-      "sourceId": "angular-blog",
-      "sourceName": "Angular Blog",
-      "tech": "Angular",
-      "tags": [
-        "angular"
       ]
     },
     {
