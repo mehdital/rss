@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-08-05T08:12:24.829Z",
+  "generatedAt": "2026-08-06T08:11:28.456Z",
   "items": [
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v22.2.0-next.2",
+      "title": "22.2.0-next.2",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v22.2.0-next.2",
+      "publishedAt": "2026-08-05T13:41:46.000Z",
+      "summary": "@angular/build Commit Description disable linker internal source mapping in OXC linker prevent syntax corruption in linker and oxc transform",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v22.2.0-next.1",
+      "title": "22.2.0-next.1",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v22.2.0-next.1",
+      "publishedAt": "2026-08-05T08:21:36.000Z",
+      "summary": "@angular/cli Commit Description add --root command line option to mcp command add packages with built-in schematics to devDependencies only always install package during ng add to inspect manifest on disk for schematics (#33718) correctly report available package updates during bare ng update discover migrations from i",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v22.1.3",
+      "title": "22.1.3",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v22.1.3",
+      "publishedAt": "2026-08-05T08:17:59.000Z",
+      "summary": "@angular/cli Commit Description always install package during ng add to inspect manifest on disk for schematics (#33718) correctly report available package updates during bare ng update discover migrations from installed packages when omitted by registry metadata (#33718) normalize Windows drive-letter casing for proce",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
     {
       "id": "tag:github.com,2008:Repository/36891867/v21.2.20",
       "title": "21.2.20",
@@ -155,28 +188,6 @@
       ]
     },
     {
-      "id": "tag:github.com,2008:Repository/36891867/v22.1.0-rc.0",
-      "title": "22.1.0-rc.0",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v22.1.0-rc.0",
-      "publishedAt": "2026-07-23T18:25:15.000Z",
-      "summary": "@angular/cli Commit Description abort and guide manual mitigation when updating catalog packages batch Prettier invocations during migration formatting remove algoliasearch dependency and support latest docs versions resolve correct registry name when using npm alias syntax during update revert package.json changes if ",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v22.0.8",
-      "title": "22.0.8",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v22.0.8",
-      "publishedAt": "2026-07-23T16:33:43.000Z",
-      "summary": "@angular/cli Commit Description batch Prettier invocations during migration formatting update MCP devserver tool names to conform to spec regex @angular/build Commit Description canonicalize drive letter casing for workspace root on Windows ensure import map integrity keys are valid URL-like specifiers favor istanbul c",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
       "id": "https://foojay.io/?p=125001",
       "title": "Azul Zulu July 2026 Quarterly Update Released",
       "url": "https://foojay.io/today/azul-zulu-july-2026-quarterly-update-released/",
@@ -268,17 +279,6 @@
       "summary": "common Commit Description avoid prototype lookups in date format caches compiler Commit Description parsing of an empty template literal interpolation compiler-cli Commit Description re-tag SourceFiles after TsCreateProgramDriver.updateFiles() core Commit Description allow static attributes for explicit input transform",
       "sourceId": "angular-releases",
       "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v22.1.0-next.4",
-      "title": "22.1.0-next.4",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v22.1.0-next.4",
-      "publishedAt": "2026-07-15T18:42:12.000Z",
-      "summary": "@schematics/angular Commit Description remove unused spec tsconfig outDir @angular/cli Commit Description copy packageManager field and yarn config for temp installs support resolving subproject dependencies in pnpm workspaces @angular/build Commit Description emit debug ids for stable subresource integrity hashes prev",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
       "tech": "Angular",
       "tags": []
     },
