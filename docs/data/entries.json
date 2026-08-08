@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-08-07T06:56:59.044Z",
+  "generatedAt": "2026-08-08T06:30:19.446Z",
   "items": [
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v22.2.0-next.1",
+      "title": "22.2.0-next.1",
+      "url": "https://github.com/angular/angular/releases/tag/v22.2.0-next.1",
+      "publishedAt": "2026-08-07T17:19:07.000Z",
+      "summary": "core Commit Description initialize hydration triggers after late runtime activation warn when style property bindings receive invalid values http Commit Description avoid aborting completed requests in FetchBackend respect content-type charset in fetch backend text decoder run root interceptors in the terminal request ",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v22.1.1",
+      "title": "22.1.1",
+      "url": "https://github.com/angular/angular/releases/tag/v22.1.1",
+      "publishedAt": "2026-08-07T16:50:12.000Z",
+      "summary": "core Commit Description initialize hydration triggers after late runtime activation warn when style property bindings receive invalid values http Commit Description avoid aborting completed requests in FetchBackend respect content-type charset in fetch backend text decoder run root interceptors in the terminal request ",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
     {
       "id": "tag:github.com,2008:Repository/36891867/v22.2.0-next.2",
       "title": "22.2.0-next.2",
@@ -329,28 +351,6 @@
         "modernization",
         "Object-Oriented Programming"
       ]
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v22.1.0-next.5",
-      "title": "22.1.0-next.5",
-      "url": "https://github.com/angular/angular/releases/tag/v22.1.0-next.5",
-      "publishedAt": "2026-07-08T21:46:54.000Z",
-      "summary": "compiler Commit Description Add an error for --global-foo cases (#68846) Disable '--global-' error outside of g3 (#68846) Namespace CSS variables to the app (#68846) Support css var namespacing in properties (#68846) use regular optional chaining expression for safe function calls in TCBs compiler-cli Commit Descriptio",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v22.0.6",
-      "title": "22.0.6",
-      "url": "https://github.com/angular/angular/releases/tag/v22.0.6",
-      "publishedAt": "2026-07-08T21:36:41.000Z",
-      "summary": "compiler Commit Description use regular optional chaining expression for safe function calls in TCBs compiler-cli Commit Description apply debugName transform to required signal queries detect uninvoked signals in bound expressions using ternary forms/signals Commit Description make extractValue reactive for compat Abs",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
     },
     {
       "id": "https://medium.com/p/15c768142043",
