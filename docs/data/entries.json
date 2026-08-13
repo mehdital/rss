@@ -1,6 +1,50 @@
 {
-  "generatedAt": "2026-08-12T07:03:58.203Z",
+  "generatedAt": "2026-08-13T07:07:55.841Z",
   "items": [
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v21.2.20",
+      "title": "21.2.20",
+      "url": "https://github.com/angular/angular/releases/tag/v21.2.20",
+      "publishedAt": "2026-08-13T00:02:35.000Z",
+      "summary": "core Commit Description sanitize host bindings on concrete hosts http Commit Description match header values exactly when deleting preserve immutability of materialized clones run root interceptors in the terminal request chain",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/vsix-22.1.0",
+      "title": "VSCode Extension: 22.1.0",
+      "url": "https://github.com/angular/angular/releases/tag/vsix-22.1.0",
+      "publishedAt": "2026-08-12T22:51:20.000Z",
+      "summary": "fix(language-service): account for strictTemplates being enabled by default (a99fb915c0) feat(language-service): Typecheck templates which would require inline typecheck blocks (#68454) (4f9c824dd9) feat(language-service): compile non-exported classes if standalone (#68454) (7f0265e43a)",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v21.2.21",
+      "title": "21.2.21",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v21.2.21",
+      "publishedAt": "2026-08-12T21:24:56.000Z",
+      "summary": "@angular/cli Commit Description update dependency @modelcontextprotocol/sdk to v1.30.0 @angular/build Commit Description bump undici to 7.29.0",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v20.3.34",
+      "title": "20.3.34",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v20.3.34",
+      "publishedAt": "2026-08-12T18:32:48.000Z",
+      "summary": "@angular/cli Commit Description update dependency @modelcontextprotocol/sdk to v1.30.0 @angular-devkit/build-angular Commit Description bump undici to 7.29.0",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
     {
       "id": "tag:github.com,2008:Repository/24195339/v22.2.0-next.1",
       "title": "22.2.0-next.1",
@@ -125,17 +169,6 @@
       "tags": []
     },
     {
-      "id": "tag:github.com,2008:Repository/36891867/v22.1.0",
-      "title": "22.1.0",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v22.1.0",
-      "publishedAt": "2026-07-29T23:38:30.000Z",
-      "summary": "@angular/cli Commit Description abort and guide manual mitigation when updating catalog packages prevent Yarn registry environment variable override remove algoliasearch dependency and support latest docs versions resolve correct registry name when using npm alias syntax during update respect client-side release age se",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
       "id": "tag:github.com,2008:Repository/24195339/v22.2.0-next.0",
       "title": "22.2.0-next.0",
       "url": "https://github.com/angular/angular/releases/tag/v22.2.0-next.0",
@@ -176,17 +209,6 @@
       "summary": "compiler Commit Description disallow i18n event attributes restrict possible event handler check to property names longer than 2 characters http Commit Description distinguish repeated transfer cache params platform-server Commit Description update domino to latest version",
       "sourceId": "angular-releases",
       "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v22.0.9",
-      "title": "22.0.9",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v22.0.9",
-      "publishedAt": "2026-07-29T09:35:16.000Z",
-      "summary": "@angular/cli Commit Description declare devserver_start and devserver_stop as isReadOnly:false @angular/build Commit Description safeguard Karma builder stream controller against closed state",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
       "tech": "Angular",
       "tags": []
     },
@@ -281,28 +303,6 @@
         "angular-weekly",
         "angular"
       ]
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v22.1.0-next.6",
-      "title": "22.1.0-next.6",
-      "url": "https://github.com/angular/angular/releases/tag/v22.1.0-next.6",
-      "publishedAt": "2026-07-16T04:30:13.000Z",
-      "summary": "common Commit Description avoid prototype lookups in date format caches compiler Commit Description parsing of an empty template literal interpolation support foreign components inside control flow blocks (#69674) do not emit tag name when control flow root is foreign component (#69674) compiler-cli Commit Description ",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v22.0.7",
-      "title": "22.0.7",
-      "url": "https://github.com/angular/angular/releases/tag/v22.0.7",
-      "publishedAt": "2026-07-16T04:23:25.000Z",
-      "summary": "common Commit Description avoid prototype lookups in date format caches compiler Commit Description parsing of an empty template literal interpolation compiler-cli Commit Description re-tag SourceFiles after TsCreateProgramDriver.updateFiles() core Commit Description allow static attributes for explicit input transform",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
     },
     {
       "id": "https://foojay.io/?p=124944",
