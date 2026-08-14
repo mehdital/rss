@@ -1,6 +1,61 @@
 {
-  "generatedAt": "2026-08-13T07:07:55.841Z",
+  "generatedAt": "2026-08-14T07:04:18.137Z",
   "items": [
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v22.1.2",
+      "title": "22.1.2",
+      "url": "https://github.com/angular/angular/releases/tag/v22.1.2",
+      "publishedAt": "2026-08-13T18:57:29.000Z",
+      "summary": "compiler Commit Description Generate correct expression for optional chaning. remove namespaced MathML script elements compiler-cli Commit Description correctly resolve symbol for SafePropertyRead in chained optional navigation record class extends clause references in DeferredSymbolTracker core Commit Description ensu",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v22.2.0-next.2",
+      "title": "22.2.0-next.2",
+      "url": "https://github.com/angular/angular/releases/tag/v22.2.0-next.2",
+      "publishedAt": "2026-08-13T18:46:33.000Z",
+      "summary": "compiler Commit Description do not encapsulate nested selectors if parent contains ::ng-deep Generate correct expression for optional chaning. remove namespaced MathML script elements scope nested CSS rules compiler-cli Commit Description correctly resolve symbol for SafePropertyRead in chained optional navigation reco",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v22.2.0-next.3",
+      "title": "22.2.0-next.3",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v22.2.0-next.3",
+      "publishedAt": "2026-08-13T17:36:27.000Z",
+      "summary": "@schematics/angular Commit Description generate CLAUDE.md for Claude Code instead of AGENTS.md import UrlSegment instead of subPath in guard generator @angular/cli Commit Description disable searching current directory for bare executable names on Windows serialize configuration as a single argv token in run_target str",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v20.3.28",
+      "title": "20.3.28",
+      "url": "https://github.com/angular/angular/releases/tag/v20.3.28",
+      "publishedAt": "2026-08-13T17:07:52.000Z",
+      "summary": "core Commit Description sanitize host bindings on concrete hosts http Commit Description match header values exactly when deleting preserve immutability of materialized clones run root interceptors in the terminal request chain",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v22.1.4",
+      "title": "22.1.4",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v22.1.4",
+      "publishedAt": "2026-08-13T16:31:12.000Z",
+      "summary": "@schematics/angular Commit Description generate CLAUDE.md for Claude Code instead of AGENTS.md import UrlSegment instead of subPath in guard generator @angular/cli Commit Description disable searching current directory for bare executable names on Windows serialize configuration as a single argv token in run_target str",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
     {
       "id": "tag:github.com,2008:Repository/24195339/v21.2.20",
       "title": "21.2.20",
@@ -136,28 +191,6 @@
       ]
     },
     {
-      "id": "tag:github.com,2008:Repository/36891867/v22.1.2",
-      "title": "22.1.2",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v22.1.2",
-      "publishedAt": "2026-07-30T15:38:52.000Z",
-      "summary": "@angular/cli Commit Description add packages with built-in schematics to devDependencies only @angular/build Commit Description prevent IIFE wrapper interleaving for adjacent classes in minified files",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v22.1.1",
-      "title": "22.1.1",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v22.1.1",
-      "publishedAt": "2026-07-30T09:41:09.000Z",
-      "summary": "@angular/cli Commit Description support npm 12 metadata array and error formats @angular/build Commit Description rewrite paths from sandboxed execroots when running under Bazel",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
       "id": "tag:github.com,2008:Repository/36891867/v22.2.0-next.0",
       "title": "22.2.0-next.0",
       "url": "https://github.com/angular/angular-cli/releases/tag/v22.2.0-next.0",
@@ -196,17 +229,6 @@
       "url": "https://github.com/angular/angular/releases/tag/v22.1.0",
       "publishedAt": "2026-07-29T20:39:20.000Z",
       "summary": "common Commit Description skip transfer cache for uncacheable HTTP traffic (#69017) compiler Commit Description Add an error for --global-foo cases (#68846) Disable '--global-' error outside of g3 (#68846) Namespace CSS variables to the app (#68846) Support css var namespacing in properties (#68846) permissive whitespa",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v20.3.27",
-      "title": "20.3.27",
-      "url": "https://github.com/angular/angular/releases/tag/v20.3.27",
-      "publishedAt": "2026-07-29T19:52:32.000Z",
-      "summary": "compiler Commit Description disallow i18n event attributes restrict possible event handler check to property names longer than 2 characters http Commit Description distinguish repeated transfer cache params platform-server Commit Description update domino to latest version",
       "sourceId": "angular-releases",
       "sourceName": "Angular (GitHub Releases)",
       "tech": "Angular",
@@ -267,28 +289,6 @@
         "Payara Micro",
         "Payara Server"
       ]
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v22.1.0-rc.0",
-      "title": "22.1.0-rc.0",
-      "url": "https://github.com/angular/angular/releases/tag/v22.1.0-rc.0",
-      "publishedAt": "2026-07-22T14:41:26.000Z",
-      "summary": "common Commit Description preserve crossorigin on image preloads core Commit Description ensure SVG animation attributeName is checked case-insensitively forms Commit Description ensure pending status propagates to the root form in signal forms http Commit Description prevent transfer cache key collisions migrations Co",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v22.0.8",
-      "title": "22.0.8",
-      "url": "https://github.com/angular/angular/releases/tag/v22.0.8",
-      "publishedAt": "2026-07-22T14:33:06.000Z",
-      "summary": "common Commit Description preserve crossorigin on image preloads core Commit Description ensure SVG animation attributeName is checked case-insensitively forms Commit Description ensure pending status propagates to the root form in signal forms http Commit Description prevent transfer cache key collisions migrations Co",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
     },
     {
       "id": "https://medium.com/p/05440da623ad",
