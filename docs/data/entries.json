@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-14T07:04:18.137Z",
+  "generatedAt": "2026-08-16T06:19:10.197Z",
   "items": [
+    {
+      "id": "https://medium.com/p/4f96634b0ae3",
+      "title": "The Forms Evolution, Web AI, and Architectural Vision!",
+      "url": "https://blog.angular.dev/the-forms-evolution-web-ai-and-architectural-vision-4f96634b0ae3?source=rss----447683c3d9a3---4",
+      "publishedAt": "2026-08-14T13:01:03.000Z",
+      "summary": "",
+      "sourceId": "angular-blog",
+      "sourceName": "Angular Blog",
+      "tech": "Angular",
+      "tags": [
+        "angular-newsletter",
+        "angular",
+        "angular-weekly"
+      ]
+    },
     {
       "id": "tag:github.com,2008:Repository/24195339/v22.1.2",
       "title": "22.1.2",
@@ -579,21 +594,6 @@
         "azul",
         "core",
         "zulu"
-      ]
-    },
-    {
-      "id": "https://medium.com/p/6dd270e87fac",
-      "title": "AI Training, Local Gemini, and Styling Signal Forms",
-      "url": "https://blog.angular.dev/ai-training-local-gemini-and-styling-signal-forms-6dd270e87fac?source=rss----447683c3d9a3---4",
-      "publishedAt": "2026-04-20T15:44:47.000Z",
-      "summary": "",
-      "sourceId": "angular-blog",
-      "sourceName": "Angular Blog",
-      "tech": "Angular",
-      "tags": [
-        "angular-weekly",
-        "angular",
-        "angular-newsletter"
       ]
     },
     {
