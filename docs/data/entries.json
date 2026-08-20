@@ -1,6 +1,72 @@
 {
-  "generatedAt": "2026-08-19T06:22:29.664Z",
+  "generatedAt": "2026-08-20T06:22:57.660Z",
   "items": [
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v22.2.0-next.4",
+      "title": "22.2.0-next.4",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v22.2.0-next.4",
+      "publishedAt": "2026-08-19T21:03:15.000Z",
+      "summary": "@schematics/angular Commit Description transform fail() to expect.fail() in refactor-jasmine-vitest @angular/cli Commit Description enforce MCP roots in get_best_practices tool handle errors from isAllowedWorkspacePath in best-practices tool throw on out-of-roots workspace in best-practices tool @angular/build Commit D",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v22.2.0-next.3",
+      "title": "22.2.0-next.3",
+      "url": "https://github.com/angular/angular/releases/tag/v22.2.0-next.3",
+      "publishedAt": "2026-08-19T20:18:48.000Z",
+      "summary": "animations Commit Description detect object trigger values with Object.hasOwn common Commit Description preserve literal key union in KeyValuePipe.transform() compiler Commit Description allow template to access private props preserve &ngsp; between sibling control flow blocks core Commit Description accept readonly ar",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v22.1.3",
+      "title": "22.1.3",
+      "url": "https://github.com/angular/angular/releases/tag/v22.1.3",
+      "publishedAt": "2026-08-19T20:10:39.000Z",
+      "summary": "animations Commit Description detect object trigger values with Object.hasOwn common Commit Description preserve literal key union in KeyValuePipe.transform() compiler Commit Description preserve &ngsp; between sibling control flow blocks core Commit Description accept readonly arrays for setClassMetadata decorators al",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v20.3.29",
+      "title": "20.3.29",
+      "url": "https://github.com/angular/angular/releases/tag/v20.3.29",
+      "publishedAt": "2026-08-19T19:59:42.000Z",
+      "summary": "platform-browser Commit Description disallow event handler attributes in Meta",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v21.2.21",
+      "title": "21.2.21",
+      "url": "https://github.com/angular/angular/releases/tag/v21.2.21",
+      "publishedAt": "2026-08-19T19:52:49.000Z",
+      "summary": "platform-browser Commit Description disallow event handler attributes in Meta",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v22.1.5",
+      "title": "22.1.5",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v22.1.5",
+      "publishedAt": "2026-08-19T19:37:33.000Z",
+      "summary": "@schematics/angular Commit Description transform fail() to expect.fail() in refactor-jasmine-vitest @angular/cli Commit Description enforce MCP roots in get_best_practices tool handle errors from isAllowedWorkspacePath in best-practices tool throw on out-of-roots workspace in best-practices tool @angular/build Commit D",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
     {
       "id": "https://medium.com/p/4f96634b0ae3",
       "title": "The Forms Evolution, Web AI, and Architectural Vision!",
@@ -127,17 +193,6 @@
       "tags": []
     },
     {
-      "id": "tag:github.com,2008:Repository/24195339/v22.1.1",
-      "title": "22.1.1",
-      "url": "https://github.com/angular/angular/releases/tag/v22.1.1",
-      "publishedAt": "2026-08-07T16:50:12.000Z",
-      "summary": "core Commit Description initialize hydration triggers after late runtime activation warn when style property bindings receive invalid values http Commit Description avoid aborting completed requests in FetchBackend respect content-type charset in fetch backend text decoder run root interceptors in the terminal request ",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
       "id": "tag:github.com,2008:Repository/36891867/v22.2.0-next.2",
       "title": "22.2.0-next.2",
       "url": "https://github.com/angular/angular-cli/releases/tag/v22.2.0-next.2",
@@ -182,17 +237,6 @@
       "tags": []
     },
     {
-      "id": "tag:github.com,2008:Repository/36891867/v20.3.33",
-      "title": "20.3.33",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v20.3.33",
-      "publishedAt": "2026-08-05T08:02:27.000Z",
-      "summary": "@angular-devkit/build-angular Commit Description upgrade postcss to 8.5.23 @angular/build Commit Description upgrade postcss to 8.5.23",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
       "id": "https://medium.com/p/ebc715561ca1",
       "title": "Free Book Chapters, Better Testing Control, and Smart MCP Configuration!",
       "url": "https://blog.angular.dev/free-book-chapters-better-testing-control-and-smart-mcp-configuration-ebc715561ca1?source=rss----447683c3d9a3---4",
@@ -204,50 +248,6 @@
       "tags": [
         "angular"
       ]
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v22.2.0-next.0",
-      "title": "22.2.0-next.0",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v22.2.0-next.0",
-      "publishedAt": "2026-07-30T09:01:21.000Z",
-      "summary": "@angular/cli Commit Description support npm 12 metadata array and error formats @angular/build Commit Description rewrite paths from sandboxed execroots when running under Bazel",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v22.2.0-next.0",
-      "title": "22.2.0-next.0",
-      "url": "https://github.com/angular/angular/releases/tag/v22.2.0-next.0",
-      "publishedAt": "2026-07-29T20:49:43.000Z",
-      "summary": "forms Commit Description allow permanent hidden fields in signal forms",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v21.2.19",
-      "title": "21.2.19",
-      "url": "https://github.com/angular/angular/releases/tag/v21.2.19",
-      "publishedAt": "2026-07-29T20:44:52.000Z",
-      "summary": "compiler Commit Description disallow i18n event attributes restrict possible event handler check to property names longer than 2 characters http Commit Description distinguish repeated transfer cache params enable xsrf for root-provided HttpClient platform-server Commit Description update domino to latest version",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v22.1.0",
-      "title": "22.1.0",
-      "url": "https://github.com/angular/angular/releases/tag/v22.1.0",
-      "publishedAt": "2026-07-29T20:39:20.000Z",
-      "summary": "common Commit Description skip transfer cache for uncacheable HTTP traffic (#69017) compiler Commit Description Add an error for --global-foo cases (#68846) Disable '--global-' error outside of g3 (#68846) Namespace CSS variables to the app (#68846) Support css var namespacing in properties (#68846) permissive whitespa",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
     },
     {
       "id": "https://foojay.io/?p=125017",
