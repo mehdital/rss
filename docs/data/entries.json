@@ -1,22 +1,11 @@
 {
-  "generatedAt": "2026-08-23T06:19:45.460Z",
+  "generatedAt": "2026-08-25T06:23:24.592Z",
   "items": [
     {
       "id": "https://spring.io/blog/2026/08/21/spring-ai-2-0-1-available-now",
       "title": "Spring AI 2.0.1 Available Now",
       "url": "https://spring.io/blog/2026/08/21/spring-ai-2-0-1-available-now",
       "publishedAt": "2026-08-21T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
-      "tags": []
-    },
-    {
-      "id": "https://spring.io/blog/2026/08/20/spring-batch-6-0-5-and-6-1-0-M1-available-now",
-      "title": "Spring Batch 6.0.5 and 6.1.0-M1 available now",
-      "url": "https://spring.io/blog/2026/08/20/spring-batch-6-0-5-and-6-1-0-M1-available-now",
-      "publishedAt": "2026-08-20T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
       "sourceName": "Spring Blog (Releases)",
@@ -38,6 +27,17 @@
       "id": "https://spring.io/blog/2026/08/20/spring-boot-4-1-1-available-now",
       "title": "Spring Boot 4.1.1 available now",
       "url": "https://spring.io/blog/2026/08/20/spring-boot-4-1-1-available-now",
+      "publishedAt": "2026-08-20T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "https://spring.io/blog/2026/08/20/spring-cloud-2025-1-3-has-been-released",
+      "title": "Spring Cloud 2025.1.3 (aka Oakwood) Has Been Released",
+      "url": "https://spring.io/blog/2026/08/20/spring-cloud-2025-1-3-has-been-released",
       "publishedAt": "2026-08-20T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
