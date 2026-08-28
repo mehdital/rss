@@ -1,6 +1,116 @@
 {
-  "generatedAt": "2026-08-26T06:25:51.103Z",
+  "generatedAt": "2026-08-28T17:48:26.333Z",
   "items": [
+    {
+      "id": "https://medium.com/p/743bb9bd0b0e",
+      "title": "Styling Mastery and Declarative Form Submissions",
+      "url": "https://blog.angular.dev/styling-mastery-and-declarative-form-submissions-743bb9bd0b0e?source=rss----447683c3d9a3---4",
+      "publishedAt": "2026-08-28T11:01:01.000Z",
+      "summary": "",
+      "sourceId": "angular-blog",
+      "sourceName": "Angular Blog",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v22.2.0-next.4",
+      "title": "22.2.0-next.4",
+      "url": "https://github.com/angular/angular/releases/tag/v22.2.0-next.4",
+      "publishedAt": "2026-08-27T00:16:52.000Z",
+      "summary": "common Commit Description avoid prototype member collisions use locale NaN symbol in number formatting compiler Commit Description scope animations declared in minified nested rules compiler-cli Commit Description scope type-checking of keyed defer blocks deduplicate deferred imports across multiple blocks default temp",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v22.1.4",
+      "title": "22.1.4",
+      "url": "https://github.com/angular/angular/releases/tag/v22.1.4",
+      "publishedAt": "2026-08-27T00:09:57.000Z",
+      "summary": "common Commit Description avoid prototype member collisions use locale NaN symbol in number formatting compiler Commit Description scope animations declared in minified nested rules compiler-cli Commit Description default template diagnostic related message source file to template Produce correct tcb expression for opt",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v21.2.22",
+      "title": "21.2.22",
+      "url": "https://github.com/angular/angular/releases/tag/v21.2.22",
+      "publishedAt": "2026-08-26T23:52:02.000Z",
+      "summary": "platform-server Commit Description avoid stripping unicode whitespace during url resolution update domino to latest version",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v20.3.30",
+      "title": "20.3.30",
+      "url": "https://github.com/angular/angular/releases/tag/v20.3.30",
+      "publishedAt": "2026-08-26T23:37:08.000Z",
+      "summary": "platform-server Commit Description avoid stripping unicode whitespace during url resolution update domino to latest version",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v22.2.0-next.5",
+      "title": "22.2.0-next.5",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v22.2.0-next.5",
+      "publishedAt": "2026-08-26T07:52:42.000Z",
+      "summary": "@angular/build Commit Description ignore side-effect annotations in unit test builds prevent memory leaks in parallel compilation and caches batch prerender routes and share in-memory server bundles consolidate component stylesheet bundling with shared load result cache implement SharedArrayBuffer translation dictionar",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v22.1.6",
+      "title": "22.1.6",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v22.1.6",
+      "publishedAt": "2026-08-26T07:49:12.000Z",
+      "summary": "@angular/build Commit Description ignore side-effect annotations in unit test builds batch prerender routes and share in-memory server bundles @angular/ssr Commit Description abort web request signal when node request is aborted",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v21.2.22",
+      "title": "21.2.22",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v21.2.22",
+      "publishedAt": "2026-08-26T07:44:49.000Z",
+      "summary": "@angular-devkit/build-angular Commit Description update webpack-dev-server to 5.2.6",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v20.3.35",
+      "title": "20.3.35",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v20.3.35",
+      "publishedAt": "2026-08-26T07:39:39.000Z",
+      "summary": "@angular-devkit/build-angular Commit Description update webpack-dev-server to 5.2.6",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "https://spring.io/blog/2026/08/26/spring-modulith-2-2-m1-2-1-1-2-0-8-and-1-4-13-released",
+      "title": "Spring Modulith 2.2 M1, 2.1.1, 2.0.8, and 1.4.13 released",
+      "url": "https://spring.io/blog/2026/08/26/spring-modulith-2-2-m1-2-1-1-2-0-8-and-1-4-13-released",
+      "publishedAt": "2026-08-26T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
     {
       "id": "https://spring.io/blog/2026/08/21/spring-ai-2-0-1-available-now",
       "title": "Spring AI 2.0.1 Available Now",
@@ -27,17 +137,6 @@
       "id": "https://spring.io/blog/2026/08/20/spring-boot-4-0-8-available-now",
       "title": "Spring Boot 4.0.8 available now",
       "url": "https://spring.io/blog/2026/08/20/spring-boot-4-0-8-available-now",
-      "publishedAt": "2026-08-20T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
-      "tags": []
-    },
-    {
-      "id": "https://spring.io/blog/2026/08/20/spring-boot-4-1-1-available-now",
-      "title": "Spring Boot 4.1.1 available now",
-      "url": "https://spring.io/blog/2026/08/20/spring-boot-4-1-1-available-now",
       "publishedAt": "2026-08-20T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
@@ -160,17 +259,6 @@
       "tags": []
     },
     {
-      "id": "tag:github.com,2008:Repository/24195339/v20.3.28",
-      "title": "20.3.28",
-      "url": "https://github.com/angular/angular/releases/tag/v20.3.28",
-      "publishedAt": "2026-08-13T17:07:52.000Z",
-      "summary": "core Commit Description sanitize host bindings on concrete hosts http Commit Description match header values exactly when deleting preserve immutability of materialized clones run root interceptors in the terminal request chain",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
       "id": "tag:github.com,2008:Repository/36891867/v22.1.4",
       "title": "22.1.4",
       "url": "https://github.com/angular/angular-cli/releases/tag/v22.1.4",
@@ -178,28 +266,6 @@
       "summary": "@schematics/angular Commit Description generate CLAUDE.md for Claude Code instead of AGENTS.md import UrlSegment instead of subPath in guard generator @angular/cli Commit Description disable searching current directory for bare executable names on Windows serialize configuration as a single argv token in run_target str",
       "sourceId": "angular-cli-releases",
       "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v21.2.20",
-      "title": "21.2.20",
-      "url": "https://github.com/angular/angular/releases/tag/v21.2.20",
-      "publishedAt": "2026-08-13T00:02:35.000Z",
-      "summary": "core Commit Description sanitize host bindings on concrete hosts http Commit Description match header values exactly when deleting preserve immutability of materialized clones run root interceptors in the terminal request chain",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/vsix-22.1.0",
-      "title": "VSCode Extension: 22.1.0",
-      "url": "https://github.com/angular/angular/releases/tag/vsix-22.1.0",
-      "publishedAt": "2026-08-12T22:51:20.000Z",
-      "summary": "fix(language-service): account for strictTemplates being enabled by default (a99fb915c0) feat(language-service): Typecheck templates which would require inline typecheck blocks (#68454) (4f9c824dd9) feat(language-service): compile non-exported classes if standalone (#68454) (7f0265e43a)",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
       "tech": "Angular",
       "tags": []
     },
@@ -220,61 +286,6 @@
       "url": "https://github.com/angular/angular-cli/releases/tag/v20.3.34",
       "publishedAt": "2026-08-12T18:32:48.000Z",
       "summary": "@angular/cli Commit Description update dependency @modelcontextprotocol/sdk to v1.30.0 @angular-devkit/build-angular Commit Description bump undici to 7.29.0",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v22.2.0-next.1",
-      "title": "22.2.0-next.1",
-      "url": "https://github.com/angular/angular/releases/tag/v22.2.0-next.1",
-      "publishedAt": "2026-08-07T17:19:07.000Z",
-      "summary": "core Commit Description initialize hydration triggers after late runtime activation warn when style property bindings receive invalid values http Commit Description avoid aborting completed requests in FetchBackend respect content-type charset in fetch backend text decoder run root interceptors in the terminal request ",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v22.2.0-next.2",
-      "title": "22.2.0-next.2",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v22.2.0-next.2",
-      "publishedAt": "2026-08-05T13:41:46.000Z",
-      "summary": "@angular/build Commit Description disable linker internal source mapping in OXC linker prevent syntax corruption in linker and oxc transform",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v22.2.0-next.1",
-      "title": "22.2.0-next.1",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v22.2.0-next.1",
-      "publishedAt": "2026-08-05T08:21:36.000Z",
-      "summary": "@angular/cli Commit Description add --root command line option to mcp command add packages with built-in schematics to devDependencies only always install package during ng add to inspect manifest on disk for schematics (#33718) correctly report available package updates during bare ng update discover migrations from i",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v22.1.3",
-      "title": "22.1.3",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v22.1.3",
-      "publishedAt": "2026-08-05T08:17:59.000Z",
-      "summary": "@angular/cli Commit Description always install package during ng add to inspect manifest on disk for schematics (#33718) correctly report available package updates during bare ng update discover migrations from installed packages when omitted by registry metadata (#33718) normalize Windows drive-letter casing for proce",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v21.2.20",
-      "title": "21.2.20",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v21.2.20",
-      "publishedAt": "2026-08-05T08:06:19.000Z",
-      "summary": "@angular-devkit/build-angular Commit Description upgrade postcss to 8.5.23 @angular/build Commit Description upgrade postcss to 8.5.23",
       "sourceId": "angular-cli-releases",
       "sourceName": "Angular CLI (GitHub Releases)",
       "tech": "Angular",
@@ -578,22 +589,6 @@
         "Uncategorized",
         "Jakarta EE 11",
         "Payara 7"
-      ]
-    },
-    {
-      "id": "https://medium.com/p/07c0afb816a3",
-      "title": "Back from Baby Bonding: Agents, Building Blocks, and the Future of AI Engineering",
-      "url": "https://blog.angular.dev/back-from-baby-bonding-agents-building-blocks-and-the-future-of-ai-engineering-07c0afb816a3?source=rss----447683c3d9a3---4",
-      "publishedAt": "2026-04-28T18:56:45.000Z",
-      "summary": "",
-      "sourceId": "angular-blog",
-      "sourceName": "Angular Blog",
-      "tech": "Angular",
-      "tags": [
-        "angular-ai-tutor",
-        "ai",
-        "angular",
-        "agent-skills"
       ]
     },
     {
