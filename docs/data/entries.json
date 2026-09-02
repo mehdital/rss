@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-08-31T12:00:06.195Z",
+  "generatedAt": "2026-09-02T10:04:58.162Z",
   "items": [
+    {
+      "id": "https://medium.com/p/39ff8e0271a4",
+      "title": "Customizing Angular Aria Tabs Quickly with Google Antigravity CLI",
+      "url": "https://blog.angular.dev/customizing-angular-aria-tabs-quickly-with-google-antigravity-cli-39ff8e0271a4?source=rss----447683c3d9a3---4",
+      "publishedAt": "2026-09-02T01:50:59.000Z",
+      "summary": "",
+      "sourceId": "angular-blog",
+      "sourceName": "Angular Blog",
+      "tech": "Angular",
+      "tags": []
+    },
     {
       "id": "https://medium.com/p/743bb9bd0b0e",
       "title": "Styling Mastery and Declarative Form Submissions",
@@ -110,6 +121,23 @@
       "sourceName": "Spring Blog (Releases)",
       "tech": "Java",
       "tags": []
+    },
+    {
+      "id": "https://foojay.io/?p=125367",
+      "title": "Azul August 2026 Release: Java’s First Monthly CSPU",
+      "url": "https://foojay.io/today/azul-august-2026-release-javas-first-monthly-cspu/",
+      "publishedAt": "2026-08-21T07:48:46.000Z",
+      "summary": "If someone discloses a 0-day CVE the day after a quarterly update, you could wait up to three months for a patched build. That gap is closed now. The August 2026 release is the first monthly Critical Security Patch Update ... The post Azul August 2026 Release: Java’s First Monthly CSPU appeared first on foojay.",
+      "sourceId": "foojay-release-notes",
+      "sourceName": "Foojay (Release Notes)",
+      "tech": "Java",
+      "tags": [
+        "Java",
+        "Release Notes",
+        "azul",
+        "cspu",
+        "zulu"
+      ]
     },
     {
       "id": "https://spring.io/blog/2026/08/21/spring-ai-2-0-1-available-now",
@@ -535,21 +563,6 @@
       ]
     },
     {
-      "id": "https://medium.com/p/94c18a911a3a",
-      "title": "Mastering Dynamic Components, HTTP Resources, and AI Writing Assistants ️",
-      "url": "https://blog.angular.dev/mastering-dynamic-components-http-resources-and-ai-writing-assistants-%EF%B8%8F-94c18a911a3a?source=rss----447683c3d9a3---4",
-      "publishedAt": "2026-05-22T13:01:01.000Z",
-      "summary": "",
-      "sourceId": "angular-blog",
-      "sourceName": "Angular Blog",
-      "tech": "Angular",
-      "tags": [
-        "angular",
-        "angular-weekly",
-        "angular-newsletter"
-      ]
-    },
-    {
       "id": "https://foojay.io/?p=123809",
       "title": "BoxLang v1.13.0: Compatibility, Concurrency, and Formatter Maturity",
       "url": "https://foojay.io/today/boxlang-v1-13-0-compatibility-concurrency-and-formatter-maturity/",
@@ -589,23 +602,6 @@
         "Uncategorized",
         "Jakarta EE 11",
         "Payara 7"
-      ]
-    },
-    {
-      "id": "https://foojay.io/?p=123512",
-      "title": "Azul Zulu April 2026 Quarterly Update Released",
-      "url": "https://foojay.io/today/azul-zulu-april-2026-quarterly-update-released/",
-      "publishedAt": "2026-04-23T07:12:29.000Z",
-      "summary": "The April 2026 quarterly update for Azul Zulu Builds of OpenJDK is now available. This quarterly release brings security and bug fixes, along with a few notable new changes, to all currently supported Java versions. The Quarterly Update Cycle Every ... The post Azul Zulu April 2026 Quarterly Update Released appeared fi",
-      "sourceId": "foojay-release-notes",
-      "sourceName": "Foojay (Release Notes)",
-      "tech": "Java",
-      "tags": [
-        "Java",
-        "Release Notes",
-        "azul",
-        "core",
-        "zulu"
       ]
     }
   ]
