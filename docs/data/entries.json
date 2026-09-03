@@ -1,6 +1,83 @@
 {
-  "generatedAt": "2026-09-02T10:04:58.162Z",
+  "generatedAt": "2026-09-03T10:15:09.462Z",
   "items": [
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v22.2.0-next.5",
+      "title": "22.2.0-next.5",
+      "url": "https://github.com/angular/angular/releases/tag/v22.2.0-next.5",
+      "publishedAt": "2026-09-03T02:40:54.000Z",
+      "summary": "compiler-cli Commit Description check uninvoked signal aliases in extended diagnostic core Commit Description add utility for testing directives support annotations in WebMCP tool declarations cancel stale debounce timers to prevent timer leaks don't fail NgModule checks for a pipe that extends a base class validate SV",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v22.1.5",
+      "title": "22.1.5",
+      "url": "https://github.com/angular/angular/releases/tag/v22.1.5",
+      "publishedAt": "2026-09-03T02:35:12.000Z",
+      "summary": "compiler-cli Commit Description check uninvoked signal aliases in extended diagnostic core Commit Description cancel stale debounce timers to prevent timer leaks don't fail NgModule checks for a pipe that extends a base class validate SVG animation attributes outside the SVG namespace forms Commit Description avoid wri",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v22.2.0-next.6",
+      "title": "22.2.0-next.6",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v22.2.0-next.6",
+      "publishedAt": "2026-09-02T22:06:53.000Z",
+      "summary": "@angular/cli Commit Description isolate temporary package installations from parent Yarn workspace @angular/build Commit Description add splitting option to unit-test builder enable code splitting for vitest browser tests fail build and exclude routes when prerendering fails keep dev-server Vite cache worktree-local pr",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/zone.js-0.16.3",
+      "title": "zone.js-0.16.3",
+      "url": "https://github.com/angular/angular/releases/tag/zone.js-0.16.3",
+      "publishedAt": "2026-09-02T21:19:15.000Z",
+      "summary": "release: cut the zone.js-0.16.3 release",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v22.1.7",
+      "title": "22.1.7",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v22.1.7",
+      "publishedAt": "2026-09-02T21:03:02.000Z",
+      "summary": "@angular/cli Commit Description isolate temporary package installations from parent Yarn workspace @angular/build Commit Description add splitting option to unit-test builder enable code splitting for vitest browser tests fail build and exclude routes when prerendering fails keep dev-server Vite cache worktree-local pr",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v21.2.23",
+      "title": "21.2.23",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v21.2.23",
+      "publishedAt": "2026-09-02T20:33:06.000Z",
+      "summary": "@angular-devkit/build-angular Commit Description update less to 4.9.0 @angular/ssr Commit Description ensure public directory containment in CommonEngine",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v20.3.36",
+      "title": "20.3.36",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v20.3.36",
+      "publishedAt": "2026-09-02T19:28:15.000Z",
+      "summary": "@angular-devkit/build-angular Commit Description update less to 4.9.0 @angular/ssr Commit Description ensure public directory containment in CommonEngine",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
     {
       "id": "https://medium.com/p/39ff8e0271a4",
       "title": "Customizing Angular Aria Tabs Quickly with Google Antigravity CLI",
@@ -151,9 +228,9 @@
       "tags": []
     },
     {
-      "id": "https://spring.io/blog/2026/08/20/spring-batch-6-0-5-and-6-1-0-M1-available-now",
-      "title": "Spring Batch 6.0.5 and 6.1.0-M1 available now",
-      "url": "https://spring.io/blog/2026/08/20/spring-batch-6-0-5-and-6-1-0-M1-available-now",
+      "id": "https://spring.io/blog/2026/08/20/spring-boot-4-0-8-available-now",
+      "title": "Spring Boot 4.0.8 available now",
+      "url": "https://spring.io/blog/2026/08/20/spring-boot-4-0-8-available-now",
       "publishedAt": "2026-08-20T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
@@ -162,9 +239,9 @@
       "tags": []
     },
     {
-      "id": "https://spring.io/blog/2026/08/20/spring-boot-4-0-8-available-now",
-      "title": "Spring Boot 4.0.8 available now",
-      "url": "https://spring.io/blog/2026/08/20/spring-boot-4-0-8-available-now",
+      "id": "https://spring.io/blog/2026/08/20/spring-batch-6-0-5-and-6-1-0-M1-available-now",
+      "title": "Spring Batch 6.0.5 and 6.1.0-M1 available now",
+      "url": "https://spring.io/blog/2026/08/20/spring-batch-6-0-5-and-6-1-0-M1-available-now",
       "publishedAt": "2026-08-20T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
@@ -206,17 +283,6 @@
       "tags": []
     },
     {
-      "id": "tag:github.com,2008:Repository/24195339/v20.3.29",
-      "title": "20.3.29",
-      "url": "https://github.com/angular/angular/releases/tag/v20.3.29",
-      "publishedAt": "2026-08-19T19:59:42.000Z",
-      "summary": "platform-browser Commit Description disallow event handler attributes in Meta",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
       "id": "tag:github.com,2008:Repository/24195339/v21.2.21",
       "title": "21.2.21",
       "url": "https://github.com/angular/angular/releases/tag/v21.2.21",
@@ -252,72 +318,6 @@
         "angular",
         "angular-weekly"
       ]
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v22.1.2",
-      "title": "22.1.2",
-      "url": "https://github.com/angular/angular/releases/tag/v22.1.2",
-      "publishedAt": "2026-08-13T18:57:29.000Z",
-      "summary": "compiler Commit Description Generate correct expression for optional chaning. remove namespaced MathML script elements compiler-cli Commit Description correctly resolve symbol for SafePropertyRead in chained optional navigation record class extends clause references in DeferredSymbolTracker core Commit Description ensu",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v22.2.0-next.2",
-      "title": "22.2.0-next.2",
-      "url": "https://github.com/angular/angular/releases/tag/v22.2.0-next.2",
-      "publishedAt": "2026-08-13T18:46:33.000Z",
-      "summary": "compiler Commit Description do not encapsulate nested selectors if parent contains ::ng-deep Generate correct expression for optional chaning. remove namespaced MathML script elements scope nested CSS rules compiler-cli Commit Description correctly resolve symbol for SafePropertyRead in chained optional navigation reco",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v22.2.0-next.3",
-      "title": "22.2.0-next.3",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v22.2.0-next.3",
-      "publishedAt": "2026-08-13T17:36:27.000Z",
-      "summary": "@schematics/angular Commit Description generate CLAUDE.md for Claude Code instead of AGENTS.md import UrlSegment instead of subPath in guard generator @angular/cli Commit Description disable searching current directory for bare executable names on Windows serialize configuration as a single argv token in run_target str",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v22.1.4",
-      "title": "22.1.4",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v22.1.4",
-      "publishedAt": "2026-08-13T16:31:12.000Z",
-      "summary": "@schematics/angular Commit Description generate CLAUDE.md for Claude Code instead of AGENTS.md import UrlSegment instead of subPath in guard generator @angular/cli Commit Description disable searching current directory for bare executable names on Windows serialize configuration as a single argv token in run_target str",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v21.2.21",
-      "title": "21.2.21",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v21.2.21",
-      "publishedAt": "2026-08-12T21:24:56.000Z",
-      "summary": "@angular/cli Commit Description update dependency @modelcontextprotocol/sdk to v1.30.0 @angular/build Commit Description bump undici to 7.29.0",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v20.3.34",
-      "title": "20.3.34",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v20.3.34",
-      "publishedAt": "2026-08-12T18:32:48.000Z",
-      "summary": "@angular/cli Commit Description update dependency @modelcontextprotocol/sdk to v1.30.0 @angular-devkit/build-angular Commit Description bump undici to 7.29.0",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
     },
     {
       "id": "https://medium.com/p/ebc715561ca1",
