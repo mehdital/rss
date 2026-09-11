@@ -1,6 +1,127 @@
 {
-  "generatedAt": "2026-09-09T10:16:00.974Z",
+  "generatedAt": "2026-09-11T10:07:04.067Z",
   "items": [
+    {
+      "id": "tag:github.com,2008:Repository/24195339/vsix-22.1.1",
+      "title": "vsix-22.1.1",
+      "url": "https://github.com/angular/angular/releases/tag/vsix-22.1.1",
+      "publishedAt": "2026-09-10T18:37:30.000Z",
+      "summary": "release: bump VSCode extension version to 22.1.1 (#70666)",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v22.2.0-next.7",
+      "title": "22.2.0-next.7",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v22.2.0-next.7",
+      "publishedAt": "2026-09-10T15:20:02.000Z",
+      "summary": "@angular/build Commit Description add automatic corruption recovery in SQLite cache store avoid pure comment pattern in oxc transform default preloadInitial to false when serviceWorker is enabled disable root config extension for inline test project disable strictPort when port 0 is used in dev-server ensure parent dir",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v21.2.24",
+      "title": "21.2.24",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v21.2.24",
+      "publishedAt": "2026-09-10T15:15:46.000Z",
+      "summary": "@angular/build Commit Description update undici to 7.29.1",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v20.3.37",
+      "title": "20.3.37",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v20.3.37",
+      "publishedAt": "2026-09-10T15:11:47.000Z",
+      "summary": "@angular-devkit/build-angular Commit Description update undici to 7.29.1",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v22.1.8",
+      "title": "22.1.8",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v22.1.8",
+      "publishedAt": "2026-09-10T15:03:58.000Z",
+      "summary": "@angular/build Commit Description disable strictPort when port 0 is used in dev-server avoid full JSON parsing when updating sourcemap ignore list read rendered module length once per module in chunk optimizer (#34045)",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v22.2.0-next.7",
+      "title": "22.2.0-next.7",
+      "url": "https://github.com/angular/angular/releases/tag/v22.2.0-next.7",
+      "publishedAt": "2026-09-09T20:22:29.000Z",
+      "summary": "No user facing changes in this release",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v22.2.0-next.6",
+      "title": "22.2.0-next.6",
+      "url": "https://github.com/angular/angular/releases/tag/v22.2.0-next.6",
+      "publishedAt": "2026-09-09T20:16:08.000Z",
+      "summary": "compiler Commit Description namespace @property declarations compiler-cli Commit Description do not flag callable objects with zero parameters in uninvoked track function check core Commit Description add ErrorBoundary programmatic APIs (#70463) allow reading Injector from a view or content query apply SkipSelf to only",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v22.1.6",
+      "title": "22.1.6",
+      "url": "https://github.com/angular/angular/releases/tag/v22.1.6",
+      "publishedAt": "2026-09-09T20:10:26.000Z",
+      "summary": "compiler Commit Description namespace @property declarations compiler-cli Commit Description do not flag callable objects with zero parameters in uninvoked track function check core Commit Description apply SkipSelf to only the starting node in embedded views platform-server Commit Description avoid sourcemap corruptio",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v20.3.31",
+      "title": "20.3.31",
+      "url": "https://github.com/angular/angular/releases/tag/v20.3.31",
+      "publishedAt": "2026-09-09T20:00:13.000Z",
+      "summary": "platform-server Commit Description update domino to latest version",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v21.2.23",
+      "title": "21.2.23",
+      "url": "https://github.com/angular/angular/releases/tag/v21.2.23",
+      "publishedAt": "2026-09-09T19:52:44.000Z",
+      "summary": "platform-server Commit Description update domino to latest version",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "https://spring.io/blog/2026/09/09/spring-tools-5-4-0-released",
+      "title": "Spring Tools 5.4.0 released",
+      "url": "https://spring.io/blog/2026/09/09/spring-tools-5-4-0-released",
+      "publishedAt": "2026-09-09T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
     {
       "id": "tag:github.com,2008:Repository/24195339/v22.2.0-next.5",
       "title": "22.2.0-next.5",
@@ -112,39 +233,6 @@
       "tags": []
     },
     {
-      "id": "tag:github.com,2008:Repository/24195339/v22.1.4",
-      "title": "22.1.4",
-      "url": "https://github.com/angular/angular/releases/tag/v22.1.4",
-      "publishedAt": "2026-08-27T00:09:57.000Z",
-      "summary": "common Commit Description avoid prototype member collisions use locale NaN symbol in number formatting compiler Commit Description scope animations declared in minified nested rules compiler-cli Commit Description default template diagnostic related message source file to template Produce correct tcb expression for opt",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v21.2.22",
-      "title": "21.2.22",
-      "url": "https://github.com/angular/angular/releases/tag/v21.2.22",
-      "publishedAt": "2026-08-26T23:52:02.000Z",
-      "summary": "platform-server Commit Description avoid stripping unicode whitespace during url resolution update domino to latest version",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v20.3.30",
-      "title": "20.3.30",
-      "url": "https://github.com/angular/angular/releases/tag/v20.3.30",
-      "publishedAt": "2026-08-26T23:37:08.000Z",
-      "summary": "platform-server Commit Description avoid stripping unicode whitespace during url resolution update domino to latest version",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
       "id": "tag:github.com,2008:Repository/36891867/v22.2.0-next.5",
       "title": "22.2.0-next.5",
       "url": "https://github.com/angular/angular-cli/releases/tag/v22.2.0-next.5",
@@ -167,28 +255,6 @@
       "tags": []
     },
     {
-      "id": "tag:github.com,2008:Repository/36891867/v21.2.22",
-      "title": "21.2.22",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v21.2.22",
-      "publishedAt": "2026-08-26T07:44:49.000Z",
-      "summary": "@angular-devkit/build-angular Commit Description update webpack-dev-server to 5.2.6",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v20.3.35",
-      "title": "20.3.35",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v20.3.35",
-      "publishedAt": "2026-08-26T07:39:39.000Z",
-      "summary": "@angular-devkit/build-angular Commit Description update webpack-dev-server to 5.2.6",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
       "id": "https://spring.io/blog/2026/08/26/spring-modulith-2-2-m1-2-1-1-2-0-8-and-1-4-13-released",
       "title": "Spring Modulith 2.2 M1, 2.1.1, 2.0.8, and 1.4.13 released",
       "url": "https://spring.io/blog/2026/08/26/spring-modulith-2-2-m1-2-1-1-2-0-8-and-1-4-13-released",
@@ -198,23 +264,6 @@
       "sourceName": "Spring Blog (Releases)",
       "tech": "Java",
       "tags": []
-    },
-    {
-      "id": "https://foojay.io/?p=125367",
-      "title": "Azul August 2026 Release: Java’s First Monthly CSPU",
-      "url": "https://foojay.io/today/azul-august-2026-release-javas-first-monthly-cspu/",
-      "publishedAt": "2026-08-21T07:48:46.000Z",
-      "summary": "If someone discloses a 0-day CVE the day after a quarterly update, you could wait up to three months for a patched build. That gap is closed now. The August 2026 release is the first monthly Critical Security Patch Update ... The post Azul August 2026 Release: Java’s First Monthly CSPU appeared first on foojay.",
-      "sourceId": "foojay-release-notes",
-      "sourceName": "Foojay (Release Notes)",
-      "tech": "Java",
-      "tags": [
-        "Java",
-        "Release Notes",
-        "azul",
-        "cspu",
-        "zulu"
-      ]
     },
     {
       "id": "https://spring.io/blog/2026/08/21/spring-ai-2-0-1-available-now",
@@ -236,72 +285,6 @@
       "sourceId": "spring-releases",
       "sourceName": "Spring Blog (Releases)",
       "tech": "Java",
-      "tags": []
-    },
-    {
-      "id": "https://spring.io/blog/2026/08/20/spring-boot-4-0-8-available-now",
-      "title": "Spring Boot 4.0.8 available now",
-      "url": "https://spring.io/blog/2026/08/20/spring-boot-4-0-8-available-now",
-      "publishedAt": "2026-08-20T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v22.2.0-next.4",
-      "title": "22.2.0-next.4",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v22.2.0-next.4",
-      "publishedAt": "2026-08-19T21:03:15.000Z",
-      "summary": "@schematics/angular Commit Description transform fail() to expect.fail() in refactor-jasmine-vitest @angular/cli Commit Description enforce MCP roots in get_best_practices tool handle errors from isAllowedWorkspacePath in best-practices tool throw on out-of-roots workspace in best-practices tool @angular/build Commit D",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v22.2.0-next.3",
-      "title": "22.2.0-next.3",
-      "url": "https://github.com/angular/angular/releases/tag/v22.2.0-next.3",
-      "publishedAt": "2026-08-19T20:18:48.000Z",
-      "summary": "animations Commit Description detect object trigger values with Object.hasOwn common Commit Description preserve literal key union in KeyValuePipe.transform() compiler Commit Description allow template to access private props preserve &ngsp; between sibling control flow blocks core Commit Description accept readonly ar",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v22.1.3",
-      "title": "22.1.3",
-      "url": "https://github.com/angular/angular/releases/tag/v22.1.3",
-      "publishedAt": "2026-08-19T20:10:39.000Z",
-      "summary": "animations Commit Description detect object trigger values with Object.hasOwn common Commit Description preserve literal key union in KeyValuePipe.transform() compiler Commit Description preserve &ngsp; between sibling control flow blocks core Commit Description accept readonly arrays for setClassMetadata decorators al",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v21.2.21",
-      "title": "21.2.21",
-      "url": "https://github.com/angular/angular/releases/tag/v21.2.21",
-      "publishedAt": "2026-08-19T19:52:49.000Z",
-      "summary": "platform-browser Commit Description disallow event handler attributes in Meta",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v22.1.5",
-      "title": "22.1.5",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v22.1.5",
-      "publishedAt": "2026-08-19T19:37:33.000Z",
-      "summary": "@schematics/angular Commit Description transform fail() to expect.fail() in refactor-jasmine-vitest @angular/cli Commit Description enforce MCP roots in get_best_practices tool handle errors from isAllowedWorkspacePath in best-practices tool throw on out-of-roots workspace in best-practices tool @angular/build Commit D",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
       "tags": []
     },
     {
@@ -333,79 +316,6 @@
       ]
     },
     {
-      "id": "https://foojay.io/?p=125054",
-      "title": "Introducing Sheetmusic4J, a Java(FX) Library to Render and Interact with Sheet Music",
-      "url": "https://foojay.io/today/introducing-sheetmusic4j-a-javafx-library-to-render-and-interact-with-sheet-music/",
-      "publishedAt": "2026-07-30T07:28:00.000Z",
-      "summary": "I'm building MelodyMatrix with my son, an application to look at and play along with music. The app already shows a song in different views: falling blocks, chords, guitar views, and many more. Now we want a Learn section, a ... The post Introducing Sheetmusic4J, a Java(FX) Library to Render and Interact with Sheet Mus",
-      "sourceId": "foojay-release-notes",
-      "sourceName": "Foojay (Release Notes)",
-      "tech": "Java",
-      "tags": [
-        "JavaFX",
-        "Release Notes",
-        "lottie4j",
-        "melodymatrix",
-        "music"
-      ]
-    },
-    {
-      "id": "https://foojay.io/?p=125017",
-      "title": "New Between-Quarters Security Updates for Java: What CSPUs Mean for Your Release Pipeline",
-      "url": "https://foojay.io/today/new-between-quarters-security-updates-for-java-what-cspus-mean-for-your-release-pipeline/",
-      "publishedAt": "2026-07-27T07:31:11.000Z",
-      "summary": "In an announcement on the OpenJDK Updates Mailinglist on July 20, 2026, Rob McKenna explained a change in the Oracle security release cycle for JDK builds. They plan to deliver security updates for the Oracle JDK as part of (some) ... The post New Between-Quarters Security Updates for Java: What CSPUs Mean for Your Rel",
-      "sourceId": "foojay-release-notes",
-      "sourceName": "Foojay (Release Notes)",
-      "tech": "Java",
-      "tags": [
-        "Java",
-        "Java Core",
-        "Release Notes",
-        "azul",
-        "oracle",
-        "prime",
-        "zulu"
-      ]
-    },
-    {
-      "id": "https://foojay.io/?p=125001",
-      "title": "Azul Zulu July 2026 Quarterly Update Released",
-      "url": "https://foojay.io/today/azul-zulu-july-2026-quarterly-update-released/",
-      "publishedAt": "2026-07-23T12:35:26.000Z",
-      "summary": "Every three months your production JDKs fall further behind on security patches. Azul closes that gap today with the July 2026 quarterly update for Azul Zulu Builds of OpenJDK, covering Java 26, 25, 21, 17, 11, 8, 7, and 6. ... The post Azul Zulu July 2026 Quarterly Update Released appeared first on foojay.",
-      "sourceId": "foojay-release-notes",
-      "sourceName": "Foojay (Release Notes)",
-      "tech": "Java",
-      "tags": [
-        "Java",
-        "Java Core",
-        "Release Notes",
-        "azul",
-        "cve",
-        "zulu"
-      ]
-    },
-    {
-      "id": "https://foojay.io/?p=125027",
-      "title": "What’s New In The July 2026 Azul Payara Release?",
-      "url": "https://foojay.io/today/whats-new-in-the-july-2026-azul-payara-release/",
-      "publishedAt": "2026-07-23T10:28:58.000Z",
-      "summary": "The July 2026 release brings Azul Payara 7.2.0, Azul Payara Community 7.2026.7, Azul Payara 6.40.0, Azul Payara 5.89.0, and Azul Payara 4.1.2.191.57. A single security fix runs through every release, backported from the 7 line down to Payara 4: brute ... The post What’s New In The July 2026 Azul Payara Release? appeare",
-      "sourceId": "foojay-release-notes",
-      "sourceName": "Foojay (Release Notes)",
-      "tech": "Java",
-      "tags": [
-        "Jakarta EE",
-        "Payara",
-        "Release Notes",
-        "Java",
-        "Microservices",
-        "Payara Micro",
-        "Payara Server"
-      ]
-    },
-    {
       "id": "https://medium.com/p/05440da623ad",
       "title": "Reactive Flows, AI Agents, and State Events: This Week’s Angular Masterclass! ⚡",
       "url": "https://blog.angular.dev/angular-weekly-july-17-2026-05440da623ad?source=rss----447683c3d9a3---4",
@@ -417,54 +327,6 @@
       "tags": [
         "angular-weekly",
         "angular"
-      ]
-    },
-    {
-      "id": "https://foojay.io/?p=124944",
-      "title": "BoxLang 1.15.0 Released: Blazing Fast Strings, Runtime Portability, and much more",
-      "url": "https://foojay.io/today/boxlang-1-15-0-released-blazing-fast-strings-runtime-portability-and-much-more/",
-      "publishedAt": "2026-07-14T17:57:10.000Z",
-      "summary": "BoxLang 1.15.0 is a high-impact release with two big headlines and a long tail of hardening. The first headline is a massive performance upgrade to string handling: a new first-class BoxStringBuilder type, compile-time literal folding, smarter &= semantics, and a ... The post BoxLang 1.15.0 Released: Blazing Fast Strin",
-      "sourceId": "foojay-release-notes",
-      "sourceName": "Foojay (Release Notes)",
-      "tech": "Java",
-      "tags": [
-        "BoxLang",
-        "Cloud",
-        "Developer Tools",
-        "DevOps",
-        "Java",
-        "Java Core",
-        "Performance",
-        "Release Notes",
-        "Tools",
-        "Android",
-        "BoxLang 1.15.0",
-        "BoxStringBuilder"
-      ]
-    },
-    {
-      "id": "https://foojay.io/?p=124852",
-      "title": "BoxLang 1.14.0 : Sets, Ranges, Inner Classes, and a Runtime That Talks Back",
-      "url": "https://foojay.io/today/boxlang-1-14-0-sets-ranges-inner-classes-and-a-runtime-that-talks-back/",
-      "publishedAt": "2026-07-09T18:02:59.000Z",
-      "summary": "BoxLang has never stood still, but 1.14.0 is something different. This is the release where the language stops filling gaps and starts defining what a modern dynamic JVM language looks like on its own terms. Sixty-five issues closed. Four innovative ... The post BoxLang 1.14.0 : Sets, Ranges, Inner Classes, and a Runti",
-      "sourceId": "foojay-release-notes",
-      "sourceName": "Foojay (Release Notes)",
-      "tech": "Java",
-      "tags": [
-        "BoxLang",
-        "Developer Tools",
-        "Java",
-        "Release Notes",
-        "BoxSet",
-        "Data Structures",
-        "Developer tools",
-        "inner classes",
-        "JVM",
-        "language features",
-        "modernization",
-        "Object-Oriented Programming"
       ]
     },
     {
@@ -496,25 +358,6 @@
         "genuis",
         "angular",
         "a2a"
-      ]
-    },
-    {
-      "id": "https://foojay.io/?p=124368",
-      "title": "What’s New In The June 2026 Azul Payara Release?",
-      "url": "https://foojay.io/today/whats-new-in-the-june-2026-azul-payara-release/",
-      "publishedAt": "2026-06-24T11:28:52.000Z",
-      "summary": "The June 2026 cycle ships the first regular monthly release of the Payara 7 line, plus a critical security fix that lands across every supported branch. Azul Payara 7.1.0 continues the Jakarta EE 11 line that went generally available in ... The post What’s New In The June 2026 Azul Payara Release? appeared first on foo",
-      "sourceId": "foojay-release-notes",
-      "sourceName": "Foojay (Release Notes)",
-      "tech": "Java",
-      "tags": [
-        "Jakarta EE",
-        "Java",
-        "Microservices",
-        "Payara",
-        "Release Notes",
-        "Uncategorized",
-        "Pauara Server"
       ]
     },
     {
@@ -560,48 +403,6 @@
         "angular-release",
         "angular",
         "angular-v22"
-      ]
-    },
-    {
-      "id": "https://foojay.io/?p=123809",
-      "title": "BoxLang v1.13.0: Compatibility, Concurrency, and Formatter Maturity",
-      "url": "https://foojay.io/today/boxlang-v1-13-0-compatibility-concurrency-and-formatter-maturity/",
-      "publishedAt": "2026-05-19T12:11:19.000Z",
-      "summary": "BoxLang 1.13.0 is a stability-first release with deep compatibility work and runtime hardening. This build closes 48 issues, with the majority focused on CFML compatibility edge cases, concurrency correctness, formatting parity, and miniserver/runtime reliability under real production loads. While this ... The post Box",
-      "sourceId": "foojay-release-notes",
-      "sourceName": "Foojay (Release Notes)",
-      "tech": "Java",
-      "tags": [
-        "BoxLang",
-        "Developer Tools",
-        "DevOps",
-        "Java",
-        "Performance",
-        "Release Notes",
-        "Security",
-        "Adobe ColdFusion",
-        "async",
-        "BoxFuture",
-        "BoxLang 1.13.0",
-        "CFML"
-      ]
-    },
-    {
-      "id": "https://foojay.io/?p=123788",
-      "title": "Azul Payara May 2026 Release – What’s New",
-      "url": "https://foojay.io/today/whats-new-in-the-may-2026-azul-payara-release/",
-      "publishedAt": "2026-05-14T11:40:02.000Z",
-      "summary": "The May 2026 release is the largest Payara milestone since the project's inception. Azul Payara Server 7 and Azul Payara Micro 7 ship as generally available, both certified against Jakarta EE 11. This is the first major Payara product release ... The post Azul Payara May 2026 Release – What’s New appeared first on fooj",
-      "sourceId": "foojay-release-notes",
-      "sourceName": "Foojay (Release Notes)",
-      "tech": "Java",
-      "tags": [
-        "Jakarta EE",
-        "Payara",
-        "Release Notes",
-        "Uncategorized",
-        "Jakarta EE 11",
-        "Payara 7"
       ]
     }
   ]
