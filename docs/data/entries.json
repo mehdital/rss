@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-09-15T10:35:42.379Z",
+  "generatedAt": "2026-09-17T10:33:40.934Z",
   "items": [
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v22.2.0-rc.0",
+      "title": "22.2.0-rc.0",
+      "url": "https://github.com/angular/angular/releases/tag/v22.2.0-rc.0",
+      "publishedAt": "2026-09-16T19:09:42.000Z",
+      "summary": "compiler Commit Description wrap @for collection expression before appending non-null assertion compiler-cli Commit Description add strictUnclaimedEventNames option to catch misspelled output bindings core Commit Description return null when getDirectiveMetadata is called with null or undefined update FakeNavigation to",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v22.1.7",
+      "title": "22.1.7",
+      "url": "https://github.com/angular/angular/releases/tag/v22.1.7",
+      "publishedAt": "2026-09-16T18:59:33.000Z",
+      "summary": "compiler Commit Description wrap @for collection expression before appending non-null assertion core Commit Description return null when getDirectiveMetadata is called with null or undefined forms Commit Description mark control as dirty before setting its value in FVC interop",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v22.2.0-rc.0",
+      "title": "22.2.0-rc.0",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v22.2.0-rc.0",
+      "publishedAt": "2026-09-16T12:03:51.000Z",
+      "summary": "@angular/cli Commit Description skip eager yargs help message formatting during command execution @angular/build Commit Description include inline component stylesheets in referenced watch files pass load cache to compiler plugin and escape extension regex in polyfills prevent stale bundler caching and correctly resolv",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
     {
       "id": "tag:github.com,2008:Repository/24195339/vsix-22.1.1",
       "title": "vsix-22.1.1",
@@ -156,17 +189,6 @@
       "tags": []
     },
     {
-      "id": "tag:github.com,2008:Repository/24195339/zone.js-0.16.3",
-      "title": "zone.js-0.16.3",
-      "url": "https://github.com/angular/angular/releases/tag/zone.js-0.16.3",
-      "publishedAt": "2026-09-02T21:19:15.000Z",
-      "summary": "release: cut the zone.js-0.16.3 release",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
       "id": "tag:github.com,2008:Repository/36891867/v22.1.7",
       "title": "22.1.7",
       "url": "https://github.com/angular/angular-cli/releases/tag/v22.1.7",
@@ -222,33 +244,11 @@
       "tags": []
     },
     {
-      "id": "tag:github.com,2008:Repository/24195339/v22.2.0-next.4",
-      "title": "22.2.0-next.4",
-      "url": "https://github.com/angular/angular/releases/tag/v22.2.0-next.4",
-      "publishedAt": "2026-08-27T00:16:52.000Z",
-      "summary": "common Commit Description avoid prototype member collisions use locale NaN symbol in number formatting compiler Commit Description scope animations declared in minified nested rules compiler-cli Commit Description scope type-checking of keyed defer blocks deduplicate deferred imports across multiple blocks default temp",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
       "id": "tag:github.com,2008:Repository/36891867/v22.2.0-next.5",
       "title": "22.2.0-next.5",
       "url": "https://github.com/angular/angular-cli/releases/tag/v22.2.0-next.5",
       "publishedAt": "2026-08-26T07:52:42.000Z",
       "summary": "@angular/build Commit Description ignore side-effect annotations in unit test builds prevent memory leaks in parallel compilation and caches batch prerender routes and share in-memory server bundles consolidate component stylesheet bundling with shared load result cache implement SharedArrayBuffer translation dictionar",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v22.1.6",
-      "title": "22.1.6",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v22.1.6",
-      "publishedAt": "2026-08-26T07:49:12.000Z",
-      "summary": "@angular/build Commit Description ignore side-effect annotations in unit test builds batch prerender routes and share in-memory server bundles @angular/ssr Commit Description abort web request signal when node request is aborted",
       "sourceId": "angular-cli-releases",
       "sourceName": "Angular CLI (GitHub Releases)",
       "tech": "Angular",
