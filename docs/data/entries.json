@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T11:17:01.341Z",
+  "generatedAt": "2026-09-23T10:23:14.700Z",
   "items": [
     {
       "id": "tag:github.com,2008:Repository/24195339/v22.2.0-rc.0",
@@ -145,6 +145,17 @@
       "tags": []
     },
     {
+      "id": "https://foojay.io/today/one-base-url-many-coding-agents-what-an-openai-compatible-gateway-looks-like-from-java-net-http/",
+      "title": "One Base URL, Many Coding Agents: What an OpenAI-Compatible Gateway Looks Like From java.net.http",
+      "url": "https://foojay.io/today/one-base-url-many-coding-agents-what-an-openai-compatible-gateway-looks-like-from-java-net-http/",
+      "publishedAt": "2026-09-09T16:09:53.000Z",
+      "summary": "Somewhere in every coding agent there is an HTTP client. Claude Code, Codex, Cursor, Cline, OpenCode: strip away the terminal UI or the editor pane and each of them serializes a conversation into JSON, POSTs it to a base URL with an API key in a header, and streams the answer back. The client owns the prompt assembly, ",
+      "sourceId": "foojay-release-notes",
+      "sourceName": "Foojay (Release Notes)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
       "id": "https://spring.io/blog/2026/09/09/spring-tools-5-4-0-released",
       "title": "Spring Tools 5.4.0 released",
       "url": "https://spring.io/blog/2026/09/09/spring-tools-5-4-0-released",
@@ -266,6 +277,28 @@
       "tags": []
     },
     {
+      "id": "https://foojay.io/today/boxlang-1-16-0-released/",
+      "title": "BoxLang 1.16.0 Released!",
+      "url": "https://foojay.io/today/boxlang-1-16-0-released/",
+      "publishedAt": "2026-08-25T13:57:47.000Z",
+      "summary": "BoxLang 1.16.0 is here, closing 50 issues across new features, improvements, and bug fixes. The theme running through this release is control: control over how HTTP clients are created and reused, control over what happens when a request fails, control over how much data a response is allowed to buffer, control over wh",
+      "sourceId": "foojay-release-notes",
+      "sourceName": "Foojay (Release Notes)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "https://foojay.io/today/azul-august-2026-release-javas-first-monthly-cspu/",
+      "title": "Azul August 2026 Release: Java's First Monthly CSPU",
+      "url": "https://foojay.io/today/azul-august-2026-release-javas-first-monthly-cspu/",
+      "publishedAt": "2026-08-21T07:48:46.000Z",
+      "summary": "If someone discloses a 0-day CVE the day after a quarterly update, you could wait up to three months for a patched build. That gap is closed now. The August 2026 release is the first monthly Critical Security Patch Update (CSPU) in Java’s history, and Azul shipped it on schedule across both its product lines. Core (Zul",
+      "sourceId": "foojay-release-notes",
+      "sourceName": "Foojay (Release Notes)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
       "id": "https://spring.io/blog/2026/08/21/spring-ai-2-0-1-available-now",
       "title": "Spring AI 2.0.1 Available Now",
       "url": "https://spring.io/blog/2026/08/21/spring-ai-2-0-1-available-now",
@@ -316,6 +349,50 @@
       ]
     },
     {
+      "id": "https://foojay.io/today/introducing-sheetmusic4j-a-javafx-library-to-render-and-interact-with-sheet-music/",
+      "title": "Introducing Sheetmusic4J, a Java(FX) Library to Render and Interact with Sheet Music",
+      "url": "https://foojay.io/today/introducing-sheetmusic4j-a-javafx-library-to-render-and-interact-with-sheet-music/",
+      "publishedAt": "2026-07-30T07:28:00.000Z",
+      "summary": "I’m building MelodyMatrix with my son, an application to look at and play along with music. The app already shows a song in different views: falling blocks, chords, guitar views, and many more. Now we want a Learn section, a view that helps someone practice piano by following the actual sheet music while it plays. A st",
+      "sourceId": "foojay-release-notes",
+      "sourceName": "Foojay (Release Notes)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "https://foojay.io/today/new-between-quarters-security-updates-for-java-what-cspus-mean-for-your-release-pipeline/",
+      "title": "New Between-Quarters Security Updates for Java: What CSPUs Mean for Your Release Pipeline",
+      "url": "https://foojay.io/today/new-between-quarters-security-updates-for-java-what-cspus-mean-for-your-release-pipeline/",
+      "publishedAt": "2026-07-27T07:31:11.000Z",
+      "summary": "In an announcement on the OpenJDK Updates Mailinglist on July 20, 2026, Rob McKenna explained a change in the Oracle security release cycle for JDK builds. They plan to deliver security updates for the Oracle JDK as part of (some) monthly Critical Security Patch Updates (CSPUs) . This brings more exact info, after an e",
+      "sourceId": "foojay-release-notes",
+      "sourceName": "Foojay (Release Notes)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "https://foojay.io/today/azul-zulu-july-2026-quarterly-update-released/",
+      "title": "Azul Zulu July 2026 Quarterly Update Released",
+      "url": "https://foojay.io/today/azul-zulu-july-2026-quarterly-update-released/",
+      "publishedAt": "2026-07-23T12:35:26.000Z",
+      "summary": "Every three months your production JDKs fall further behind on security patches. Azul closes that gap today with the July 2026 quarterly update for Azul Zulu Builds of OpenJDK, covering Java 26, 25, 21, 17, 11, 8, 7, and 6. The Quarterly Update Cycle Every three months, in January, April, July, and October, the OpenJDK",
+      "sourceId": "foojay-release-notes",
+      "sourceName": "Foojay (Release Notes)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "https://foojay.io/today/whats-new-in-the-july-2026-azul-payara-release/",
+      "title": "What's New In The July 2026 Azul Payara Release?",
+      "url": "https://foojay.io/today/whats-new-in-the-july-2026-azul-payara-release/",
+      "publishedAt": "2026-07-23T10:28:58.000Z",
+      "summary": "The July 2026 release brings Azul Payara 7.2.0, Azul Payara Community 7.2026.7, Azul Payara 6.40.0, Azul Payara 5.89.0, and Azul Payara 4.1.2.191.57. A single security fix runs through every release, backported from the 7 line down to Payara 4: brute force attack prevention for authentication. Enterprise 6.40.0 additio",
+      "sourceId": "foojay-release-notes",
+      "sourceName": "Foojay (Release Notes)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
       "id": "https://medium.com/p/05440da623ad",
       "title": "Reactive Flows, AI Agents, and State Events: This Week’s Angular Masterclass! ⚡",
       "url": "https://blog.angular.dev/angular-weekly-july-17-2026-05440da623ad?source=rss----447683c3d9a3---4",
@@ -328,6 +405,28 @@
         "angular-weekly",
         "angular"
       ]
+    },
+    {
+      "id": "https://foojay.io/today/boxlang-1-15-0-released-blazing-fast-strings-runtime-portability-and-much-more/",
+      "title": "BoxLang 1.15.0 Released: Blazing Fast Strings, Runtime Portability, and much more",
+      "url": "https://foojay.io/today/boxlang-1-15-0-released-blazing-fast-strings-runtime-portability-and-much-more/",
+      "publishedAt": "2026-07-14T17:57:10.000Z",
+      "summary": "BoxLang 1.15.0 is a high-impact release with two big headlines and a long tail of hardening. The first headline is a massive performance upgrade to string handling : a new first-class BoxStringBuilder type, compile-time literal folding, smarter &= semantics, and a runtime concat strategy that automatically switches to ",
+      "sourceId": "foojay-release-notes",
+      "sourceName": "Foojay (Release Notes)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "https://foojay.io/today/boxlang-1-14-0-sets-ranges-inner-classes-and-a-runtime-that-talks-back/",
+      "title": "BoxLang 1.14.0: Sets, Ranges, Inner Classes, and a Runtime That Talks Back",
+      "url": "https://foojay.io/today/boxlang-1-14-0-sets-ranges-inner-classes-and-a-runtime-that-talks-back/",
+      "publishedAt": "2026-07-09T18:02:59.000Z",
+      "summary": "BoxLang has never stood still, but 1.14.0 is something different. This is the release where the language stops filling gaps and starts defining what a modern dynamic JVM language looks like on its own terms. Sixty-five issues closed. Four innovative language features. A formatter that has grown up. And a companion modu",
+      "sourceId": "foojay-release-notes",
+      "sourceName": "Foojay (Release Notes)",
+      "tech": "Java",
+      "tags": []
     },
     {
       "id": "https://medium.com/p/15c768142043",
@@ -359,6 +458,17 @@
         "angular",
         "a2a"
       ]
+    },
+    {
+      "id": "https://foojay.io/today/whats-new-in-the-june-2026-azul-payara-release/",
+      "title": "What's New In The June 2026 Azul Payara Release?",
+      "url": "https://foojay.io/today/whats-new-in-the-june-2026-azul-payara-release/",
+      "publishedAt": "2026-06-24T11:28:52.000Z",
+      "summary": "The June 2026 cycle ships the first regular monthly release of the Payara 7 line, plus a critical security fix that lands across every supported branch. Azul Payara 7.1.0 continues the Jakarta EE 11 line that went generally available in May, and is joined by Azul Payara Community 7.2026.6, Azul Payara 6.39.0, Azul Paya",
+      "sourceId": "foojay-release-notes",
+      "sourceName": "Foojay (Release Notes)",
+      "tech": "Java",
+      "tags": []
     },
     {
       "id": "https://medium.com/p/25842ff36020",
@@ -404,6 +514,226 @@
         "angular",
         "angular-v22"
       ]
+    },
+    {
+      "id": "https://foojay.io/today/boxlang-v1-13-0-compatibility-concurrency-and-formatter-maturity/",
+      "title": "BoxLang v1.13.0: Compatibility, Concurrency, and Formatter Maturity",
+      "url": "https://foojay.io/today/boxlang-v1-13-0-compatibility-concurrency-and-formatter-maturity/",
+      "publishedAt": "2026-05-19T12:11:19.000Z",
+      "summary": "BoxLang 1.13.0 is a stability-first release with deep compatibility work and runtime hardening. This build closes 48 issues, with the majority focused on CFML compatibility edge cases, concurrency correctness, formatting parity, and miniserver/runtime reliability under real production loads. While this release is bug-f",
+      "sourceId": "foojay-release-notes",
+      "sourceName": "Foojay (Release Notes)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "https://foojay.io/today/whats-new-in-the-may-2026-azul-payara-release/",
+      "title": "What's New in the May 2026 Payara Platform Release | Azul",
+      "url": "https://foojay.io/today/whats-new-in-the-may-2026-azul-payara-release/",
+      "publishedAt": "2026-05-14T11:40:02.000Z",
+      "summary": "The May 2026 release is the largest Payara milestone since the project’s inception. Azul Payara Server 7 and Azul Payara Micro 7 ship as generally available, both certified against Jakarta EE 11. This is the first major Payara product release under the Azul brand, arriving six months after Azul completed its acquisitio",
+      "sourceId": "foojay-release-notes",
+      "sourceName": "Foojay (Release Notes)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "https://foojay.io/today/azul-zulu-april-2026-quarterly-update-released/",
+      "title": "Azul Zulu April 2026 Quarterly Update Released",
+      "url": "https://foojay.io/today/azul-zulu-april-2026-quarterly-update-released/",
+      "publishedAt": "2026-04-23T07:12:29.000Z",
+      "summary": "The April 2026 quarterly update for Azul Zulu Builds of OpenJDK is now available. This quarterly release brings security and bug fixes, along with a few notable new changes, to all currently supported Java versions. The Quarterly Update Cycle Every three months (in January, April, July, and October), the OpenJDK projec",
+      "sourceId": "foojay-release-notes",
+      "sourceName": "Foojay (Release Notes)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "https://foojay.io/today/boxlang-1-11-0-release/",
+      "title": "BoxLang 1.11.0 Release",
+      "url": "https://foojay.io/today/boxlang-1-11-0-release/",
+      "publishedAt": "2026-03-17T09:40:04.000Z",
+      "summary": "We’re proud to announce BoxLang 1.11.0, a highly focused performance and stability release that delivers measurable speed improvements across every BoxLang application, with zero code changes required. The team invested deeply in bytecode generation, class loading, lock management, and type casting to produce one of th",
+      "sourceId": "foojay-release-notes",
+      "sourceName": "Foojay (Release Notes)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "https://foojay.io/today/boxlang-homebrew-installer-released/",
+      "title": "BoxLang Homebrew Installer Released",
+      "url": "https://foojay.io/today/boxlang-homebrew-installer-released/",
+      "publishedAt": "2026-03-03T12:34:03.000Z",
+      "summary": "We’re excited to announce the official BoxLang Homebrew tap — the easiest way to get BoxLang up and running on macOS (and Linux with Homebrew). One command, and you’re in business. Getting Started First, make sure you have Homebrew installed, then add our tap: brew tap ortus-boxlang/boxlang From there, choose your inst",
+      "sourceId": "foojay-release-notes",
+      "sourceName": "Foojay (Release Notes)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "https://foojay.io/today/java-26-whats-new/",
+      "title": "Java 26: What’s New?",
+      "url": "https://foojay.io/today/java-26-whats-new/",
+      "publishedAt": "2026-03-03T10:00:28.000Z",
+      "summary": "This article was first published in my personal blog: Java 26: What’s new? and is part of a serie on what’s new on the last versions of Java). Now that Java 26 is features complete (Rampdown Phase Two at the day of writing), it’s time to walk through all the functionalities that bring to us, developers, this new versio",
+      "sourceId": "foojay-release-notes",
+      "sourceName": "Foojay (Release Notes)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "https://foojay.io/today/announcing-cloud-native-boxlang-for-5-month/",
+      "title": "Announcing Cloud-Native BoxLang for $5/Month",
+      "url": "https://foojay.io/today/announcing-cloud-native-boxlang-for-5-month/",
+      "publishedAt": "2026-02-23T16:39:44.000Z",
+      "summary": "TL;DR: We just released a production-ready starter template that deploys a modern BoxLang application to DigitalOcean App Platform in under 5 minutes—starting at just $5/month. One-click deployment, auto-scaling, automatic redeployments, and zero downtime included. Cloud-Native BoxLang Has Never Been Easier Today, we’r",
+      "sourceId": "foojay-release-notes",
+      "sourceName": "Foojay (Release Notes)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "https://foojay.io/today/glassfish-8-is-here-with-jakarta-ee-11-virtual-threads-and-jakarta-data/",
+      "title": "GlassFish 8 is here with Jakarta EE 11, virtual threads, and Jakarta Data",
+      "url": "https://foojay.io/today/glassfish-8-is-here-with-jakarta-ee-11-virtual-threads-and-jakarta-data/",
+      "publishedAt": "2026-02-18T16:06:02.000Z",
+      "summary": "The final version of Eclipse GlassFish 8 is here, released on 5 February 2026. As a GlassFish committer, I’d like to share what it brings for the Java community and some behind-the-scenes stories from the development process Recently my company OmniFish published an announcement article introducing GlassFish 8.0.0 and ",
+      "sourceId": "foojay-release-notes",
+      "sourceName": "Foojay (Release Notes)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "https://foojay.io/today/openjdk-january-2026-critical-patch-update-and-patch-set-update-released/",
+      "title": "OpenJDK January 2026 Critical Patch Update and Patch Set Update Released",
+      "url": "https://foojay.io/today/openjdk-january-2026-critical-patch-update-and-patch-set-update-released/",
+      "publishedAt": "2026-01-21T08:32:01.000Z",
+      "summary": "The January 2026 OpenJDK quarterly updates are now (or will soon be) available from various OpenJDK distributors. This quarterly release brings important security fixes and updates to all currently supported Java versions. The Quarterly Update Cycle Every three months (in January, April, July, and October), the OpenJDK",
+      "sourceId": "foojay-release-notes",
+      "sourceName": "Foojay (Release Notes)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "https://foojay.io/today/boxlang-1-9-0-released-production-ready-stability-and-enterprise-grade-reliability/",
+      "title": "BoxLang Dynamic JVM Language Release 1.9.0",
+      "url": "https://foojay.io/today/boxlang-1-9-0-released-production-ready-stability-and-enterprise-grade-reliability/",
+      "publishedAt": "2026-01-12T11:16:19.000Z",
+      "summary": "Houston, Texas – January 2025 – Ortus Solutions, a leading innovator in professional open-source development, today announced the release of BoxLang 1.9.0, a major stability and compatibility release focused on production-readiness. This release resolves over 50 critical bugs and introduces significant enhancements to ",
+      "sourceId": "foojay-release-notes",
+      "sourceName": "Foojay (Release Notes)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "https://foojay.io/today/more-java-from-azul/",
+      "title": "More Java From Azul!",
+      "url": "https://foojay.io/today/more-java-from-azul/",
+      "publishedAt": "2025-12-10T17:14:23.000Z",
+      "summary": "Azul is a company focused purely on Java through builds of OpenJDK, in the form of Platform Core, and our high-performance Java platform (including JVM), Platform Prime. We build on these with Intelligence Cloud to deliver precise information about security vulnerabilities in running code, unused code and an inventory ",
+      "sourceId": "foojay-release-notes",
+      "sourceName": "Foojay (Release Notes)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "https://foojay.io/today/java-25-whats-new/",
+      "title": "Java 25: What's New?",
+      "url": "https://foojay.io/today/java-25-whats-new/",
+      "publishedAt": "2025-12-03T09:02:49.000Z",
+      "summary": "This article was first published in my personal blog: Java 25: What’s new? and is part of a serie on what’s new on the last versions of Java. Now that Java 25 is out, it’s time to walk through all the functionalities that bring to us, developers, this new version. Java 25 is the new Long-Term Support (LTS) version, con",
+      "sourceId": "foojay-release-notes",
+      "sourceName": "Foojay (Release Notes)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "https://foojay.io/today/boxlang-rss-full-featured-rss-atom-feed-module-for-boxlang/",
+      "title": "BoxLang RSS: Full-Featured RSS/Atom Feed Module for BoxLang",
+      "url": "https://foojay.io/today/boxlang-rss-full-featured-rss-atom-feed-module-for-boxlang/",
+      "publishedAt": "2025-12-02T11:19:11.000Z",
+      "summary": "We’re thrilled to announce the release of bx-rss, a comprehensive RSS and Atom feed module that brings powerful syndication capabilities to BoxLang! Whether you’re building a content aggregator, publishing a podcast, or exposing your application’s data as feeds, bx-rss makes it incredibly simple. Thanks To Ray Camden I",
+      "sourceId": "foojay-release-notes",
+      "sourceName": "Foojay (Release Notes)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "https://foojay.io/today/boxlang-redis-has-landed-enterprise-grade-caching-pub-sub-and-distributed-locking/",
+      "title": "BoxLang Redis Has Landed: Enterprise-Grade Caching, Pub/Sub, and Distributed Locking",
+      "url": "https://foojay.io/today/boxlang-redis-has-landed-enterprise-grade-caching-pub-sub-and-distributed-locking/",
+      "publishedAt": "2025-11-25T09:33:34.000Z",
+      "summary": "We’re thrilled to announce the release of the BoxLang Redis Module (bx-redis) - a powerful addition to BoxLang that brings enterprise-grade Redis functionality directly into your applications. Whether you’re building distributed systems, implementing real-time messaging, or need high-performance caching, this module ha",
+      "sourceId": "foojay-release-notes",
+      "sourceName": "Foojay (Release Notes)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "https://foojay.io/today/boxlang-1-7-0-delivers-streaming-distributed-caching-and-enhanced-jvm-performance/",
+      "title": "BoxLang 1.7 Released!",
+      "url": "https://foojay.io/today/boxlang-1-7-0-delivers-streaming-distributed-caching-and-enhanced-jvm-performance/",
+      "publishedAt": "2025-11-11T12:59:50.000Z",
+      "summary": "Dynamic JVM Language Adds Server-Sent Events, JDBC Cache Store, and AST Generation Capabilities Houston, TX – November 7, 2025 – Ortus Solutions announced the release of BoxLang 1.7.0, a major update to its modern dynamic language for the JVM that delivers enterprise-grade capabilities for building real-time, horizonta",
+      "sourceId": "foojay-release-notes",
+      "sourceName": "Foojay (Release Notes)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "https://foojay.io/today/boxlang-v1-6-0-performance-ai-powered-docs-and-advanced-async-monitoring-2/",
+      "title": "BoxLang v1.6.0 - Performance, AI-Powered Docs, and Advanced Async Monitoring",
+      "url": "https://foojay.io/today/boxlang-v1-6-0-performance-ai-powered-docs-and-advanced-async-monitoring-2/",
+      "publishedAt": "2025-10-29T06:48:07.000Z",
+      "summary": "We’re thrilled to announce BoxLang 1.6.0, a release that delivers massive performance improvements, intelligent developer tooling, and enhanced async capabilities. This release focuses on making BoxLang faster, smarter, and more observable than ever before. 🚀 What’s New in 1.6.0? 🤖 BoxLang Documentation Meets AI: MCP",
+      "sourceId": "foojay-release-notes",
+      "sourceName": "Foojay (Release Notes)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "https://foojay.io/today/azuls-high-performance-java-platform-achieves-historic-first-with-10000-customer-jvms-collaborating-and-sharing-performance-optimizations-cutting-cloud-costs-by-20/",
+      "title": "Azul’s High-Performance Java Platform Achieves Historic First",
+      "url": "https://foojay.io/today/azuls-high-performance-java-platform-achieves-historic-first-with-10000-customer-jvms-collaborating-and-sharing-performance-optimizations-cutting-cloud-costs-by-20/",
+      "publishedAt": "2025-09-17T16:49:56.000Z",
+      "summary": "Azul Platform Prime Achieves Historic First with 10,000+ JVMs Collaborating and Sharing Performance Optimizations, Cutting Cloud Costs by More than 20% Fleet-level advantages achieved for cloud-native Java applications with faster warm-up, smoother scaling and reduced cost SUNNYVALE, Calif. — September 17, 2025 — Azul,",
+      "sourceId": "foojay-release-notes",
+      "sourceName": "Foojay (Release Notes)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "https://foojay.io/today/azul-and-jetbrains-collaborate-to-enhance-runtime-performance-for-kotlin-workloads/",
+      "title": "Azul and JetBrains Collaborate to Enhance Runtime Performance for Kotlin Workloads",
+      "url": "https://foojay.io/today/azul-and-jetbrains-collaborate-to-enhance-runtime-performance-for-kotlin-workloads/",
+      "publishedAt": "2025-05-26T08:23:56.000Z",
+      "summary": "SUNNYVALE, Calif., — May 20, 2025 — Azul, the only company 100% focused on Java, and JetBrains, the leading provider of professional software development tools and creator of the Kotlin programming language, today announced a strategic technical collaboration to enhance the runtime performance and scalability of web an",
+      "sourceId": "foojay-release-notes",
+      "sourceName": "Foojay (Release Notes)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "https://foojay.io/today/java-24-rolls-out-today-find-out-why-its-aptly-named/",
+      "title": "Java 24 Rolls Out Today! Find Out Why It's Aptly Named",
+      "url": "https://foojay.io/today/java-24-rolls-out-today-find-out-why-its-aptly-named/",
+      "publishedAt": "2025-03-18T07:36:39.000Z",
+      "summary": "Java 24 rolls out today! It’s been six months since Java 23 was released, so it’s time for another helping of new features. And this particular release of Java is aptly named, because it contains exactly 24 JEPs. Coincidence? I think not. 🙂 Java 24 brings a diverse set of features, delivering performance improvements ",
+      "sourceId": "foojay-release-notes",
+      "sourceName": "Foojay (Release Notes)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "https://foojay.io/today/foojay-podcast-68/",
+      "title": "Foojay Podcast #68: Welcome to OpenJDK (Java) 24",
+      "url": "https://foojay.io/today/foojay-podcast-68/",
+      "publishedAt": "2025-03-17T06:44:08.000Z",
+      "summary": "We serve you a podcast about the new Java version every six months. Our regular guest, Simon Ritter, Deputy CTO of Azul, is known on social media as “speakjava.” He is part of the OpenJDK vulnerability group, JCP executive committee, and expert group for the Java SE specification request so that he can share a lot of i",
+      "sourceId": "foojay-release-notes",
+      "sourceName": "Foojay (Release Notes)",
+      "tech": "Java",
+      "tags": []
     }
   ]
 }
