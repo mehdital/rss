@@ -1,6 +1,157 @@
 {
-  "generatedAt": "2026-09-23T10:23:14.700Z",
+  "generatedAt": "2026-09-26T10:25:42.362Z",
   "items": [
+    {
+      "id": "tag:github.com,2008:Repository/24195339/vsix-22.2.0",
+      "title": "VSCode Extension: 22.2.0",
+      "url": "https://github.com/angular/angular/releases/tag/vsix-22.2.0",
+      "publishedAt": "2026-09-25T17:46:04.000Z",
+      "summary": "fix(vscode-extension): Support inlay hint in inline templates (c11920da48) fix(vscode-extension): provide folding ranges for templates with interpolated strings (5c927fba0d) fix(vscode-extension): handle template literals when detecting supported decorator fields (f2cf65a898) feat(language-service): add support for @bo",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "https://medium.com/p/826bc54ae3a9",
+      "title": "Architecting the Modern Web: Debounce APIs, Rendering Strategies, and Automated AI Setup! ⚡",
+      "url": "https://blog.angular.dev/architecting-the-modern-web-debounce-apis-rendering-strategies-and-automated-ai-setup-826bc54ae3a9?source=rss----447683c3d9a3---4",
+      "publishedAt": "2026-09-25T13:59:49.000Z",
+      "summary": "",
+      "sourceId": "angular-blog",
+      "sourceName": "Angular Blog",
+      "tech": "Angular",
+      "tags": [
+        "angular-weekly",
+        "angular-community-weekly",
+        "angular"
+      ]
+    },
+    {
+      "id": "https://medium.com/p/9619a35e2b0a",
+      "title": "An update on Angular’s TypeScript 7-powered Compiler",
+      "url": "https://blog.angular.dev/an-update-on-angulars-typescript-7-powered-compiler-9619a35e2b0a?source=rss----447683c3d9a3---4",
+      "publishedAt": "2026-09-25T13:59:11.000Z",
+      "summary": "",
+      "sourceId": "angular-blog",
+      "sourceName": "Angular Blog",
+      "tech": "Angular",
+      "tags": [
+        "angular",
+        "typescript-7",
+        "angular-compiler"
+      ]
+    },
+    {
+      "id": "https://spring.io/blog/2026/09/25/spring-ai-2-1-0-M1-available-now",
+      "title": "Spring AI 2.1.0-M1 Available Now",
+      "url": "https://spring.io/blog/2026/09/25/spring-ai-2-1-0-M1-available-now",
+      "publishedAt": "2026-09-25T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "https://spring.io/blog/2026/09/25/spring-boot-4-2-0-M2-available-now",
+      "title": "Spring Boot 4.2.0-M2 available now",
+      "url": "https://spring.io/blog/2026/09/25/spring-boot-4-2-0-M2-available-now",
+      "publishedAt": "2026-09-25T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "https://spring.io/blog/2026/09/24/spring-batch-6",
+      "title": "Spring Batch 6.1.0-M2 is out!",
+      "url": "https://spring.io/blog/2026/09/24/spring-batch-6",
+      "publishedAt": "2026-09-24T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "https://spring.io/blog/2026/09/24/spring-cloud-2026-0-0-M1-has-been-released",
+      "title": "Spring Cloud 2026.0.0-M1 (aka Paddington) Has Been Released",
+      "url": "https://spring.io/blog/2026/09/24/spring-cloud-2026-0-0-M1-has-been-released",
+      "publishedAt": "2026-09-24T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v22.2.0",
+      "title": "22.2.0",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v22.2.0",
+      "publishedAt": "2026-09-23T21:34:46.000Z",
+      "summary": "@angular/cli Commit Description add --root command line option to mcp command skip eager yargs help message formatting during command execution @angular/build Commit Description migrate Angular Linker to oxc-parser and magic-string Support splitting browser and server stats jsonfiles for easier consumption add automati",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v22.1.9",
+      "title": "22.1.9",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v22.1.9",
+      "publishedAt": "2026-09-23T21:04:15.000Z",
+      "summary": "@schematics/angular Commit Description update @types/node to a version vitest 5 accepts @angular-devkit/core Commit Description name the unknown option in a schema validation error @angular/build Commit Description support standard JavaScript MIME types and case insensitivity in auto-CSP",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v22.2.0",
+      "title": "22.2.0",
+      "url": "https://github.com/angular/angular/releases/tag/v22.2.0",
+      "publishedAt": "2026-09-23T17:53:03.000Z",
+      "summary": "compiler Commit Description allow template to access private props do not encapsulate nested selectors if parent contains ::ng-deep scope nested CSS rules compiler-cli Commit Description add strictUnclaimedEventNames option to catch misspelled output bindings scope type-checking of keyed defer blocks deduplicate deferr",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v21.2.24",
+      "title": "21.2.24",
+      "url": "https://github.com/angular/angular/releases/tag/v21.2.24",
+      "publishedAt": "2026-09-23T17:45:23.000Z",
+      "summary": "router Commit Description avoid dense elements allocation for numeric URL keys",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v20.3.32",
+      "title": "20.3.32",
+      "url": "https://github.com/angular/angular/releases/tag/v20.3.32",
+      "publishedAt": "2026-09-23T17:38:59.000Z",
+      "summary": "router Commit Description avoid dense elements allocation for numeric URL keys",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v22.1.8",
+      "title": "22.1.8",
+      "url": "https://github.com/angular/angular/releases/tag/v22.1.8",
+      "publishedAt": "2026-09-23T17:31:15.000Z",
+      "summary": "common Commit Description remove abort listener on the abort path too in httpResource compiler Commit Description add return type to pure functions avoid hitting TypeScript limits if template has many translations do not copy expression type into output AST variables guard unverified ctor parameter types in class metad",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
     {
       "id": "tag:github.com,2008:Repository/24195339/v22.2.0-rc.0",
       "title": "22.2.0-rc.0",
@@ -112,39 +263,6 @@
       "tags": []
     },
     {
-      "id": "tag:github.com,2008:Repository/24195339/v22.1.6",
-      "title": "22.1.6",
-      "url": "https://github.com/angular/angular/releases/tag/v22.1.6",
-      "publishedAt": "2026-09-09T20:10:26.000Z",
-      "summary": "compiler Commit Description namespace @property declarations compiler-cli Commit Description do not flag callable objects with zero parameters in uninvoked track function check core Commit Description apply SkipSelf to only the starting node in embedded views platform-server Commit Description avoid sourcemap corruptio",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v20.3.31",
-      "title": "20.3.31",
-      "url": "https://github.com/angular/angular/releases/tag/v20.3.31",
-      "publishedAt": "2026-09-09T20:00:13.000Z",
-      "summary": "platform-server Commit Description update domino to latest version",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v21.2.23",
-      "title": "21.2.23",
-      "url": "https://github.com/angular/angular/releases/tag/v21.2.23",
-      "publishedAt": "2026-09-09T19:52:44.000Z",
-      "summary": "platform-server Commit Description update domino to latest version",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
       "id": "https://foojay.io/today/one-base-url-many-coding-agents-what-an-openai-compatible-gateway-looks-like-from-java-net-http/",
       "title": "One Base URL, Many Coding Agents: What an OpenAI-Compatible Gateway Looks Like From java.net.http",
       "url": "https://foojay.io/today/one-base-url-many-coding-agents-what-an-openai-compatible-gateway-looks-like-from-java-net-http/",
@@ -153,39 +271,6 @@
       "sourceId": "foojay-release-notes",
       "sourceName": "Foojay (Release Notes)",
       "tech": "Java",
-      "tags": []
-    },
-    {
-      "id": "https://spring.io/blog/2026/09/09/spring-tools-5-4-0-released",
-      "title": "Spring Tools 5.4.0 released",
-      "url": "https://spring.io/blog/2026/09/09/spring-tools-5-4-0-released",
-      "publishedAt": "2026-09-09T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v22.2.0-next.5",
-      "title": "22.2.0-next.5",
-      "url": "https://github.com/angular/angular/releases/tag/v22.2.0-next.5",
-      "publishedAt": "2026-09-03T02:40:54.000Z",
-      "summary": "compiler-cli Commit Description check uninvoked signal aliases in extended diagnostic core Commit Description add utility for testing directives support annotations in WebMCP tool declarations cancel stale debounce timers to prevent timer leaks don't fail NgModule checks for a pipe that extends a base class validate SV",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v22.1.5",
-      "title": "22.1.5",
-      "url": "https://github.com/angular/angular/releases/tag/v22.1.5",
-      "publishedAt": "2026-09-03T02:35:12.000Z",
-      "summary": "compiler-cli Commit Description check uninvoked signal aliases in extended diagnostic core Commit Description cancel stale debounce timers to prevent timer leaks don't fail NgModule checks for a pipe that extends a base class validate SVG animation attributes outside the SVG namespace forms Commit Description avoid wri",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
       "tags": []
     },
     {
@@ -222,17 +307,6 @@
       "tags": []
     },
     {
-      "id": "tag:github.com,2008:Repository/36891867/v20.3.36",
-      "title": "20.3.36",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v20.3.36",
-      "publishedAt": "2026-09-02T19:28:15.000Z",
-      "summary": "@angular-devkit/build-angular Commit Description update less to 4.9.0 @angular/ssr Commit Description ensure public directory containment in CommonEngine",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
       "id": "https://medium.com/p/39ff8e0271a4",
       "title": "Customizing Angular Aria Tabs Quickly with Google Antigravity CLI",
       "url": "https://blog.angular.dev/customizing-angular-aria-tabs-quickly-with-google-antigravity-cli-39ff8e0271a4?source=rss----447683c3d9a3---4",
@@ -255,28 +329,6 @@
       "tags": []
     },
     {
-      "id": "tag:github.com,2008:Repository/36891867/v22.2.0-next.5",
-      "title": "22.2.0-next.5",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v22.2.0-next.5",
-      "publishedAt": "2026-08-26T07:52:42.000Z",
-      "summary": "@angular/build Commit Description ignore side-effect annotations in unit test builds prevent memory leaks in parallel compilation and caches batch prerender routes and share in-memory server bundles consolidate component stylesheet bundling with shared load result cache implement SharedArrayBuffer translation dictionar",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "https://spring.io/blog/2026/08/26/spring-modulith-2-2-m1-2-1-1-2-0-8-and-1-4-13-released",
-      "title": "Spring Modulith 2.2 M1, 2.1.1, 2.0.8, and 1.4.13 released",
-      "url": "https://spring.io/blog/2026/08/26/spring-modulith-2-2-m1-2-1-1-2-0-8-and-1-4-13-released",
-      "publishedAt": "2026-08-26T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
-      "tags": []
-    },
-    {
       "id": "https://foojay.io/today/boxlang-1-16-0-released/",
       "title": "BoxLang 1.16.0 Released!",
       "url": "https://foojay.io/today/boxlang-1-16-0-released/",
@@ -295,28 +347,6 @@
       "summary": "If someone discloses a 0-day CVE the day after a quarterly update, you could wait up to three months for a patched build. That gap is closed now. The August 2026 release is the first monthly Critical Security Patch Update (CSPU) in Java’s history, and Azul shipped it on schedule across both its product lines. Core (Zul",
       "sourceId": "foojay-release-notes",
       "sourceName": "Foojay (Release Notes)",
-      "tech": "Java",
-      "tags": []
-    },
-    {
-      "id": "https://spring.io/blog/2026/08/21/spring-ai-2-0-1-available-now",
-      "title": "Spring AI 2.0.1 Available Now",
-      "url": "https://spring.io/blog/2026/08/21/spring-ai-2-0-1-available-now",
-      "publishedAt": "2026-08-21T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
-      "tags": []
-    },
-    {
-      "id": "https://spring.io/blog/2026/08/20/spring-batch-6-0-5-and-6-1-0-M1-available-now",
-      "title": "Spring Batch 6.0.5 and 6.1.0-M1 available now",
-      "url": "https://spring.io/blog/2026/08/20/spring-batch-6-0-5-and-6-1-0-M1-available-now",
-      "publishedAt": "2026-08-20T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
       "tech": "Java",
       "tags": []
     },
@@ -483,36 +513,6 @@
         "angular-weekly",
         "angular",
         "angular-newsletter"
-      ]
-    },
-    {
-      "id": "https://medium.com/p/ff37df480574",
-      "title": "Angular in 2026: Mid-Year Reality Check, Signals, and AI Code Quality!",
-      "url": "https://blog.angular.dev/angular-in-2026-mid-year-reality-check-signals-and-ai-code-quality-ff37df480574?source=rss----447683c3d9a3---4",
-      "publishedAt": "2026-06-05T04:23:01.000Z",
-      "summary": "",
-      "sourceId": "angular-blog",
-      "sourceName": "Angular Blog",
-      "tech": "Angular",
-      "tags": [
-        "angular-newsletter",
-        "angular-weekly",
-        "angular"
-      ]
-    },
-    {
-      "id": "https://medium.com/p/c52bb83a4664",
-      "title": "Announcing Angular v22",
-      "url": "https://blog.angular.dev/announcing-angular-v22-c52bb83a4664?source=rss----447683c3d9a3---4",
-      "publishedAt": "2026-06-03T16:14:58.000Z",
-      "summary": "",
-      "sourceId": "angular-blog",
-      "sourceName": "Angular Blog",
-      "tech": "Angular",
-      "tags": [
-        "angular-release",
-        "angular",
-        "angular-v22"
       ]
     },
     {
