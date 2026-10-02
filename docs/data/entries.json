@@ -1,6 +1,83 @@
 {
-  "generatedAt": "2026-09-30T11:29:12.181Z",
+  "generatedAt": "2026-10-02T11:29:06.449Z",
   "items": [
+    {
+      "id": "https://foojay.io/today/changes-included-in-release-26-08-of-azul-zing-builds-of-openjdk/",
+      "title": "Changes Included in Release 26.08 of Azul Zing Builds of OpenJDK",
+      "url": "https://foojay.io/today/changes-included-in-release-26-08-of-azul-zing-builds-of-openjdk/",
+      "publishedAt": "2026-10-02T00:00:00.000Z",
+      "summary": "Azul Zing Builds of OpenJDK, the optimized Java runtime within Azul Platform Prime, has reached the release of the 26.08 Stable Release line. This Stable Build represents an August 2026 promotion from Stream to Stable status, consolidating six months of Stream Build work into a single, supported release line. The headl",
+      "sourceId": "foojay-release-notes",
+      "sourceName": "Foojay (Release Notes)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v22.3.0-next.0",
+      "title": "22.3.0-next.0",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v22.3.0-next.0",
+      "publishedAt": "2026-10-01T13:46:07.000Z",
+      "summary": "@angular/cli Commit Description decouple official Node.js support check from execution gate @angular/build Commit Description add library builder add polyfills option to unit-test builder avoid top-level await for Zone.js injection in Vitest runner ensure asset followSymlinks defaults to false include dataurl option in",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v22.2.1",
+      "title": "22.2.1",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v22.2.1",
+      "publishedAt": "2026-10-01T13:23:08.000Z",
+      "summary": "@angular-devkit/schematics-cli Commit Description correctly parse inline boolean values in CLI options (#34201) @schematics/angular Commit Description add browsers option to angular.json during vitest browser provider ng-add @angular/cli Commit Description skip components with a change detection strategy in the zoneles",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v22.3.0-next.0",
+      "title": "22.3.0-next.0",
+      "url": "https://github.com/angular/angular/releases/tag/v22.3.0-next.0",
+      "publishedAt": "2026-09-30T18:56:15.000Z",
+      "summary": "compiler Commit Description stop suppressing non-iterable values in @for expression compiler-cli Commit Description resolve base class defined via intermediate variable in dts validate unknown element tags even when matched by attribute directives core Commit Description support increment/decrement operators in express",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v22.2.1",
+      "title": "22.2.1",
+      "url": "https://github.com/angular/angular/releases/tag/v22.2.1",
+      "publishedAt": "2026-09-30T18:34:00.000Z",
+      "summary": "common Commit Description let NgOptimizedImage pass a [srcset] binding through when srcset optimization is disabled compiler Commit Description add explicit return types to generated functions avoid incorrectly stripping parentheses in template pipeline avoid stripping parentheses from some expressions compiler-cli Com",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v21.2.25",
+      "title": "21.2.25",
+      "url": "https://github.com/angular/angular/releases/tag/v21.2.25",
+      "publishedAt": "2026-09-30T18:17:46.000Z",
+      "summary": "platform-server Commit Description reject protocol-relative paths in resolveUrl router Commit Description do not copy URL-sized objects into every route snapshot reject duplicate outlets in production builds require outlets to match a route before processing child segments do not retain UrlTree instances in RouterLink",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v20.3.33",
+      "title": "20.3.33",
+      "url": "https://github.com/angular/angular/releases/tag/v20.3.33",
+      "publishedAt": "2026-09-30T17:52:48.000Z",
+      "summary": "platform-server Commit Description reject protocol-relative paths in resolveUrl router Commit Description do not copy URL-sized objects into every route snapshot reject duplicate outlets in production builds require outlets to match a route before processing child segments",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
     {
       "id": "tag:github.com,2008:Repository/24195339/vsix-22.2.0",
       "title": "VSCode Extension: 22.2.0",
@@ -43,9 +120,9 @@
       ]
     },
     {
-      "id": "https://spring.io/blog/2026/09/25/spring-boot-4-2-0-M2-available-now",
-      "title": "Spring Boot 4.2.0-M2 available now",
-      "url": "https://spring.io/blog/2026/09/25/spring-boot-4-2-0-M2-available-now",
+      "id": "https://spring.io/blog/2026/09/25/spring-ai-2-1-0-M1-available-now",
+      "title": "Spring AI 2.1.0-M1 Available Now",
+      "url": "https://spring.io/blog/2026/09/25/spring-ai-2-1-0-M1-available-now",
       "publishedAt": "2026-09-25T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
@@ -54,9 +131,9 @@
       "tags": []
     },
     {
-      "id": "https://spring.io/blog/2026/09/25/spring-ai-2-1-0-M1-available-now",
-      "title": "Spring AI 2.1.0-M1 Available Now",
-      "url": "https://spring.io/blog/2026/09/25/spring-ai-2-1-0-M1-available-now",
+      "id": "https://spring.io/blog/2026/09/25/spring-boot-4-2-0-M2-available-now",
+      "title": "Spring Boot 4.2.0-M2 available now",
+      "url": "https://spring.io/blog/2026/09/25/spring-boot-4-2-0-M2-available-now",
       "publishedAt": "2026-09-25T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
@@ -164,17 +241,6 @@
       "tags": []
     },
     {
-      "id": "tag:github.com,2008:Repository/24195339/v22.1.7",
-      "title": "22.1.7",
-      "url": "https://github.com/angular/angular/releases/tag/v22.1.7",
-      "publishedAt": "2026-09-16T18:59:33.000Z",
-      "summary": "compiler Commit Description wrap @for collection expression before appending non-null assertion core Commit Description return null when getDirectiveMetadata is called with null or undefined forms Commit Description mark control as dirty before setting its value in FVC interop",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
       "id": "tag:github.com,2008:Repository/36891867/v22.2.0-rc.0",
       "title": "22.2.0-rc.0",
       "url": "https://github.com/angular/angular-cli/releases/tag/v22.2.0-rc.0",
@@ -182,17 +248,6 @@
       "summary": "@angular/cli Commit Description skip eager yargs help message formatting during command execution @angular/build Commit Description include inline component stylesheets in referenced watch files pass load cache to compiler plugin and escape extension regex in polyfills prevent stale bundler caching and correctly resolv",
       "sourceId": "angular-cli-releases",
       "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/vsix-22.1.1",
-      "title": "vsix-22.1.1",
-      "url": "https://github.com/angular/angular/releases/tag/vsix-22.1.1",
-      "publishedAt": "2026-09-10T18:37:30.000Z",
-      "summary": "release: bump VSCode extension version to 22.1.1 (#70666)",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
       "tech": "Angular",
       "tags": []
     },
@@ -241,28 +296,6 @@
       "tags": []
     },
     {
-      "id": "tag:github.com,2008:Repository/24195339/v22.2.0-next.7",
-      "title": "22.2.0-next.7",
-      "url": "https://github.com/angular/angular/releases/tag/v22.2.0-next.7",
-      "publishedAt": "2026-09-09T20:22:29.000Z",
-      "summary": "No user facing changes in this release",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v22.2.0-next.6",
-      "title": "22.2.0-next.6",
-      "url": "https://github.com/angular/angular/releases/tag/v22.2.0-next.6",
-      "publishedAt": "2026-09-09T20:16:08.000Z",
-      "summary": "compiler Commit Description namespace @property declarations compiler-cli Commit Description do not flag callable objects with zero parameters in uninvoked track function check core Commit Description add ErrorBoundary programmatic APIs (#70463) allow reading Injector from a view or content query apply SkipSelf to only",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
       "id": "https://foojay.io/today/one-base-url-many-coding-agents-what-an-openai-compatible-gateway-looks-like-from-java-net-http/",
       "title": "One Base URL, Many Coding Agents: What an OpenAI-Compatible Gateway Looks Like From java.net.http",
       "url": "https://foojay.io/today/one-base-url-many-coding-agents-what-an-openai-compatible-gateway-looks-like-from-java-net-http/",
@@ -279,28 +312,6 @@
       "url": "https://github.com/angular/angular-cli/releases/tag/v22.2.0-next.6",
       "publishedAt": "2026-09-02T22:06:53.000Z",
       "summary": "@angular/cli Commit Description isolate temporary package installations from parent Yarn workspace @angular/build Commit Description add splitting option to unit-test builder enable code splitting for vitest browser tests fail build and exclude routes when prerendering fails keep dev-server Vite cache worktree-local pr",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v22.1.7",
-      "title": "22.1.7",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v22.1.7",
-      "publishedAt": "2026-09-02T21:03:02.000Z",
-      "summary": "@angular/cli Commit Description isolate temporary package installations from parent Yarn workspace @angular/build Commit Description add splitting option to unit-test builder enable code splitting for vitest browser tests fail build and exclude routes when prerendering fails keep dev-server Vite cache worktree-local pr",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v21.2.23",
-      "title": "21.2.23",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v21.2.23",
-      "publishedAt": "2026-09-02T20:33:06.000Z",
-      "summary": "@angular-devkit/build-angular Commit Description update less to 4.9.0 @angular/ssr Commit Description ensure public directory containment in CommonEngine",
       "sourceId": "angular-cli-releases",
       "sourceName": "Angular CLI (GitHub Releases)",
       "tech": "Angular",
@@ -719,17 +730,6 @@
       "url": "https://foojay.io/today/java-24-rolls-out-today-find-out-why-its-aptly-named/",
       "publishedAt": "2025-03-18T07:36:39.000Z",
       "summary": "Java 24 rolls out today! It’s been six months since Java 23 was released, so it’s time for another helping of new features. And this particular release of Java is aptly named, because it contains exactly 24 JEPs. Coincidence? I think not. 🙂 Java 24 brings a diverse set of features, delivering performance improvements ",
-      "sourceId": "foojay-release-notes",
-      "sourceName": "Foojay (Release Notes)",
-      "tech": "Java",
-      "tags": []
-    },
-    {
-      "id": "https://foojay.io/today/foojay-podcast-68/",
-      "title": "Foojay Podcast #68: Welcome to OpenJDK (Java) 24",
-      "url": "https://foojay.io/today/foojay-podcast-68/",
-      "publishedAt": "2025-03-17T06:44:08.000Z",
-      "summary": "We serve you a podcast about the new Java version every six months. Our regular guest, Simon Ritter, Deputy CTO of Azul, is known on social media as “speakjava.” He is part of the OpenJDK vulnerability group, JCP executive committee, and expert group for the Java SE specification request so that he can share a lot of i",
       "sourceId": "foojay-release-notes",
       "sourceName": "Foojay (Release Notes)",
       "tech": "Java",
