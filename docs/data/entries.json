@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-10-02T11:29:06.449Z",
+  "generatedAt": "2026-10-05T12:52:08.025Z",
   "items": [
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v21.2.25",
+      "title": "21.2.25",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v21.2.25",
+      "publishedAt": "2026-10-05T09:21:59.000Z",
+      "summary": "@angular/build Commit Description bump piscina to 5.3.2",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v20.3.38",
+      "title": "20.3.38",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v20.3.38",
+      "publishedAt": "2026-10-05T09:17:15.000Z",
+      "summary": "@angular/build Commit Description bump piscina to 5.3.2",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
     {
       "id": "https://foojay.io/today/changes-included-in-release-26-08-of-azul-zing-builds-of-openjdk/",
       "title": "Changes Included in Release 26.08 of Azul Zing Builds of OpenJDK",
@@ -274,17 +296,6 @@
       "tags": []
     },
     {
-      "id": "tag:github.com,2008:Repository/36891867/v20.3.37",
-      "title": "20.3.37",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v20.3.37",
-      "publishedAt": "2026-09-10T15:11:47.000Z",
-      "summary": "@angular-devkit/build-angular Commit Description update undici to 7.29.1",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
       "id": "tag:github.com,2008:Repository/36891867/v22.1.8",
       "title": "22.1.8",
       "url": "https://github.com/angular/angular-cli/releases/tag/v22.1.8",
@@ -304,17 +315,6 @@
       "sourceId": "foojay-release-notes",
       "sourceName": "Foojay (Release Notes)",
       "tech": "Java",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v22.2.0-next.6",
-      "title": "22.2.0-next.6",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v22.2.0-next.6",
-      "publishedAt": "2026-09-02T22:06:53.000Z",
-      "summary": "@angular/cli Commit Description isolate temporary package installations from parent Yarn workspace @angular/build Commit Description add splitting option to unit-test builder enable code splitting for vitest browser tests fail build and exclude routes when prerendering fails keep dev-server Vite cache worktree-local pr",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
       "tags": []
     },
     {
