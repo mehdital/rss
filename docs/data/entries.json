@@ -1,6 +1,50 @@
 {
-  "generatedAt": "2026-10-06T12:20:05.860Z",
+  "generatedAt": "2026-10-07T12:11:44.501Z",
   "items": [
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v22.3.0-next.1",
+      "title": "22.3.0-next.1",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v22.3.0-next.1",
+      "publishedAt": "2026-10-07T07:14:29.000Z",
+      "summary": "@angular-devkit/build-angular Commit Description preserve Host header when proxying in ssr-dev-server @angular/build Commit Description allow library outputPath within project root capture and report Rolldown warnings and errors in library builder keep the order of glob entries in the proxy configuration resolve librar",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v22.2.2",
+      "title": "22.2.2",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v22.2.2",
+      "publishedAt": "2026-10-07T07:10:57.000Z",
+      "summary": "@angular-devkit/build-angular Commit Description preserve Host header when proxying in ssr-dev-server @angular/build Commit Description keep the order of glob entries in the proxy configuration support a string context in array-form proxy configurations",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v21.2.26",
+      "title": "21.2.26",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v21.2.26",
+      "publishedAt": "2026-10-07T07:06:13.000Z",
+      "summary": "@angular/cli Commit Description bump @modelcontextprotocol/sdk to 1.31.0",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v20.3.39",
+      "title": "20.3.39",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v20.3.39",
+      "publishedAt": "2026-10-07T07:01:56.000Z",
+      "summary": "@angular/cli Commit Description bump @modelcontextprotocol/sdk to 1.31.0",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
     {
       "id": "tag:github.com,2008:Repository/36891867/v21.2.25",
       "title": "21.2.25",
@@ -164,9 +208,9 @@
       "tags": []
     },
     {
-      "id": "https://spring.io/blog/2026/09/24/spring-cloud-2026-0-0-M1-has-been-released",
-      "title": "Spring Cloud 2026.0.0-M1 (aka Paddington) Has Been Released",
-      "url": "https://spring.io/blog/2026/09/24/spring-cloud-2026-0-0-M1-has-been-released",
+      "id": "https://spring.io/blog/2026/09/24/spring-batch-6",
+      "title": "Spring Batch 6.1.0-M2 is out!",
+      "url": "https://spring.io/blog/2026/09/24/spring-batch-6",
       "publishedAt": "2026-09-24T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
@@ -175,9 +219,9 @@
       "tags": []
     },
     {
-      "id": "https://spring.io/blog/2026/09/24/spring-batch-6",
-      "title": "Spring Batch 6.1.0-M2 is out!",
-      "url": "https://spring.io/blog/2026/09/24/spring-batch-6",
+      "id": "https://spring.io/blog/2026/09/24/spring-cloud-2026-0-0-M1-has-been-released",
+      "title": "Spring Cloud 2026.0.0-M1 (aka Paddington) Has Been Released",
+      "url": "https://spring.io/blog/2026/09/24/spring-cloud-2026-0-0-M1-has-been-released",
       "publishedAt": "2026-09-24T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
@@ -259,50 +303,6 @@
       "summary": "compiler Commit Description wrap @for collection expression before appending non-null assertion compiler-cli Commit Description add strictUnclaimedEventNames option to catch misspelled output bindings core Commit Description return null when getDirectiveMetadata is called with null or undefined update FakeNavigation to",
       "sourceId": "angular-releases",
       "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v22.2.0-rc.0",
-      "title": "22.2.0-rc.0",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v22.2.0-rc.0",
-      "publishedAt": "2026-09-16T12:03:51.000Z",
-      "summary": "@angular/cli Commit Description skip eager yargs help message formatting during command execution @angular/build Commit Description include inline component stylesheets in referenced watch files pass load cache to compiler plugin and escape extension regex in polyfills prevent stale bundler caching and correctly resolv",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v22.2.0-next.7",
-      "title": "22.2.0-next.7",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v22.2.0-next.7",
-      "publishedAt": "2026-09-10T15:20:02.000Z",
-      "summary": "@angular/build Commit Description add automatic corruption recovery in SQLite cache store avoid pure comment pattern in oxc transform default preloadInitial to false when serviceWorker is enabled disable root config extension for inline test project disable strictPort when port 0 is used in dev-server ensure parent dir",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v21.2.24",
-      "title": "21.2.24",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v21.2.24",
-      "publishedAt": "2026-09-10T15:15:46.000Z",
-      "summary": "@angular/build Commit Description update undici to 7.29.1",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v22.1.8",
-      "title": "22.1.8",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v22.1.8",
-      "publishedAt": "2026-09-10T15:03:58.000Z",
-      "summary": "@angular/build Commit Description disable strictPort when port 0 is used in dev-server avoid full JSON parsing when updating sourcemap ignore list read rendered module length once per module in chunk optimizer (#34045)",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
       "tech": "Angular",
       "tags": []
     },
