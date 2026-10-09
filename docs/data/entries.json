@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-10-08T12:22:19.285Z",
+  "generatedAt": "2026-10-09T12:12:06.877Z",
   "items": [
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v22.3.0-next.1",
+      "title": "22.3.0-next.1",
+      "url": "https://github.com/angular/angular/releases/tag/v22.3.0-next.1",
+      "publishedAt": "2026-10-08T18:07:15.000Z",
+      "summary": "compiler Commit Description avoid leaking ::ng-deep detection state between rules avoid prototype lookups when resolving entities correctly match directives on &lt;ng-template&gt; nested in various namespaces ignore @let declarations in the control flow content projection diagnostic match namespaced root nodes of contr",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v22.2.2",
+      "title": "22.2.2",
+      "url": "https://github.com/angular/angular/releases/tag/v22.2.2",
+      "publishedAt": "2026-10-08T17:50:06.000Z",
+      "summary": "compiler Commit Description avoid leaking ::ng-deep detection state between rules avoid prototype lookups when resolving entities correctly match directives on &lt;ng-template&gt; nested in various namespaces ignore @let declarations in the control flow content projection diagnostic match namespaced root nodes of contr",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
     {
       "id": "tag:github.com,2008:Repository/36891867/v22.3.0-next.1",
       "title": "22.3.0-next.1",
@@ -186,9 +208,9 @@
       ]
     },
     {
-      "id": "https://spring.io/blog/2026/09/25/spring-ai-2-1-0-M1-available-now",
-      "title": "Spring AI 2.1.0-M1 Available Now",
-      "url": "https://spring.io/blog/2026/09/25/spring-ai-2-1-0-M1-available-now",
+      "id": "https://spring.io/blog/2026/09/25/spring-boot-4-2-0-M2-available-now",
+      "title": "Spring Boot 4.2.0-M2 available now",
+      "url": "https://spring.io/blog/2026/09/25/spring-boot-4-2-0-M2-available-now",
       "publishedAt": "2026-09-25T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
@@ -197,9 +219,9 @@
       "tags": []
     },
     {
-      "id": "https://spring.io/blog/2026/09/25/spring-boot-4-2-0-M2-available-now",
-      "title": "Spring Boot 4.2.0-M2 available now",
-      "url": "https://spring.io/blog/2026/09/25/spring-boot-4-2-0-M2-available-now",
+      "id": "https://spring.io/blog/2026/09/25/spring-ai-2-1-0-M1-available-now",
+      "title": "Spring AI 2.1.0-M1 Available Now",
+      "url": "https://spring.io/blog/2026/09/25/spring-ai-2-1-0-M1-available-now",
       "publishedAt": "2026-09-25T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
@@ -219,9 +241,9 @@
       "tags": []
     },
     {
-      "id": "https://spring.io/blog/2026/09/24/spring-security-7-2-0-M2-available-now",
-      "title": "Spring Security 7.2.0-M2 available now",
-      "url": "https://spring.io/blog/2026/09/24/spring-security-7-2-0-M2-available-now",
+      "id": "https://spring.io/blog/2026/09/24/spring-batch-6",
+      "title": "Spring Batch 6.1.0-M2 is out!",
+      "url": "https://spring.io/blog/2026/09/24/spring-batch-6",
       "publishedAt": "2026-09-24T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
@@ -274,33 +296,11 @@
       "tags": []
     },
     {
-      "id": "tag:github.com,2008:Repository/24195339/v20.3.32",
-      "title": "20.3.32",
-      "url": "https://github.com/angular/angular/releases/tag/v20.3.32",
-      "publishedAt": "2026-09-23T17:38:59.000Z",
-      "summary": "router Commit Description avoid dense elements allocation for numeric URL keys",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
       "id": "tag:github.com,2008:Repository/24195339/v22.1.8",
       "title": "22.1.8",
       "url": "https://github.com/angular/angular/releases/tag/v22.1.8",
       "publishedAt": "2026-09-23T17:31:15.000Z",
       "summary": "common Commit Description remove abort listener on the abort path too in httpResource compiler Commit Description add return type to pure functions avoid hitting TypeScript limits if template has many translations do not copy expression type into output AST variables guard unverified ctor parameter types in class metad",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v22.2.0-rc.0",
-      "title": "22.2.0-rc.0",
-      "url": "https://github.com/angular/angular/releases/tag/v22.2.0-rc.0",
-      "publishedAt": "2026-09-16T19:09:42.000Z",
-      "summary": "compiler Commit Description wrap @for collection expression before appending non-null assertion compiler-cli Commit Description add strictUnclaimedEventNames option to catch misspelled output bindings core Commit Description return null when getDirectiveMetadata is called with null or undefined update FakeNavigation to",
       "sourceId": "angular-releases",
       "sourceName": "Angular (GitHub Releases)",
       "tech": "Angular",
