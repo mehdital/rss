@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-10-09T12:12:06.877Z",
+  "generatedAt": "2026-10-10T11:29:40.908Z",
   "items": [
+    {
+      "id": "https://medium.com/p/3846cae9283a",
+      "title": "Signal Value Transforms, Routing Essentials, and Video Extension with Veo! ⚡",
+      "url": "https://blog.angular.dev/signal-value-transforms-routing-essentials-and-video-extension-with-veo-3846cae9283a?source=rss----447683c3d9a3---4",
+      "publishedAt": "2026-10-09T14:01:05.000Z",
+      "summary": "",
+      "sourceId": "angular-blog",
+      "sourceName": "Angular Blog",
+      "tech": "Angular",
+      "tags": [
+        "angular-newsletter",
+        "angular",
+        "angular-weekly"
+      ]
+    },
     {
       "id": "tag:github.com,2008:Repository/24195339/v22.3.0-next.1",
       "title": "22.3.0-next.1",
@@ -208,9 +223,9 @@
       ]
     },
     {
-      "id": "https://spring.io/blog/2026/09/25/spring-boot-4-2-0-M2-available-now",
-      "title": "Spring Boot 4.2.0-M2 available now",
-      "url": "https://spring.io/blog/2026/09/25/spring-boot-4-2-0-M2-available-now",
+      "id": "https://spring.io/blog/2026/09/25/spring-ai-2-1-0-M1-available-now",
+      "title": "Spring AI 2.1.0-M1 Available Now",
+      "url": "https://spring.io/blog/2026/09/25/spring-ai-2-1-0-M1-available-now",
       "publishedAt": "2026-09-25T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
@@ -219,9 +234,9 @@
       "tags": []
     },
     {
-      "id": "https://spring.io/blog/2026/09/25/spring-ai-2-1-0-M1-available-now",
-      "title": "Spring AI 2.1.0-M1 Available Now",
-      "url": "https://spring.io/blog/2026/09/25/spring-ai-2-1-0-M1-available-now",
+      "id": "https://spring.io/blog/2026/09/25/spring-boot-4-2-0-M2-available-now",
+      "title": "Spring Boot 4.2.0-M2 available now",
+      "url": "https://spring.io/blog/2026/09/25/spring-boot-4-2-0-M2-available-now",
       "publishedAt": "2026-09-25T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
@@ -510,21 +525,6 @@
       "sourceName": "Foojay (Release Notes)",
       "tech": "Java",
       "tags": []
-    },
-    {
-      "id": "https://medium.com/p/25842ff36020",
-      "title": "Community Comebacks, Angular 21.1 Features, and Smarter Signal Forms ️⚡",
-      "url": "https://blog.angular.dev/angular-community-weekly-14-25842ff36020?source=rss----447683c3d9a3---4",
-      "publishedAt": "2026-06-19T10:01:04.000Z",
-      "summary": "",
-      "sourceId": "angular-blog",
-      "sourceName": "Angular Blog",
-      "tech": "Angular",
-      "tags": [
-        "angular-weekly",
-        "angular",
-        "angular-newsletter"
-      ]
     },
     {
       "id": "https://foojay.io/today/boxlang-v1-13-0-compatibility-concurrency-and-formatter-maturity/",
