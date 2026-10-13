@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T13:43:40.449Z",
+  "generatedAt": "2026-10-13T13:04:11.777Z",
   "items": [
     {
       "id": "https://medium.com/p/3846cae9283a",
@@ -39,6 +39,72 @@
       "tags": []
     },
     {
+      "id": "tag:github.com,2008:Repository/36891867/v22.3.0-next.1",
+      "title": "22.3.0-next.1",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v22.3.0-next.1",
+      "publishedAt": "2026-10-07T07:14:29.000Z",
+      "summary": "@angular-devkit/build-angular Commit Description preserve Host header when proxying in ssr-dev-server @angular/build Commit Description allow library outputPath within project root capture and report Rolldown warnings and errors in library builder keep the order of glob entries in the proxy configuration resolve librar",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v22.2.2",
+      "title": "22.2.2",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v22.2.2",
+      "publishedAt": "2026-10-07T07:10:57.000Z",
+      "summary": "@angular-devkit/build-angular Commit Description preserve Host header when proxying in ssr-dev-server @angular/build Commit Description keep the order of glob entries in the proxy configuration support a string context in array-form proxy configurations",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v21.2.26",
+      "title": "21.2.26",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v21.2.26",
+      "publishedAt": "2026-10-07T07:06:13.000Z",
+      "summary": "@angular/cli Commit Description bump @modelcontextprotocol/sdk to 1.31.0",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v20.3.39",
+      "title": "20.3.39",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v20.3.39",
+      "publishedAt": "2026-10-07T07:01:56.000Z",
+      "summary": "@angular/cli Commit Description bump @modelcontextprotocol/sdk to 1.31.0",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v21.2.25",
+      "title": "21.2.25",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v21.2.25",
+      "publishedAt": "2026-10-05T09:21:59.000Z",
+      "summary": "@angular/build Commit Description bump piscina to 5.3.2",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v20.3.38",
+      "title": "20.3.38",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v20.3.38",
+      "publishedAt": "2026-10-05T09:17:15.000Z",
+      "summary": "@angular/build Commit Description bump piscina to 5.3.2",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
       "id": "https://foojay.io/today/changes-included-in-release-26-08-of-azul-zing-builds-of-openjdk/",
       "title": "Changes Included in Release 26.08 of Azul Zing Builds of OpenJDK",
       "url": "https://foojay.io/today/changes-included-in-release-26-08-of-azul-zing-builds-of-openjdk/",
@@ -47,6 +113,28 @@
       "sourceId": "foojay-release-notes",
       "sourceName": "Foojay (Release Notes)",
       "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v22.3.0-next.0",
+      "title": "22.3.0-next.0",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v22.3.0-next.0",
+      "publishedAt": "2026-10-01T13:46:07.000Z",
+      "summary": "@angular/cli Commit Description decouple official Node.js support check from execution gate @angular/build Commit Description add library builder add polyfills option to unit-test builder avoid top-level await for Zone.js injection in Vitest runner ensure asset followSymlinks defaults to false include dataurl option in",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v22.2.1",
+      "title": "22.2.1",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v22.2.1",
+      "publishedAt": "2026-10-01T13:23:08.000Z",
+      "summary": "@angular-devkit/schematics-cli Commit Description correctly parse inline boolean values in CLI options (#34201) @schematics/angular Commit Description add browsers option to angular.json during vitest browser provider ng-add @angular/cli Commit Description skip components with a change detection strategy in the zoneles",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
       "tags": []
     },
     {
@@ -135,17 +223,6 @@
       ]
     },
     {
-      "id": "https://spring.io/blog/2026/09/25/spring-ai-2-1-0-M1-available-now",
-      "title": "Spring AI 2.1.0-M1 Available Now",
-      "url": "https://spring.io/blog/2026/09/25/spring-ai-2-1-0-M1-available-now",
-      "publishedAt": "2026-09-25T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
-      "tags": []
-    },
-    {
       "id": "https://spring.io/blog/2026/09/25/spring-boot-4-2-0-M2-available-now",
       "title": "Spring Boot 4.2.0-M2 available now",
       "url": "https://spring.io/blog/2026/09/25/spring-boot-4-2-0-M2-available-now",
@@ -157,10 +234,10 @@
       "tags": []
     },
     {
-      "id": "https://spring.io/blog/2026/09/24/spring-cloud-2026-0-0-M1-has-been-released",
-      "title": "Spring Cloud 2026.0.0-M1 (aka Paddington) Has Been Released",
-      "url": "https://spring.io/blog/2026/09/24/spring-cloud-2026-0-0-M1-has-been-released",
-      "publishedAt": "2026-09-24T00:00:00.000Z",
+      "id": "https://spring.io/blog/2026/09/25/spring-ai-2-1-0-M1-available-now",
+      "title": "Spring AI 2.1.0-M1 Available Now",
+      "url": "https://spring.io/blog/2026/09/25/spring-ai-2-1-0-M1-available-now",
+      "publishedAt": "2026-09-25T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
       "sourceName": "Spring Blog (Releases)",
@@ -176,6 +253,39 @@
       "sourceId": "spring-releases",
       "sourceName": "Spring Blog (Releases)",
       "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "https://spring.io/blog/2026/09/24/spring-security-7-2-0-M2-available-now",
+      "title": "Spring Security 7.2.0-M2 available now",
+      "url": "https://spring.io/blog/2026/09/24/spring-security-7-2-0-M2-available-now",
+      "publishedAt": "2026-09-24T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v22.2.0",
+      "title": "22.2.0",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v22.2.0",
+      "publishedAt": "2026-09-23T21:34:46.000Z",
+      "summary": "@angular/cli Commit Description add --root command line option to mcp command skip eager yargs help message formatting during command execution @angular/build Commit Description migrate Angular Linker to oxc-parser and magic-string Support splitting browser and server stats jsonfiles for easier consumption add automati",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v22.1.9",
+      "title": "22.1.9",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v22.1.9",
+      "publishedAt": "2026-09-23T21:04:15.000Z",
+      "summary": "@schematics/angular Commit Description update @types/node to a version vitest 5 accepts @angular-devkit/core Commit Description name the unknown option in a schema validation error @angular/build Commit Description support standard JavaScript MIME types and case insensitivity in auto-CSP",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
       "tags": []
     },
     {
