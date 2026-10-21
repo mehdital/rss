@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T10:31:58.524Z",
+  "generatedAt": "2026-10-21T10:44:36.482Z",
   "items": [
     {
       "id": "tag:github.com,2008:Repository/36891867/v22.3.0-next.2",
@@ -311,9 +311,9 @@
       "tags": []
     },
     {
-      "id": "https://spring.io/blog/2026/09/24/spring-cloud-2026-0-0-M1-has-been-released",
-      "title": "Spring Cloud 2026.0.0-M1 (aka Paddington) Has Been Released",
-      "url": "https://spring.io/blog/2026/09/24/spring-cloud-2026-0-0-M1-has-been-released",
+      "id": "https://spring.io/blog/2026/09/24/spring-security-7-2-0-M2-available-now",
+      "title": "Spring Security 7.2.0-M2 available now",
+      "url": "https://spring.io/blog/2026/09/24/spring-security-7-2-0-M2-available-now",
       "publishedAt": "2026-09-24T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
