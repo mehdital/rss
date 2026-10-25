@@ -1,6 +1,119 @@
 {
-  "generatedAt": "2026-10-22T10:45:48.450Z",
+  "generatedAt": "2026-10-25T10:17:34.605Z",
   "items": [
+    {
+      "id": "https://medium.com/p/67513b4b85e1",
+      "title": "From running edge-rendered Angular apps on Cloudflare Workers to crafting lifelike speech with…",
+      "url": "https://blog.angular.dev/from-running-edge-rendered-angular-apps-on-cloudflare-workers-to-crafting-lifelike-speech-with-67513b4b85e1?source=rss----447683c3d9a3---4",
+      "publishedAt": "2026-10-23T14:58:56.000Z",
+      "summary": "",
+      "sourceId": "angular-blog",
+      "sourceName": "Angular Blog",
+      "tech": "Angular",
+      "tags": [
+        "angular-newsletter",
+        "angular"
+      ]
+    },
+    {
+      "id": "https://spring.io/blog/2026/10/23/spring-ai-2-1-0-RC1-available-now",
+      "title": "Spring AI 2.1.0-RC1 and 2.0.2 Available Now",
+      "url": "https://spring.io/blog/2026/10/23/spring-ai-2-1-0-RC1-available-now",
+      "publishedAt": "2026-10-23T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "https://spring.io/blog/2026/10/23/spring-boot-4-0-9-available-now",
+      "title": "Spring Boot 4.0.9 available now",
+      "url": "https://spring.io/blog/2026/10/23/spring-boot-4-0-9-available-now",
+      "publishedAt": "2026-10-23T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "https://spring.io/blog/2026/10/23/spring-boot-4-1-2-available-now",
+      "title": "Spring Boot 4.1.2 available now",
+      "url": "https://spring.io/blog/2026/10/23/spring-boot-4-1-2-available-now",
+      "publishedAt": "2026-10-23T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "https://spring.io/blog/2026/10/23/spring-boot-4-2-0-RC1-available-now",
+      "title": "Spring Boot 4.2.0-RC1 available now",
+      "url": "https://spring.io/blog/2026/10/23/spring-boot-4-2-0-RC1-available-now",
+      "publishedAt": "2026-10-23T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "https://foojay.io/today/azul-zulu-october-2026-quarterly-update-and-out-of-cycle-release/",
+      "title": "Azul Zulu October 2026 Quarterly Update: 53 CVEs, Then a Zero-Day One Day Later",
+      "url": "https://foojay.io/today/azul-zulu-october-2026-quarterly-update-and-out-of-cycle-release/",
+      "publishedAt": "2026-10-23T00:00:00.000Z",
+      "summary": "A record-breaking quarterly update is supposed to be the big security event of the quarter. On October 20, 2026, Azul released the October 2026 update for Azul Zulu Builds of OpenJDK, covering Java 27, 25, 21, 17, 11, 8, 7, and 6, with patches for 53 CVEs. Within a day it was not enough anymore: a zero-day showed up th",
+      "sourceId": "foojay-release-notes",
+      "sourceName": "Foojay (Release Notes)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v22.3.0-next.3",
+      "title": "22.3.0-next.3",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v22.3.0-next.3",
+      "publishedAt": "2026-10-22T14:04:29.000Z",
+      "summary": "@schematics/angular Commit Description apply viewEncapsulation to generated application components correct error and warning messages in environments schematic migrate ng-packagr glob string assets in use-library-builder migrate secondary entry point style options in use-library-builder show routing module suffixes in ",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v21.2.28",
+      "title": "21.2.28",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v21.2.28",
+      "publishedAt": "2026-10-22T14:00:22.000Z",
+      "summary": "@angular/cli Commit Description bump @modelcontextprotocol/sdk to 1.32.1 @angular-devkit/build-angular Commit Description update webpack to 5.112.0 @angular/build Commit Description bump vite to 7.3.7",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v20.3.41",
+      "title": "20.3.41",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v20.3.41",
+      "publishedAt": "2026-10-22T13:55:43.000Z",
+      "summary": "@angular/cli Commit Description bump @modelcontextprotocol/sdk to 1.32.1 @angular-devkit/build-angular Commit Description update webpack to 5.112.0 @angular/build Commit Description bump vite to 7.3.7",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v22.2.4",
+      "title": "22.2.4",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v22.2.4",
+      "publishedAt": "2026-10-22T13:38:22.000Z",
+      "summary": "@schematics/angular Commit Description apply viewEncapsulation to generated application components correct error and warning messages in environments schematic show routing module suffixes in findModule error skip webWorkerTsConfig for unit-test builder test targets use the generated class name when declaring in an NgM",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
     {
       "id": "tag:github.com,2008:Repository/36891867/v22.3.0-next.2",
       "title": "22.3.0-next.2",
@@ -138,50 +251,6 @@
       "tags": []
     },
     {
-      "id": "tag:github.com,2008:Repository/36891867/v21.2.26",
-      "title": "21.2.26",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v21.2.26",
-      "publishedAt": "2026-10-07T07:06:13.000Z",
-      "summary": "@angular/cli Commit Description bump @modelcontextprotocol/sdk to 1.31.0",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v20.3.39",
-      "title": "20.3.39",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v20.3.39",
-      "publishedAt": "2026-10-07T07:01:56.000Z",
-      "summary": "@angular/cli Commit Description bump @modelcontextprotocol/sdk to 1.31.0",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v21.2.25",
-      "title": "21.2.25",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v21.2.25",
-      "publishedAt": "2026-10-05T09:21:59.000Z",
-      "summary": "@angular/build Commit Description bump piscina to 5.3.2",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v20.3.38",
-      "title": "20.3.38",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v20.3.38",
-      "publishedAt": "2026-10-05T09:17:15.000Z",
-      "summary": "@angular/build Commit Description bump piscina to 5.3.2",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
       "id": "https://foojay.io/today/changes-included-in-release-26-08-of-azul-zing-builds-of-openjdk/",
       "title": "Changes Included in Release 26.08 of Azul Zing Builds of OpenJDK",
       "url": "https://foojay.io/today/changes-included-in-release-26-08-of-azul-zing-builds-of-openjdk/",
@@ -276,50 +345,6 @@
         "typescript-7",
         "angular-compiler"
       ]
-    },
-    {
-      "id": "https://spring.io/blog/2026/09/25/spring-ai-2-1-0-M1-available-now",
-      "title": "Spring AI 2.1.0-M1 Available Now",
-      "url": "https://spring.io/blog/2026/09/25/spring-ai-2-1-0-M1-available-now",
-      "publishedAt": "2026-09-25T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
-      "tags": []
-    },
-    {
-      "id": "https://spring.io/blog/2026/09/25/spring-boot-4-2-0-M2-available-now",
-      "title": "Spring Boot 4.2.0-M2 available now",
-      "url": "https://spring.io/blog/2026/09/25/spring-boot-4-2-0-M2-available-now",
-      "publishedAt": "2026-09-25T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
-      "tags": []
-    },
-    {
-      "id": "https://spring.io/blog/2026/09/24/spring-batch-6",
-      "title": "Spring Batch 6.1.0-M2 is out!",
-      "url": "https://spring.io/blog/2026/09/24/spring-batch-6",
-      "publishedAt": "2026-09-24T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
-      "tags": []
-    },
-    {
-      "id": "https://spring.io/blog/2026/09/24/spring-cloud-2026-0-0-M1-has-been-released",
-      "title": "Spring Cloud 2026.0.0-M1 (aka Paddington) Has Been Released",
-      "url": "https://spring.io/blog/2026/09/24/spring-cloud-2026-0-0-M1-has-been-released",
-      "publishedAt": "2026-09-24T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
-      "tags": []
     },
     {
       "id": "https://foojay.io/today/one-base-url-many-coding-agents-what-an-openai-compatible-gateway-looks-like-from-java-net-http/",
@@ -496,23 +521,6 @@
       "tags": [
         "angular-weekly",
         "angular"
-      ]
-    },
-    {
-      "id": "https://medium.com/p/e1ffea2303bd",
-      "title": "Demystifying A2UI: How to Make AI Agents “Speak UI” in Your App",
-      "url": "https://blog.angular.dev/demystifying-a2ui-how-to-make-ai-agents-speak-ui-in-your-app-e1ffea2303bd?source=rss----447683c3d9a3---4",
-      "publishedAt": "2026-06-26T09:01:02.000Z",
-      "summary": "",
-      "sourceId": "angular-blog",
-      "sourceName": "Angular Blog",
-      "tech": "Angular",
-      "tags": [
-        "adk",
-        "a2ui",
-        "genuis",
-        "angular",
-        "a2a"
       ]
     },
     {
@@ -719,17 +727,6 @@
       "url": "https://foojay.io/today/azul-and-jetbrains-collaborate-to-enhance-runtime-performance-for-kotlin-workloads/",
       "publishedAt": "2025-05-26T08:23:56.000Z",
       "summary": "SUNNYVALE, Calif., — May 20, 2025 — Azul, the only company 100% focused on Java, and JetBrains, the leading provider of professional software development tools and creator of the Kotlin programming language, today announced a strategic technical collaboration to enhance the runtime performance and scalability of web an",
-      "sourceId": "foojay-release-notes",
-      "sourceName": "Foojay (Release Notes)",
-      "tech": "Java",
-      "tags": []
-    },
-    {
-      "id": "https://foojay.io/today/java-24-rolls-out-today-find-out-why-its-aptly-named/",
-      "title": "Java 24 Rolls Out Today! Find Out Why It's Aptly Named",
-      "url": "https://foojay.io/today/java-24-rolls-out-today-find-out-why-its-aptly-named/",
-      "publishedAt": "2025-03-18T07:36:39.000Z",
-      "summary": "Java 24 rolls out today! It’s been six months since Java 23 was released, so it’s time for another helping of new features. And this particular release of Java is aptly named, because it contains exactly 24 JEPs. Coincidence? I think not. 🙂 Java 24 brings a diverse set of features, delivering performance improvements ",
       "sourceId": "foojay-release-notes",
       "sourceName": "Foojay (Release Notes)",
       "tech": "Java",
