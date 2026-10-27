@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T10:17:34.605Z",
+  "generatedAt": "2026-10-27T11:10:52.024Z",
   "items": [
     {
       "id": "https://medium.com/p/67513b4b85e1",
@@ -49,9 +49,9 @@
       "tags": []
     },
     {
-      "id": "https://spring.io/blog/2026/10/23/spring-boot-4-2-0-RC1-available-now",
-      "title": "Spring Boot 4.2.0-RC1 available now",
-      "url": "https://spring.io/blog/2026/10/23/spring-boot-4-2-0-RC1-available-now",
+      "id": "https://spring.io/blog/2026/10/23/spring-cloud-2025-1-4-has-been-released",
+      "title": "Spring Cloud 2025.1.4 (aka Northfields) Has Been Released",
+      "url": "https://spring.io/blog/2026/10/23/spring-cloud-2025-1-4-has-been-released",
       "publishedAt": "2026-10-23T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
@@ -64,7 +64,7 @@
       "title": "Azul Zulu October 2026 Quarterly Update: 53 CVEs, Then a Zero-Day One Day Later",
       "url": "https://foojay.io/today/azul-zulu-october-2026-quarterly-update-and-out-of-cycle-release/",
       "publishedAt": "2026-10-23T00:00:00.000Z",
-      "summary": "A record-breaking quarterly update is supposed to be the big security event of the quarter. On October 20, 2026, Azul released the October 2026 update for Azul Zulu Builds of OpenJDK, covering Java 27, 25, 21, 17, 11, 8, 7, and 6, with patches for 53 CVEs. Within a day it was not enough anymore: a zero-day showed up th",
+      "summary": "Warning The Out-of-Cycle release mentioned in this post, was followed by a new one on October 24. A new, related vulnerability has been detected. Azul asks all its customers to update to the latest release ASAP. See the Azul Zulu release notes of October 24, 2026 for all info. A record-breaking quarterly update is supp",
       "sourceId": "foojay-release-notes",
       "sourceName": "Foojay (Release Notes)",
       "tech": "Java",
