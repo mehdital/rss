@@ -1,6 +1,50 @@
 {
-  "generatedAt": "2026-10-27T11:10:52.024Z",
+  "generatedAt": "2026-10-28T11:45:04.184Z",
   "items": [
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v22.3.0-next.4",
+      "title": "22.3.0-next.4",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v22.3.0-next.4",
+      "publishedAt": "2026-10-28T10:05:41.000Z",
+      "summary": "@schematics/angular Commit Description avoid adding web worker snippet to server configuration files ignore non-workspace stylesheet entries when adding Tailwind include the SSR entry file in the trust-proxy-headers migration include the type separator in the class spec import keep the default getter access type of spy",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v22.2.5",
+      "title": "22.2.5",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v22.2.5",
+      "publishedAt": "2026-10-28T10:00:30.000Z",
+      "summary": "@schematics/angular Commit Description avoid adding web worker snippet to server configuration files ignore non-workspace stylesheet entries when adding Tailwind include the SSR entry file in the trust-proxy-headers migration include the type separator in the class spec import keep the default getter access type of spy",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v21.2.29",
+      "title": "21.2.29",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v21.2.29",
+      "publishedAt": "2026-10-28T09:54:13.000Z",
+      "summary": "@angular-devkit/build-angular Commit Description update webpack-dev-middleware to 7.4.6 @angular/build Commit Description bump undici to 7.30.1 escape prerender redirect URLs serialize server manifest asset paths",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v20.3.42",
+      "title": "20.3.42",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v20.3.42",
+      "publishedAt": "2026-10-28T09:49:08.000Z",
+      "summary": "@angular-devkit/build-angular Commit Description bump undici to 7.30.1 update webpack-dev-middleware to 7.4.6 @angular/build Commit Description escape prerender redirect URLs",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
     {
       "id": "https://medium.com/p/67513b4b85e1",
       "title": "From running edge-rendered Angular apps on Cloudflare Workers to crafting lifelike speech with…",
@@ -27,17 +71,6 @@
       "tags": []
     },
     {
-      "id": "https://spring.io/blog/2026/10/23/spring-boot-4-0-9-available-now",
-      "title": "Spring Boot 4.0.9 available now",
-      "url": "https://spring.io/blog/2026/10/23/spring-boot-4-0-9-available-now",
-      "publishedAt": "2026-10-23T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
-      "tags": []
-    },
-    {
       "id": "https://spring.io/blog/2026/10/23/spring-boot-4-1-2-available-now",
       "title": "Spring Boot 4.1.2 available now",
       "url": "https://spring.io/blog/2026/10/23/spring-boot-4-1-2-available-now",
@@ -49,9 +82,20 @@
       "tags": []
     },
     {
-      "id": "https://spring.io/blog/2026/10/23/spring-cloud-2025-1-4-has-been-released",
-      "title": "Spring Cloud 2025.1.4 (aka Northfields) Has Been Released",
-      "url": "https://spring.io/blog/2026/10/23/spring-cloud-2025-1-4-has-been-released",
+      "id": "https://spring.io/blog/2026/10/23/spring-boot-4-2-0-RC1-available-now",
+      "title": "Spring Boot 4.2.0-RC1 available now",
+      "url": "https://spring.io/blog/2026/10/23/spring-boot-4-2-0-RC1-available-now",
+      "publishedAt": "2026-10-23T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "https://spring.io/blog/2026/10/23/spring-cloud-2026-0-0-RC1-has-been-released",
+      "title": "Spring Cloud 2026.0.0-RC1 (aka Paddington) Has Been Released",
+      "url": "https://spring.io/blog/2026/10/23/spring-cloud-2026-0-0-RC1-has-been-released",
       "publishedAt": "2026-10-23T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
@@ -137,17 +181,6 @@
       "tags": []
     },
     {
-      "id": "tag:github.com,2008:Repository/36891867/v21.2.27",
-      "title": "21.2.27",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v21.2.27",
-      "publishedAt": "2026-10-15T02:50:17.000Z",
-      "summary": "@angular/cli Commit Description update zod to 4.6.6",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
       "id": "tag:github.com,2008:Repository/24195339/v22.2.3",
       "title": "22.2.3",
       "url": "https://github.com/angular/angular/releases/tag/v22.2.3",
@@ -177,17 +210,6 @@
       "summary": "core Commit Description i18n flags leaking on errors http Commit Description enable XSRF protection for same-origin absolute URLs",
       "sourceId": "angular-releases",
       "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v20.3.40",
-      "title": "20.3.40",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v20.3.40",
-      "publishedAt": "2026-10-14T22:32:05.000Z",
-      "summary": "@angular/cli Commit Description update zod to 4.6.6",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
       "tech": "Angular",
       "tags": []
     },
@@ -225,28 +247,6 @@
       "summary": "compiler Commit Description avoid leaking ::ng-deep detection state between rules avoid prototype lookups when resolving entities correctly match directives on &lt;ng-template&gt; nested in various namespaces ignore @let declarations in the control flow content projection diagnostic match namespaced root nodes of contr",
       "sourceId": "angular-releases",
       "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v22.3.0-next.1",
-      "title": "22.3.0-next.1",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v22.3.0-next.1",
-      "publishedAt": "2026-10-07T07:14:29.000Z",
-      "summary": "@angular-devkit/build-angular Commit Description preserve Host header when proxying in ssr-dev-server @angular/build Commit Description allow library outputPath within project root capture and report Rolldown warnings and errors in library builder keep the order of glob entries in the proxy configuration resolve librar",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v22.2.2",
-      "title": "22.2.2",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v22.2.2",
-      "publishedAt": "2026-10-07T07:10:57.000Z",
-      "summary": "@angular-devkit/build-angular Commit Description preserve Host header when proxying in ssr-dev-server @angular/build Commit Description keep the order of glob entries in the proxy configuration support a string context in array-form proxy configurations",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
       "tech": "Angular",
       "tags": []
     },
