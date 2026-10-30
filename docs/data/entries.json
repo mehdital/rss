@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-10-29T11:53:23.191Z",
+  "generatedAt": "2026-10-30T11:46:28.260Z",
   "items": [
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v22.3.0-next.3",
+      "title": "22.3.0-next.3",
+      "url": "https://github.com/angular/angular/releases/tag/v22.3.0-next.3",
+      "publishedAt": "2026-10-29T17:51:29.000Z",
+      "summary": "compiler Commit Description avoid treating attributes with object prototype names as being translated default to Eager change detection for pre-v22 libraries in JIT report errors for malformed template literal interpolations skip escaped characters when looking for comments in expressions compiler-cli Commit Descriptio",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v22.2.4",
+      "title": "22.2.4",
+      "url": "https://github.com/angular/angular/releases/tag/v22.2.4",
+      "publishedAt": "2026-10-29T17:41:23.000Z",
+      "summary": "compiler Commit Description avoid treating attributes with object prototype names as being translated default to Eager change detection for pre-v22 libraries in JIT report errors for malformed template literal interpolations skip escaped characters when looking for comments in expressions compiler-cli Commit Descriptio",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
     {
       "id": "tag:github.com,2008:Repository/36891867/v22.3.0-next.4",
       "title": "22.3.0-next.4",
@@ -60,6 +82,17 @@
       ]
     },
     {
+      "id": "https://spring.io/blog/2026/10/23/spring-ai-2-1-0-RC1-available-now",
+      "title": "Spring AI 2.1.0-RC1 and 2.0.2 Available Now",
+      "url": "https://spring.io/blog/2026/10/23/spring-ai-2-1-0-RC1-available-now",
+      "publishedAt": "2026-10-23T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
       "id": "https://spring.io/blog/2026/10/23/spring-boot-4-0-9-available-now",
       "title": "Spring Boot 4.0.9 available now",
       "url": "https://spring.io/blog/2026/10/23/spring-boot-4-0-9-available-now",
@@ -82,20 +115,9 @@
       "tags": []
     },
     {
-      "id": "https://spring.io/blog/2026/10/23/spring-boot-4-2-0-RC1-available-now",
-      "title": "Spring Boot 4.2.0-RC1 available now",
-      "url": "https://spring.io/blog/2026/10/23/spring-boot-4-2-0-RC1-available-now",
-      "publishedAt": "2026-10-23T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
-      "tags": []
-    },
-    {
-      "id": "https://spring.io/blog/2026/10/23/spring-ai-2-1-0-RC1-available-now",
-      "title": "Spring AI 2.1.0-RC1 and 2.0.2 Available Now",
-      "url": "https://spring.io/blog/2026/10/23/spring-ai-2-1-0-RC1-available-now",
+      "id": "https://spring.io/blog/2026/10/23/spring-cloud-2025-1-4-has-been-released",
+      "title": "Spring Cloud 2025.1.4 (aka Northfields) Has Been Released",
+      "url": "https://spring.io/blog/2026/10/23/spring-cloud-2025-1-4-has-been-released",
       "publishedAt": "2026-10-23T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
@@ -289,28 +311,6 @@
       "url": "https://github.com/angular/angular/releases/tag/v21.2.25",
       "publishedAt": "2026-09-30T18:17:46.000Z",
       "summary": "platform-server Commit Description reject protocol-relative paths in resolveUrl router Commit Description do not copy URL-sized objects into every route snapshot reject duplicate outlets in production builds require outlets to match a route before processing child segments do not retain UrlTree instances in RouterLink",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v20.3.33",
-      "title": "20.3.33",
-      "url": "https://github.com/angular/angular/releases/tag/v20.3.33",
-      "publishedAt": "2026-09-30T17:52:48.000Z",
-      "summary": "platform-server Commit Description reject protocol-relative paths in resolveUrl router Commit Description do not copy URL-sized objects into every route snapshot reject duplicate outlets in production builds require outlets to match a route before processing child segments",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/vsix-22.2.0",
-      "title": "VSCode Extension: 22.2.0",
-      "url": "https://github.com/angular/angular/releases/tag/vsix-22.2.0",
-      "publishedAt": "2026-09-25T17:46:04.000Z",
-      "summary": "fix(vscode-extension): Support inlay hint in inline templates (c11920da48) fix(vscode-extension): provide folding ranges for templates with interpolated strings (5c927fba0d) fix(vscode-extension): handle template literals when detecting supported decorator fields (f2cf65a898) feat(language-service): add support for @bo",
       "sourceId": "angular-releases",
       "sourceName": "Angular (GitHub Releases)",
       "tech": "Angular",
