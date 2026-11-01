@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T11:20:15.553Z",
+  "generatedAt": "2026-11-01T12:11:33.022Z",
   "items": [
     {
       "id": "tag:github.com,2008:Repository/24195339/v22.3.0-next.3",
@@ -82,6 +82,17 @@
       ]
     },
     {
+      "id": "https://spring.io/blog/2026/10/23/spring-ai-2-1-0-RC1-available-now",
+      "title": "Spring AI 2.1.0-RC1 and 2.0.2 Available Now",
+      "url": "https://spring.io/blog/2026/10/23/spring-ai-2-1-0-RC1-available-now",
+      "publishedAt": "2026-10-23T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
       "id": "https://spring.io/blog/2026/10/23/spring-boot-4-0-9-available-now",
       "title": "Spring Boot 4.0.9 available now",
       "url": "https://spring.io/blog/2026/10/23/spring-boot-4-0-9-available-now",
@@ -104,20 +115,9 @@
       "tags": []
     },
     {
-      "id": "https://spring.io/blog/2026/10/23/spring-ai-2-1-0-RC1-available-now",
-      "title": "Spring AI 2.1.0-RC1 and 2.0.2 Available Now",
-      "url": "https://spring.io/blog/2026/10/23/spring-ai-2-1-0-RC1-available-now",
-      "publishedAt": "2026-10-23T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
-      "tags": []
-    },
-    {
-      "id": "https://spring.io/blog/2026/10/23/spring-cloud-2025-1-4-has-been-released",
-      "title": "Spring Cloud 2025.1.4 (aka Northfields) Has Been Released",
-      "url": "https://spring.io/blog/2026/10/23/spring-cloud-2025-1-4-has-been-released",
+      "id": "https://spring.io/blog/2026/10/23/spring-boot-4-2-0-RC1-available-now",
+      "title": "Spring Boot 4.2.0-RC1 available now",
+      "url": "https://spring.io/blog/2026/10/23/spring-boot-4-2-0-RC1-available-now",
       "publishedAt": "2026-10-23T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
