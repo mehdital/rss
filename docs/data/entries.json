@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-11-05T13:38:30.829Z",
+  "generatedAt": "2026-11-06T13:21:18.277Z",
   "items": [
+    {
+      "id": "https://spring.io/blog/2026/11/06/spring-boot-4-2-0-RC2-available-now",
+      "title": "Spring Boot 4.2.0-RC2 available now",
+      "url": "https://spring.io/blog/2026/11/06/spring-boot-4-2-0-RC2-available-now",
+      "publishedAt": "2026-11-06T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v22.3.0-next.4",
+      "title": "22.3.0-next.4",
+      "url": "https://github.com/angular/angular/releases/tag/v22.3.0-next.4",
+      "publishedAt": "2026-11-05T23:00:46.000Z",
+      "summary": "compiler Commit Description avoid compilation errors for invalid tracking functions avoid producing type errors for invalid @let usages compiler-cli Commit Description add explicit type to propDecorators add validation for defer in local compilation mode do not decorate signal APIs in preprocessor emit namespace import",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
     {
       "id": "tag:github.com,2008:Repository/36891867/v22.3.0-next.5",
       "title": "22.3.0-next.5",
@@ -10,6 +32,17 @@
       "sourceId": "angular-cli-releases",
       "sourceName": "Angular CLI (GitHub Releases)",
       "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "https://spring.io/blog/2026/11/05/spring-cloud-2026-0-0-RC2-has-been-released",
+      "title": "Spring Cloud 2026.0.0-RC2 (aka Paddington) Has Been Released",
+      "url": "https://spring.io/blog/2026/11/05/spring-cloud-2026-0-0-RC2-has-been-released",
+      "publishedAt": "2026-11-05T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
       "tags": []
     },
     {
@@ -159,28 +192,6 @@
       "tags": []
     },
     {
-      "id": "https://spring.io/blog/2026/10/23/spring-boot-4-1-2-available-now",
-      "title": "Spring Boot 4.1.2 available now",
-      "url": "https://spring.io/blog/2026/10/23/spring-boot-4-1-2-available-now",
-      "publishedAt": "2026-10-23T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
-      "tags": []
-    },
-    {
-      "id": "https://spring.io/blog/2026/10/23/spring-boot-4-2-0-RC1-available-now",
-      "title": "Spring Boot 4.2.0-RC1 available now",
-      "url": "https://spring.io/blog/2026/10/23/spring-boot-4-2-0-RC1-available-now",
-      "publishedAt": "2026-10-23T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
-      "tags": []
-    },
-    {
       "id": "https://foojay.io/today/azul-zulu-october-2026-quarterly-update-and-out-of-cycle-release/",
       "title": "Azul Zulu October 2026 Quarterly Update: 53 CVEs, Then a Zero-Day One Day Later",
       "url": "https://foojay.io/today/azul-zulu-october-2026-quarterly-update-and-out-of-cycle-release/",
@@ -314,17 +325,6 @@
       "sourceId": "foojay-release-notes",
       "sourceName": "Foojay (Release Notes)",
       "tech": "Java",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v22.3.0-next.0",
-      "title": "22.3.0-next.0",
-      "url": "https://github.com/angular/angular/releases/tag/v22.3.0-next.0",
-      "publishedAt": "2026-09-30T18:56:15.000Z",
-      "summary": "compiler Commit Description stop suppressing non-iterable values in @for expression compiler-cli Commit Description resolve base class defined via intermediate variable in dts validate unknown element tags even when matched by attribute directives core Commit Description support increment/decrement operators in express",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
       "tags": []
     },
     {
