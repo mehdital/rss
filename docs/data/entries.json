@@ -1,6 +1,32 @@
 {
-  "generatedAt": "2026-11-06T13:21:18.277Z",
+  "generatedAt": "2026-11-07T12:00:07.665Z",
   "items": [
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v22.2.5",
+      "title": "22.2.5",
+      "url": "https://github.com/angular/angular/releases/tag/v22.2.5",
+      "publishedAt": "2026-11-06T19:37:09.000Z",
+      "summary": "core Commit Description add debugName option to rxResource escape comment markers which share characters remove attribute when img/video attr.src is null or undefined forms Commit Description reflect required validators in compat fields support updateOn blur and submit for custom FormValueControl avoid creating unused ",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "https://medium.com/p/be82fd4a8c87",
+      "title": "Core Vitals Optimization, SSR Deployments, and Signal-First Architecture ⚡",
+      "url": "https://blog.angular.dev/core-vitals-optimization-ssr-deployments-and-signal-first-architecture-be82fd4a8c87?source=rss----447683c3d9a3---4",
+      "publishedAt": "2026-11-06T15:01:04.000Z",
+      "summary": "",
+      "sourceId": "angular-blog",
+      "sourceName": "Angular Blog",
+      "tech": "Angular",
+      "tags": [
+        "angular-newsletter",
+        "angular-weekly",
+        "angular"
+      ]
+    },
     {
       "id": "https://spring.io/blog/2026/11/06/spring-boot-4-2-0-RC2-available-now",
       "title": "Spring Boot 4.2.0-RC2 available now",
@@ -306,17 +332,6 @@
       "tags": []
     },
     {
-      "id": "tag:github.com,2008:Repository/24195339/v22.2.2",
-      "title": "22.2.2",
-      "url": "https://github.com/angular/angular/releases/tag/v22.2.2",
-      "publishedAt": "2026-10-08T17:50:06.000Z",
-      "summary": "compiler Commit Description avoid leaking ::ng-deep detection state between rules avoid prototype lookups when resolving entities correctly match directives on &lt;ng-template&gt; nested in various namespaces ignore @let declarations in the control flow content projection diagnostic match namespaced root nodes of contr",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
       "id": "https://foojay.io/today/changes-included-in-release-26-08-of-azul-zing-builds-of-openjdk/",
       "title": "Changes Included in Release 26.08 of Azul Zing Builds of OpenJDK",
       "url": "https://foojay.io/today/changes-included-in-release-26-08-of-azul-zing-builds-of-openjdk/",
@@ -519,20 +534,6 @@
       "sourceName": "Foojay (Release Notes)",
       "tech": "Java",
       "tags": []
-    },
-    {
-      "id": "https://medium.com/p/15c768142043",
-      "title": "Community Engineering, Agentic Coding, and Real-User Component Testing ️",
-      "url": "https://blog.angular.dev/community-engineering-agentic-coding-and-real-user-component-testing-%EF%B8%8F-15c768142043?source=rss----447683c3d9a3---4",
-      "publishedAt": "2026-07-07T15:47:29.000Z",
-      "summary": "",
-      "sourceId": "angular-blog",
-      "sourceName": "Angular Blog",
-      "tech": "Angular",
-      "tags": [
-        "angular-weekly",
-        "angular"
-      ]
     },
     {
       "id": "https://foojay.io/today/whats-new-in-the-june-2026-azul-payara-release/",
