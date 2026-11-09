@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-11-08T12:20:22.810Z",
+  "generatedAt": "2026-11-09T14:32:59.289Z",
   "items": [
+    {
+      "id": "https://spring.io/blog/2026/11/09/spring-ai-2-1-0-RC2-available-now",
+      "title": "Spring AI 2.1.0-RC2 Available Now",
+      "url": "https://spring.io/blog/2026/11/09/spring-ai-2-1-0-RC2-available-now",
+      "publishedAt": "2026-11-09T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
     {
       "id": "tag:github.com,2008:Repository/24195339/v22.2.5",
       "title": "22.2.5",
@@ -199,17 +210,6 @@
       "id": "https://spring.io/blog/2026/10/23/spring-ai-2-1-0-RC1-available-now",
       "title": "Spring AI 2.1.0-RC1 and 2.0.2 Available Now",
       "url": "https://spring.io/blog/2026/10/23/spring-ai-2-1-0-RC1-available-now",
-      "publishedAt": "2026-10-23T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
-      "tags": []
-    },
-    {
-      "id": "https://spring.io/blog/2026/10/23/spring-boot-4-0-9-available-now",
-      "title": "Spring Boot 4.0.9 available now",
-      "url": "https://spring.io/blog/2026/10/23/spring-boot-4-0-9-available-now",
       "publishedAt": "2026-10-23T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
