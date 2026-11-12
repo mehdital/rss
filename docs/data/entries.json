@@ -1,6 +1,61 @@
 {
-  "generatedAt": "2026-11-11T13:05:04.416Z",
+  "generatedAt": "2026-11-12T14:07:38.477Z",
   "items": [
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v22.3.0-rc.0",
+      "title": "22.3.0-rc.0",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v22.3.0-rc.0",
+      "publishedAt": "2026-11-12T14:03:01.000Z",
+      "summary": "@angular/cli Commit Description fix pnpm-workspace.yaml sanitization when using pnpm patches report the worktree-local cache in ng cache info support array options defined in oneOf schemas @schematics/angular Commit Description use library builder and add entry-point schematic add the missing vi import for toHaveBeenCa",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v22.2.7",
+      "title": "22.2.7",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v22.2.7",
+      "publishedAt": "2026-11-12T13:32:42.000Z",
+      "summary": "@schematics/angular Commit Description add the missing vi import for toHaveBeenCalledBefore in refactor-jasmine-vitest @angular/cli Commit Description fix pnpm-workspace.yaml sanitization when using pnpm patches report the worktree-local cache in ng cache info @angular-devkit/schematics Commit Description do not ignore",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v22.3.0-rc.0",
+      "title": "22.3.0-rc.0",
+      "url": "https://github.com/angular/angular/releases/tag/v22.3.0-rc.0",
+      "publishedAt": "2026-11-12T00:07:41.000Z",
+      "summary": "animations Commit Description memory leak in renderer common Commit Description omit empty arrays from HttpParams restore natural order when KeyValuePipe compareFn changes to null compiler Commit Description report unknown property bindings on explicit ng-template elements convert &ngsp; to a space inside ngNonBindable",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v22.2.6",
+      "title": "22.2.6",
+      "url": "https://github.com/angular/angular/releases/tag/v22.2.6",
+      "publishedAt": "2026-11-12T00:01:30.000Z",
+      "summary": "animations Commit Description memory leak in renderer common Commit Description omit empty arrays from HttpParams restore natural order when KeyValuePipe compareFn changes to null compiler Commit Description convert &ngsp; to a space inside ngNonBindable handle void expressions in constant literals report errors at arr",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "https://foojay.io/today/java-27-whats-new/",
+      "title": "Java 27: What’s New?",
+      "url": "https://foojay.io/today/java-27-whats-new/",
+      "publishedAt": "2026-11-12T00:00:00.000Z",
+      "summary": "This article was first published in my personal blog: Java 27: What’s new? and is part of a serie on what’s new on the last versions of Java). Now that Java 27 is available, it’s time to walk through all the functionalities that bring to us, developers, this new version. After Java 26 and its 10 JEPs, Java 27 arrives w",
+      "sourceId": "foojay-release-notes",
+      "sourceName": "Foojay (Release Notes)",
+      "tech": "Java",
+      "tags": []
+    },
     {
       "id": "https://spring.io/blog/2026/11/09/spring-ai-2-1-0-RC2-available-now",
       "title": "Spring AI 2.1.0-RC2 Available Now",
@@ -240,28 +295,6 @@
       "tags": []
     },
     {
-      "id": "tag:github.com,2008:Repository/36891867/v21.2.28",
-      "title": "21.2.28",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v21.2.28",
-      "publishedAt": "2026-10-22T14:00:22.000Z",
-      "summary": "@angular/cli Commit Description bump @modelcontextprotocol/sdk to 1.32.1 @angular-devkit/build-angular Commit Description update webpack to 5.112.0 @angular/build Commit Description bump vite to 7.3.7",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v20.3.41",
-      "title": "20.3.41",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v20.3.41",
-      "publishedAt": "2026-10-22T13:55:43.000Z",
-      "summary": "@angular/cli Commit Description bump @modelcontextprotocol/sdk to 1.32.1 @angular-devkit/build-angular Commit Description update webpack to 5.112.0 @angular/build Commit Description bump vite to 7.3.7",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
       "id": "tag:github.com,2008:Repository/36891867/v22.2.4",
       "title": "22.2.4",
       "url": "https://github.com/angular/angular-cli/releases/tag/v22.2.4",
@@ -295,17 +328,6 @@
       "tags": []
     },
     {
-      "id": "tag:github.com,2008:Repository/24195339/v20.3.34",
-      "title": "20.3.34",
-      "url": "https://github.com/angular/angular/releases/tag/v20.3.34",
-      "publishedAt": "2026-10-14T23:19:08.000Z",
-      "summary": "core Commit Description i18n flags leaking on errors http Commit Description enable XSRF protection for same-origin absolute URLs",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
       "id": "https://medium.com/p/3846cae9283a",
       "title": "Signal Value Transforms, Routing Essentials, and Video Extension with Veo! ⚡",
       "url": "https://blog.angular.dev/signal-value-transforms-routing-essentials-and-video-extension-with-veo-3846cae9283a?source=rss----447683c3d9a3---4",
@@ -319,17 +341,6 @@
         "angular",
         "angular-weekly"
       ]
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v22.3.0-next.1",
-      "title": "22.3.0-next.1",
-      "url": "https://github.com/angular/angular/releases/tag/v22.3.0-next.1",
-      "publishedAt": "2026-10-08T18:07:15.000Z",
-      "summary": "compiler Commit Description avoid leaking ::ng-deep detection state between rules avoid prototype lookups when resolving entities correctly match directives on &lt;ng-template&gt; nested in various namespaces ignore @let declarations in the control flow content projection diagnostic match namespaced root nodes of contr",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
     },
     {
       "id": "https://foojay.io/today/changes-included-in-release-26-08-of-azul-zing-builds-of-openjdk/",
@@ -717,17 +728,6 @@
       "url": "https://foojay.io/today/boxlang-v1-6-0-performance-ai-powered-docs-and-advanced-async-monitoring-2/",
       "publishedAt": "2025-10-29T06:48:07.000Z",
       "summary": "We’re thrilled to announce BoxLang 1.6.0, a release that delivers massive performance improvements, intelligent developer tooling, and enhanced async capabilities. This release focuses on making BoxLang faster, smarter, and more observable than ever before. 🚀 What’s New in 1.6.0? 🤖 BoxLang Documentation Meets AI: MCP",
-      "sourceId": "foojay-release-notes",
-      "sourceName": "Foojay (Release Notes)",
-      "tech": "Java",
-      "tags": []
-    },
-    {
-      "id": "https://foojay.io/today/azuls-high-performance-java-platform-achieves-historic-first-with-10000-customer-jvms-collaborating-and-sharing-performance-optimizations-cutting-cloud-costs-by-20/",
-      "title": "Azul’s High-Performance Java Platform Achieves Historic First",
-      "url": "https://foojay.io/today/azuls-high-performance-java-platform-achieves-historic-first-with-10000-customer-jvms-collaborating-and-sharing-performance-optimizations-cutting-cloud-costs-by-20/",
-      "publishedAt": "2025-09-17T16:49:56.000Z",
-      "summary": "Azul Platform Prime Achieves Historic First with 10,000+ JVMs Collaborating and Sharing Performance Optimizations, Cutting Cloud Costs by More than 20% Fleet-level advantages achieved for cloud-native Java applications with faster warm-up, smoother scaling and reduced cost SUNNYVALE, Calif. — September 17, 2025 — Azul,",
       "sourceId": "foojay-release-notes",
       "sourceName": "Foojay (Release Notes)",
       "tech": "Java",
