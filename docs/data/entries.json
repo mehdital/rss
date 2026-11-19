@@ -1,6 +1,50 @@
 {
-  "generatedAt": "2026-11-18T14:42:38.094Z",
+  "generatedAt": "2026-11-19T14:49:32.327Z",
   "items": [
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v22.3.0",
+      "title": "22.3.0",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v22.3.0",
+      "publishedAt": "2026-11-19T00:39:02.000Z",
+      "summary": "@angular/cli Commit Description support Oxfmt for automatic file formatting decouple official Node.js support check from execution gate include builder options for build and test in json-help support array options defined in oneOf schemas @schematics/angular Commit Description add use-library-builder migration to migra",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v22.2.8",
+      "title": "22.2.8",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v22.2.8",
+      "publishedAt": "2026-11-18T21:07:50.000Z",
+      "summary": "@schematics/angular Commit Description add a TODO for negated arrayWithExactContents in refactor-jasmine-vitest handle done callbacks in focused and skipped tests handle pending() in focused and skipped tests in refactor-jasmine-vitest preserve stub-by-default semantics for createSpy with an original function @angular/",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v22.3.0",
+      "title": "22.3.0",
+      "url": "https://github.com/angular/angular/releases/tag/v22.3.0",
+      "publishedAt": "2026-11-18T19:26:45.000Z",
+      "summary": "compiler Commit Description report unknown property bindings on explicit ng-template elements avoid compilation errors for invalid tracking functions avoid producing type errors for invalid @let usages disallow attribute and property names starting with a colon stop suppressing non-iterable values in @for expression co",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v22.2.7",
+      "title": "22.2.7",
+      "url": "https://github.com/angular/angular/releases/tag/v22.2.7",
+      "publishedAt": "2026-11-18T19:14:30.000Z",
+      "summary": "core Commit Description suppress hydration warnings in test environments throw NG0502 instead of a TypeError when a hydration comment is missing throw NG0512 instead of TypeError when hydration text node is missing forms Commit Description format Date min/max for controls with a ControlValueAccessor",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
     {
       "id": "tag:github.com,2008:Repository/36891867/v21.2.30",
       "title": "21.2.30",
@@ -248,28 +292,6 @@
       "tags": []
     },
     {
-      "id": "tag:github.com,2008:Repository/36891867/v21.2.29",
-      "title": "21.2.29",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v21.2.29",
-      "publishedAt": "2026-10-28T09:54:13.000Z",
-      "summary": "@angular-devkit/build-angular Commit Description update webpack-dev-middleware to 7.4.6 @angular/build Commit Description bump undici to 7.30.1 escape prerender redirect URLs serialize server manifest asset paths",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v20.3.42",
-      "title": "20.3.42",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v20.3.42",
-      "publishedAt": "2026-10-28T09:49:08.000Z",
-      "summary": "@angular-devkit/build-angular Commit Description bump undici to 7.30.1 update webpack-dev-middleware to 7.4.6 @angular/build Commit Description escape prerender redirect URLs",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
       "id": "https://medium.com/p/67513b4b85e1",
       "title": "From running edge-rendered Angular apps on Cloudflare Workers to crafting lifelike speech with…",
       "url": "https://blog.angular.dev/from-running-edge-rendered-angular-apps-on-cloudflare-workers-to-crafting-lifelike-speech-with-67513b4b85e1?source=rss----447683c3d9a3---4",
@@ -303,28 +325,6 @@
       "sourceId": "foojay-release-notes",
       "sourceName": "Foojay (Release Notes)",
       "tech": "Java",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v22.2.3",
-      "title": "22.2.3",
-      "url": "https://github.com/angular/angular/releases/tag/v22.2.3",
-      "publishedAt": "2026-10-14T23:38:58.000Z",
-      "summary": "common Commit Description harden param encoding against prototype pollution compiler Commit Description check @boundary blocks in the control flow content projection diagnostic compare the operand in ReadTemporaryExpr.isEquivalent do not scope comments placed inside of a selector harden JIT against prototype pollution ",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/24195339/v22.3.0-next.2",
-      "title": "22.3.0-next.2",
-      "url": "https://github.com/angular/angular/releases/tag/v22.3.0-next.2",
-      "publishedAt": "2026-10-14T23:30:09.000Z",
-      "summary": "common Commit Description harden param encoding against prototype pollution compiler Commit Description check @boundary blocks in the control flow content projection diagnostic compare the operand in ReadTemporaryExpr.isEquivalent do not scope comments placed inside of a selector harden JIT against prototype pollution ",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
       "tags": []
     },
     {
