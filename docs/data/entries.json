@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-11-19T14:49:32.327Z",
+  "generatedAt": "2026-11-20T14:30:27.002Z",
   "items": [
+    {
+      "id": "https://medium.com/p/7d69d0d07a69",
+      "title": "The momentum across the global Angular ecosystem never slows down!",
+      "url": "https://blog.angular.dev/the-momentum-across-the-global-angular-ecosystem-never-slows-down-7d69d0d07a69?source=rss----447683c3d9a3---4",
+      "publishedAt": "2026-11-20T05:01:02.000Z",
+      "summary": "",
+      "sourceId": "angular-blog",
+      "sourceName": "Angular Blog",
+      "tech": "Angular",
+      "tags": [
+        "angular",
+        "angular-newsletter"
+      ]
+    },
+    {
+      "id": "https://spring.io/blog/2026/11/20/spring-boot-4-0-10-available-now",
+      "title": "Spring Boot 4.0.10 available now",
+      "url": "https://spring.io/blog/2026/11/20/spring-boot-4-0-10-available-now",
+      "publishedAt": "2026-11-20T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "https://spring.io/blog/2026/11/20/spring-boot-4-1-3-available-now",
+      "title": "Spring Boot 4.1.3 available now",
+      "url": "https://spring.io/blog/2026/11/20/spring-boot-4-1-3-available-now",
+      "publishedAt": "2026-11-20T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
     {
       "id": "tag:github.com,2008:Repository/36891867/v22.3.0",
       "title": "22.3.0",
@@ -10,6 +46,28 @@
       "sourceId": "angular-cli-releases",
       "sourceName": "Angular CLI (GitHub Releases)",
       "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "https://spring.io/blog/2026/11/19/spring-batch-6-1-0-available-now",
+      "title": "Spring Batch 6.1 is now GA!",
+      "url": "https://spring.io/blog/2026/11/19/spring-batch-6-1-0-available-now",
+      "publishedAt": "2026-11-19T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "https://spring.io/blog/2026/11/19/spring-data-2026-0-3-and-2025-1-9-released",
+      "title": "Spring Data 2026.0.3 and 2025.1.9 released",
+      "url": "https://spring.io/blog/2026/11/19/spring-data-2026-0-3-and-2025-1-9-released",
+      "publishedAt": "2026-11-19T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
       "tags": []
     },
     {
@@ -123,17 +181,6 @@
       "tags": []
     },
     {
-      "id": "https://spring.io/blog/2026/11/09/spring-ai-2-1-0-RC2-available-now",
-      "title": "Spring AI 2.1.0-RC2 Available Now",
-      "url": "https://spring.io/blog/2026/11/09/spring-ai-2-1-0-RC2-available-now",
-      "publishedAt": "2026-11-09T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
-      "tags": []
-    },
-    {
       "id": "tag:github.com,2008:Repository/24195339/v22.2.5",
       "title": "22.2.5",
       "url": "https://github.com/angular/angular/releases/tag/v22.2.5",
@@ -160,17 +207,6 @@
       ]
     },
     {
-      "id": "https://spring.io/blog/2026/11/06/spring-boot-4-2-0-RC2-available-now",
-      "title": "Spring Boot 4.2.0-RC2 available now",
-      "url": "https://spring.io/blog/2026/11/06/spring-boot-4-2-0-RC2-available-now",
-      "publishedAt": "2026-11-06T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
-      "tags": []
-    },
-    {
       "id": "tag:github.com,2008:Repository/24195339/v22.3.0-next.4",
       "title": "22.3.0-next.4",
       "url": "https://github.com/angular/angular/releases/tag/v22.3.0-next.4",
@@ -190,17 +226,6 @@
       "sourceId": "angular-cli-releases",
       "sourceName": "Angular CLI (GitHub Releases)",
       "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "https://spring.io/blog/2026/11/05/spring-cloud-2026-0-0-RC2-has-been-released",
-      "title": "Spring Cloud 2026.0.0-RC2 (aka Paddington) Has Been Released",
-      "url": "https://spring.io/blog/2026/11/05/spring-cloud-2026-0-0-RC2-has-been-released",
-      "publishedAt": "2026-11-05T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
       "tags": []
     },
     {
@@ -304,17 +329,6 @@
         "angular-newsletter",
         "angular"
       ]
-    },
-    {
-      "id": "https://spring.io/blog/2026/10/23/spring-ai-2-1-0-RC1-available-now",
-      "title": "Spring AI 2.1.0-RC1 and 2.0.2 Available Now",
-      "url": "https://spring.io/blog/2026/10/23/spring-ai-2-1-0-RC1-available-now",
-      "publishedAt": "2026-10-23T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
-      "tags": []
     },
     {
       "id": "https://foojay.io/today/azul-zulu-october-2026-quarterly-update-and-out-of-cycle-release/",
@@ -471,7 +485,7 @@
       "title": "Introducing Sheetmusic4J, a Java(FX) Library to Render and Interact with Sheet Music",
       "url": "https://foojay.io/today/introducing-sheetmusic4j-a-javafx-library-to-render-and-interact-with-sheet-music/",
       "publishedAt": "2026-07-30T07:28:00.000Z",
-      "summary": "I’m building MelodyMatrix with my son, an application to look at and play along with music. The app already shows a song in different views: falling blocks, chords, guitar views, and many more. Now we want a Learn section, a view that helps someone practice piano by following the actual sheet music while it plays. A st",
+      "summary": "I’m building MelodyMatrix with my son, an application to look at and play along with music. The app already shows a song in different views: falling blocks, chords, guitar views, and many more. Now we want a Learn section, a view that helps someone practice piano by following the actual sheet music while it plays.",
       "sourceId": "foojay-release-notes",
       "sourceName": "Foojay (Release Notes)",
       "tech": "Java",
@@ -509,20 +523,6 @@
       "sourceName": "Foojay (Release Notes)",
       "tech": "Java",
       "tags": []
-    },
-    {
-      "id": "https://medium.com/p/05440da623ad",
-      "title": "Reactive Flows, AI Agents, and State Events: This Week’s Angular Masterclass! ⚡",
-      "url": "https://blog.angular.dev/angular-weekly-july-17-2026-05440da623ad?source=rss----447683c3d9a3---4",
-      "publishedAt": "2026-07-17T10:01:04.000Z",
-      "summary": "",
-      "sourceId": "angular-blog",
-      "sourceName": "Angular Blog",
-      "tech": "Angular",
-      "tags": [
-        "angular-weekly",
-        "angular"
-      ]
     },
     {
       "id": "https://foojay.io/today/boxlang-1-15-0-released-blazing-fast-strings-runtime-portability-and-much-more/",
@@ -596,6 +596,17 @@
       "url": "https://foojay.io/today/boxlang-1-11-0-release/",
       "publishedAt": "2026-03-17T09:40:04.000Z",
       "summary": "We’re proud to announce BoxLang 1.11.0, a highly focused performance and stability release that delivers measurable speed improvements across every BoxLang application, with zero code changes required. The team invested deeply in bytecode generation, class loading, lock management, and type casting to produce one of th",
+      "sourceId": "foojay-release-notes",
+      "sourceName": "Foojay (Release Notes)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "https://foojay.io/today/java-26-is-here-and-with-it-a-solid-foundation-for-the-future/",
+      "title": "Java 26 Is Here, And With It a Solid Foundation for the Future",
+      "url": "https://foojay.io/today/java-26-is-here-and-with-it-a-solid-foundation-for-the-future/",
+      "publishedAt": "2026-03-17T07:00:00.000Z",
+      "summary": "Java 26 is here! Six months ago, we welcomed Java 25 into our hearts, which means it’s time for another fresh helping of Java features. This time, the set of features is a bit smaller compared to some of the previous releases, which can only mean one thing: the focus for this release was to provide a solid foundation f",
       "sourceId": "foojay-release-notes",
       "sourceName": "Foojay (Release Notes)",
       "tech": "Java",
@@ -717,17 +728,6 @@
       "url": "https://foojay.io/today/boxlang-1-7-0-delivers-streaming-distributed-caching-and-enhanced-jvm-performance/",
       "publishedAt": "2025-11-11T12:59:50.000Z",
       "summary": "Dynamic JVM Language Adds Server-Sent Events, JDBC Cache Store, and AST Generation Capabilities Houston, TX – November 7, 2025 – Ortus Solutions announced the release of BoxLang 1.7.0, a major update to its modern dynamic language for the JVM that delivers enterprise-grade capabilities for building real-time, horizonta",
-      "sourceId": "foojay-release-notes",
-      "sourceName": "Foojay (Release Notes)",
-      "tech": "Java",
-      "tags": []
-    },
-    {
-      "id": "https://foojay.io/today/boxlang-v1-6-0-performance-ai-powered-docs-and-advanced-async-monitoring-2/",
-      "title": "BoxLang v1.6.0 - Performance, AI-Powered Docs, and Advanced Async Monitoring",
-      "url": "https://foojay.io/today/boxlang-v1-6-0-performance-ai-powered-docs-and-advanced-async-monitoring-2/",
-      "publishedAt": "2025-10-29T06:48:07.000Z",
-      "summary": "We’re thrilled to announce BoxLang 1.6.0, a release that delivers massive performance improvements, intelligent developer tooling, and enhanced async capabilities. This release focuses on making BoxLang faster, smarter, and more observable than ever before. 🚀 What’s New in 1.6.0? 🤖 BoxLang Documentation Meets AI: MCP",
       "sourceId": "foojay-release-notes",
       "sourceName": "Foojay (Release Notes)",
       "tech": "Java",
