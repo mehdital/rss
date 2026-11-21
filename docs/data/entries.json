@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T14:30:27.002Z",
+  "generatedAt": "2026-11-21T13:49:06.628Z",
   "items": [
     {
       "id": "https://medium.com/p/7d69d0d07a69",
@@ -38,6 +38,28 @@
       "tags": []
     },
     {
+      "id": "https://spring.io/blog/2026/11/20/spring-ai-2-1-0-GA-available-now",
+      "title": "Spring AI 2.1.0 GA and 2.0.3 GA Available Now",
+      "url": "https://spring.io/blog/2026/11/20/spring-ai-2-1-0-GA-available-now",
+      "publishedAt": "2026-11-20T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "https://spring.io/blog/2026/11/20/spring-cloud-2025-1-5-has-been-released",
+      "title": "Spring Cloud 2025.1.5 (aka Oakwood) Has Been Released",
+      "url": "https://spring.io/blog/2026/11/20/spring-cloud-2025-1-5-has-been-released",
+      "publishedAt": "2026-11-20T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
       "id": "tag:github.com,2008:Repository/36891867/v22.3.0",
       "title": "22.3.0",
       "url": "https://github.com/angular/angular-cli/releases/tag/v22.3.0",
@@ -46,28 +68,6 @@
       "sourceId": "angular-cli-releases",
       "sourceName": "Angular CLI (GitHub Releases)",
       "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "https://spring.io/blog/2026/11/19/spring-batch-6-1-0-available-now",
-      "title": "Spring Batch 6.1 is now GA!",
-      "url": "https://spring.io/blog/2026/11/19/spring-batch-6-1-0-available-now",
-      "publishedAt": "2026-11-19T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
-      "tags": []
-    },
-    {
-      "id": "https://spring.io/blog/2026/11/19/spring-data-2026-0-3-and-2025-1-9-released",
-      "title": "Spring Data 2026.0.3 and 2025.1.9 released",
-      "url": "https://spring.io/blog/2026/11/19/spring-data-2026-0-3-and-2025-1-9-released",
-      "publishedAt": "2026-11-19T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
       "tags": []
     },
     {
