@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-11-22T13:42:23.132Z",
+  "generatedAt": "2026-11-23T16:42:18.235Z",
   "items": [
+    {
+      "id": "tag:github.com,2008:Repository/36891867/v21.2.31",
+      "title": "21.2.31",
+      "url": "https://github.com/angular/angular-cli/releases/tag/v21.2.31",
+      "publishedAt": "2026-11-23T10:15:50.000Z",
+      "summary": "@angular/build Commit Description bump vite to 7.3.8",
+      "sourceId": "angular-cli-releases",
+      "sourceName": "Angular CLI (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
+    {
+      "id": "https://foojay.io/today/which-java-build-are-you-running/",
+      "title": "Do You Know Which Java Build You Are Running?",
+      "url": "https://foojay.io/today/which-java-build-are-you-running/",
+      "publishedAt": "2026-11-23T00:00:00.000Z",
+      "summary": "At the JFall Conference in November (Ede, The Netherlands) I talked to a lot of Java developers and DevRel colleagues, and I asked everyone the same question: which Java version do you run? Most said 21, and a growing group said 25. That made me happy, because both are recent Long-Term Support (LTS) releases. Until a f",
+      "sourceId": "foojay-release-notes",
+      "sourceName": "Foojay (Release Notes)",
+      "tech": "Java",
+      "tags": []
+    },
     {
       "id": "https://medium.com/p/7d69d0d07a69",
       "title": "The momentum across the global Angular ecosystem never slows down!",
@@ -14,17 +36,6 @@
         "angular",
         "angular-newsletter"
       ]
-    },
-    {
-      "id": "https://spring.io/blog/2026/11/20/spring-ai-2-1-0-GA-available-now",
-      "title": "Spring AI 2.1.0 GA and 2.0.3 GA Available Now",
-      "url": "https://spring.io/blog/2026/11/20/spring-ai-2-1-0-GA-available-now",
-      "publishedAt": "2026-11-20T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "spring-releases",
-      "sourceName": "Spring Blog (Releases)",
-      "tech": "Java",
-      "tags": []
     },
     {
       "id": "https://spring.io/blog/2026/11/20/spring-boot-4-0-10-available-now",
@@ -52,6 +63,17 @@
       "id": "https://spring.io/blog/2026/11/20/spring-cloud-2025-1-5-has-been-released",
       "title": "Spring Cloud 2025.1.5 (aka Oakwood) Has Been Released",
       "url": "https://spring.io/blog/2026/11/20/spring-cloud-2025-1-5-has-been-released",
+      "publishedAt": "2026-11-20T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "spring-releases",
+      "sourceName": "Spring Blog (Releases)",
+      "tech": "Java",
+      "tags": []
+    },
+    {
+      "id": "https://spring.io/blog/2026/11/20/spring-cloud-2026-0-0-has-been-released",
+      "title": "Spring Cloud 2026.0.0 (aka Paddington) Has Been Released",
+      "url": "https://spring.io/blog/2026/11/20/spring-cloud-2026-0-0-has-been-released",
       "publishedAt": "2026-11-20T00:00:00.000Z",
       "summary": "",
       "sourceId": "spring-releases",
@@ -299,17 +321,6 @@
       "title": "22.3.0-next.4",
       "url": "https://github.com/angular/angular-cli/releases/tag/v22.3.0-next.4",
       "publishedAt": "2026-10-28T10:05:41.000Z",
-      "summary": "@schematics/angular Commit Description avoid adding web worker snippet to server configuration files ignore non-workspace stylesheet entries when adding Tailwind include the SSR entry file in the trust-proxy-headers migration include the type separator in the class spec import keep the default getter access type of spy",
-      "sourceId": "angular-cli-releases",
-      "sourceName": "Angular CLI (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
-      "id": "tag:github.com,2008:Repository/36891867/v22.2.5",
-      "title": "22.2.5",
-      "url": "https://github.com/angular/angular-cli/releases/tag/v22.2.5",
-      "publishedAt": "2026-10-28T10:00:30.000Z",
       "summary": "@schematics/angular Commit Description avoid adding web worker snippet to server configuration files ignore non-workspace stylesheet entries when adding Tailwind include the SSR entry file in the trust-proxy-headers migration include the type separator in the class spec import keep the default getter access type of spy",
       "sourceId": "angular-cli-releases",
       "sourceName": "Angular CLI (GitHub Releases)",
@@ -717,17 +728,6 @@
       "url": "https://foojay.io/today/boxlang-redis-has-landed-enterprise-grade-caching-pub-sub-and-distributed-locking/",
       "publishedAt": "2025-11-25T09:33:34.000Z",
       "summary": "We’re thrilled to announce the release of the BoxLang Redis Module (bx-redis) - a powerful addition to BoxLang that brings enterprise-grade Redis functionality directly into your applications. Whether you’re building distributed systems, implementing real-time messaging, or need high-performance caching, this module ha",
-      "sourceId": "foojay-release-notes",
-      "sourceName": "Foojay (Release Notes)",
-      "tech": "Java",
-      "tags": []
-    },
-    {
-      "id": "https://foojay.io/today/boxlang-1-7-0-delivers-streaming-distributed-caching-and-enhanced-jvm-performance/",
-      "title": "BoxLang 1.7 Released!",
-      "url": "https://foojay.io/today/boxlang-1-7-0-delivers-streaming-distributed-caching-and-enhanced-jvm-performance/",
-      "publishedAt": "2025-11-11T12:59:50.000Z",
-      "summary": "Dynamic JVM Language Adds Server-Sent Events, JDBC Cache Store, and AST Generation Capabilities Houston, TX – November 7, 2025 – Ortus Solutions announced the release of BoxLang 1.7.0, a major update to its modern dynamic language for the JVM that delivers enterprise-grade capabilities for building real-time, horizonta",
       "sourceId": "foojay-release-notes",
       "sourceName": "Foojay (Release Notes)",
       "tech": "Java",
