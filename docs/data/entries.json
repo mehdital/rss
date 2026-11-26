@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-11-24T16:37:56.250Z",
+  "generatedAt": "2026-11-26T15:55:29.004Z",
   "items": [
+    {
+      "id": "tag:github.com,2008:Repository/24195339/v22.3.1",
+      "title": "22.3.1",
+      "url": "https://github.com/angular/angular/releases/tag/v22.3.1",
+      "publishedAt": "2026-11-25T18:37:21.000Z",
+      "summary": "animations Commit Description avoid closure over hostElement in createRenderer common Commit Description preserve text fragments during same-path navigation compiler Commit Description correctly resolve references to arrow function parameters length-prefix string literals and quoted map keys in ConstantPool keys only s",
+      "sourceId": "angular-releases",
+      "sourceName": "Angular (GitHub Releases)",
+      "tech": "Angular",
+      "tags": []
+    },
     {
       "id": "tag:github.com,2008:Repository/36891867/v21.2.31",
       "title": "21.2.31",
@@ -306,17 +317,6 @@
       "tags": []
     },
     {
-      "id": "tag:github.com,2008:Repository/24195339/v22.2.4",
-      "title": "22.2.4",
-      "url": "https://github.com/angular/angular/releases/tag/v22.2.4",
-      "publishedAt": "2026-10-29T17:41:23.000Z",
-      "summary": "compiler Commit Description avoid treating attributes with object prototype names as being translated default to Eager change detection for pre-v22 libraries in JIT report errors for malformed template literal interpolations skip escaped characters when looking for comments in expressions compiler-cli Commit Descriptio",
-      "sourceId": "angular-releases",
-      "sourceName": "Angular (GitHub Releases)",
-      "tech": "Angular",
-      "tags": []
-    },
-    {
       "id": "tag:github.com,2008:Repository/36891867/v22.3.0-next.4",
       "title": "22.3.0-next.4",
       "url": "https://github.com/angular/angular-cli/releases/tag/v22.3.0-next.4",
@@ -529,7 +529,7 @@
       "title": "What's New In The July 2026 Azul Payara Release?",
       "url": "https://foojay.io/today/whats-new-in-the-july-2026-azul-payara-release/",
       "publishedAt": "2026-07-23T10:28:58.000Z",
-      "summary": "The July 2026 release brings Azul Payara 7.2.0, Azul Payara Community 7.2026.7, Azul Payara 6.40.0, Azul Payara 5.89.0, and Azul Payara 4.1.2.191.57. A single security fix runs through every release, backported from the 7 line down to Payara 4: brute force attack prevention for authentication. Enterprise 6.40.0 additio",
+      "summary": "The July 2026 release brings Azul Payara 7.2.0, Payara Community 7.2026.7, Azul Payara 6.40.0, Azul Payara 5.89.0, and Azul Payara 4.1.2.191.57. A single security fix runs through every release, backported from the 7 line down to Payara 4: brute force attack prevention for authentication. Enterprise 6.40.0 additionally",
       "sourceId": "foojay-release-notes",
       "sourceName": "Foojay (Release Notes)",
       "tech": "Java",
